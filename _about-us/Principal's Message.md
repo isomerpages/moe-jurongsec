@@ -4,7 +4,7 @@ permalink: /about-us/principals-message
 description: ""
 ---
 <img src="/images/Mrs%20Lim%204.jpg" 
-     style="width:50%">
+     style="width:30%">
 
 Welcome to Jurong Secondary School!
 
