@@ -12,3 +12,4 @@ In 1963, then Prime Minister Mr Lee Kuan Yew made his first visit to Jurong Cons
 
 ### 1974 - Our New Home
 
+![](/images/capture2.jpg)
