@@ -18,4 +18,3 @@ Last year was yet another challenging year for Singapore and our schools. Noneth
 
 Here’s wishing all a good year ahead,<br>
 Mrs Lim Su-Chin
-
