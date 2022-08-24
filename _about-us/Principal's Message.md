@@ -3,13 +3,8 @@ title: Principal's Message
 permalink: /about-us/principals-message
 description: ""
 ---
-<div>  
-<div style="float: right">  
 <img src="/images/Mrs%20Lim%204.jpg" 
      style="width:50%">
-</div>  
-<div></div>  
-</div>
 
 Welcome to Jurong Secondary School!
 
@@ -23,3 +18,4 @@ Last year was yet another challenging year for Singapore and our schools. Noneth
 
 Here’s wishing all a good year ahead,<br>
 Mrs Lim Su-Chin
+
