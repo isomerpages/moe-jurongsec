@@ -105,3 +105,8 @@ Get in touch or stay updated with the JSS Alumni Association through our Faceboo
 Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Secondary-School-Alumni-Association-171815156192778/) 
 
 ### Photo Story
+
+|  |  |
+| -------- | -------- |
+| ![](/images/Alumni%201.jpg) <br> 2019 Chinese New Year Dinner | ![](/images/Alumni%202.jpg) <br> Student performance at the 2019 Chinese New Year Dinner | 
+| ![](/images/Alumni%203.jpg) <br> Appreciating former teachers of Jurong Secondary School | ![](/images/Alumni%204.jpg) <br> Golf Tournament 2016 |
