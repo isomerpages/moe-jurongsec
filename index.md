@@ -11,7 +11,7 @@ sections:
       subtitle: Champions of Mind, Leaders with Heart
       background: /images/ezgif.gif
       button: Contact Us
-      url: /contact-us/
+      url: /contact-us
       key_highlights:
         - title: Virtual School tour
           description: ""
