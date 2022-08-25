@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - JSS Family/.keep
-      - JSS Family/School Management Committee.md
-      - JSS Family/Teaching Staff.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Our History.md
+      - JSS Family/.keep
+      - JSS Family/School Management Committee.md
+      - JSS Family/Teaching Staff.md
