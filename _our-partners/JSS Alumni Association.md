@@ -40,6 +40,8 @@ Mr Quek Hong Peng
 
 <strong> Immediate Past Chairperson </strong> <br>
 Mr Chua King Wah, PBM
+
+</center>
 	
 | **Chairperson** | **Vice Chairperson** |
 |---|---|
@@ -67,4 +69,39 @@ Mr Chua King Wah, PBM
 | Mr Ng Tor Yew Albert | Mr Wong Chee Keong |
 | Mr Ng Seng Tho | Wang Cuifeng |
 |  Mr Yap Chin Hua |   |
-| | | 
+| | |
+	
+Ordinary membership is open to all who are graduates of the school, provided that the person is not currently attending Secondary Schools, Centralised Institutes or Junior Colleges.All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni.  
+
+### Joining the JSS Alumni Association
+
+<u><strong> Types of membership </strong></u> <br>
+**Life membership** may be conferred on any Ordinary Member upon the payment of a one-time subscription fee as decided and prescribed by the Committee from time to time. Life Members shall enjoy all the rights and privileges of an Ordinary Member, including the rights to vote and to hold office in the Alumni Association.
+
+**Honorary Membership** may be conferred by the Alumni on such persons distinguished by service to the school as the Committee may be in any case considered appropriate. Honorary Members shall have no rights to vote or hold office in the Alumni Association.
+
+**Associate Membership** may be conferred by the Alumni, upon application, on school staff, parents of all former students (alumni) and on such persons who, in the opinion of the Committee, are related to the school and/ or would contribute to the furtherance of the objectives of the Alumni. Associate Members shall have no rights to vote and to hold office in the Alumni Association.
+
+**Ordinary membership** is open to all who are graduates of the school, provided that the person is not currently attending Secondary Schools, Centralised Institutes or Junior Colleges. All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni Association.
+
+<u><strong> How to join the JSS Alumni Association </strong></u><br>
+To join the JSS Alumni Association, please complete the application form and either submit the hard copy to the school, or email the soft copy to the Alumni Association email address and CC the school. The email address of the Alumni Association can be found on the application form. 
+
+The Committee reserves all rights to approve or reject the applications.
+
+Hard copy application forms may be returned to the following address upon completion:
+
+   Jurong Secondary School Alumni Association <br>
+   c/o Jurong Secondary School <br>
+   31 Yuan Ching Road, Singapore 618652 <br>
+   Attn: Ms Roxanne Choy and Mdm Wang Cuifeng
+
+   Link: [JSS Alumni Association application form](https://jurongsec.moe.edu.sg/qql/slot/u184/Application_form_JSSAA%20.pdf) 
+
+### Keeping in touch with the JSS Alumni Association
+
+Get in touch or stay updated with the JSS Alumni Association through our Facebook Page.
+
+Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Secondary-School-Alumni-Association-171815156192778/) 
+
+### Photo Story
