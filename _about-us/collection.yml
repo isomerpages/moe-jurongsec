@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - JSS Family/School Management Committee.md
       - JSS Family/.keep
       - Principal's Message.md
       - Vision, Mission, Values.md
