@@ -108,10 +108,10 @@ Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Se
 
 |  |  |
 | -------- | -------- |
-| ![](/images/Alumni%201.jpg) <br> 2019 Chinese New Year Dinner | ![](/images/Alumni%202.jpg) <br> Student performance at the 2019 Chinese New Year Dinner | 
-| ![](/images/Alumni%203.jpg) <br> Appreciating former teachers of Jurong Secondary School | ![](/images/Alumni%204.jpg) <br> Golf Tournament 2016 |
-| ![](/images/Alumni%205.jpg) <br> Golf Tournament 2017 | ![](/images/Alumni%206.jpg) <br> Golf Tournament 2018 |
-| ![](/images/Alumni%207.jpg) <br> Golf Tournament 2019 | ![](/images/Alumni%208.jpg) <br> Movie Screening | 
-| ![](/images/Alumni%209.jpg) <br>  Bowling Competition | ![](/images/Alumni%2010.jpg) <bR> Happy Winners of the Bowling Competition |
+| ![](/images/Alumni%201.jpg) 2019 Chinese New Year Dinner | ![](/images/Alumni%202.jpg) Student performance at the 2019 Chinese New Year Dinner | 
+| ![](/images/Alumni%203.jpg) Appreciating former teachers of Jurong Secondary School | ![](/images/Alumni%204.jpg) Golf Tournament 2016 |
+| ![](/images/Alumni%205.jpg) Golf Tournament 2017 | ![](/images/Alumni%206.jpg) Golf Tournament 2018 |
+| ![](/images/Alumni%207.jpg) Golf Tournament 2019 | ![](/images/Alumni%208.jpg) Movie Screening | 
+| ![](/images/Alumni%209.jpg) Bowling Competition | ![](/images/Alumni%2010.jpg) Happy Winners of the Bowling Competition |
 | ![](/images/Alumni%2011.jpg) Alunmi Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) JSS Alumni Association Meeting | 
 | | |
