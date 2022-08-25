@@ -21,10 +21,10 @@ You can download the respective book-list by clicking on the link below:
 [JSS 2022 S3NA](/files/JSS%202022%20S3NA.pdf) <br>
 [JSS 2022 S3NT](/files/JSS%202022%20S3NT.pdf)
   
-**Secondary 4  
-**[JSS 2022 S4E1.pdf](https://jurongsec.moe.edu.sg/qql/slot/u184/2022/2022%20Textbook%20list/JSS%202022%20S4E1.pdf)  
-[JSS 2022 S4NA.pdf](https://jurongsec.moe.edu.sg/qql/slot/u184/2022/2022%20Textbook%20list/JSS%202022%20S4NA.pdf)  
-[JSS 2022 S4NT.pdf](https://jurongsec.moe.edu.sg/qql/slot/u184/2022/2022%20Textbook%20list/JSS%202022%20S4NT.pdf)  
+**Secondary 4** <br>
+[JSS 2022 S4E1](/files/JSS%202022%20S4E1.pdf) <br>
+[JSS 2022 S4NA](/files/JSS%202022%20S4NA.pdf) <br>
+[JSS 2022 S4NT](/files/JSS%202022%20S4NT.pdf)  
   
-**Secondary 5  
-**[JSS 2022 S5NA.pdf](https://jurongsec.moe.edu.sg/qql/slot/u184/2022/2022%20Textbook%20list/JSS%202022%20S5NA.pdf)
+**Secondary 5** <br>
+[JSS 2022 S5NA](/files/JSS%202022%20S5NA.pdf)
