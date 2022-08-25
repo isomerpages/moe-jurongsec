@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - Vision, Mission, Values.md
       - Our History.md
@@ -12,3 +11,4 @@ collections:
       - JSS Family/Executive and Administrative Staff.md
       - JSS Family/Our Partners.md
       - Virtual School Tour.md
+      - Contact Us.md
