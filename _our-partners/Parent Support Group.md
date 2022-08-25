@@ -3,9 +3,11 @@ title: Parent Support Group
 permalink: /about-us/jss-family/our-partners/parent-support-group
 description: ""
 ---
-![](/images/JSS-PSG-Logo.jpg)
+<img src="/images/JSS-PSG-Logo.jpg" 
+     style="width:80%">
 
-![](/images/WhatsApp%20Image%202018-10-1%20PM.jpeg)
+<img src="/images/WhatsApp%20Image%202018-10-1%20PM.jpeg" 
+     style="width:80%">
 
 ### Our PSG Vision
 
@@ -45,4 +47,4 @@ PSG also participated in school events such as CCA Display Day, Chinese New Year
 | 11. | Mdm Melody Lim Geok Ling | Staff Support Member  |
 | 12. | Mdm Neo Nahloo | Parents Support I/C  |
 | 13. | Mdm Soh Chiew Hoon | Parents Support Member |
-| | | 
+| | |
