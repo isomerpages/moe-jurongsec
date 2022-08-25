@@ -113,5 +113,5 @@ Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Se
 | ![](/images/Alumni%205.jpg) <br> Golf Tournament 2017 | ![](/images/Alumni%206.jpg) <br> Golf Tournament 2018 |
 | ![](/images/Alumni%207.jpg) <br> Golf Tournament 2019 | ![](/images/Alumni%208.jpg) <br> Movie Screening | 
 | ![](/images/Alumni%209.jpg) <br>  Bowling Competition | ![](/images/Alumni%2010.jpg) <bR> Happy Winners of the Bowling Competition |
-| ![](/images/Alumni%2011.jpg) <br> Alunmi Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) <br> JSS Alumni Association Meeting| 
+| ![](/images/Alumni%2011.jpg) <br> Alunmi Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) <br> JSS Alumni Association Meeting | 
 | | | 
