@@ -1,4 +1,5 @@
 collections:
   jss-experience:
     output: true
-    order: []
+    order:
+      - JSS Experience.md
