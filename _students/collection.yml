@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - School Hours/.keep
       - Textbook Lists.md
       - Student Handbook.md
       - Meet the Parents Session.md
