@@ -2,6 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Meet the Parents Session.md
       - Textbook Lists.md
       - Student Handbook.md
+      - Meet the Parents Session.md
