@@ -24,8 +24,8 @@ c) The table below shows the distribution of weightage of assessments for each s
 | Sec 3 | 10% | 15% | Not Applicable | 15% | End-Year Exam<br>(60%) |
 | | | | | | 
 
-Note: 
-1) Secondary 4 and 5 students will be sitting for their Graduation Examinations 1 and 2 in Term 2 and 3          respectively.   
+Note: <br>
+1) Secondary 4 and 5 students will be sitting for their Graduation Examinations 1 and 2 in Term 2 and 3 respectively.   
 
 2) For Secondary 1 and 2, the subjects (Eg D&T and FCE) that are taught on a semestrial basis will have the following weighting: 2 Weighted Assessments (15% each) and Mid-year/End-year Exam (70%).  
 
