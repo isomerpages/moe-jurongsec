@@ -2,5 +2,6 @@ collections:
   jss-experience:
     output: true
     order:
+      - Enhanced JSS Experience/.keep
       - JSS Experience.md
       - E Prospectus.md
