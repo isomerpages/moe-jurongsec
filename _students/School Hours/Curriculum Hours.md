@@ -4,8 +4,8 @@ permalink: /students/school-hours/curriculum-hours
 description: ""
 third_nav_title: School Hours
 ---
-**Class Timetables**  
-  
+**Class Timetables** 
+
 Please click on the links below to view the class time-tables for both Even and Odd weeks. The PDF files contain the time-tables of all the classes for Semester 1 2022.  
   
 [Sem 2 ODD Class.pdf](/files/Sem%202%20ODD%20Class.pdf) <br> 
