@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Assessment Matters/.keep
       - Textbook Lists.md
       - Student Handbook.md
       - Meet the Parents Session.md
@@ -14,3 +13,4 @@ collections:
       - School Hours/.keep
       - School Hours/Curriculum Hours.md
       - School Hours/CCA Schedule.md
+      - Assessment Matters/.keep
