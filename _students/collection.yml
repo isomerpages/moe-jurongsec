@@ -2,8 +2,6 @@ collections:
   students:
     output: true
     order:
-      - School Hours/Curriculum Hours.md
-      - School Hours/.keep
       - Textbook Lists.md
       - Student Handbook.md
       - Meet the Parents Session.md
@@ -12,3 +10,5 @@ collections:
       - Admission/School Fees.md
       - Admission/School Bookshop.md
       - Admission/School Uniform.md
+      - School Hours/.keep
+      - School Hours/Curriculum Hours.md
