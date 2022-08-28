@@ -8,11 +8,24 @@ third_nav_title: DSA Admission & Application
 
 We are pleased to share with you that Jurong Secondary School offers 3 key programmes under our DSA (Sec) Exercise, and the information can be found via the links provided below.
 
-|  |  | |
-| -------- | -------- | -------- |
-| ![](/images/sports.jpg) | <img src="/images/science%20communication%20n%20research.jpg" style="width:400px;"/>| ![](/images/proj%20compassion.jpg) |
-| [SPORTS](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-sports) <br> • Basketball (Boys and Girls) <br> • Volleyball (Girls only) <Br> • Badminton (Boys only) <br> • Cross Country (Boys and Girls) | [SCIENCE COMMUNICATION <br> & RESEARCH](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-science-communications-n-research) | [SERVICE LEADERSHIP](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-service-leadership) | 
-| | | 
+<img src="/images/sports.jpg" 
+     style="width:25%">
+
+[SPORTS](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-sports)
+* Basketball (Boys and Girls)
+* Volleyball (Girls only) 
+* Badminton (Boys only) 
+* Cross Country (Boys and Girls)
+
+<img src="/images/science%20communication%20n%20research.jpg" 
+     style="width:70%">
+
+[SCIENCE COMMUNICATION & RESEARCH](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-science-communications-n-research)
+
+<img src="/images/proj%20compassion.jpg" 
+     style="width:70%">
+
+[SERVICE LEADERSHIP](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-service-leadership) 
 
 **Please click here to access the [DSA E-Briefing FAQ](https://jurongsec-moe-edu-sg-admin.cwp.sg/jss-experience/dsa-admission-and-application-matters/dsa-faq)**
 
