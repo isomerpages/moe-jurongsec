@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Enhanced JSS Experience
 ---
 <img src="/images/STAR%20programme.png" 
-     style="width:50%">
+     style="width:30%">
 		 
 ### The Programme’s Philosophy:
 Guided by our school’s vision of grooming our students to be Champions of Mind and Leaders with Heart, the JSS Skills, Talent and Research (STAR) Scholarship Programme is committed to provide our students the opportunity to stretch their intellectual capacity and talents in areas beyond the core curriculum and to hone their leadership skills.
