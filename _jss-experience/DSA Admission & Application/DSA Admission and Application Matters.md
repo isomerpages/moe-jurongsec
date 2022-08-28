@@ -10,7 +10,7 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 
 |  |  | |
 | -------- | -------- | -------- |
-| ![](/images/sports.jpg) | ![](/images/science%20communication%20n%20research.jpg) | ![](/images/proj%20compassion.jpg) |
+| ![](/images/sports.jpg) | <img src="/images/science%20communication%20n%20research.jpg" style="width:400px;"/>| ![](/images/proj%20compassion.jpg) |
 | [SPORTS](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-sports) <br> • Basketball (Boys and Girls) <br> • Volleyball (Girls only) <Br> • Badminton (Boys only) <br> • Cross Country (Boys and Girls) | [SCIENCE COMMUNICATION <br> & RESEARCH](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-science-communications-n-research) | [SERVICE LEADERSHIP](https://jurongsec.moe.edu.sg/jss-experience/dsa-admission-and-application-matters/direct-school-admission-service-leadership) | 
 | | | 
 
