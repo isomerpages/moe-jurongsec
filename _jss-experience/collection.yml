@@ -2,7 +2,6 @@ collections:
   jss-experience:
     output: true
     order:
-      - DSA Admission & Application/.keep
       - JSS Experience.md
       - E Prospectus.md
       - Enhanced JSS Experience/.keep
@@ -10,3 +9,4 @@ collections:
       - Enhanced JSS Experience/inSPire.md
       - Enhanced JSS Experience/Learning for Life Programme (LLP).md
       - Enhanced JSS Experience/JSS STAR Scholarship Programme.md
+      - DSA Admission & Application/.keep
