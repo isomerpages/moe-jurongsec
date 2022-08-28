@@ -37,7 +37,8 @@ _**As Leaders with Heart**,_ students of Service who:
 
 ### The Curriculum:
 
-![](/images/JSS%20Framework%20-%20STAR.png)
+<img src="/images/JSS%20Framework%20-%20STAR.png" 
+     style="width:70%">
 
 ### The Value of Design Thinking & Research:
 
