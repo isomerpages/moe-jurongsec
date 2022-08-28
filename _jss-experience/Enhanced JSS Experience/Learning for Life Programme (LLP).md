@@ -13,7 +13,8 @@ Our LLP vision is guided by our belief that sports, when presented and organised
 ### Our Framework
 JSS’ Sporty at Heart, Sporting in Mind programme adopts a 3-tiered approach of (1) Know, (2) Do and (3) Excel, which is applied across different levels of participation (from mass participation to participation by the talented or passionate). It emphasises value acquisition and transference of such values into the way we live and work.
 
-![](/images/JSS%20Framework%20-%20LLP.png)
+<img src="/images/JSS%20Framework%20-%20LLP.png" 
+     style="width:70%">
 
 ### Value and Impact
 Through active participation in sports at the three levels (know, do and excel) and through competitive and non-competitive platforms, our LLP seeks to support the building of core values, as articulated in the desired outcomes.
@@ -37,4 +38,4 @@ A community where all staff and students embrace sports as part of their lifesty
 | Background | Initiated in 2011 under the sponsorship of our School Advisory Committee (SAC), the Sports Scholarship seeks to nurture students with talent in Basketball and Volleyball to excel in their proficiency in these games (i.e. part of JSS’ Sports Excellence Programme). The terms of the award include school fees, uniforms, textbooks and full subsidy for participation in overseas training trips. |  |
 | Rationale | The rationale of Sports Scholarship are twofold - (a) motivate current school players towards excellence, and (b) interest students who are passionate and talented in the two games to join JSS. |  |
 | Award Process | In line with the intention to motivate current school players towards excellence, Sports Scholars are selected from the existing pool of school players based on their high level of play and strong commitment to the school teams. Regarding recruitment, the school actively invites and offers the scholarship to players from primary schools who show potential in Basketball. |  |
-| | | 
+| | |
