@@ -45,4 +45,4 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 **Please [click here](https://forms.gle/JkHotvvy5ivFEZ1L8) to register your interest to join our JSS DSA Webinar on the 21st of May 9am - 12 pm.**
 
 <img src="/images/QR%20for%20DSA%20Registration%202022.png" 
-     style="width:50%">
+     style="width:30%">
