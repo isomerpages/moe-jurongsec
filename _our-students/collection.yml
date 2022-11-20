@@ -1,5 +1,5 @@
 collections:
-  students:
+  our-students:
     output: true
     order:
       - Textbook Lists.md
