@@ -1,30 +1,30 @@
 ---
 title: Textbook Lists
-permalink: /students/textbook-lists
+permalink: /students/textbook-lists/
 description: ""
 ---
 You can download the respective book-list by clicking on the link below:  
   
 
 **Secondary 1** <br>
-[JSS 2022 S1E](/files/JSS%202022%20S1E.pdf) <br>
-[JSS 2022 S1NA](/files/JSS%202022%20S1NA.pdf) <br>
-[JSS 2022 S1NT](/files/JSS%202022%20S1NT.pdf)
+[JSS SEC1 EXP.pdf](/files/JSS%20SEC1%20EXP.pdf) <br>
+[JSS SEC1 NA.pdf](/files/JSS%20SEC1%20NA.pdf) <Br>
+[JSS SEC1 NT.pdf](/files/JSS%20SEC1%20NT.pdf)
   
 **Secondary 2** <br>
-[JSS 2022 S2E](/files/JSS%202022%20S2E.pdf) <br>
-[JSS 2022 S2NA](/files/JSS%202022%20S2NA.pdf) <br>
-[JSS 2022 S2NT](/files/JSS%202022%20S2NT.pdf)
+[JSS SEC2 EXP.pdf](/files/JSS%20SEC2%20EXP.pdf) <br>
+[JSS SEC2 NA.pdf](/files/JSS%20SEC2%20NA.pdf) <br>
+[JSS SEC2 NT.pdf](/files/JSS%20SEC2%20NT.pdf)
   
 **Secondary 3** <br>
-[JSS 2022 S3E](/files/JSS%202022%20S3E.pdf) <br>
-[JSS 2022 S3NA](/files/JSS%202022%20S3NA.pdf) <br>
-[JSS 2022 S3NT](/files/JSS%202022%20S3NT.pdf)
+[JSS SEC3 EXP.pdf](/files/JSS%20SEC3%20EXP.pdf) <br> 
+[JSS SEC3 NA.pdf](/files/JSS%20SEC3%20NA.pdf) <br>
+[JSS SEC3 NT.pdf](/files/JSS%20SEC3%20NT.pdf)
   
 **Secondary 4** <br>
-[JSS 2022 S4E1](/files/JSS%202022%20S4E1.pdf) <br>
-[JSS 2022 S4NA](/files/JSS%202022%20S4NA.pdf) <br>
-[JSS 2022 S4NT](/files/JSS%202022%20S4NT.pdf)  
+[JSS SEC4 EXP.pdf](/files/JSS%20SEC4%20EXP.pdf) <br>
+[JSS SEC4 NA.pdf](/files/JSS%20SEC4%20NA.pdf) <br>
+[JSS SEC4 NT.pdf](/files/JSS%20SEC4%20NT.pdf)
   
 **Secondary 5** <br>
-[JSS 2022 S5NA](/files/JSS%202022%20S5NA.pdf)
+[JSS SEC5 NA.pdf](/files/JSS%20SEC5%20NA.pdf)
