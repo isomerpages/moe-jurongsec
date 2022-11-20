@@ -21,16 +21,11 @@ sections:
       description: 19 Nov 2022 (Sat), 9.30am-1.30pm
       image: /images/Open House 2022 MOTD Final.png
       alt: Image alt text
-  - infopic:
-      title: Principal's Message
-      subtitle: Featuring Mrs Lim Su Chin
-      description: Welcome to Jurong Secondary School! Hear our Principal's Message below.
-      button: CLICK HERE
-      url: https://www.youtube.com/watch?v=5rM68EYJaoY
-      image: /images/Mrs Lim 4.jpg
-      alt: Image alt text
-  - resources:
-      title: Announcements
-      subtitle: "CHECK OUT THE LATEST "
-      button: VIEW MORE
+  - infobar:
+      title: JSS Character Awards Nomination Form 2022
+      subtitle: Announcements
+      description: Please click below to submit your nomination for the JSS Character
+        Awards (MOE ECHA & JSS SAC-Alumni Character Excellence Award)
+      button: Click here
+      url: https://docs.google.com/forms/d/e/1FAIpQLSe8rS-w29xuLicaT-ApTn-JejTKxRDKDVxQf47N3LV7pFl1tg/viewform
 ---
