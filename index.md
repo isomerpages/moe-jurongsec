@@ -8,8 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Jurong Secondary School
-      subtitle: Champions of Mind, Leaders with Heart
-      background: /images/ezgif.gif
+      background: /images/ez.gif
       button: Contact Us
       url: /about-us/contact-us
       key_highlights:
