@@ -1,10 +1,10 @@
 ---
 title: Executive and Administrative Staff
-permalink: /about-us/jss-family/executive-and-administrative-staff
+permalink: /about-us/jss-family/executive-and-administrative-staff/
 description: ""
 third_nav_title: JSS Family
 ---
-![](/images/EXECUTIVE%20AND%20ADMINISTRATIVE%20STAFF%202022%20wO%20Frame.jpg)
+![](/images/Executive%20and%20Administrative%20Staff.jpg)
 
 ### General Office
 
@@ -49,3 +49,5 @@ third_nav_title: JSS Family
 | Technical Support Officer | Mdm Teh Ah Moi |
 | Technical Support Officer | Mr Zulkifle Bin Md Yassin |
 | | |
+
+<center> Updated 8 Jul 2022 </center>
