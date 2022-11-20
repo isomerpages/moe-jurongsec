@@ -12,9 +12,18 @@ sections:
       button: Contact Us
       url: /about-us/contact-us
       key_highlights:
-        - title: Virtual School tour
-          description: ""
-          url: https://www.youtube.com/watch?v=MP1cQUzX8a4
+        - title: Concerned Citizen
+          description: Cares for others
+          url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/concerned-citizen
+        - title: Confident Person
+          description: Has moral courage
+          url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/confident-person
+        - title: Flexible Thinker
+          description: Curious & Empathetic
+          url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/flexible-thinker
+        - title: Persevering Learner
+          description: Face challenges
+          url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/persevering-learner
   - infopic:
       title: JSS Open House 2022
       subtitle: COME JOIN US AT
