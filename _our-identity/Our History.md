@@ -1,45 +1,85 @@
 ---
 title: Our History
-permalink: /about-us/our-history
+permalink: /about-us/our-history/
 description: ""
 ---
-### 1963 - 1973 The Foundation Years
+### 1963 - 1973 <bR> The Foundation Years
 
-<img src="/images/LKY1.gif" 
-     style="width:30%">
+![](/images/history.jpg)
 
-In 1963, then Prime Minister Mr Lee Kuan Yew made his first visit to Jurong Constituency. Mr Lee was given a warm welcome and the community leaders took the opportunity to request for a secondary school that was lacking in the constituency. **28th August 1963:** Jurong Integrated Secondary School was officially opened by then Prime Minister Mr Lee Kuan Yew at 12th mile Jurong Road with 5 teachers and about 100 students. Its first principal was Mr Wee Teck Yam. 1967: First National Champion for Basketball (B Girls) 1969: First National Champion for Cross-country (A Girls) 1971: First National Champions for Cross-country (C & B Boys) 1972: First National Champions for Cross Country (B Girls)
+1963 – a momentous year that witnessed the birth of Jurong Secondary School. 
 
-### 1974 - Our New Home
+“By the Community, For the Community” – Indeed, it was community leaders who had requested for a secondary school to be built while the then Prime Minister Mr Lee Kuan Yew was on his first visit to Jurong Constituency. On 28 August 1963, Jurong Integrated Secondary School was officially opened at 12th\-mile Jurong Road, with 5 teachers and about 100 students.
 
-![](/images/capture2.jpg)
+The early years saw students of Jurong Secondary School, renamed in 1971, making their mark in the national sporting arena. Jurong boys and girls emerged as National Champions in the Basketball and Cross Country competitions between 1967 and 1972.
 
-On 2nd November 1974, the teachers and 600 pupils of Jurong Secondary School walked out of Hong Kah Village along Old Jurong Road and Corporation Road to reach its new premises in Jurong Town. The new school building was officially opened on 2nd July 2002. As demand for post-secondary education increased, JSS was made a Pre-University Centre in 1981 offering a 3 year Pre-U course to Secondary 4 graduands in the community
+### 1974 - 1983: <br> Our New Home
 
-### 1984 - Jurong on the Rise
+![](/images/history1.jpg)
 
-![](/images/JSS%20-%201988%20-%2005.jpg)
+Ready for a bigger role in the community, Jurong Secondary School was moved to a new site at Yuan Ching Road in 1974. On 2nd November, teachers and pupils made the historic march from the old school building to its new premises. The new building was officiated on 2 July 1976.
 
-Jurong Secondary School continued to be a trail blazer in both academics and sports.  In 1988, the first edition of the newsletter, Jurong Vision, was published.  The School Choir and English ELDDS staged a musical, Fiddler on the Roof, at the Victoria Theatre in 1989 while the Chinese Orchestra and Chinese Dance Troupe jointly staged a Chinese Music and Dance Night at the Kallang Theatre in 1990.  Pre-University classes were also phased out from Jurong Secondary School in 1991.
+With new CCA and Library blocks, the school continued to build on its tradition of academic and sporting excellence. As demand for post-secondary education increased over the years, the school was made a Pre-University Centre in 1981, which it served for about a decade, offering a 3-year Pre-U course to Secondary 4 graduands.
 
-### 1994 - Rejuvenating Jurong
+<figure>  
+<img src="/images/Our%20New%20Home_3.png">  
+<figcaption> Bird’s-eye view of JSS on its new premises at Yuan Ching Road. </figcaption>  
+</figure>
 
-<img src="/images/lky4.gif" 
-     style="width:30%">
+### 1984 - 1993: <br> Dawn of a New Horizon
+
+![](/images/history2.jpg)
+
+While Jurong Secondary School continued to blaze trails in both academics and sports, our students started developing and showcasing talents in the Arts.
+
+Its first major foray into the Arts scene was in 1985 when it staged the Cultural Night in aid of the Community Chest. The school went on to stage dramas and musical performances at the Victoria and Kallang Theatres from 1989 to 1991. In 1988, the first school newsletter, Jurong Vision, was published.
+
+### 1994 – 2003: <br> Building our Dreams, Growing our Home
+
+![](/images/history3.jpg)
 		 
-Over the years, our school underwent several upgrades and expansions. In 1994, two new blocks of classrooms and special rooms were added. The administrative block, library, science laboratories and the home economics rooms were fully renovated.
+Over the years, the school underwent several upgrades and expansions. In 1994, two new blocks of classrooms and special rooms were added, and existing facilities were fully renovated. In 1998, the Jurong Secondary School Alumni Association was registered and officially inaugurated.
 
-### 2004 - Breaking New Ground
+In 2001, the school embarked on PRIME, which was completed by the end of 2004. Existing classrooms, the school canteen, library and the staff room were enlarged. Science laboratories, an administrative block and a new school hall were built, and more facilities such as computer laboratories were added as well.
 
-PRIME upgrading was near its completion by the end of 2004. Existing classrooms as well as the school canteen, library and the staff room were made bigger. Science laboratories, an administrative block and a new school hall were built. More facilities such as computer laboratories were added as well. In November 2004, the Special Talents and Achievements Recognition (STAR) programme was officially launched. The STAR Programme is a four-year structured talent development scheme designed by JSS teachers to stretch higher-ability students. In 2006, JSS was awarded niche status for Basketball under MOE Direct School Admission Exercise and admitted its first batch of students in 2007. In 2006, the school was also recognised by MOE for its work in quality teaching and learning. The school was selected by MOE to be one of the six secondary schools to lead in curriculum innovation in recognition of JSS teachers’ efforts in TLLM. In the same year, JSS was one of the 10 secondary schools awarded the Flexible Infrastructure Pilot Project (FlexSi) by MOE. The school was also recognised as a LeadIT@school in the same year, which enabled JSS to acquire IT infrastructures such as a Learning Management System, school-wide internet access and tablets PCs to support student learning. In 2006, as part of its move to the global arena, JSS established links with several sister schools in China, namely Xiyao High School in Guangzhou, Shida Middle School in Beijing and Jing Hua Zhong Xue in Shanghai. Students and teachers went on to participate in various overseas exchange programmes. In recognition of the school’s efforts in teamwork, continuous improvements and innovation within the organisation, JSS was awarded the Thinking Culture Award (Zonal) by MOE in 2006. In 2007, the school was awarded the Thinking Culture Award (National).
+![](/images/history4.jpg)
 
-### The Next Lap
+### 2004 – 2013: <br> Breaking New Grounds, Reaching New Heights
 
-In May 2007, JSS was selected as one of the 5 pioneer FutureSchools in the FutureSchools@Singapore project. As a future school, JSS has the support of MOE, IDA, industrial partners and local universities to lead in the seamless and pervasive integration of ICT into the curriculum as well as to pursue novel school designs to enhance the quality of teaching and learning. JSS was most honoured to host the Prime Minister of Singapore, Mr Lee Hsien Loong, for a school visit on 20th July 2007. Shortly after his visit, the Prime Minister gave a strong endorsement to JSS. He complimented that JSS has “shown how it is possible to transform the learning environment in neighbourhood schools, to help our young achieve their fullest potential”. So impressed was the Prime Minister with JSS that he made a special mention of the school in his National Day Rally Speech in August 2007. It was a indeed a proud moment in JSS history to receive such a national accolade.
+The school’s programmes and repertoire of achievements continued to grow during this decade, particularly in 2006. Notable events and achievements include:
 
-<img src="/images/letter-212x300.jpg" 
-     style="width:50%">
+*   Launch of Special Talents and Achievements Recognition (STAR) programme – a four-year structured talent development scheme designed to stretch higher-ability students
+
+*   Awarded niche status for Basketball under MOE’s Direct School Admission Exercise
+
+*   1 of 6 secondary schools selected to lead in curriculum innovation under MOE’s “Teach Less, Learn More” initiative
+
+*   1 of 10 secondary schools awarded the Flexible Infrastructure Pilot Project (FlexSi).
+
+*   Recognised as a LeadIT@school, which enabled it to acquire IT infrastructures to support student learning.
+
+*   Partnership with sister schools in Beijing, Guangzhou and Shanghai in 2006, where students and teachers participate in reciprocal exchange programmes.
+
+*   Awarded the Thinking Culture Award (Zonal), and subsequently the Thinking Culture Award (National) in 2007.
+
+![](/images/letter.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YVvZxnDak0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The school introduced the Sports, Aesthetics, Innovation and Leadership Award in 2008 to mark the school’s 45th Anniversary to support student development in non-academic areas. The school also added new sport facilities such as the Indoor Sports Hall in 2011 to further support the school’s sport programme. The Indoor Sports Hall was officially opened by Mr Tharman Shanmugaratnam, Deputy Prime Minister/Minister for Finance & Manpower and Member of Parliament for Taman Jurong GRC on 11th April 2011. The JSS Sports Scholarship was also launched at the event to nurture sporting talent especially in Basketball and Volleyball, the school’s niche sports.
+PM Lee Hsien Loong’s visit to JSS in 2007. He was impressed with our school’s creative approaches to TLLM.
+
+In May 2007, Jurong Secondary School was selected as one of the 5 pioneer FutureSchools in the FutureSchools@Singapore project. The school has the support to lead in the seamless and pervasive integration of ICT into the curriculum as well as to pursue novel school designs to enhance the quality of teaching and learning.
+
+The school was most honoured to host Prime Minister Lee Hsien Loong on 20th July 2007. Shortly after his visit, the Prime Minister complimented that Jurong Secondary School has “**_shown how it is possible to transform the learning environment in neighbourhood schools, to help our young achieve their fullest potential_**”. So impressed was the Prime Minister that he made a special mention of the school in his National Day Rally Speech that year.
+
+![](/images/history5.jpg)
+
+The school introduced the Sports, Aesthetics, Innovation and Leadership (SAIL) Award in 2008 to mark the school’s 45th Anniversary to support student development in non-academic areas. The Jurong Secondary School Sports Scholarship was also launched to nurture sporting talent especially in Basketball and Volleyball, the school’s niche sports.
+
+In 2013, to commemorate 50 years of rich heritage, the Jurong Secondary School family took part in a 50km Mass Homecoming Run, and a Homecoming Lo Hei event which earned the school a spot in the Singapore Book of Records for the largest number of participants in a single Lo Hei session. In the same year, Project COMpassion was launched to recognise the school’s strong commitment to the community, providing resources for students to initiate community projects.
+
+### 2014 and Beyond: <br> Continuing the Legacy
+
+2015 – The Inspiring Student Passion in Recreational Endeavour (inSPire) Programme and Award was introduced to encourage student pursuit in the areas of Aesthetics & Culture, Science & Technology, and Media & Info-technology.
+
+2018 – Jurong Secondary School celebrated its 55th Anniversary, bringing the community together through the launch of the JSS-TJ Elderly Befriender Programme. The school raised $61,680 for the Taman Jurong Community Development and Welfare Fund during the 55th Anniversary fundraiser Carnival.
