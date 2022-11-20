@@ -1,6 +1,6 @@
 ---
 title: Assessments and Examinations
-permalink: /students/assessment-matters/assessments-and-examinations
+permalink: /students/assessment-matters/assessments-and-examinations/
 description: ""
 third_nav_title: Assessment Matters
 ---
@@ -50,3 +50,5 @@ You can download the exam topics and timetable from the links below:
   
 [2022 GE2 4E5N Exam Schedule.pdf](/files/2022%20GE2%204E5N%20Exam%20Schedule.pdf) <br> 
 [2022 GE2 Exam Timetable\_4N.pdf](/files/2022%20GE2%20Exam%20Timetable_4N.pdf)
+
+<center> Updated 15 Jul 2022 </center>
