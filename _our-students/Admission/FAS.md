@@ -1,6 +1,6 @@
 ---
 title: FAS
-permalink: /students/admission/fas
+permalink: /students/admission/fas/
 description: ""
 third_nav_title: Admission
 ---
@@ -29,3 +29,5 @@ For information regarding application  for MOE FAS and financial assistance sch
 #### Other Financial Assistance Schemes
 
 Needy students who do not meet the MOE Financial Assistance Eligibility Criteria may still apply for financial assistance offered by the school or external organisations. Please approach the staff at the General Office.
+
+<center> Updated 14 Jan 2022 </center>
