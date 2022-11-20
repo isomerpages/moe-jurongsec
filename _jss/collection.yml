@@ -2,6 +2,6 @@ collections:
   jss:
     output: true
     order:
-      - Flexible Thinker.md
       - Concerned Citizen.md
       - Confident Person.md
+      - Flexible Thinker.md
