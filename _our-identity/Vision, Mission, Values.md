@@ -1,6 +1,6 @@
 ---
 title: Vision, Mission, Values
-permalink: /about-us/vision-mission-values
+permalink: /about-us/vision-mission-values/
 description: ""
 ---
 ### Our Vision
@@ -21,17 +21,3 @@ Together, we endeavour to support our students in their pursuit of excellence i
 
 ### Our Values
 
-<img src="/images/about-commitments-motto.png" 
-     style="width:70%">
-
-<img src="/images/Loyalty.png" 
-     style="width:70%">
-
-<img src="/images/Industry.png" 
-     style="width:70%">
-
-<img src="/images/Sincerity.png" 
-     style="width:70%">
-
-<img src="/images/Love.png" 
-     style="width:70%">
