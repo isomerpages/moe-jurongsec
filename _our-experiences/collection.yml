@@ -2,7 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
-      - JSS Experience.md
+      - Our Experience.md
       - E Prospectus.md
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
