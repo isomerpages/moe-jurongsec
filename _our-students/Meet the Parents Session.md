@@ -1,6 +1,6 @@
 ---
 title: Meet the Parents Session
-permalink: /students/meet-the-parents-session
+permalink: /students/meet-the-parents-session/
 description: ""
 ---
 #### Sec 4 & 5 Meet the Parents Session 
@@ -38,3 +38,5 @@ Sec 1 MTP\_slides for parents.pdf </file size too big>
 Please click on the link below to access the information.  
   
 [2022 Meet The Parents CCA Display Day For Sec 1 Students](/files/2022%20Meet%20The%20Parents%20%20CCA%20Display%20Day%20For%20Sec%201%20Students.pdf)
+
+<center> Updated 14 Feb 2022 </center>
