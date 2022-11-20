@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /about-us/jss-family/our-partners/parent-support-group
+permalink: /about-us/jss-family/our-partners/parent-support-group/
 description: ""
 ---
 <img src="/images/JSS-PSG-Logo.jpg" 
@@ -48,3 +48,5 @@ PSG also participated in school events such as CCA Display Day, Chinese New Year
 | 12. | Mdm Neo Nahloo | Parents Support I/C  |
 | 13. | Mdm Soh Chiew Hoon | Parents Support Member |
 | | |
+
+<center> Updated 4 Jan 2022 </center>
