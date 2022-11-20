@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Vision, Mission, Values.md
-      - Principal's Message.md
       - Our History.md
+      - Principal's Message.md
       - JSS Family/.keep
       - JSS Family/School Management Committee.md
       - JSS Family/Teaching Staff.md
