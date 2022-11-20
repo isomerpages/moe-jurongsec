@@ -1,5 +1,5 @@
 collections:
-  our-experience:
+  our-experiences:
     output: true
     order:
       - JSS Experience.md
