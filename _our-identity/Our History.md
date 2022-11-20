@@ -83,3 +83,14 @@ In 2013, to commemorate 50 years of rich heritage, the Jurong Secondary School f
 2015 – The Inspiring Student Passion in Recreational Endeavour (inSPire) Programme and Award was introduced to encourage student pursuit in the areas of Aesthetics & Culture, Science & Technology, and Media & Info-technology.
 
 2018 – Jurong Secondary School celebrated its 55th Anniversary, bringing the community together through the launch of the JSS-TJ Elderly Befriender Programme. The school raised $61,680 for the Taman Jurong Community Development and Welfare Fund during the 55th Anniversary fundraiser Carnival.
+
+<figure>  
+<img src="/images/history6.jpg">  
+<figcaption> The school and the community coming together as one in celebration! </figcaption>  
+</figure>
+
+2020 – Jurong Secondary School is proud to be an MOE Pilot School for Full Subject-Based Banding (FSBB), charting a new direction for Singapore’s education landscape, implementing mixed form classes, nurturing inclusive classrooms and developing multiple pathways to cater to the different strengths and interests of students.
+
+2021 – The school emerged as a Phase 1 school for the National Digital Literacy Programme (NDLP) as part of the nationwide effort to strengthen the digital literacy of students and e-pedagogical skills of teachers. The Heritage Wall was also built and launched by Senior Minister Tharman Shanmugaratnam.  
+
+“Making Every Child A Success Story” – Moving forward, Jurong Secondary School remains committed to developing students who succeed in all areas of life. We look to the future with everlasting vigour and zest.
