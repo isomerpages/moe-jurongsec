@@ -2,8 +2,8 @@ collections:
   our-identity:
     output: true
     order:
-      - Principal's Message.md
       - Vision, Mission, Values.md
+      - Principal's Message.md
       - Our History.md
       - JSS Family/.keep
       - JSS Family/School Management Committee.md
