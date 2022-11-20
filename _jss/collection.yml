@@ -1,4 +1,5 @@
 collections:
   jss:
     output: true
-    order: []
+    order:
+      - Concerned Citizen.md
