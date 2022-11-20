@@ -1,16 +1,16 @@
 ---
 title: School Management Committee
-permalink: /about-us/jss-family/school-management-committee
+permalink: /about-us/jss-family/school-management-committee/
 description: ""
 third_nav_title: JSS Family
 ---
-![](/images/SPMC%20w%20SLs%202022%20wO%20Frame.jpg)
+![](/images/School%20Management%20Committee.jpg)
 
 ### School Leaders
 
 |  |  |
 |---|---|
-| Principal | Mrs Lim Su-Chin |
+| Principal | Ms Yeo Siok Ee |
 | Vice-Principals | Ms Deborah Tan<br>Mdm Julia Ler |
 | | | 
 
@@ -19,8 +19,7 @@ third_nav_title: JSS Family
 |  |  |  |
 |---|---|---|
 | Languages | HOD English Language | Mrs Farhain Aidil |
-|  | HOD Mother Tongue Languages | Ms Ng Ching Ing |
-|  | SH Chinese Language | Mdm Zoey Oh Sze Wee |
+|  | HOD Mother Tongue Languages <br><Br> SH Chinese Language | Ms Ng Ching Ing <br><br> Mdm Zoey Oh Sze Wee |
 | Mathematics & Sciences | HOD Mathematics | Mr Ooi Wei Yong |
 |  | SH Mathematics | Mdm Zheng Jieyun |
 |  | HOD Sciences | Ms Lim Yan Mui |
