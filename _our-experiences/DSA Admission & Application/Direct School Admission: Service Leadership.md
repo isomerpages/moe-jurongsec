@@ -32,4 +32,5 @@ The Jurong Secondary School – Taman Jurong Elderly Befrienders Programme was i
 *   Started by Citi Foundation and the YMCA of Singapore in 2003, the programme is a catalyst to promote social entrepreneurship and community leadership development among Singapore youths.
 *   Our students, comprised in teams of four, will have the opportunities to undergo training and volunteer mentorship for executing self-initiated projects to raise public awareness, funds and mobilise volunteers for Social Service Agencies (SSAs) of their choice, as they demonstrate values such as harmony, respect and responsibility as they champion their social causes.
 
-![](/images/elderly%20befrienders.jpg)
+<img src="/images/elderly%20befrienders.jpg" 
+    style="width:80%">
