@@ -25,14 +25,14 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 | Sports |  |  |
 |---|---|---|
 | **Eligibility Criteria** | 1. History and achievements in the sport<br><br>2. Evidence of passion/ talent/ interest<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |  |
-| **Mode of selection** | Interview and Trials<br>Shortlisted students will need to go through an interview that consists of two parts -<br><br>Part 1: Sports Trials<br><br>Part 2: An interview conducted by a panel of teachers |  |
+| **Mode of selection** | **Interview and Trials**<br>Shortlisted students will need to go through an interview that consists of two parts -<br><br>Part 1: Sports Trials<br><br>Part 2: An interview conducted by a panel of teachers |  |
 | **Programmes, activities and/or opportunities that students can expect to participate in for each DSA-Sec talent** | 1. Sports Science Workshops<br><br>2. Sports Scholarship Award<br><br>Please refer to our DSA E-brochure above for more details. |  |
 | | | |
 
 | Science Communications and Research (SCoRe) |  |  |
 |---|---|---|
 | **Eligibility Criteria** | 1. History of participation in science-related activities in and beyond primary school<br><br>2. History of team-based collaboration<br><br>3. Evidence of passion and interest in Science<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |  |
-| **Mode of selection** | Interview and Laboratory Simulation Sessions<br>Shortlisted students will need to go through an interview that consists of two parts -<br><br>Part 1: Laboratory Simulation (applicants will be required to collaborate and analyse a Science experiment)<br><br>Part 2: An interview conducted by a panel of teachers |  |
+| **Mode of selection** | **Interview and Laboratory Simulation Sessions**<br>Shortlisted students will need to go through an interview that consists of two parts -<br><br>Part 1: Laboratory Simulation (applicants will be required to collaborate and analyse a Science experiment)<br><br>Part 2: An interview conducted by a panel of teachers |  |
 | **Programmes, activities and/or opportunities that students can expect to participate in for each DSA-Sec talent** | ![](/images/science%20research.png) |  |
 | | | |
 
@@ -47,3 +47,5 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 
 <img src="/images/QR%20for%20DSA%20Registration%202022.png" 
      style="width:30%">
+		 
+<center> Updated 4 May 2022 </center>
