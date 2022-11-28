@@ -41,3 +41,49 @@ third_nav_title: DSA Admission & Application
 | Question 16 | • How and when do I apply for DSA?<br>• Do I enroll in DSA before or after the PSLE result? |
 | Answer | Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is open from 5 May 2022 to 1 Jun 2022, closing time at 3pm.<br><br>For more information, please refer to MOE website –<br>https://www.moe.gov.sg/secondary/dsa/application/ |
 | | |
+
+**SCoRe**
+
+|  |  |
+|---|---|
+| Question 1 | If my child has not participated in the Science Olympiad, is it alright for him to apply for SCoRe? What is the criteria to apply for it? | 
+| Answer | The applicant does not require Science Olympiad to apply for DSA SCoRe. The qualities that we look out for in applicants include: a keen interest in learning science beyond the standard prescribed curriculum, passion in science research, and an interest to share their love for science with others. |  
+| | |
+
+**Service Leadership**
+
+|  |  | 
+|---|---|
+| Question 1 | • My child has no prior experience in Service Leadership and he has not had the chance to participate in any projects. What are the odds that he will be selected for this DSA programme?<br>• Does my child have to previously be in the Prefectorial Board or be a Head / Vice-head Prefect to qualify for DSA? | 
+| Answer | As mentioned in the presentation, the three attributes that we are looking for are Interest, Passion and Motivation to serve. This means that as long as the student expresses these attributes in his/ her involvement, be it as a participant or leader in his school's VIA programme, it will suffice.<br><br>Your child can also sharing during the interview on how he/she has expressed these attributes in his/her daily life. For example, how he/she has helped in taking care of others and helping out at home. A child who makes effort to reach out to others (eg. looking out for the elderly neighbors, buying food for the injured cat at the void deck) will have expressed these attributes. | 
+| Question 2 | What kind of opportunities will my daughter get in the Service Leadership DSA throughout her 4-5 years to develop this strength in her? | 
+| Answer | The three areas of our programmes are service opportunities, leadership training and community partnerships<br><br>Examples of service opportunities are conferences, learning journeys and attachments for exposure and to build up their social awareness for the needy. Leadership training will include workshops and camps to hone their leadership skills. Community partnerships will include projects that involve their peers in school projects and external programmes with the grassroots and other social organisations. | 
+| Question 3 | Are there specific CCAs that my child must be in for DSA Service Leadership? | 
+| Answer | No, for the categories of SCoRe and Service Leadership, your child will go through the CCA Options Exercise.<br><br>This is different from the DSA Sports. This will mean that other than their CCA commitments, they have to dedicate some afternoons to be involved in the DSA programme as mentioned in question 3. | 
+| Question 4 | Would you have a spiral curriculum for service leadership? | 
+| Answer | Yes. Our Lower Secondary programme focuses on core competencies of service leadership, and conferences/ learning journeys to ignite their interest and broaden their perspectives. The Upper Secondary programme will focus on initiating service projects under our Project COMpassion and level VIA projects. | 
+| Question 5 | Can the child be selected in the leadership DSA and also take part in NCC? | 
+| Answer | Yes, a child may be selected for Service Leadership DSA and at the same time, have NCC as his CCA. | 
+| | |
+
+**Sports**
+
+|  |  |
+|---|---|
+| Question 1 | Will my child be guaranteed a place on the school sports team if he is accepted via DSA? |
+| Answer | There is no guarantee of a confirmed place on the team.<br>Selection for the teams participating in NSG is based on merit and will be done nearer to the date of competition. We also participate in other competitions to provide opportunities to gain experience. |
+| Question 2 | • My son's CCA is concert band, but your school does not have it for DSA. Is it advisable for my son to use badminton, to apply for DSA? As his primary school did not have badminton as CCA, he played it as a hobby.<br>• Can I choose DSA basketball although I am in badminton as I like to play both badminton and basketball?<br>• My child’s Primary school does not have a basketball CCA but he has been on ActiveSG Basketball Activity since primary 2 till now, participating in games challenge & carnivals. Can this be considered something that the school will accept? |
+| Answer | Yes, we will welcome application as long there is interest and passion for the particular DSA category. |
+| Question 3 | • Will the students be asked to show skills during the DSA e-interview?<br>• During the e interview, is the school expecting the applicant to perform any footwork or displaying the strokes to the interviewer? |
+| Answer | All shortlisted applicants will be invited to attend in-person sports trials. |
+| Question 4 | Are there any other sports CCA that are offered under Sports DSA? |
+| Answer | The school also offers Floorball (boys only) and Dragonboat (both boys and girls) as CCAs in the school. However, these 2 sports are not offered under the DSA Programme. |
+| Question 5 | How many students do you take in for each sport? |
+| Answer | It all depends on the potential of the applicants for the respective sports. |
+| Question 6 | How is the live interview conducted for basketball as it has to be outdoors with other challenges? |
+| Answer | All shortlisted applicants will be invited to attend in-person sports trials. |
+| Question 7 | • Is height a consideration for admission to the basketball DSA programme?<br>• What are the odds of admission to DSA Basketball if my child’s CCA in primary school is Basketball and he is also a Junior Sports Academy (JSA) student? |
+| Answer | We do consider the applicant’s height for Basketball DSA, but it is not the only or main criterion we look at. In previous DSA batches, we have selected students who were not tall, but possessed superb basketball skills. If the other aspects are suitable, height does not matter. |
+| Question 8 | Do students have to make a video of their skills demo? |
+| Answer | All shortlisted applicants will be invited to attend in-person sports trials. |
+| | |
