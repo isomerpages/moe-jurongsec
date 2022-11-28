@@ -1,6 +1,6 @@
 ---
 title: "Direct School Admission: Science Communications & Research"
-permalink: /jss-experience/dsa-admission-and-application-matters/direct-school-admission-science-communications
+permalink: /jss-experience/dsa-admission-and-application-matters/direct-school-admission-science-communications/
 description: ""
 third_nav_title: DSA Admission & Application
 ---
@@ -17,3 +17,5 @@ Students admitted into the school via DSA-SCoRE can look forward to participatin
 
 **Science Mentorship Projects** <br>
 Students who are passionate about science research can look forward to engaging in inquiry projects for areas that they are interested in under the guidance of a teacher or industry-mentor, which could range from topics such as aquaponics and aquatic habitats, and the chemistry of happiness and positivity.
+
+<center> Updated 14 Jan 2022 </center>
