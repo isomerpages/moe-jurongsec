@@ -1,9 +1,11 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /jss-experience/enhanced-jss-experience/applied-learning-programme-alp
+permalink: /jss-experience/enhanced-jss-experience/applied-learning-programme-alp/
 description: ""
 third_nav_title: Enhanced JSS Experience
 ---
+![](/images/Applied%20Learning%20Programme%20Committee.jpg)
+
 ### Environmental Studies: A multi-disciplinary approach to sustainable urban living.
 
 <img src="/images/18.png" 
@@ -31,3 +33,5 @@ Students who are passionate about environmental studies can opt to pursue specia
 ![](/images/25.png)
 
 ![](/images/24.png)
+
+<center> Updated 24 Aug 2022 </center>
