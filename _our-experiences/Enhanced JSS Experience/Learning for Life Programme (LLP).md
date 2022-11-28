@@ -1,9 +1,11 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /jss-experience/enhanced-jss-experience/learning-for-life-programme-llp
+permalink: /jss-experience/enhanced-jss-experience/learning-for-life-programme-llp/
 description: ""
 third_nav_title: Enhanced JSS Experience
 ---
+![](/images/Learning%20for%20Life%20Programme%20Committee.jpg)
+
 ### What is LLP?
 The Learning for Life programme will provide students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self expression and strengthen their people skills. This will be an integral aspect and a distinctive signature approach of Character and Citizenship Education (CCE). The intent is to instill in our students a sense of rootedness and responsibility for their community and fellow Singaporeans. Areas can include, among others, outdoor adventure learning, sports, student leadership development, uniformed groups, performing and visual arts.
 
@@ -35,7 +37,7 @@ A community where all staff and students embrace sports as part of their lifesty
 
 |  |  |  |
 |---|---|---|
-| Background | Initiated in 2011 under the sponsorship of our School Advisory Committee (SAC), the Sports Scholarship seeks to nurture students with talent in Basketball and Volleyball to excel in their proficiency in these games (i.e. part of JSS’ Sports Excellence Programme). The terms of the award include school fees, uniforms, textbooks and full subsidy for participation in overseas training trips. |  |
-| Rationale | The rationale of Sports Scholarship are twofold - (a) motivate current school players towards excellence, and (b) interest students who are passionate and talented in the two games to join JSS. |  |
-| Award Process | In line with the intention to motivate current school players towards excellence, Sports Scholars are selected from the existing pool of school players based on their high level of play and strong commitment to the school teams. Regarding recruitment, the school actively invites and offers the scholarship to players from primary schools who show potential in Basketball. |  |
+| **Background** | Initiated in 2011 under the sponsorship of our School Advisory Committee (SAC), the Sports Scholarship seeks to nurture students with talent in Basketball and Volleyball to excel in their proficiency in these games (i.e. part of JSS’ Sports Excellence Programme). The terms of the award include school fees, uniforms, textbooks and full subsidy for participation in overseas training trips. |  |
+| **Rationale** | The rationale of Sports Scholarship are twofold - (a) motivate current school players towards excellence, and (b) interest students who are passionate and talented in the two games to join JSS. |  |
+| **Award Process** | In line with the intention to motivate current school players towards excellence, Sports Scholars are selected from the existing pool of school players based on their high level of play and strong commitment to the school teams. Regarding recruitment, the school actively invites and offers the scholarship to players from primary schools who show potential in Basketball. |  |
 | | |
