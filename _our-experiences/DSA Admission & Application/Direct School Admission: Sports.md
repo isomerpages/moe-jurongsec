@@ -8,7 +8,7 @@ third_nav_title: DSA Admission & Application
 
  Jurong Secondary School (JSS) invites applications from current Primary Six students with outstanding sporting abilities in Basketball (Boys and Girls), Volleyball (Girls only), Badminton (Boys only) & Cross Country (Boys and Girls) to participate in the 2022 Direct School Admission Exercise, for admission to our school at Secondary One in 2023.
  
- ### JSS as a Sporting Powerhouse in the West
+### JSS as a Sporting Powerhouse in the West
  
 In JSS, sports and games play a central role in equipping our students with values that are crucial in their development as leaders and contributing members of the society in future. It also inculcates important values including discipline, team spirit and fair play in our students.
 
