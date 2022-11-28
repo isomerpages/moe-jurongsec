@@ -87,3 +87,5 @@ third_nav_title: DSA Admission & Application
 | Question 8 | Do students have to make a video of their skills demo? |
 | Answer | All shortlisted applicants will be invited to attend in-person sports trials. |
 | | |
+
+<center> Updated 13 May 2022 </center>
