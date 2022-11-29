@@ -2,6 +2,6 @@ collections:
   our-links:
     output: true
     order:
-      - JSS Alumni Facebook.md
       - For JSS Staff.md
       - For JSS Students.md
+      - JSS Alumni Facebook.md
