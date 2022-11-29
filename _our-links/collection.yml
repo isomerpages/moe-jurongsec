@@ -2,6 +2,6 @@ collections:
   our-links:
     output: true
     order:
-      - Quick Links.md
       - For JSS Staff.md
       - For JSS Students.md
+      - Quick Links.md
