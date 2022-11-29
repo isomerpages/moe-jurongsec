@@ -2,7 +2,7 @@ collections:
   our-links:
     output: true
     order:
-      - Links to Application Forms/.keep
       - For JSS Staff.md
       - For JSS Students.md
       - Quick Links.md
+      - Links to Application Forms/.keep
