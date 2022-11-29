@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Accolades for Staff/MOE Innergy (Schools) Awards.md
       - Accolades for Staff/.keep
       - Accolades for Staff/JSS Caring Teacher Award.md
       - Accolades for Staff/JSS Outstanding Contribution Award (OCA).md
