@@ -2,4 +2,5 @@ collections:
   our-links:
     output: true
     order:
+      - For JSS Students.md
       - For JSS Staff.md
