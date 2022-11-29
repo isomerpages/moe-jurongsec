@@ -2,4 +2,5 @@ collections:
   our-stories:
     output: true
     order:
+      - Accolades for Staff/JSS Caring Teacher Award.md
       - Accolades for Staff/.keep
