@@ -13,7 +13,7 @@ description: ""
 | [OPAL 2.0](https://opal2.moe.edu.sg/) | 
 | [iEXAMS](https://iexams.seab.gov.sg/login) | 
 | [Form SG](https://form.gov.sg/) | 
-| [MOE Sports and Recreation Club](https://www.mesrc.net/) | [Resource Booking Service (RBS)](https://rbs.avero-tech.com/) | 
+| [MOE Sports and Recreation Club](https://www.mesrc.net/) |
+| [Resource Booking Service (RBS)](https://rbs.avero-tech.com/) | 
 | [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx) |
 | |
-
