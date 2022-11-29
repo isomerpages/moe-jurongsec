@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - JSS School Magazine.md
       - Accolades for Staff/.keep
       - Accolades for Staff/JSS Caring Teacher Award.md
       - Accolades for Staff/JSS Outstanding Contribution Award (OCA).md
@@ -24,3 +23,4 @@ collections:
       - JSS in the Spotlight/2019 Explaining Full Subject Based Banding.md
       - JSS in the Spotlight/2019 DPM Tharman at the Hwa Chong Centennial
         Insights Series and Education Conference.md
+      - JSS School Magazine.md
