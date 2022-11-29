@@ -2,7 +2,6 @@ collections:
   our-stories:
     output: true
     order:
-      - JSS in the Spotlight/.keep
       - Accolades for Staff/.keep
       - Accolades for Staff/JSS Caring Teacher Award.md
       - Accolades for Staff/JSS Outstanding Contribution Award (OCA).md
@@ -12,3 +11,4 @@ collections:
       - Accolades for Staff/National Day Awards.md
       - Accolades for Staff/NIE Caring Teacher Awards.md
       - Celebrating Our Students' Success.md
+      - JSS in the Spotlight/.keep
