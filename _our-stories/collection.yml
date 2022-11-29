@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - Outstanding JSS Alumni.md
       - Accolades for Staff/.keep
       - Accolades for Staff/JSS Caring Teacher Award.md
       - Accolades for Staff/JSS Outstanding Contribution Award (OCA).md
