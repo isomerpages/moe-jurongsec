@@ -2,5 +2,6 @@ collections:
   our-open-house:
     output: true
     order:
+      - Academic Programmes Video.md
       - Our Open House.md
       - School Corporate Video (Highlights).md
