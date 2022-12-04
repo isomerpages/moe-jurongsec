@@ -10,7 +10,7 @@ sections:
       title: Jurong Secondary School
       background: /images/ez.gif
       button: Contact Us
-      url: /our-identity/contact-us
+      url: /contact-us/
       key_highlights:
         - title: Concerned Citizen
           description: Cares for others
