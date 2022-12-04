@@ -1,4 +1,5 @@
 collections:
   our-open-house:
     output: true
-    order: []
+    order:
+      - Our Open House.md
