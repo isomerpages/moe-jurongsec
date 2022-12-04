@@ -1,0 +1,4 @@
+collections:
+  our-open-house:
+    output: true
+    order: []
