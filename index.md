@@ -44,13 +44,4 @@ sections:
         Sec 1 to 5 by clicking below.
       button: Click here
       url: https://staging.d34eg7es14fqph.amplifyapp.com/our-students/textbook-lists
-  - infopic:
-      title: JSS OPEN HOUSE 2022
-      subtitle: What's Happening?
-      description: It's TOMORROW! Don't forget to join us for our LIVE Open House 2022
-        from 9.30am to 1.30pm!
-      button: Click here
-      url: https://www.instagram.com/p/ClGUBD9hsm6/
-      image: /images/open house.jpg
-      alt: Image alt text
 ---
