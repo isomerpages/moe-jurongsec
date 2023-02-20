@@ -2,4 +2,5 @@ collections:
   jss-60th-anniversary:
     output: true
     order:
+      - Past vs Present Games.md
       - Chinese New Year Celebrations.md
