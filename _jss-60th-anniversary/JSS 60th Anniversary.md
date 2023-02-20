@@ -22,6 +22,3 @@ Whether you are a current student, an alumnus, or a member of our community, you
 Please click on the links for you to know more about our grand 60th anniversary events, and how you can join us in the celebrations.
 
 ![](/images/60th%20Anniversary%20Bottom%20Banner.jpeg)
-
-
-
