@@ -3,7 +3,6 @@ title: Chinese New Year Celebrations
 permalink: /jss-60th-anniversary/Chinese-New-Year-Celebrations/
 description: ""
 ---
-
 ![](/images/60th%20Anniversary%20Logo.jpeg)
 
 ![](/images/CNY%201.jpg)
@@ -20,7 +19,8 @@ Jurong Secondary school kicked off our 60th anniversary celebrations with a spec
 
 
 
-| ![](/images/CNY%202.jpg) | ![](/images/CNY%203.jpg) | ![](/images/CNY%204.jpg) |
-| -------- | -------- | -------- |
-| ![](/images/CNY%205.jpg)     | ![](/images/CNY%206.jpg)    | ![](/images/CNY%207.jpg)     |
-| ![](/images/CNY%207.jpg)     | ![](/images/CNY%208.jpg)    | ![](/images/CNY%209.jpg)     |
+| ![](/images/CNY%202.jpg) | ![](/images/CNY%203.jpg) |  |
+| -------- | -------- | - |
+| ![](/images/CNY%204.jpg)   | ![](/images/CNY%205.jpg)     |  |
+| ![](/images/CNY%206.jpg)     | ![](/images/CNY%207.jpg)     |  |
+| ![](/images/CNY%208.jpg)     | ![](/images/CNY%209.jpg)    |  |
