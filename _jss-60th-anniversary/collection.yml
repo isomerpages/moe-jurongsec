@@ -2,8 +2,8 @@ collections:
   jss-60th-anniversary:
     output: true
     order:
-      - 60th Anniversary Dinner.md
-      - Sports Carnival.md
-      - Speech & Prize Giving Day.md
-      - Past vs Present Games.md
       - Chinese New Year Celebrations.md
+      - Past vs Present Games.md
+      - Speech & Prize Giving Day.md
+      - Sports Carnival.md
+      - 60th Anniversary Dinner.md
