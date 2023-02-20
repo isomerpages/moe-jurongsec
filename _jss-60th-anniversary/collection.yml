@@ -1,4 +1,5 @@
 collections:
   jss-60th-anniversary:
     output: true
-    order: []
+    order:
+      - Chinese New Year Celebrations.md
