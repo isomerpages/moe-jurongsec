@@ -19,7 +19,7 @@ Jurong Secondary school kicked off our 60th anniversary celebrations with a spec
 
 
 
-| ![](/images/CNY%202.jpg) | ![](/images/CNY%203.jpg) | Column 3 |
+| ![](/images/CNY%202.jpg) | ![](/images/CNY%203.jpg) | ![](/images/CNY%204.jpg) |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| ![](/images/CNY%205.jpg)     | ![](/images/CNY%206.jpg)    | ![](/images/CNY%207.jpg)     |
+| ![](/images/CNY%207.jpg)     | ![](/images/CNY%208.jpg)    | ![](/images/CNY%209.jpg)     |
