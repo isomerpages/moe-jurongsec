@@ -2,6 +2,7 @@ collections:
   jss-60th-anniversary:
     output: true
     order:
+      - Sports Carnival.md
       - Speech & Prize Giving Day.md
       - Past vs Present Games.md
       - Chinese New Year Celebrations.md
