@@ -3,7 +3,6 @@ title: JSS 60th Anniversary 2023
 permalink: /jss-60th-anniversary/permalink/
 description: ""
 ---
-
 ![](/images/60th%20Anniversary%20Logo.jpeg)
 
 Since its inception in 1963, Jurong Secondary School has been a school built by the community, for the community. As we turn 60 this year, we are heartened to extend our invitation to the community to celebrate this momentous occasion with us as well.
