@@ -11,7 +11,7 @@ description: ""
 
 **Date: 20 January 2023, Friday**
 
-**Time: 9:10 am - 12:30 pm **
+**Time: 09:10 am - 12:30 pm**
 
 **Venue: Jurong Secondary School**
 
