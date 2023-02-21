@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Jurong Secondary School
       background: /images/ez.gif
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Concerned Citizen
