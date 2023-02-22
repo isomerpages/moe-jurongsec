@@ -130,4 +130,11 @@ Get in touch or stay updated with the JSS Alumni Association through our Faceboo
 Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Secondary-School-Alumni-Association-171815156192778/)
 
 
+| | | |
+| -------- | -------- | -------- |
+|![](/images/Alumni%201.jpg)|![](/images/Alumni%203.jpg)| 
+|![](/images/Alumni%202.jpg)|![](/images/Alumni%204.jpg)| 
+|![](/images/Alumni%205.jpg)|![](/images/Alumni%206.jpg)| 
+|![](/images/Alumni%207.jpg)|![](/images/Alumni%208.jpg)| 
+|![](/images/Alumni%201.jpg)|![](/images/Alumni%204.jpg)|
 <center> Updated 22 Feb 2023 </center>
