@@ -20,3 +20,6 @@ third_nav_title: JSS Family
 | Member| Mr Lee Sai Sing |  |
 | Member| Mr Chong Kim Seng, Jerel |  |
 | Hon. Secretary| Ms Yeo Siok Ee |  |
+
+
+<center> Updated 22 Feb 2023 </center>
