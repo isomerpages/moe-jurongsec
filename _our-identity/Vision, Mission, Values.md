@@ -3,7 +3,6 @@ title: Vision, Mission, Values
 permalink: /our-identity/vision-mission-values/
 description: ""
 ---
-
 ### Our Vision
 
 **Champions of Mind, Leaders with Heart**
@@ -23,3 +22,6 @@ Together, we endeavour to support our students in their&nbsp;pursuit of excellen
 ### Our Values
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6Sq_KbAUMbhy-oATMVwjY3dlXD5SLLEthixyoVbJPkjx1oFU-rvFJ-ahNV7H8w4eZOXeXKL6AIsdy/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
+
+
+<center> Updated 22 Feb 2023 </center>
