@@ -3,7 +3,6 @@ title: Our History
 permalink: /our-identity/our-history/
 description: ""
 ---
-
 ### 1963 - 1973 <bR> The Foundation Years
 
 ![](/images/history.jpg)
@@ -95,3 +94,6 @@ In 2013, to commemorate 50 years of rich heritage, the Jurong Secondary School f
 2021 – The school emerged as a Phase 1 school for the National Digital Literacy Programme (NDLP) as part of the nationwide effort to strengthen the digital literacy of students and e-pedagogical skills of teachers. The Heritage Wall was also built and launched by Senior Minister Tharman Shanmugaratnam.  
 
 “Making Every Child A Success Story” – Moving forward, Jurong Secondary School remains committed to developing students who succeed in all areas of life. We look to the future with everlasting vigour and zest.
+
+
+<center> Updated 22 Feb 2023 </center>
