@@ -3,9 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
-
-
 ### School Address
 
 31 Yuan Ching Road, Singapore 618652
