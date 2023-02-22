@@ -129,12 +129,16 @@ Get in touch or stay updated with the JSS Alumni Association through our Faceboo
 
 Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Secondary-School-Alumni-Association-171815156192778/)
 
+### Photo Story
 
-| | | |
-| -------- | -------- | -------- |
-|![](/images/Alumni%201.jpg)|![](/images/Alumni%203.jpg)| 
-|![](/images/Alumni%202.jpg)|![](/images/Alumni%204.jpg)| 
-|![](/images/Alumni%205.jpg)|![](/images/Alumni%206.jpg)| 
-|![](/images/Alumni%207.jpg)|![](/images/Alumni%208.jpg)| 
-|![](/images/Alumni%201.jpg)|![](/images/Alumni%204.jpg)|
+|  |  |
+| -------- | -------- |
+| ![](/images/Alumni%201.jpg) 2019 Chinese New Year Dinner | ![](/images/Alumni%202.jpg) Student performance at the 2019 Chinese New Year Dinner | 
+| ![](/images/Alumni%203.jpg) Appreciating former teachers of Jurong Secondary School | ![](/images/Alumni%204.jpg) Golf Tournament 2016 |
+| ![](/images/Alumni%205.jpg) Golf Tournament 2017 | ![](/images/Alumni%206.jpg) Golf Tournament 2018 |
+| ![](/images/Alumni%207.jpg) Golf Tournament 2019 | ![](/images/Alumni%208.jpg) Movie Screening | 
+| ![](/images/Alumni%209.jpg) Bowling Competition | ![](/images/Alumni%2010.jpg) Happy Winners of the Bowling Competition |
+| ![](/images/Alumni%2011.jpg) Alunmi Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) JSS Alumni Association Meeting | 
+| | |
+
 <center> Updated 22 Feb 2023 </center>
