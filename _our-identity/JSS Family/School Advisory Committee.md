@@ -4,9 +4,7 @@ permalink: /our-identity/JSS-Family/school-advisory-committee/
 description: ""
 third_nav_title: JSS Family
 ---
-![](/images/Alumni.jpg)
-
-
+![](/images/SAC.jpg)
 
 
 
