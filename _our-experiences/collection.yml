@@ -2,10 +2,10 @@ collections:
   our-experiences:
     output: true
     order:
-      - Student Development/Student Council.md
-      - Student Development/MOE Sexuality Education for Secondary Schools.md
-      - Student Development/Student Development Team.md
       - Student Development/.keep
+      - Student Development/Student Development Team.md
+      - Student Development/MOE Sexuality Education for Secondary Schools.md
+      - Student Development/Student Council.md
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
       - Enhanced JSS Experience/inSPire.md
