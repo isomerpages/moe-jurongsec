@@ -2,12 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - CCA Club and Societies/Environment Club.md
-      - CCA Club and Societies/.keep
-      - CCA Performing Arts/Chinese Orchestra.md
-      - CCA Performing Arts/.keep
-      - CCA Uniform Groups/Girl Guides.md
-      - CCA Uniform Groups/.keep
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
       - Enhanced JSS Experience/inSPire.md
@@ -36,6 +30,12 @@ collections:
       - Student Development/Student Development Team.md
       - Student Development/MOE Sexuality Education for Secondary Schools.md
       - Student Development/Student Council.md
-      - CCA   Sports/Badminton (Boys).md
       - CCA   Sports/.keep
+      - CCA   Sports/Badminton (Boys).md
+      - CCA Uniform Groups/.keep
+      - CCA Uniform Groups/Girl Guides.md
+      - CCA Performing Arts/.keep
+      - CCA Performing Arts/Chinese Orchestra.md
+      - CCA Club and Societies/.keep
+      - CCA Club and Societies/Environment Club.md
       - Virtual School Tour.md
