@@ -65,3 +65,5 @@ For clarifications regarding our DSA programmes, please do not hesitate to conta
 | **Science Communications and Research** | HOD/Science, Ms Lim Yan Mui<br>SH/Science, Mr Traven Loh |  |
 | **Service Leadership** | HOD/CCE, Mr Stanley Tan<br>AYH, Mr Faydzully |  |
 | | |
+
+<center> Updated 4 May 2022 </center>
