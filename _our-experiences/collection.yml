@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Student Development/MOE Sexuality Education for Secondary Schools.md
       - Student Development/Student Development Team.md
       - Student Development/.keep
       - Enhanced JSS Experience/.keep
