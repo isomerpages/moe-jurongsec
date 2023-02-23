@@ -24,26 +24,12 @@ The JSS Learning Fest, which was first held in 2021, aims to provide a learner-c
 <img src="/images/floorball.jpg" 
      style="width:90%">
 
-### Breadth Programme by Levels
-
-|  |  |  |
-|---|---|---|
-| Level | Programme | Type |
-| Sec 2 | AR / VR Workshop | Science & Technology |
-| | | 
 
 ![](/images/class.jpg)
 
-### 2020-2021 Awards:
 
-| Individual Award | Group Award |
-|---|---|
-| Video Editing | Violin |
-| Python Programming | Baking |
-| Guitar  | K-pop Dancing  |
-| | | 
 
 <img src="/images/table.jpg" 
      style="width:90%">
 		 
-<center> Updated 23 Dec 2021 </center>
+<center> Updated 23 Feb 2023 </center>
