@@ -2,9 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - CCA Clubs & Societies.md
-      - CCA Performing Arts.md
-      - CCA Uniform Groups.md
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
       - Enhanced JSS Experience/inSPire.md
@@ -34,4 +31,7 @@ collections:
       - Student Development/MOE Sexuality Education for Secondary Schools.md
       - Student Development/Student Council.md
       - CCA   Sports/.keep
+      - CCA Uniform Groups.md
+      - CCA Performing Arts.md
+      - CCA Clubs & Societies.md
       - Virtual School Tour.md
