@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Student Development/Student Development Team.md
       - Student Development/.keep
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
