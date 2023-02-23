@@ -2,11 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Co Curricular Activities/.keep
-      - Student Development/.keep
-      - Student Development/Student Development Team.md
-      - Student Development/MOE Sexuality Education for Secondary Schools.md
-      - Student Development/Student Council.md
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
       - Enhanced JSS Experience/inSPire.md
@@ -31,4 +26,9 @@ collections:
       - Academic Programmes/Mother Tongue Languages.md
       - Academic Programmes/Physical Education.md
       - Academic Programmes/Science.md
+      - Student Development/.keep
+      - Student Development/Student Development Team.md
+      - Student Development/MOE Sexuality Education for Secondary Schools.md
+      - Student Development/Student Council.md
+      - Co Curricular Activities/.keep
       - Virtual School Tour.md
