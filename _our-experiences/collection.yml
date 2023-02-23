@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Virtual School Tour.md
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
       - Enhanced JSS Experience/inSPire.md
@@ -18,3 +17,4 @@ collections:
       - DSA Admission & Application/DSA FAQ.md
       - "DSA Admission & Application/Direct School Admission: Application.md"
       - Our Experiences.md
+      - Virtual School Tour.md
