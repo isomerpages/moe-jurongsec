@@ -25,3 +25,4 @@ Email: [finestuniform@yahoo.com.sg](mailto:finestuniform@yahoo.com.sg)
 
 **Operating Hours:** Mon - Sat: 12:00 pm to 7:00 pm (Closed on Sunday and Public Holiday)
 
+<center> Updated 23 Feb 2023 </center>
