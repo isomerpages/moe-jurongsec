@@ -43,9 +43,6 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 | **Programmes, activities and/or opportunities that students can expect to participate in for each DSA-Sec talent** | 1. Project [COM]passion<br><br>2. JSS-TJ Elderly Befrienders Programme<br><br>3. Citi-YMCA Youth For Causes (YFC) <br><br>Please refer to our DSA E-brochure above for more details. |  |
 | | | |
 
-**Please [click here](https://forms.gle/JkHotvvy5ivFEZ1L8) to register your interest to join our JSS DSA Webinar on the 21st of May 9am - 12 pm.**
 
-<img src="/images/QR%20for%20DSA%20Registration%202022.png" 
-     style="width:30%">
 		 
-<center> Updated 4 May 2022 </center>
+<center> Updated 23 Feb 2023 </center>
