@@ -4,19 +4,24 @@ permalink: /our-students/admission/school-uniform/
 description: ""
 third_nav_title: Admission
 ---
+The school uniform supplier is **Finest Fashion Centre**.
 
-The school uniform and PE attire can be purchased from the School Bookshop.  
+Dates of sale of uniform in Jurong Secondary School are as follows:  
+Dec 2022: 02, 03, 05, 09, 10, 29, 30<br>
+Dec 2022: 21, 22, 23, 27, 28 (Sec 1 only)
 
-**Operating Hours:** Mon - Fri: 9:00 am to 3:00 pm
+**Operating Hours:** Mon - Fri: 9:00 pm - 3:00 pm, Sat: 9:00 pm - 12:00 pm
+  
+Online order is available at [https://finestuniform.com/collections/jurong-secondary-school](https://finestuniform.com/collections/jurong-secondary-school)
 
-The school uniform supplier is **Beau Voix Uniform**.  
+The address and contact number of **Finest Fashion Centre** are as follows:
 
-Online order is available at [www.beauvoix.com](http://www.beauvoix.com/)
+Beauty World Centre<br>
+144 Upper Bukit Timah Road #B1-03, <br>
+Singapore 588177<br>
+Tel: 6466 5697 H/P:90269738 (Mrs Koh)
 
-The address and contact number of Beau Voix Uniform are as follows: <br>
-Beau Voix Uniform <br>
-No. 2 Sims Close #03-08 Gemini@Sims <br>
-Singapore 387298 <br>
-Tel: 6743 6645  
+Email: [finestuniform@yahoo.com.sg](mailto:finestuniform@yahoo.com.sg)
 
-**Email:** [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg?subject=Enquiry%20from%20Web)
+**Operating Hours:** Mon - Sat: 12:00 pm to 7:00 pm (Closed on Sunday and Public Holiday)
+
