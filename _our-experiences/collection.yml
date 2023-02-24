@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - CCA/.keep
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
       - Enhanced JSS Experience/inSPire.md
@@ -32,6 +31,7 @@ collections:
       - Student Development/MOE Sexuality Education for Secondary Schools.md
       - Student Development/Co Curricular Activities.md
       - Student Development/Student Council.md
+      - CCA/.keep
       - CCA   Sports/.keep
       - CCA   Sports/Badminton (Boys).md
       - CCA Uniform Groups/.keep
