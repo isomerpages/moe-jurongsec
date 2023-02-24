@@ -3,6 +3,8 @@ title: Persevering Learner
 permalink: /jss/persevering-learner/
 description: ""
 ---
+#### A persevering learner explores different ways to solve problems, and displays mental grit despite facing challengers. 
+
 A JSS student becomes a persevering learner through active participation in programmes / activities such as:  
 
 1.  Skills, Talent and Research Scholarship Programme (STAR)
