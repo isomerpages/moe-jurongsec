@@ -35,5 +35,5 @@ sections:
       image: /images/60th Anniversary Logo.jpeg
       alt: Image alt text
       button: Click here to find out more
-      url: /sjflsakf
+      url: /jss-60th-anniversary/JSS-60th-Anniversary-2023/
 ---
