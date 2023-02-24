@@ -11,17 +11,21 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Concerned Citizen
-          description: Cares for others
+          description: ""
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/concerned-citizen
         - title: Confident Person
-          description: Has moral courage
+          description: ""
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/confident-person
         - title: Flexible Thinker
-          description: Curious & Empathetic
+          description: ""
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/flexible-thinker
         - title: Persevering Learner
-          description: Face challenges
+          description: ""
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/persevering-learner
+  - resources:
+      title: Announcements
+      subtitle: Announcements
+      button: View More
   - infopic:
       title: JSS Open House 2022
       subtitle: COME JOIN US AT
