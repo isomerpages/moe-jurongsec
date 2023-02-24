@@ -4,7 +4,7 @@ permalink: /jss/concerned-citizen/
 description: ""
 ---
 #### A concerned citizen cares for others, understands what matters to the society and Singapore through engaging in contemporary issues, and believes in Singapore.
-
+_____
 A JSS student becomes a concerned citizen through active participation in programmes / activities such as:
 
 1.  Service Leadership
