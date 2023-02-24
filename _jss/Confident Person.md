@@ -3,6 +3,8 @@ title: Confident Person
 permalink: /jss/confident-person/
 description: ""
 ---
+#### A confident person has moral courage, is adaptable to change, communicates effectively, and pursues excellence.
+
 A JSS student becomes a confident person through active participation in programmes / activities such as:
 
 1.  Leadership Roles
