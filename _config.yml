@@ -3,7 +3,7 @@ url: https://jurongsec.moe.edu.sg
 favicon: /images/logo1.png
 colors:
   primary-color: "#ea2c06"
-  secondary-color: "#9b9b9b"
+  secondary-color: "#4063d0"
   media-colors:
     - title: media-color-one
       color: "#83925d"
