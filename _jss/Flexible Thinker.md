@@ -3,6 +3,8 @@ title: Flexible Thinker
 permalink: /jss/flexible-thinker/
 description: ""
 ---
+#### A flexible thinker is one who is curious, open minded, empathetic and able to appreciate diverse views.
+
 A JSS student becomes a flexible thinker through active participation in programmes / activities such as:
 
 1.  Applied Learning Programme (ALP)
