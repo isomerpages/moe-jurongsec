@@ -24,7 +24,6 @@ sections:
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/persevering-learner
   - resources:
       title: Announcements
-      subtitle: Announcements
       button: View More
   - infopic:
       title: JSS 60th Anniversary Celebrations
