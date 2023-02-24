@@ -20,4 +20,5 @@ Yours in Partnership
 Ms Yeo Siok Ee
 ![](/images/Principal%20Ms%20Yeo.jpeg)
 <center> Updated 22 Feb 2023 </center>
-<img src="/images/Principal%20Ms%20Yeo.jpeg" style="height: auto;width:300px;">
+
+
