@@ -27,9 +27,13 @@ sections:
       subtitle: Announcements
       button: View More
   - infopic:
-      title: JSS Open House 2022
+      title: JSS 60th Anniversary Celebrations
       subtitle: COME JOIN US AT
-      description: 19 Nov 2022 (Sat), 9.30am-1.30pm
-      image: /images/Open House 2022 MOTD Final.png
+      description: " Jurong Secondary school, founded in 1963, turns 60 this year.  We
+        are heartened to invite the community to celebrate this momentous
+        occasion with us."
+      image: /images/60th Anniversary Logo.jpeg
       alt: Image alt text
+      button: Click here to find out more
+      url: /sjflsakf
 ---
