@@ -32,11 +32,6 @@ Table Tennis (Singles)
 
 Table Tennis (Doubles)
 
-  
+Registration for the Past vs Present Games is now closed.  
 	
 
-Please click on the link below, or scan the QR code, to sign up for Past vs Present Games:  
-
-[http://go.gov.sg/750u3p](http://go.gov.sg/750u3p)
-
-![](/images/QR%20Code%20for%20sign%20up.png)
