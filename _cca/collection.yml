@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/Science Explorers Club.md
       - Clubs and Societies/Media and Visual Arts Club.md
       - Clubs and Societies/Environment Club.md
       - Clubs and Societies/Library Club.md
