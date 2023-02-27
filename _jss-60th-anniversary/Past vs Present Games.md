@@ -32,6 +32,6 @@ Table Tennis (Singles)
 
 Table Tennis (Doubles)
 
-Registration for the Past vs Present Games is now closed.
+<center> Registration for the Past vs Present Games is now closed.
 
 <center> Updated 27 Feb 2023 </center>
