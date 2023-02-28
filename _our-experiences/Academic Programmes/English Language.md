@@ -178,3 +178,11 @@ Our English Language Department uses the communicative approach to language lear
   </tr>
 </tbody>
 </table>
+
+## Our Special Programmes:
+
+
+*   Secondary 1 Drama Enrichment Programme
+*   Secondary 2 Debate Enrichment Programme
+*   Secondary 3 Public Speaking Programme
+*   Speak Good English Movement
