@@ -141,6 +141,7 @@ third_nav_title: Academic Programmes
 
 
 Our English Language Department uses the communicative approach to language learning, which encourages students to learn the language through its actual use to communicate real meaning during an interaction. Guided by this principle, our EL lessons serve as a platform for learner-centred, authentic learning to take place. It is through this interactive learning that communicative competence is developed, resulting in more confident EL speakers and learners.
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
