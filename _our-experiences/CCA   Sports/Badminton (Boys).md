@@ -15,14 +15,18 @@ The Badminton team's JSS spirit was unaffected by Covid-19. Despite the difficul
 
 |   |   |
 |---|---|
-| ![](/images/JS1_B%20division%20West%20zone%20boys%202nd%20runner%20up%20group.jpeg)  | |
+| ![](/images/JS1_B%20division%20West%20zone%20boys%202nd%20runner%20up%20group.jpeg)  |![](/images/JS2_Congratulation%20on%20clinching%202022%20West%20Zone%20B%20Division%20boys%202nd%20runner%20up.jpeg) |
 
 
-![](/images/JS2_Congratulation%20on%20clinching%202022%20West%20Zone%20B%20Division%20boys%202nd%20runner%20up.jpeg)
+|   |   |
+|---|---|
+| ![](/images/JS3_going%20for%20the%20big%20smash.jpeg) | ![](/images/JS4_Going%20for%20the%20shuttle%202.jpeg)  |
 
-![](/images/JS3_going%20for%20the%20big%20smash.jpeg)
 
-![](/images/JS4_Going%20for%20the%20shuttle%202.jpeg)
+|   |   |
+|---|---|
+| ![](/images/Our%20departments/Mathematics/Math_Trail_3.png)  | ![](/images/Our%20departments/Mathematics/Math_Trail_4.png)  |
+
 
 ![](/images/JS5_Going%20for%20the%20shuttle.jpeg)
 
