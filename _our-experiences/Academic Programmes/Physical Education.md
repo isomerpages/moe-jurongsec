@@ -125,4 +125,35 @@ third_nav_title: Academic Programmes
 
 ### An Introduction to Outdoor Education and Safety
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1137px">
+<colgroup>
+<col style="width: 471px">
+<col style="width: 666px">
+</colgroup>
+<thead>
+  <tr>
+		<th class="tg-ktyi"><li>Safety &amp; Injury Management</li></th>
+		<th class="tg-ktyi"><li>Map Reading</li></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		<td class="tg-ktyi"><li>AED &amp; CPR</li></td>
+		<td class="tg-ktyi"><li>Orienteering</li></td>
+  </tr>
+  <tr>
+		<td class="tg-ktyi"><li>Outdoor Cooking</li></td>
+		<td class="tg-ktyi"><li>Tent Pitching</li></td>
+  </tr>
+</tbody>
+</table>
+
 ### Enrichment Programme
