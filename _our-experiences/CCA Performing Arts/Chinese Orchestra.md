@@ -9,3 +9,23 @@ third_nav_title: CCA Performing Arts
 
 The Chinese Orchestra is a thriving performing arts CCA that places a strong emphasis on encouraging individual brilliance. Our pupils took part in the SYF 2021 Junior Challenge, which undoubtedly improved their educational experience. Additionally, we encourage our students to participate in the NTU Confucius Institute's Chinese Music Instrumental Grading Examinations in order to strengthen their musical proficiency.
 
+|   |   |
+|---|---|
+| ![](/images/JS1_CO_1.png)  |![](/images/JS2_CO_2.png) |
+
+<center> Combined Practice </center>
+
+|   |   |
+|---|---|
+|  ![](/images/JS3_CO_3.png) |![](/images/JS4_CO_4.png) |
+
+String Sectional Practice
+	Plucking Sectional Practice 
+
+![](/images/JS5_CO_5.png)
+![](/images/JS6_CO_6.png)
+![](/images/JS7_CO_7.png)
+![](/images/JS8_CO_8.png)
+![](/images/JS9_CO_9.png)
+![](/images/JS10_CO_10.png)
+![](/images/JS11_CO_11.png)
