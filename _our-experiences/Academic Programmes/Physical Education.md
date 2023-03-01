@@ -157,3 +157,42 @@ third_nav_title: Academic Programmes
 </table>
 
 ### Enrichment Programme
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1210px">
+<colgroup>
+<col style="width: 501px">
+<col style="width: 709px">
+</colgroup>
+<thead>
+  <tr>
+		<th class="tg-ktyi"><li>kayaking</li></th>
+		<th class="tg-ktyi"><li>Tchouckball</li></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		<td class="tg-ktyi"><li>Inline Skating</li></td>
+		<td class="tg-ktyi"><li>Zumba</li></td>
+  </tr>
+  <tr>
+		<td class="tg-ktyi"><li>Archery</li></td>
+		<td class="tg-ktyi"><li>Cycling</li></td>
+  </tr>
+  <tr>
+		<td class="tg-ktyi"><li>Sports Climbing</li></td>
+		<td class="tg-ktyi"><li>Trekking</li></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><li>Trampolining</li></td>
+		<td class="tg-ktyi"><li>Kin Ball</li></td>
+  </tr>
+</tbody>
+</table>
