@@ -23,9 +23,6 @@ The Badminton team's JSS spirit was unaffected by Covid-19. Despite the difficul
 | ![](/images/JS3_going%20for%20the%20big%20smash.jpeg) | ![](/images/JS4_Going%20for%20the%20shuttle%202.jpeg)  |
 
 
-|   |   |
-|---|---|
-| ![](/images/Our%20departments/Mathematics/Math_Trail_3.png)  | ![](/images/Our%20departments/Mathematics/Math_Trail_4.png)  |
 
 |   |   |
 |---|---|
@@ -38,14 +35,16 @@ The Badminton team's JSS spirit was unaffected by Covid-19. Despite the difficul
 
 |   |   |
 |---|---|
-| ![](/images/JS9_Serving%201.jpeg) |  |
+| ![](/images/JS9_Serving%201.jpeg) | ![](/images/JS10_stride%20in%20important%202.jpeg) |
+
+
+
+|   |   |
+|---|---|
+| ![](/images/JS11_Stride%20is%20important.jpeg) |  |
 
 
 
 
-
-![](/images/JS10_stride%20in%20important%202.jpeg)
-
-![](/images/JS11_Stride%20is%20important.jpeg)
 
 ![](/images/JS12_Training%20hard.jpeg)
