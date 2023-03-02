@@ -19,9 +19,9 @@ The 60th Anniversary Dinner is the highlight event for our celebrations. SM Tha
 
 Please approach the school's General Office directly to purchase your tickets.
 
-Only cash payment is accepted
+Only cash payment is accepted.
 
-Operating Hours: Mon - Fri (including school holidays), 8 am to 5 pm
+Operating Hours: Mon - Fri (including school holidays), 8 am to 5 pm.
 
 Contact Number (General Office): 62655980
 
