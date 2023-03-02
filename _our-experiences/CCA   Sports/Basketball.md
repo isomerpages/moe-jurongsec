@@ -15,8 +15,14 @@ third_nav_title: CCA   Sports
 
 The basketball boys team of Jurong Secondary School works hard to uphold its reputation for excellence in producing hardworking and disciplined athletes through a rigorous training regimen that emphasizes improving players' abilities, attitudes, and physical fitness. Additionally, taking part in outside tournaments and going on training tours abroad expose them to competitions at all levels.
 
-![](/images/JS1_Photo%201.jpg)
-![](/images/JS2_Photo%202.jpg)
+|   |   |
+|---|---|
+| ![](/images/JS1_Photo%201.jpg) <center>Girls playing 5v5 Outdoor during learning fest</center> | ![](/images/JS2_Photo%202.jpg) <center> Students in charge referees the game during Learning Fest</center> |
+
+
+
+
+
 ![](/images/JS3_Photo%203.jpg)
 ![](/images/JS4_Photo%205.jpg)
 ![](/images/JS5_Photo%206.jpg)
