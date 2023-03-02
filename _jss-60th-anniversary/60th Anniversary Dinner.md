@@ -15,4 +15,12 @@ The 60th Anniversary Dinner is the highlight event for our celebrations. SM Tha
 
 **Venue: Jurong Secondary School**
 
+**Cost: $60.00**
+
+Please approach the school's General Office directly to purchase your tickets.
+
+Operating Hours: Mon - Fri (including school holidays), 9 am to 5 pm
+
+Contact Number (General Office): 62655980
+
 ![](/images/60th%20Anniversary%20Bottom%20Banner.jpeg)
