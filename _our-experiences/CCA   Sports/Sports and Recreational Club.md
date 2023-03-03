@@ -16,6 +16,15 @@ The Sports and Recreational Club seeks to give JSS students the chance to partic
 
 On 15 March 2022, SRC embarked on a short cycling expedition to Jurong Central Park. It was a simple journey where we discovered how extensive the Park Connector Networks are here in Taman Jurong.
 
+
 |   |   |    |   
 |---|---|---|    
-|  <center>Compulsory photo at main entrance to Jurong Central Park</center> | <center>Breakfast in the Park</center> | <center>Exploring the Park!</center> |
+| ![](/images/JSS2-Compulsory%20photo%20at%20main%20entrance%20to%20Jurong%20Central%20Park.png)<center>Compulsory photo at main entrance to Jurong Central Park</center> | ![](/images/JSS3%20-Breakfast%20in%20the%20Park.png)<center>Breakfast in the Park</center> | ![](/images/JSS4-Exploring%20the%20Park.png) <center>Exploring the Park!</center> |
+
+### SRC Photography Session at Jurong Lake Gardens
+
+
+One of SRC’s activities is to explore photography using the beautiful scenery available at Jurong Lake Gardens. We learnt how to use gridlines, focus, negative space and perspectives!
+
+![](/images/JSS6%20We%20then%20posted%20our%20pictures%20for%20each%20other%20to%20see%20and%20be%20inspired%20by.png)
+
