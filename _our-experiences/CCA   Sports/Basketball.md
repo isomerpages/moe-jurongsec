@@ -19,16 +19,17 @@ The basketball boys team of Jurong Secondary School works hard to uphold its rep
 |---|---|
 | ![](/images/JS1_Photo%201.jpg) <center>Girls playing 5v5 Outdoor during learning fest</center> | ![](/images/JS2_Photo%202.jpg) <center> Students in charge referees the game during Learning Fest</center> |
 
-![](/images/JS3_Photo%203.jpg)
+
 
 |   |   |
 |---|---|
-|  <center></center> | ![](/images/JS5_Photo%206.jpg) <center>Listening attentively to the coach during training</center> |
+|  <center></center> |![](/images/JS3_Photo%203.jpg) <center>Listening attentively to the coach during training</center> |
 
 |   |   |
 |---|---|
-| ![](/images/JS4_Photo%205.jpg) <center> Team Cheer !!!</center> | ![](/images/js6_Photo%207.jpg) <center> First game in National School games</center> |
+| ![](/images/JS4_Photo%205.jpg) <center>Team Cheer !!!</center> |  ![](/images/JS5_Photo%206.jpg)<center>First Game in National School Game</center> |
 
+![](/images/js6_Photo%207.jpg)
 
 
 
