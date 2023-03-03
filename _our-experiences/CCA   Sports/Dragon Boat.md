@@ -22,7 +22,7 @@ and develop endurance</center> | ![](/images/JSD4-Photo%204.jpg)<center>Proper w
 
 |   |   |
 |---|---|
-| ![](/images/JSD5-Photo%2012.jpg) <center></center> |![](/images/JSD6-Photo%205.jpg) <center></center> |
+| ![](/images/JSD5-Photo%2012.jpg) <center>Proper warm-up and stretching exercises are necessary to prevent injuries during training</center> |![](/images/JSD6-Photo%205.jpg) <center>Upper body training for our dragonboat girls is important</center> |
 |   |   |
 |---|---|
 | ![](/images/JSD7-Photo%206.jpg) <center></center> |![](/images/JSD8-Photo%207.jpg) <center></center> |
