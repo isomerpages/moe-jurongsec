@@ -15,31 +15,19 @@ The thrilling sport of Dragonboat racing calls for teamwork, physical prowess, a
 |  ![](/images/JSD1-Photo%201.jpg)<center></center> | ![](/images/JSD2-Photo%202.jpg)<center></center> |
 |   |   |
 |---|---|
-|  <center></center> | <center></center> |
+| ![](/images/JSD3-Photo%203.jpg) <center></center> | ![](/images/JSD4-Photo%204.jpg)<center></center> |
 |   |   |
 |---|---|
-|  <center></center> | <center></center> |
+| ![](/images/JSD5-Photo%2012.jpg) <center></center> |![](/images/JSD6-Photo%205.jpg) <center></center> |
 |   |   |
 |---|---|
-|  <center></center> | <center></center> |
+| ![](/images/JSD7-Photo%206.jpg) <center></center> |![](/images/JSD8-Photo%207.jpg) <center></center> |
 |   |   |
 |---|---|
-|  <center></center> | <center></center> |
+| ![](/images/JSD9-Photo%208.jpg) <center></center> | ![](/images/JSD10-Photo%209.jpg)<center></center> |
 |   |   |
 |---|---|
-|  <center></center> | <center></center> |
-|   |   |
-|---|---|
-|  <center></center> | <center></center> |
+| ![](/images/JSD11-Photo%2010.jpg) <center></center> | ![](/images/JSD12-Photo%2011.jpg) <center></center> |
 
 
-![](/images/JSD3-Photo%203.jpg)
-![](/images/JSD4-Photo%204.jpg)
-![](/images/JSD5-Photo%2012.jpg)
-![](/images/JSD6-Photo%205.jpg)
-![](/images/JSD7-Photo%206.jpg)
-![](/images/JSD8-Photo%207.jpg)
-![](/images/JSD9-Photo%208.jpg)
-![](/images/JSD10-Photo%209.jpg)
-![](/images/JSD11-Photo%2010.jpg)
-![](/images/JSD12-Photo%2011.jpg)
+
