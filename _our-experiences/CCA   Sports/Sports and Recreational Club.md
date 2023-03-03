@@ -18,4 +18,4 @@ On 15 March 2022, SRC embarked on a short cycling expedition to Jurong Central P
 
 |   |   |    |   
 |---|---|---|    
-|  <center></center> | <center></center> | <center></center> |  
+|  <center>Compulsory photo at main entrance to Jurong Central Park</center> | <center>Breakfast in the Park</center> | <center>Exploring the Park!</center> |
