@@ -12,10 +12,14 @@ The thrilling sport of Dragonboat racing calls for teamwork, physical prowess, a
 
 |   |   |
 |---|---|
-|  ![](/images/JSD1-Photo%201.jpg)<center></center> | ![](/images/JSD2-Photo%202.jpg)<center></center> |
+|  ![](/images/JSD1-Photo%201.jpg)<center>Training at Jurong Lake with our coach  
+to develop rowing skills and knowledge</center> | ![](/images/JSD2-Photo%202.jpg)<center>Battlerope exercises help to build muscular strength and improve cardio-respiratory fitness</center> |
+
 |   |   |
 |---|---|
-| ![](/images/JSD3-Photo%203.jpg) <center></center> | ![](/images/JSD4-Photo%204.jpg)<center></center> |
+| ![](/images/JSD3-Photo%203.jpg) <center>Tire exercises help to build muscle  
+and develop endurance</center> | ![](/images/JSD4-Photo%204.jpg)<center>Proper warm-up and stretching exercises are necessary to prevent injuries during training</center> |
+
 |   |   |
 |---|---|
 | ![](/images/JSD5-Photo%2012.jpg) <center></center> |![](/images/JSD6-Photo%205.jpg) <center></center> |
@@ -28,6 +32,3 @@ The thrilling sport of Dragonboat racing calls for teamwork, physical prowess, a
 |   |   |
 |---|---|
 | ![](/images/JSD11-Photo%2010.jpg) <center></center> | ![](/images/JSD12-Photo%2011.jpg) <center></center> |
-
-
-
