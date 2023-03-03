@@ -31,16 +31,15 @@ The basketball boys team of Jurong Secondary School works hard to uphold its rep
 
 |   |   |
 |---|---|
-| ![](/images/js6_Photo%207.jpg)<center> Match against Unity Secondary </center> |![](/images/js7_Photo%208.jpg) <center>National School Game</center> |
+| ![](/images/js6_Photo%207.jpg)<center>Match against Unity Secondary</center>| ![](/images/js7_Photo%208.jpg)<center>National School Game</center> |
 
 |   |   |
 |---|---|
-|   |![](/images/js8_photo%209.jpg) <center>Finals at National School Game</center> |
+|   |![](/images/js8_photo%209.jpg)<center>Finals at National School Game</center> |
 
 |   |   |
 |---|---|
-| ![](/images/js9_Photo%204.jpg) <center> Semi –finals match during  
-National School Games </center> | ![](/images/js10_Photo%2010.jpg) <center>Team cheer Second place!!!!!!</center> |
+| ![](/images/js9_Photo%204.jpg) <center> Semi –finals match during National School Games </center> | ![](/images/js10_Photo%2010.jpg) <center>Team cheer Second place!!!!!!</center> |
 
 
 
