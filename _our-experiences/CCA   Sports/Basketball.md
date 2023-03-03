@@ -25,11 +25,13 @@ The basketball boys team of Jurong Secondary School works hard to uphold its rep
 |---|---|
 |  <center></center> | ![](/images/JS5_Photo%206.jpg) <center>Listening attentively to the coach during training</center> |
 
+|   |   |
+|---|---|
+| ![](/images/JS4_Photo%205.jpg) <center> Team Cheer !!!</center> | ![](/images/js6_Photo%207.jpg) <center> First game in National School games</center> |
 
 
-![](/images/JS4_Photo%205.jpg)
 
-![](/images/js6_Photo%207.jpg)
+
 ![](/images/js7_Photo%208.jpg)
 ![](/images/js8_photo%209.jpg)
 ![](/images/js9_Photo%204.jpg)![](/images/js10_Photo%2010.jpg)
