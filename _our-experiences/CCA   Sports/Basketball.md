@@ -23,7 +23,7 @@ The basketball boys team of Jurong Secondary School works hard to uphold its rep
 
 |   |   |
 |---|---|
-|  <center></center> | ![](/images/JS5_Photo%206.jpg) <center></center> |
+|  <center></center> | ![](/images/JS5_Photo%206.jpg) <center>Listening attentively to the coach during training</center> |
 
 
 
