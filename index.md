@@ -49,4 +49,10 @@ sections:
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
         web-share"></iframe>
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: <iframe width="320" height="440"
+        src="http://instagram.com/jurongsec/embed" frameborder="0"></iframe>
+      button: Button Text
 ---
