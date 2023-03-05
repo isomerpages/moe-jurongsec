@@ -38,8 +38,3 @@ The Jurong Screaming Eagle Scout Group aims to nurture our Scouts to become civi
 
 ![](/images/JSC5-Scouts%20opening%20ceremony.jpg)
 ![](/images/JSC6-Backwoodsman%20cooking.jpg)
-
-
-
-
-
