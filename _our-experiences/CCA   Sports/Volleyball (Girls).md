@@ -11,6 +11,7 @@ third_nav_title: CCA   Sports
 
 The Volleyball team perseveres to sustain greatness through demanding year-round trainings. A volleyball camp that is held over the March break serves to enhance the links between the players is one of the other activities in which the kids have taken part all year. Extensive training sessions at the end of the year and international excursions also help expose our players to various levels of competition.
 
-![](/images/JSV-%20Photo%201.jpg)
+|   |   |  
+|---|---|  
+| |![](/images/JSV-%20Photo%201.jpg) <center></center> | ![](/images/JSV-Photo%206.jpg)<center></center> 
 
-![](/images/JSV-Photo%206.jpg)
