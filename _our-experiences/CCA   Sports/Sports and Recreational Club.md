@@ -28,6 +28,5 @@ One of SRC’s activities is to explore photography using the beautiful scenery 
 
 |   |   |  
 |---|---|  
-|  <center></center> | <center></center> |
+| ![](/images/JSS5%20Using%20Padlet%20we%20cycled%20round%20JLG%20to%20try%20out%20and%20practice%20what%20we%20learnt%20online.png) <center>Using Padlet, we cycled round JLG to try out and practice what we learnt online! </center> | ![](/images/JSS6%20We%20then%20posted%20our%20pictures%20for%20each%20other%20to%20see%20and%20be%20inspired%20by.png) <center>We then posted our pictures for each other to see and be inspired by</center> |
 
-![](/images/JSS6%20We%20then%20posted%20our%20pictures%20for%20each%20other%20to%20see%20and%20be%20inspired%20by.png)
