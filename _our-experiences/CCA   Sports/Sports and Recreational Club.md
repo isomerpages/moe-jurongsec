@@ -26,5 +26,8 @@ On 15 March 2022, SRC embarked on a short cycling expedition to Jurong Central P
 
 One of SRC’s activities is to explore photography using the beautiful scenery available at Jurong Lake Gardens. We learnt how to use gridlines, focus, negative space and perspectives!
 
-![](/images/JSS6%20We%20then%20posted%20our%20pictures%20for%20each%20other%20to%20see%20and%20be%20inspired%20by.png)
+|   |   |  
+|---|---|  
+|  <center></center> | <center></center> |
 
+![](/images/JSS6%20We%20then%20posted%20our%20pictures%20for%20each%20other%20to%20see%20and%20be%20inspired%20by.png)
