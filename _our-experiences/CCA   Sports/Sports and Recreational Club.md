@@ -36,4 +36,8 @@ One of SRC’s activities is to explore photography using the beautiful scenery 
 
 |    |  
 |---|  
-| ![](/images/JSS%208%20Walking%20through%20the%20tall%20grass%20to%20get%20the%20best%20angles.jpg)<center>Walking through the tall grass to get the best angles!</center> | 
+| ![](/images/JSS%208%20Walking%20through%20the%20tall%20grass%20to%20get%20the%20best%20angles.jpg)<center>Walking through the tall grass to get the best angles!</center> |
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpTkNGBxGMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IcNuZ_pB-QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
