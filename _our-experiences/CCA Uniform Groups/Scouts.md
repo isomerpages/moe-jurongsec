@@ -13,28 +13,31 @@ The Jurong Screaming Eagle Scout Group aims to nurture our Scouts to become civi
 ## Jurong Screaming Eagles Scout Group
 |   |   |  
 |---|---|  
-| ![](/images/JSC1-Learning%20Journey%20to%20National%20Gallery%20SG.jpg) <center></center> | ![](/images/JSC2-Civil%20Defence%20Course.jpg)<center></center> |
+| ![](/images/JSC1-Learning%20Journey%20to%20National%20Gallery%20SG.jpg) <center>Learning Journey to National Gallery Singapore</center> | ![](/images/JSC2-Civil%20Defence%20Course.jpg)<center>Civil Defence Course</center> |
 
 |   |   |  
 |---|---|  
-|  ![](/images/JSC3-Patrol%20Leaders%20Council.jpg) <center></center> |  ![](/images/JSC4-We%20are%20Jurong%20Screaming%20Eagles.jpg)<center></center> |
+|  ![](/images/JSC3-Patrol%20Leaders%20Council.jpg) <center>Patrol Leaders' Council</center> |  ![](/images/JSC4-We%20are%20Jurong%20Screaming%20Eagles.jpg)<center>We are Jurong Screaming Eagles</center> |
 
 |   |   |  
 |---|---|  
-| <center></center> |<center></center> |
+| ![](/images/JSC5-Scouts%20opening%20ceremony.jpg)<center>Scouts Opening Ceremony</center> |![](/images/JSC6-Backwoodsman%20cooking.jpg)<center> Backwoodsman Cooking</center> |
 
 |   |   |  
 |---|---|  
-|  <center></center> | <center></center> |
+| ![](/images/JSC7-Outdoor%20cooking.jpg) <center>Outdoor cooking</center> | ![](/images/JSC8-Constructing%20pioneering%20structures.jpg)<center>Constructing Pioneering Structures</center> |
 
 |   |   |  
 |---|---|  
-|  <center></center> | <center></center> |
+| ![](/images/JCS9Overnight%20hike.jpg) <center>Overnight hike</center> |![](/images/JCS10-Campfire.jpg)<center>Campfire</center> |
 
 |   |   |  
 |---|---|  
-|  <center></center> | <center></center> |
+| ![](/images/JCS11-Pulau%20Ubin%20Day%20Trip%202022.jpg)<center>Pulau Ubin Day Trip 2022</center> |  ![](/images/JCS12-Coastal%20clean-up%20@%20East%20Coast%20Park.jpg) <center>Coastal clean-up @ East Coast Park</center> |
 
 
-![](/images/JSC5-Scouts%20opening%20ceremony.jpg)
-![](/images/JSC6-Backwoodsman%20cooking.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AnrSzI3gxaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
