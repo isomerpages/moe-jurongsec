@@ -13,5 +13,4 @@ The Volleyball team perseveres to sustain greatness through demanding year-round
 
 |   |   |  
 |---|---|  
-| |![](/images/JSV-%20Photo%201.jpg) <center></center> | ![](/images/JSV-Photo%206.jpg)<center></center> 
-
+| |![](/images/JSV-%20Photo%201.jpg) <center>After the West Zone Finals, the girls can  relax while waiting for their prize presentation</center> | ![](/images/JSV-Photo%206.jpg)<center>Restrategising while on a half-time</center>
