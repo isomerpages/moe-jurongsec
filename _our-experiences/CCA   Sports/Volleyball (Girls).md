@@ -4,7 +4,7 @@ permalink: /our-experiences/CCA-Sports/Volleyball/
 description: ""
 third_nav_title: CCA   Sports
 ---
-![](/images/JSV-Photo%209.jpg)![](/images/JSV-Photo%205.jpg)## Volleyball 
+## Volleyball 
 
 ![](/images/JSS1_Volleyball.jpg)
 <br>
@@ -19,6 +19,15 @@ The Volleyball team perseveres to sustain greatness through demanding year-round
 |---|---|  
 | ![](/images/JSV-%20Photo%202.jpg)<center>The West Zone Champions!</center> | ![](/images/JSV-%20Photo%203.jpg)<center>Dream Big and We Can Achieve it!</center> |
 
-![](/images/JSV-Photo%204.jpg)
-![](/images/JSV-Photo%208.jpg)
+|   |   |  
+|---|---|  
+| ![](/images/JSV-Photo%204.jpg) <center>Loyalty Industry Sincerity Love</center> | ![](/images/JSV-Photo%208.jpg) <center>We are the Champions!</center> |
+
+|   |   |  
+|---|---|  
+|  ![](/images/JSV-Photo%2010.jpg)<center></center> | <center></center> |
+
+|   |   |  
+|---|---|  
+|  ![](/images/JSV-Photo%209.jpg) <center></center> | ![](/images/JSV-Photo%205.jpg)<center></center> |
 
