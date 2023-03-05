@@ -18,3 +18,5 @@ The Volleyball team perseveres to sustain greatness through demanding year-round
 |   |   |  
 |---|---|  
 | ![](/images/JSV-%20Photo%202.jpg)<center>The West Zone Champions!</center> | ![](/images/JSV-%20Photo%203.jpg)<center>Dream Big and We Can Achieve it!</center> |
+
+![](/images/JSV-Photo%204.jpg)
