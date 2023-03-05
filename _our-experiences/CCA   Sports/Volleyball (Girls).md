@@ -30,4 +30,3 @@ The Volleyball team perseveres to sustain greatness through demanding year-round
 |   |   |  
 |---|---|  
 |  ![](/images/JSV-Photo%209.jpg) <center></center> | ![](/images/JSV-Photo%205.jpg)<center></center> |
-
