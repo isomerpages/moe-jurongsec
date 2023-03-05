@@ -21,12 +21,12 @@ The Volleyball team perseveres to sustain greatness through demanding year-round
 
 |   |   |  
 |---|---|  
-| ![](/images/JSV-Photo%204.jpg) <center>Loyalty Industry Sincerity Love</center> | ![](/images/JSV-Photo%208.jpg) <center>We are the Champions!</center> |
+| ![](/images/JSV-Photo%204.jpg) <center>Loyalty Industry Sincerity Love</center> |![](/images/JSV-Photo%205.jpg)<center>We are the Champions!</center> |
 
 |   |   |  
 |---|---|  
-|  ![](/images/JSV-Photo%2010.jpg)<center></center> | <center></center> |
+|Warm up before the Big Game! ![](/images/JSV-Photo%207.jpg)<center></center> | ![](/images/JSV-Photo%2010.jpg) <center>Captain leading her team in a team talk</center> |
 
 |   |   |  
 |---|---|  
-|  ![](/images/JSV-Photo%209.jpg) <center></center> | ![](/images/JSV-Photo%205.jpg)<center></center> |
+|  ![](/images/JSV-Photo%208.jpg)  <center>B girls at Training on a Saturday!</center> | ![](/images/JSV-Photo%209.jpg) <center>Focused on how to make the big break</center> |
