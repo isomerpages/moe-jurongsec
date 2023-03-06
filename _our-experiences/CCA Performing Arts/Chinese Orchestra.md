@@ -22,21 +22,23 @@ The Chinese Orchestra is a thriving performing arts CCA that places a strong emp
 |---|---|  
 | ![](/images/JS5_CO_5.png) <center></center> |![](/images/JS6_CO_6.png) <center></center> |
 
-|   |   |  
-|---|---|  
-|  ![](/images/JS7_CO_7.png)<center></center> | ![](/images/JS8_CO_8.png) <center></center> |
-
 |   |   
 |---|
-|  <center></center> | 
+|  ![](/images/JS7_CO_7.png) <center>After SYF 2021</center> | 
+
 
 |   |   |  
 |---|---|  
-|  <center></center> | <center></center> |
+|![](/images/JS8_CO_8.png) | ![](/images/JS9_CO_9.png) |
+<center>Farewell For Our Sec 4/5 Senior</center>
 
+ 
 |   |   |  
 |---|---|  
-|  <center></center> | <center></center> |
+| ![](/images/JS10_CO_10.png)  | ![](/images/JS11_CO_11.png) |
+ <center>Team Bonding Session</center>
+
+
 Combined Practice 
 
 
@@ -48,6 +50,5 @@ String Sectional Practice
 
 
 
-![](/images/JS9_CO_9.png)
-![](/images/JS10_CO_10.png)
-![](/images/JS11_CO_11.png)
+
+
