@@ -12,11 +12,13 @@ The Chinese Orchestra is a thriving performing arts CCA that places a strong emp
 
 |   |   |  
 |---|---|  
-| ![](/images/JS1_CO_1.png) <center></center> |  ![](/images/JS2_CO_2.png)  <center></center> |
+| ![](/images/JS1_CO_1.png) |  ![](/images/JS2_CO_2.png)   |
+
+<center>Combined Practice</center>
 
 |   |   |  
 |---|---|  
-| ![](/images/JS3_CO_3.png) <center></center> |  ![](/images/JS4_CO_4.png) <center></center> |
+| ![](/images/JS3_CO_3.png) <center>String Sectional Practice</center> |  ![](/images/JS4_CO_4.png) <center>Plucking Sectional Practice</center> |
 
 |   |   |  
 |---|---|  
@@ -39,9 +41,3 @@ The Chinese Orchestra is a thriving performing arts CCA that places a strong emp
  <center>Team Bonding Session</center>
 
 
-Combined Practice 
-
-
-
-String Sectional Practice
-	Plucking Sectional Practice
