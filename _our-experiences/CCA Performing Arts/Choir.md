@@ -17,7 +17,7 @@ The Jurong Chorale participated in the first-ever SYF online in 2021, recording 
 
 |   |   |   |  
 |---|---|---|  
-|  <center>Choir practice for National Day</center> | <center>Farewell to our dear seniors</center> | <center>Bonding games</center> |
+| ![](/images/JS4Choir_4.jpg) <center>Choir practice for National Day</center> | ![](/images/JS5-Choir_5.jpg)<center>Farewell to our dear seniors</center> | ![](/images/JS6-Choir_7.jpg)<center>Bonding games</center> |
 
 
 |   |   |   |  
