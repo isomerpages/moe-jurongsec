@@ -20,7 +20,7 @@ The Chinese Orchestra is a thriving performing arts CCA that places a strong emp
 
 |   |   |  
 |---|---|  
-| ![](/images/JS5_CO_5.png) <center></center> |![](/images/JS6_CO_6.png) <center></center> |
+| ![](/images/JS5_CO_5.png) <center>Tuning before SYF 2021 </center> |![](/images/JS6_CO_6.png) <center>SYF 2021</center> |
 
 |   |   
 |---|
@@ -44,11 +44,4 @@ Combined Practice
 
 
 String Sectional Practice
-	Plucking Sectional Practice 
-
-
-
-
-
-
-
+	Plucking Sectional Practice
