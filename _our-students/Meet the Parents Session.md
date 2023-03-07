@@ -11,7 +11,7 @@ Please click on the link below to download the slides for the session.
 
 #### Sec 3 Meet the Parents Session   
 The Sec 3 Meet the Parents Session was held on the 3 Mar 2023 from 6:00 pm to 7:30 pm.  
-
+[2023 Sec 3 MTP Main Session Slides](/files/2023%20Sec3%20MTP%20Main%20Session%20Slides%20(Website).pdf)<br>
 [ECG Segment 2023_Poly](/files/ECG%20Segment%202023_Poly.pdf)<br>
 [ECG Segment 2023_ITE](/files/ECG%20Segment%202023_ITE.pdf)<br>[ECG Segment 2023_JC](/files/ECG%20Segment%202023_JC.pdf)
 
