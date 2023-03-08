@@ -61,7 +61,7 @@ third_nav_title: Academic Programmes
   </tr>
   <tr>
     <td class="tg-f4yw">Senior Teacher – Chemistry</td>
-    <td class="tg-zr06">Ms Julianah Johar</td>
+    <td class="tg-zr06">Ms Julianah Johar-Astapura</td>
     <td class="tg-lm8h"><a href="mailto:julianah_johar@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">julianah_johar@moe.edu.sg</span></a></td>
   </tr>
   <tr>
