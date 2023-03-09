@@ -12,7 +12,7 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 
 |   |   |  
 |---|---|  
-|  <center></center> | <center></center> |
+| ![](/images/JSJ1_Symphonic%20Band_1.jpg) | ![](/images/JSJ2_Symphonic%20Band_2.jpg) |<center>JSB Main Band Practice</center> 
 |   |   |  
 |---|---|  
 |  <center></center> | <center></center> |
@@ -27,4 +27,4 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 |  <center></center> | <center></center> |
 |   |   |  
 |---|---|  
-|  <center></center> | <center></center> |![](/images/JSJ1_Symphonic%20Band_1.jpg)
+|  <center></center> | <center></center> |
