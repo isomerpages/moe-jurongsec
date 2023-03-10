@@ -4,9 +4,6 @@ permalink: /cca/Performing-Arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
-
 |   |   |  
 |---|---|  
 | ![](/images/JSSB3.png) <center>JSB Teachers’ Day Performance (via Zoom)</center> | ![](/images/JSSB4.jpg) <center>JSB Community Performance with Taman Jurong CCC</center> |
@@ -21,11 +18,11 @@ third_nav_title: Performing Arts
 
 |   |   |  
 |---|---|  
-| ![](/images/JSSB9.jpg) <center></center> | ![](/images/JSSB10.jpg) <center></center> |
+| ![](/images/JSSB9.jpg) <center>Farewell gathering for our graduating band members</center> | ![](/images/JSSB10.jpg) <center>JSS Learning Festival - Jurong Symphonic Band collaborates with Chinese Orchestra</center> |
 
 |   |     
 |---|
-|  <center></center> |
+|  ![](/images/JSSB11.jpg) <center>Singapore International Band Festival \- International School Exchange</center> |
 
 
 
