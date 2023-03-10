@@ -10,11 +10,11 @@ third_nav_title: Performing Arts
 
 |   |   |  
 |---|---|  
-| ![](/images/JSSB5.png) <center></center> | ![](/images/JSSB6.jpg) <center></center> |
+| ![](/images/JSSB5.png) | ![](/images/JSSB6.jpg)  |<center>Singapore Youth Festival - Arts Appreciation</center>
 
 |   |   |  
 |---|---|  
-| ![](/images/JSSB7.jpg) <center></center> | ![](/images/JSSB8.jpg) <center></center> |
+| ![](/images/JSSB7.jpg) | ![](/images/JSSB8.jpg)  | <center>National Day Parade Performance</center>
 
 |   |   |  
 |---|---|  
