@@ -23,11 +23,3 @@ third_nav_title: Performing Arts
 |   |     
 |---|
 |  ![](/images/JSSB11.jpg) <center>Singapore International Band Festival \- International School Exchange</center> |
-
-
-
-
-
-
-
-
