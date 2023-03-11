@@ -16,58 +16,46 @@ third_nav_title: CCA Club and Societies
 
 |   |   |   |
 |---|---|---|
-| ![](/images/JSE1.jpeg)  | ![](/images/JSE2.jpeg)  | ![](/images/JSE3.jpeg) |
+|![](/images/JSE1.jpeg)|![](/images/JSE2.jpeg)|![](/images/JSE3.jpeg)|
 
   
 
 |   |   
 |---|
-| ![](/images/JSE4.jpeg) |
+|![](/images/JSE4.jpeg)|
 
   
   
-
 |   |   |  
 |---|---|  
 | ![](/images/JSE5.jpeg) | ![](/images/JSE6.jpeg) |
 
   
-  
 
+|   |   |  
+|---|---|  
+|![](/images/JSE7.jpeg)|![](/images/JSE8.jpeg)|
+
+  
+  
+|   |
+|---|
+|![](/images/JSE9.jpeg)| 
+
+  
+  
 |   |   |  
 |---|---|  
-|![](/images/JSE7.jpeg) |![](/images/JSE8.jpeg)  |
+|![](/images/JSE10.jpeg)|![](/images/JSE11.jpeg)|
 
-  
-  
+   
 
 |   |
 |---|
-|  ![](/images/JSE9.jpeg) | 
+|![](/images/JS12.jpeg)|
 
   
   
-
 |   |   |  
-
 |---|---|  
-
-| ![](/images/JSE10.jpeg) |![](/images/JSE11.jpeg)  |
-
-  
-  
-
-|   |
-
-|---|
-
-| ![](/images/JS12.jpeg)  |
-
-  
-  
-
-|   |   |  
-
-|---|---|  
-
-|  ![](/images/JSE14.jpeg) | ![](/images/JSE15.jpeg) |
+|![](/images/JSE14.jpeg)|![](/images/JSE15.jpeg)|
