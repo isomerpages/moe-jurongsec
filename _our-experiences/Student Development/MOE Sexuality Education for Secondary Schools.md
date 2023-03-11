@@ -309,3 +309,49 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
   </tr>
 </tbody>
 </table>
+
+
+<center><b>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</b></center>
+
+
+### <center><b>SECONDARY 5</b></center>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 433px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-9v3b">UNIT</th>
+    <th class="tg-dgl5">Lesson Title</th>
+    <th class="tg-dgl5">Lesson Overview</th>
+    <th class="tg-dgl5">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-dgl5">Time Period<br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Respectful Relationships &amp; Safety</td>
+    <td class="tg-ktyi">This is Where I Draw the Line<br>(60 mins)<br> </td>
+    <td class="tg-7yig">In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.<br> </td>
+    <td class="tg-7yig">·         understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+    <td class="tg-ktyi">Term 2 Week </td>
+  </tr>
+</tbody>
+</table>
