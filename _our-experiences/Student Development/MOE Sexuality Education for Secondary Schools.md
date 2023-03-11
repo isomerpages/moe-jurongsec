@@ -69,3 +69,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 <b>At Jurong Secondary School, the following Sexuality Education lessons will be taught in <u>2023</u>:</b>
 
 
+  <center><img style="width:45%" src="">/images/MOE%20logo.jpg</center> 
