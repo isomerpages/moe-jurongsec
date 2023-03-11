@@ -75,3 +75,55 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
  <center><b>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</b></center> 	
 
 ### <center><b>SECONDARY 1</b></center>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jm1k{background-color:#FFF;font-size:18px;text-align:center;vertical-align:top}
+.tg .tg-u1tc{background-color:#FFF;border-color:inherit;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-z4dn{background-color:#FFF;font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-pzve{background-color:#FFF;font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1360px">
+<colgroup>
+<col style="width: 222px">
+<col style="width: 167px">
+<col style="width: 437px">
+<col style="width: 429px">
+<col style="width: 105px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-u1tc">Unit</th>
+    <th class="tg-z4dn">Lesson Title / Duration</th>
+    <th class="tg-z4dn">Lesson Overview</th>
+    <th class="tg-z4dn">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-z4dn">Time Period<br> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pzve" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
+    <td class="tg-pzve">Steady or Not<br>Lesson 1<br>(60 mins)</td>
+    <td class="tg-pzve">This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.<br> <br> </td>
+    <td class="tg-pzve">·         recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·         recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·         recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·         understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td class="tg-pzve">Term 2 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-pzve">Being Aware, Being Safe<br>Lesson 2<br>(60 mins)</td>
+    <td class="tg-pzve">This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. <br> <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br> </td>
+    <td class="tg-pzve">·         understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-pzve">Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-pzve">More than Meets the Eye<br>Lesson 3<br>(60 mins)</td>
+    <td class="tg-pzve">This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.<br> <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-pzve">·         understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·         recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-jm1k">Term 3 Week </td>
+  </tr>
+</tbody>
+</table>
