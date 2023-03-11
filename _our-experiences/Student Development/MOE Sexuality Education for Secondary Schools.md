@@ -249,6 +249,63 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 
 
-### <center><b>SECONDARY 4</b></center> 
+### <center><b>SECONDARY 4</b></center>
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 456px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-9v3b">Unit</th>
+    <th class="tg-1wig">Lesson Title</th>
+    <th class="tg-1wig">Lesson Overview</th>
+    <th class="tg-1wig">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-1wig">Time Period<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-0lax">Levelling the Ground Lesson 1<br>(60 mins)</td>
+    <td class="tg-0lax">This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.<br> </td>
+    <td class="tg-0lax">·         understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity<br>·         understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations<br>·         know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided<br> </td>
+    <td class="tg-0lax">Term 1 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">When Love Hurts<br>Lesson 2<br>(60 mins)</td>
+    <td class="tg-0lax">This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.<br> </td>
+    <td class="tg-0lax">·         know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support<br>·         recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims<br>·         understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being<br>·         understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship<br> </td>
+    <td class="tg-0lax">Term 2 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">For Better or For Worse<br>Lesson 3<br>(60 mins)</td>
+    <td class="tg-0lax">This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other. </td>
+    <td class="tg-0lax">·         know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions<br>·         know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort<br>·         understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage<br> </td>
+    <td class="tg-baqh">Term 2 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"> </td>
+    <td class="tg-baqh">There’s Always More to a Story<br>Lesson 4<br>(60 mins)</td>
+    <td class="tg-0lax">In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.</td>
+    <td class="tg-0lax">·           understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs</td>
+    <td class="tg-0lax">Term 2 Week 5</td>
+  </tr>
+</tbody>
+</table>
