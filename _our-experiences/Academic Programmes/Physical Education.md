@@ -4,8 +4,6 @@ permalink: /our-experiences/Academic-Programmes/PE/
 description: ""
 third_nav_title: Academic Programmes
 ---
-
-
 ## Physical Education
 
 <br>
@@ -25,9 +23,9 @@ third_nav_title: Academic Programmes
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1606px">
 <colgroup>
-<col style="width: 420px">
-<col style="width: 594px">
-<col style="width: 592px">
+<col style="width: 198px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
