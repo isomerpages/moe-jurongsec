@@ -30,7 +30,7 @@ third_nav_title: Academic Programmes
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-x8ce">HOD English<br></th>
+    <th class="tg-x8ce">HO English<br></th>
     <th class="tg-od4g">Mrs Farhain Aidil<br></th>
     <th class="tg-nd0w"><a href="mailto:farhain_ahmad_bustami@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">farhain_ahmad_bustami@moe.edu.sg</span></a></th>
   </tr>
