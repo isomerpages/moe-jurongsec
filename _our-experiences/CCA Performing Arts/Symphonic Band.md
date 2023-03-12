@@ -12,8 +12,6 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 
 
 
-
-
 |   |   |  
 |---|---|  
 | ![](/images/JSJ1_Symphonic%20Band_1.jpg) | ![](/images/JSJ2_Symphonic%20Band_2.jpg) |
@@ -21,7 +19,7 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 
 |   |   |  
 |---|---|  
-| ![](/images/JSJ3.png) <center>JSB Teachers’ Day Performance (via Zoom)</center> | ![](/images/JSJ4.jpg)<center>JSB Community Performance with Taman Jurong CCC</center> |
+| ![](/images/JSJ3.png)<center>JSB Teachers’ Day Performance (via Zoom)</center>| ![](/images/JSJ4.jpg)<center>JSB Community Performance with Taman Jurong CCC</center> |
 
 |   |   |  
 |---|---|  
@@ -35,8 +33,8 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 
 |   |   |  
 |---|---|  
-| ![](/images/JSJ9.jpg) <center>Farewell gathering for our graduating band members</center> | ![](/images/JSJ10.jpg) <center>JSS Learning Festival - Jurong Symphonic Band collaborates with Chinese Orchestra</center> |
+| ![](/images/JSJ9.jpg)<center>Farewell gathering for our graduating band members</center> | ![](/images/JSJ10.jpg)<center>JSS Learning Festival - Jurong Symphonic Band collaborates with Chinese Orchestra</center> |
 
 |   |  
 |---|
-| ![](/images/JSJ11.jpg) <center>Singapore International Band Festival \- International School Exchange</center> |
+| ![](/images/JSJ11.jpg)<center>Singapore International Band Festival \- International School Exchange</center> |
