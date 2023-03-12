@@ -11,6 +11,7 @@ third_nav_title: CCA Uniform Groups
 The Jurong Screaming Eagle Scout Group aims to nurture our Scouts to become civic-minded individuals via hands-on learning experiences that are in line with the Scout Method. Our Scouts typically engage in core scouting skills like pioneering, campcraft, outdoor cooking and orienteering. As part of the four-year Diamond Jubilee Challenge launched by the Singapore Scout Association, there are opportunities for our Scouts to participate in learning journeys and community engagement activities. 4 of our Scouts attained the Chief Commissioner’s Award in 2022, which is the highest honor for the Scout section.
 
 ## Jurong Screaming Eagles Scout Group
+
 |   |   |  
 |---|---|  
 | ![](/images/JSC1-Learning%20Journey%20to%20National%20Gallery%20SG.jpg) <center>Learning Journey to National Gallery Singapore</center> | ![](/images/JSC2-Civil%20Defence%20Course.jpg)<center>Civil Defence Course</center> |
@@ -38,6 +39,3 @@ The Jurong Screaming Eagle Scout Group aims to nurture our Scouts to become civi
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AnrSzI3gxaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
