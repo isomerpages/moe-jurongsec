@@ -22,9 +22,9 @@ third_nav_title: Academic Programmes
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 904px">
 <colgroup>
-<col style="width: 342px">
-<col style="width: 259px">
-<col style="width: 303px">
+<col style="width: 198px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
@@ -159,9 +159,9 @@ Some of the features of the JSS Lower Secondary Science course include:
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 970px">
 <colgroup>
-<col style="width: 300 px">
-<col style="width: 220px">
-<col style="width: 200px">
+<col style="width: 198 px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
