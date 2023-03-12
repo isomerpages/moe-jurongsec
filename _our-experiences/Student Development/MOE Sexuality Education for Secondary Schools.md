@@ -146,12 +146,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 150px">
-<col style="width: 150px">
-<col style="width: 150px">
+<col style="width: 180px">
+<col style="width: 180px">
 <col style="width: 150px">
 </colgroup>
 <thead>
@@ -203,13 +203,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
 <colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 180px">
+<col style="width: 180px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -262,13 +262,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
 <colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 180px">
+<col style="width: 180px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -327,13 +327,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
 <colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 180px">
+<col style="width: 180px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
