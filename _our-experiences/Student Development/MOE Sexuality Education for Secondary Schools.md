@@ -354,3 +354,72 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
   </tr>
 </tbody>
 </table>
+
+#### eTeens Programme:
+
+
+8.  **_eTeens_** is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. **_eTeens_** is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+  
+
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the **_eTeens_** programme is that students are empowered to make wise, informed and sensible decisions.
+
+  
+
+**At Jurong Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-odfo{background-color:#FFF;border-color:inherit;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 736px">
+<colgroup>
+<col style="width: 221px">
+<col style="width: 272px">
+<col style="width: 243px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-odfo">Topics/Lessons<br></th>
+    <th class="tg-9hzb">Programme Learning Objectives<br></th>
+    <th class="tg-9hzb">Time Period<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f4yw">Mass Talk by HPB appointed vendor<br></td>
+    <td class="tg-ktyi">Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV</td>
+    <td class="tg-f4yw">Term 4 Week 7<br>(End Year Post Exam)</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">Classroom-based Lesson<br></td>
+    <td class="tg-ktyi">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-f4yw">Term 4 Week 7<br></td>
+  </tr>
+</tbody>
+</table>
+
+
+#### Information for Parents
+
+
+10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+  
+
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://jurongsec.moe.edu.sg/qql/slot/u184/2023%20Documents/Annex%20A.docx). The completed form is to be submitted by 03/02/2023.
+
+  
+
+12.  Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://jurongsec.moe.edu.sg/qql/slot/u184/2023%20Documents/Annex%20B.docx). The completed form is to be submitted by 03/02/2023.
+
+  
+
+13.  Parents can contact the school at [jurong\_ss@moe.edu.sg](mailto:jurong_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
