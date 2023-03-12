@@ -32,10 +32,12 @@ The Chinese Orchestra is a thriving performing arts CCA that places a strong emp
 |   |   |  
 |---|---|  
 |![](/images/JS8_CO_8.png) | ![](/images/JS9_CO_9.png) |
+
 <center>Farewell For Our Sec 4/5 Senior</center>
 
  
 |   |   |  
 |---|---|  
 | ![](/images/JS10_CO_10.png)  | ![](/images/JS11_CO_11.png) |
+ 
  <center>Team Bonding Session</center>
