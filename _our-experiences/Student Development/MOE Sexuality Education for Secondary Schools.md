@@ -90,11 +90,11 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
@@ -148,11 +148,11 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
-<col style="width: 100px">
-<col style="width: 100px">
-<col style="width: 100px">
-<col style="width: 100px">
-<col style="width: 100px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
+<col style="width: 150px">
 </colgroup>
 <thead>
   <tr>
