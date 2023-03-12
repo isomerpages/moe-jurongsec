@@ -23,9 +23,9 @@ third_nav_title: Academic Programmes
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1586px">
 <colgroup>
-<col style="width: 415px">
-<col style="width: 587px">
-<col style="width: 584px">
+<col style="width: 198px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
