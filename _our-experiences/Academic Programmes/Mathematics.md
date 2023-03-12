@@ -4,8 +4,6 @@ permalink: /our-experiences/Academic-Programmes/Mathematics/
 description: ""
 third_nav_title: Academic Programmes
 ---
-
-
 # Mathematics 
 <br>
 
@@ -24,9 +22,9 @@ third_nav_title: Academic Programmes
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1368px">
 <colgroup>
-<col style="width: 358px">
-<col style="width: 506px">
-<col style="width: 504px">
+<col style="width: 198px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
