@@ -26,7 +26,7 @@ The Chinese Orchestra is a thriving performing arts CCA that places a strong emp
 
 |   |   
 |---|
-|  ![](/images/JS7_CO_7.png) <center>After SYF 2021</center> | 
+| ![](/images/JS7_CO_7.png)<center>After SYF 2021</center>| 
 
 
 |   |   |  
@@ -39,5 +39,3 @@ The Chinese Orchestra is a thriving performing arts CCA that places a strong emp
 |---|---|  
 | ![](/images/JS10_CO_10.png)  | ![](/images/JS11_CO_11.png) |
  <center>Team Bonding Session</center>
-
-
