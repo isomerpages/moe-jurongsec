@@ -23,7 +23,7 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 
 |   |   |  
 |---|---|  
-| ![](/images/JSJ5.png) | ![](/images/JSJ6.jpg) | 
+|![](/images/JSJ5.png) |![](/images/JSJ6.jpg) | 
 <center>Singapore Youth Festival - Arts Appreciation</center> 
 
 |   |   |  
