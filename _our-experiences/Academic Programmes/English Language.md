@@ -10,9 +10,9 @@ third_nav_title: Academic Programmes
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-od4g{background-color:#FFF;border-color:inherit;color:#323232;text-align:left;vertical-align:middle}
 .tg .tg-nd0w{background-color:#FFF;border-color:inherit;color:#B21D00;text-align:left;text-decoration:underline;vertical-align:top}
@@ -22,7 +22,7 @@ third_nav_title: Academic Programmes
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-lm8h{background-color:#FFF;color:#B21D00;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 957px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 70px">
 <col style="width: 70px">
@@ -145,9 +145,9 @@ Our English Language Department uses the communicative approach to language lear
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-8g4u{background-color:#FFF;border-color:inherit;color:#000000;font-weight:bold;text-align:center;text-decoration:underline;
   vertical-align:top}
@@ -155,7 +155,7 @@ Our English Language Department uses the communicative approach to language lear
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 947px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 181px">
 <col style="width: 256px">
