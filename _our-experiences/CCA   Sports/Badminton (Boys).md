@@ -15,7 +15,7 @@ The Badminton team's JSS spirit was unaffected by Covid-19. Despite the difficul
 
 |   |   |
 |---|---|
-| ![](/images/JS1_B%20division%20West%20zone%20boys%202nd%20runner%20up%20group.jpeg)  |![](/images/JS2_Congratulation%20on%20clinching%202022%20West%20Zone%20B%20Division%20boys%202nd%20runner%20up.jpeg) |
+| ![](/images/JS1_B%20division%20West%20zone%20boys%202nd%20runner%20up%20group.jpeg)  |![](/images/JS2_Congratulation%20on%20clinching%202022%20West%20Zone%20B%20Division%20boys%202nd%20runner%20up.jpeg)|
 
 
 |   |   |
