@@ -16,7 +16,8 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 
 |   |   |  
 |---|---|  
-| ![](/images/JSJ1_Symphonic%20Band_1.jpg) | ![](/images/JSJ2_Symphonic%20Band_2.jpg) |<center>JSB Main Band Practice</center> 
+| ![](/images/JSJ1_Symphonic%20Band_1.jpg) | ![](/images/JSJ2_Symphonic%20Band_2.jpg) |
+<center>JSB Main Band Practice</center> 
 
 |   |   |  
 |---|---|  
@@ -24,11 +25,13 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 
 |   |   |  
 |---|---|  
-| ![](/images/JSJ5.png) | ![](/images/JSJ6.jpg) | <center>Singapore Youth Festival - Arts Appreciation</center> 
+| ![](/images/JSJ5.png) | ![](/images/JSJ6.jpg) | 
+<center>Singapore Youth Festival - Arts Appreciation</center> 
 
 |   |   |  
 |---|---|  
-| ![](/images/JSJ7.jpg) | ![](/images/JSJ8.jpg) | <center>National Day Parade Performance</center>
+| ![](/images/JSJ7.jpg) | ![](/images/JSJ8.jpg) | 
+<center>National Day Parade Performance</center>
 
 |   |   |  
 |---|---|  
