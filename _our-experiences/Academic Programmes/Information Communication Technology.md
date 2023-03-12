@@ -4,8 +4,6 @@ permalink: /our-experiences/Academic-Programmes/ICT/
 description: ""
 third_nav_title: Academic Programmes
 ---
-
-
 ## Information Communication Technology
 <br>
 
@@ -26,9 +24,9 @@ third_nav_title: Academic Programmes
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 1062px">
 <colgroup>
-<col style="width: 278px">
-<col style="width: 393px">
-<col style="width: 391px">
+<col style="width: 198px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
