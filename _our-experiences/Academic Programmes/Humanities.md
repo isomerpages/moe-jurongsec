@@ -12,9 +12,9 @@ third_nav_title: Academic Programmes
  <br>
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-dljz{background-color:#FFF;border-color:inherit;color:#B21D00;font-weight:bold;text-align:left;text-decoration:underline;
   vertical-align:top}
@@ -24,11 +24,11 @@ third_nav_title: Academic Programmes
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-lm8h{background-color:#FFF;color:#B21D00;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 982px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 198px">
-<col style="width: 320px">
-<col style="width: 320px">
+<col style="width: 70px">
+<col style="width: 70px">
+<col style="width: 70px">
 </colgroup>
 <thead>
   <tr>
@@ -123,20 +123,20 @@ Students undergoing the JSS Humanities learning experience will:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-jb5e{background-color:#FFF;border-color:inherit;color:#000000;font-weight:bold;text-align:center;text-decoration:underline;
   vertical-align:middle}
 .tg .tg-us5t{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 987px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 198px">
-<col style="width: 320px">
-<col style="width: 320px">
+<col style="width: 70px">
+<col style="width: 70px">
+<col style="width: 70px">
 </colgroup>
 <thead>
   <tr>
