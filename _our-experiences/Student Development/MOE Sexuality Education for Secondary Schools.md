@@ -55,7 +55,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
       b. Character and Citizenship Education (CCE)
 			
 
-<b><u>Sexuality Education Lessons</b></u>
+<b><u>Sexuality Education Lessons</u></b>
 
 6.  The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
 
@@ -68,7 +68,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 <b>At Jurong Secondary School, the following Sexuality Education lessons will be taught in <u>2023</u>:</b>
 
 
-  <center><img style="width:45%" src="/images/MOE%20logo.jpg"></center>
+  <center><img style="width:25%" src="/images/MOE%20logo.jpg"></center>
 	
 	
  <center><b>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</b></center> 	
@@ -88,7 +88,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 200px">
@@ -146,7 +146,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 420px">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 200px">
@@ -203,7 +203,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 420px">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 200px">
@@ -262,7 +262,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-9v3b{background-color:#FFF;border-color:inherit;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 420px">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 200px">
@@ -327,7 +327,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 420px">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
 <col style="width: 200px">
 <col style="width: 200px">
