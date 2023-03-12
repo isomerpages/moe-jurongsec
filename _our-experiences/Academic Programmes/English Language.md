@@ -155,12 +155,12 @@ Our English Language Department uses the communicative approach to language lear
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 181px">
-<col style="width: 256px">
-<col style="width: 255px">
-<col style="width: 255px">
+<col style="width: 70px">
+<col style="width: 70px">
+<col style="width: 70px">
+<col style="width: 70px">
 </colgroup>
 <thead>
   <tr>
