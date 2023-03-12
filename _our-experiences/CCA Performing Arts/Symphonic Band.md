@@ -24,11 +24,11 @@ Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in s
 
 |   |   |  
 |---|---|  
-| ![](/images/JSJ5.png) <center></center> | ![](/images/JSJ6.jpg)<center></center> |
+| ![](/images/JSJ5.png) | ![](/images/JSJ6.jpg) | <center>National Day Parade Performance</center>
 
 |   |   |  
 |---|---|  
-| [](/images/JSJ7.jpg) <center>Farewell gathering for our graduating band members</center> | ![](/images/JSJ8.jpg)<center>JSS Learning Festival - Jurong Symphonic Band collaborates with Chinese Orchestra</div></td></tr></tbody></table></center> |
+| ![](/images/JSJ7.jpg) <center>Farewell gathering for our graduating band members</center> | ![](/images/JSJ8.jpg)<center>JSS Learning Festival - Jurong Symphonic Band collaborates with Chinese Orchestra</div></td></tr></tbody></table></center> |
 
 |   |  
 |---|
