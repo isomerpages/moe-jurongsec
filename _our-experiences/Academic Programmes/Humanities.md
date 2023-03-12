@@ -4,7 +4,6 @@ permalink: /our-experiences/Academic-Programmes/humanities/
 description: ""
 third_nav_title: Academic Programmes
 ---
-
 # Humanities
  <br>
  
@@ -27,9 +26,9 @@ third_nav_title: Academic Programmes
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 982px">
 <colgroup>
-<col style="width: 257px">
-<col style="width: 363px">
-<col style="width: 362px">
+<col style="width: 198px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
@@ -104,6 +103,7 @@ third_nav_title: Academic Programmes
 </table>
 
 <br>
+
 ## Our Learning Approach
 
 
@@ -134,9 +134,9 @@ Students undergoing the JSS Humanities learning experience will:
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 987px">
 <colgroup>
-<col style="width: 258px">
-<col style="width: 365px">
-<col style="width: 364px">
+<col style="width: 198px">
+<col style="width: 320px">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
