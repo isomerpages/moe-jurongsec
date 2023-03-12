@@ -90,7 +90,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
-<col style="width: 90px">
+<col style="width: 150px">
 <col style="width: 90px">
 <col style="width: 180px">
 <col style="width: 180px">
