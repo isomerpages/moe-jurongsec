@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Cover Test 7.png
+      background: /images/JSS Cover Gif Final.gif
       url: /contact-us/
       key_highlights:
         - title: Concerned Citizen
