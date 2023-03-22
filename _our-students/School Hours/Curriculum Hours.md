@@ -10,3 +10,6 @@ Please click on the links below to view the class time-tables for both Even and 
 
 [2023 Sem 1 ODD Week Class Timetable](/files/2023%20Sem%201%20ODD%20Class%20(1).pdf)<br>
 [2023 Sem 1 EVEN Week Class Timetable](/files/2023%20Sem%201%20EVEN%20Class.pdf)
+
+
+	
