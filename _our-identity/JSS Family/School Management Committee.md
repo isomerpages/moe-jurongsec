@@ -33,7 +33,7 @@ third_nav_title: JSS Family
 | Level Team | Year Head <br><br>Asst Year Head (Sec 1) <br><br><br> Year Head (Sec 2) <br><br><br> Asst Year Head (Sec 3) <br><br> Asst Year Head (Sec 4&5) | Aaron Tang Wei Lun <br><br> Ms Hannah Wen Cuiyan <br><br> Ms Norliyana Bte Matin <br><br> Mr Chua Syin Thian <br><Br> Mr Faydzully|
 | Character and Citizenship Education | HOD Character and Citizenship Education  | Mr Stanley Tan  |
 |  Physical Education | HOD Physical Education & Co-Curricular Activities <br><br> SH Physical Education & Co-Curricular Activities | Mr Nur Qarnain Bin Hussin <br><br>Ms Ong Wei Chen |
-| Student Management  | SH Student Management  | Ms Phua Shih Wen   |
+| Student Management  | HOD Student Management  | Mr Phlip Wan Wei Meng   |
 | | | |
 
 ### Support Team (For teaching and learning and student development)
