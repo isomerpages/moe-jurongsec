@@ -31,10 +31,9 @@ Secondary 4 and 5 students will be sitting for their Graduation Examinations 1 a
 ### Schedule of Weighted Assessment for Semester 2
 
 You can download the schedules from the links below:  
-  
-[2022 Sem 2 Sec1 WA Schedule PDF.pdf](/files/2022%20Sem%202%20Sec1%20WA%20Schedule%20PDF.pdf) <br>
-[2022 Sem 2 Sec2 WA Schedule PDF.pdf](/files/2022%20Sem%202%20Sec2%20WA%20Schedule%20PDF.pdf) <br>
-[2022 Sem 2 Sec3 WA Schedule PDF.pdf](/files/2022%20Sem%202%20Sec3%20WA%20Schedule%20PDF.pdf)
+[2023 Sem 1 Sec 1 WA Schedule](/files/2023%20Sem1%20Sec1%20WA%20PN%20FINAL.pdf)<br>
+[2023 Sem 1 Sec 2 WA Schedule](/files/2023%20Sem%201%20Sec2%20WA%20PN%20(1).pdf)<br>[2023 Sem 1 Sec 3 WA Schedule](/files/2023%20Sem1%20Sec3%20WA%20PN%20Updated.pdf)<br>[2023 Sem 1 Sec 4 & 5 WA Schedule](/files/2023%20Sem%201%20Sec45%20WA%20PN%20(1).pdf)
+
 
 ### Sec 1 Exam Topics and Timetable for End-of-Year Examination
 
