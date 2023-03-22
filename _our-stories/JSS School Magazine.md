@@ -9,3 +9,5 @@ Please click below to download the JSS School Magazine.
 [Jurong Secondary School Magazine 2022](https://drive.google.com/drive/folders/1t47SeMkNuCiNaKMpzcngQODgtnINaTGL?usp=sharing)
 
 Please wait patiently as the magazine downloads completely.
+
+<center> Updated 22 Mar 2023
