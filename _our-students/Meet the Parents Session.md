@@ -25,12 +25,9 @@ The Sec 3 Meet the Parents Session was held on the 3 Mar 2023 from 6:00 pm to 7:
 #### Sec 1 Meet the Parents Session  
   
 The Secondary 1 Meet the Parents session was held on the 7th January 2023 (Saturday).  
-  
-Please click on the link below to download the slides for the session.  
-
-2023 Sec 1 MTP Slides 
+ 
 
   
 
 
-<center> Updated 23 Feb 2023 </center>
+<center> Updated 22 Mar 2023 </center>
