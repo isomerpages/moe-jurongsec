@@ -15,7 +15,7 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 
 
 
-**Please click here to access the [DSA E-Briefing FAQ](https://jurongsec-moe-edu-sg-admin.cwp.sg/jss-experience/dsa-admission-and-application-matters/dsa-faq)**
+**Please click here to access the[DSA FAQ](https://jurongsec.moe.edu.sg/our-experiences/dsa-admission-and-application-matters/dsa-faq/)**
 
 #### DSA Brochure
 ![](/images/DSA%20Brochure%202022%20External.png)
