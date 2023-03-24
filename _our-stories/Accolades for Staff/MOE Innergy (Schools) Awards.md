@@ -6,6 +6,9 @@ third_nav_title: Accolades for Staff
 ---
 Innovation takes effort and everyone needs recognition and encouragement to spur them on. The Innergy (Schools) Awards are given out to recognise school-based innovations in the education service.
 
+### 2022
+![](/images/Innergy%20Award%202022%201.jpg)
+
 ### 2021
 
 ![](/images/Innergy%201.jpg)
@@ -22,4 +25,4 @@ Innovation takes effort and everyone needs recognition and encouragement to spur
 
 ![](/images/INNERGY%202020.jpg)
 
-<center> Updated 29 Sep 2022 </center>
+<center> Updated 24 Mar 2023 </center>
