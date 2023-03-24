@@ -8,6 +8,12 @@ The Commendation Medal is awarded to a person who has distinguished himself thro
 
 The Long Service Medal is awarded to any person who is of irreproachable character and whom the President is satisfied and has completed at least 25 years of service in the Government
 
+### 2022
+
+![](/images/national%20day%20award%202022%201.jpg)
+
+![](/images/national%20day%20award%202022%202.jpg)
+
 ### 2021
 
 ![](/images/CM%202021-2.jpg)
@@ -20,4 +26,4 @@ The Long Service Medal is awarded to any person who is of irreproachable charact
 
 ![](/images/LSM%202020.jpg)
 
-<center> Updated 29 Sep 2022 </center>
+<center> Updated 24 Mar 2023 </center>
