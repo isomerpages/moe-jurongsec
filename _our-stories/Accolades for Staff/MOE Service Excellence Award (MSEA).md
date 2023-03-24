@@ -4,7 +4,12 @@ permalink: /our-stories/accolades-for-staff/moe-service-excellence-award-msea/
 description: ""
 third_nav_title: Accolades for Staff
 ---
-The MSEA recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness)
+![](/images/MSEA%202022%201.jpg)
+
+### 2022
+![](/images/MSEA%202022%203.jpg)
+
+![](/images/MSEA%202022%202.jpg)
 
 ### 2021
 
