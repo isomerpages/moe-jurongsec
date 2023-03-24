@@ -6,6 +6,19 @@ third_nav_title: Accolades for Staff
 ---
 ![](/images/OCA%202021%201.jpg)
 
+### 2022
+![](/images/OCA%202022%201.jpg)
+
+![](/images/OCA%202022%202.jpg)
+
+![](/images/OCA%202022%203.jpg)
+
+![](/images/OCA%202022%204.jpg)
+
+![](/images/OCA%202022%205.jpg)
+
+![](/images/OCA%202022%206.jpg)
+
 ### 2021
 
 ![](/images/OCA%202021%20Indv%201.jpg)
@@ -42,4 +55,4 @@ third_nav_title: Accolades for Staff
 
 ![](/images/OCA%20Team%20Student%20Leadership%202020.jpg)
 
-<center> Updated 29 Sep 2022 </center>
+<center> Updated 24 Mar 2023 </center>
