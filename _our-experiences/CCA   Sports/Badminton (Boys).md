@@ -10,7 +10,11 @@ third_nav_title: CCA   Sports
 
 <br>
 
-The Badminton team's JSS spirit was unaffected by Covid-19. Despite the difficulties, we have helped the team become more united, persistent, and determined. We continue to keep an eye on each player's progress both online and offline. Our lads in the "B" division demonstrated bravery, resiliency, and excellence by placing in the top 6 of the NSG West Zone Badminton Championship, which was held in March 2021. The players' strict training has also cultivated better discipline and optimistic outlooks.
+The Badminton team's JSS spirit remained unscathed by the challenges of Covid-19. Despite the hurdles, we managed to foster a greater sense of unity, persistence, and determination among the players. We have been closely monitoring each player's progress, both online and offline, to ensure that they receive the necessary support. 
+
+Our team in the "B" division exhibited exceptional courage, resilience, and proficiency by securing a spot in the top 6 of the NSG West Zone Badminton Championship, held in March 2021. The players' rigorous training has also instilled a sense of discipline and optimism in them.
+
+
 <br>
 
 |   |   |
