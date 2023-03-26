@@ -193,3 +193,5 @@ Some of the features of the JSS Lower Secondary Science course include:
   </tr>
 </tbody>
 </table>
+
+<center> Updated 26 Mar 2023 </center>
