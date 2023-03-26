@@ -9,7 +9,9 @@ third_nav_title: CCA   Sports
 
 ![](/images/JSS1%20-%20Sports%20and%20Recreational%20Club.jpg)
 
-The Sports and Recreational Club seeks to give JSS students the chance to participate in a variety of sports and other leisure pursuits. Cycling, kayaking, and rock climbing were among our previous activities. Our pupils pick up qualities like responsibility, resiliency, cooperation, and sportsmanship through these activities. We conducted a zoom presentation on safe cycling for participating residents of Taman Jurong as part of the National Day Celebration activities organized by Taman Jurong this year.
+The Sports and Recreational Club provides JSS students with opportunities to engage in a diverse range of sports and leisure activities. In the past, our activities have included cycling, kayaking, and rock climbing, among others.
+
+Through our activities, our students develop essential qualities such as responsibility, resilience, cooperation, and sportsmanship. As part of the National Day Celebration activities organized by Taman Jurong this year, we conducted a Zoom presentation on safe cycling for participating residents.
 
 ### SRC March Holidays Cycling & Breakfast to Jurong Central Park
 
@@ -41,3 +43,5 @@ One of SRC’s activities is to explore photography using the beautiful scenery 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpTkNGBxGMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IcNuZ_pB-QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<center> Updated 26 Mar 2023 </center>
