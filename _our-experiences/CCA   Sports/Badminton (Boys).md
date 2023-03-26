@@ -52,3 +52,5 @@ Our team in the "B" division exhibited exceptional courage, resilience, and prof
 
 
 ![](/images/JS12_Training%20hard.jpeg)
+
+<center> Updated 26 Mar 2023 </center>
