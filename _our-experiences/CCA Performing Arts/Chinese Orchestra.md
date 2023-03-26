@@ -41,3 +41,5 @@ The Chinese Orchestra is a vibrant performing arts CCA that values and celebrate
 | ![](/images/JS10_CO_10.png)  | ![](/images/JS11_CO_11.png) |
  
  <center>Team Bonding Session</center>
+ 
+ <center> Updated 26 Mar 2023 </center>
