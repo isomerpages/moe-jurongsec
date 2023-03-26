@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/60th%20Anniversary%20Logo.jpeg)
 
-Since its inception in 1963, Jurong Secondary School has been a school built by the community, for the community. As we turn 60 this year, we are heartened to extend our invitation to the community to celebrate this momentous occasion with us as well.
+Since its inception in 1963, Jurong Secondary School has been a school built by the community, for the community. As we turn 60 this year, we are heartened to extend our invitation to the community to celebrate this momentous occasion with us.
 
 | Events | Date |  |
 | -------- | -------- | -------- |
@@ -19,6 +19,6 @@ Whether you are a current student, an alumnus, or a member of our community, you
 
   
 
-Please click on the links to know more about our 60th Anniversary events, and how you can join us in the celebrations.
+Please click on the links on the left to know more about our 60th Anniversary events, and how you can join us in the celebrations.
 
 ![](/images/60th%20Anniversary%20Bottom%20Banner.jpeg)
