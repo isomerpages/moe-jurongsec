@@ -13,7 +13,11 @@ third_nav_title: CCA   Sports
 
 ![](/images/JS2_Basketball%20Girls.jpg)
 
-The basketball boys team of Jurong Secondary School works hard to uphold its reputation for excellence in producing hardworking and disciplined athletes through a rigorous training regimen that emphasizes improving players' abilities, attitudes, and physical fitness. Additionally, taking part in outside tournaments and going on training tours abroad expose them to competitions at all levels.
+The JSS Badminton team remained unwavering in their spirit despite the challenges posed by the Covid-19 pandemic. Our collective efforts have forged a stronger bond within the team, as we strive towards greater unity, persistence, and determination. Vigilantly monitoring each player's progress, both in-person and online, has been a key component of our approach. 
+
+Notably, our team's "B" division players demonstrated exceptional bravery, resilience, and excellence by securing a top-six finish in the NSG West Zone Badminton Championship held in March 2021. This accomplishment stands as a testament to their unwavering dedication and rigorous training regimen. 
+
+Through this rigorous training, we have instilled a sense of discipline and fostered an optimistic outlook among our players. As we look to the future, we remain committed to maintaining our high standards and pushing the boundaries of what is possible.
 
 |   |   |
 |---|---|
