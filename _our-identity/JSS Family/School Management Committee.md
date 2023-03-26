@@ -36,7 +36,7 @@ third_nav_title: JSS Family
 | Student Management  | HOD Student Management  | Mr Phlip Wan Wei Meng   |
 | | | |
 
-### Support Team (For teaching and learning and student development)
+### Support Team (For Teaching and Learning and Student Development)
 
 |  |  |
 |---|---|
@@ -47,4 +47,4 @@ third_nav_title: JSS Family
 | Admin Manager | Mdm Koh Kiat Peng |
 | | |
 
-<center> Updated 22 Mar 2023 </center>
+<center> Updated 26 Mar 2023 </center>
