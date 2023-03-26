@@ -25,3 +25,5 @@ The Jurong Chorale showcased their exceptional talent by participating in the fi
 | ![](/images/JS_Choir_6.jpg) <center>Farewell to our guest instructor</center> |![](/images/JS_Choir_8.jpg) <center>Group activities led by committee members</center> | ![](/images/JS_Choir_9.jpg) <center>Raptured audience</center> |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1LFx7bpRbYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<center> Updated 26 Mar 2023 </center>
