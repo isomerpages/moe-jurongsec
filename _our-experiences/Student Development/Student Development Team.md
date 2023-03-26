@@ -32,34 +32,39 @@ third_nav_title: Student Development
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">Year Head<br></td>
+		<td class="tg-zr06">HOD SM<br></td>
+    <td class="tg-zr06">Mr Philip Wan<br></td>
+    <td class="tg-lm8h"><a href="mailto:Wan_wei_meng@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">Wan_wei_meng@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Year Head (Upper Sec)<br></td>
     <td class="tg-zr06">Mr Aaron Tang Wei Lun<br></td>
     <td class="tg-lm8h"><a href="mailto:tang_wei_lun_aaron@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">tang_wei_lun_aaron@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Year Head (Sec 2)<br></td>
+    <td class="tg-zr06">Year Head (Lower Sec & Sec 1)<br></td>
     <td class="tg-zr06">Ms Hannah Wen Cuiyan<br></td>
     <td class="tg-lm8h"><a href="mailto:wen_cuiyan_hannah@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">wen_cuiyan_hannah@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Asst Year Head (Sec 1)<br></td>
+    <td class="tg-zr06">Asst Year Head (Sec 2)<br></td>
     <td class="tg-zr06">Ms Norliyana Bte Matin<br></td>
     <td class="tg-lm8h"><a href="mailto:norliyana_matin@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">norliyana_matin@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Asst Year Head (Sec 4&amp;5)<br></td>
+    <td class="tg-zr06">Asst Year Head (Sec 3)<br></td>
     <td class="tg-zr06">Ms Chua Syin Thian<br></td>
     <td class="tg-lm8h"><a href="mailto:chua_syin_thian@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">chua_syin_thian@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Asst Year Head (Sec 3)<br></td>
+    <td class="tg-zr06">Asst Year Head (Sec 4 & 5)<br></td>
     <td class="tg-zr06">Mr Md Faydzully<br></td>
     <td class="tg-lm8h"><a href="mailto:mohd_faydzully_mohd_razif@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">mohd_faydzully_mohd_razif@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">SH/Student Management<br></td>
-    <td class="tg-zr06">Ms Phua Shih Wen<br></td>
-    <td class="tg-lm8h"><a href="mailto:phua_shih_wen@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">phua_shih_wen@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"><br></td>
+    <td class="tg-zr06"><br></td>
+    <td class="tg-lm8h"><a href=""><span style="text-decoration:none;color:#B21D00"></span></a></td>
   </tr>
 </tbody>
 </table>
