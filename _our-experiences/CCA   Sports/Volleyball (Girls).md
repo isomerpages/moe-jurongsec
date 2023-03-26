@@ -32,3 +32,5 @@ Furthermore, extensive training sessions at the end of the year, as well as inte
 |   |   |  
 |---|---|  
 |  ![](/images/JSV-Photo%208.jpg)  <center>B girls at Training on a Saturday!</center> | ![](/images/JSV-Photo%209.jpg) <center>Focused on how to make the big break</center> |
+
+<center> Updated 26 Mar 2023 </center>
