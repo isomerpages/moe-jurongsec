@@ -8,7 +8,11 @@ third_nav_title: CCA   Sports
 
 ![](/images/JSF1-Floorball.jpg)
 
-The JSS Floorball CCA seeks to develop players that are respectful and disciplined. All of our athletes behave honorably and responsibly in their roles as student-athletes and teammates. Another unusual year is 2021. Even though our athletes did not have the opportunity to play against other schools, we are still committed to helping them grow as leaders. This year, our senior players have a bigger say in how school-wide activities like the JSS Learning Fest are organized. Additionally, our Captains are now in charge of leading the debriefings following each training session.
+The JSS Floorball CCA strives to cultivate respectful and disciplined players who exhibit exemplary conduct as student-athletes and teammates. Despite the challenges of 2021, which has been an unusual year, we remain steadfast in our commitment to help our athletes develop as leaders.
+
+Even though our athletes did not have the opportunity to compete against other schools, we have provided them with opportunities to grow their leadership skills. Our senior players now have a greater role in organizing school-wide activities such as the JSS Learning Fest, while our Captains lead the debriefing sessions following each training session.
 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3sF_s6DFLPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<center> Updated 26 Mar 2023 </center>
