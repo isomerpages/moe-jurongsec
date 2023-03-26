@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/60th%20Anniversary%20Logo.jpeg)
 
-For decades since its inception, Jurong Secondary School has been well-known for our sporting prowess. To celebrate our sporting heritage, alumni and current students will come together to battle for supremacy in our Past vs Present Games. The games that will be played that day include Basketball, Volleyball (only female), and Table Tennis.
+For decades since its inception, Jurong Secondary School has been well-known for our sporting prowess. To celebrate our sporting heritage, alumni and current students gathered together to battle for supremacy in our Past vs Present Games. The games include Basketball, Volleyball (only female), and Table Tennis.
 
 **Event Details**
 
@@ -18,18 +18,12 @@ For decades since its inception, Jurong Secondary School has been well-known for
 
 Event Categories:
 
-3v3 Basketball (Men) 40 years old & above
-
-3v3 Basketball (Men) below 40 years old
-
-3v3 Basketball (Women) 40 years old & above
-
-3v3 Basketball (Women) below 40 years old
-
-4v4 Volleyball (Women)
-
-Table Tennis (Singles)
-
+3v3 Basketball (Men) 40 years old & above<br>
+3v3 Basketball (Men) below 40 years old<br>
+3v3 Basketball (Women) 40 years old & above<br>
+3v3 Basketball (Women) below 40 years old<br>
+4v4 Volleyball (Women)<br>
+Table Tennis (Singles)<br>
 Table Tennis (Doubles)
 
 <center> Registration for the Past vs Present Games is now closed.
