@@ -4,10 +4,6 @@ permalink: /our-students/admission/fas/
 description: ""
 third_nav_title: Admission
 ---
-
-
-### FAS
-
 Students who are experiencing financial difficulties can apply for various schemes.
 
 #### MOE Financial Assistance Scheme (MOE FAS)
@@ -26,7 +22,7 @@ The Ministry of Education provides financial assistance to needy Singapore Citiz
 | Transport for students taking public transport | Transport subsidy of $15 per month |
 | | |
 
-For information regarding application  for MOE FAS and financial assistance schemes provided by external  organisations, please do not hesitate to contact Ms Pamela Wong at 6265 5980
+For information regarding application for MOE FAS and financial assistance schemes provided by external organisations, please do not hesitate to contact Ms Pamela Wong at 6265 5980
 
 #### Other Financial Assistance Schemes
 
