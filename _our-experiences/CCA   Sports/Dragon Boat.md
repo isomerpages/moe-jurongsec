@@ -8,7 +8,9 @@ third_nav_title: CCA   Sports
 
 ![](/images/JS-Dragonboat.jpg)
 
-The thrilling sport of Dragonboat racing calls for teamwork, physical prowess, and severe discipline. Our students learn the importance of excellent sportsmanship, teamwork, perseverance, and humility in addition to how to maintain and enhance their physical condition. Two components make up training: "water" or "boat" training, which focuses on honing rowing methods and skills, and "land" training, which emphasizes students' overall fitness through developing their strength and stamina.
+Dragonboat racing is an exhilarating sport that demands exceptional teamwork, physical prowess, and strict discipline. Our students not only enhance their physical abilities but also learn the value of sportsmanship, perseverance, humility, and teamwork. 
+
+Training for this sport involves two essential components: "water" or "boat" training, which focuses on improving rowing techniques and skills, and "land" training, which aims to enhance the students' overall fitness by developing their strength and stamina.
 
 |   |   |
 |---|---|
