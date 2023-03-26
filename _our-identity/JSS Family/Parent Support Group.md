@@ -20,10 +20,10 @@ Support school programmes by tapping on parents’ expertise and resources so th
 
 ### Objectives
 
-1. Facilitate and promote interaction among members of the Parents
+1. Facilitate and promote interaction among members of the Parent Support Group
 2. Facilitate sharing of experience by parents
 3. Facilitate communication between parents and school
-4. Provide support for school programs
+4. Provide support for school programmes
 
 PSG also participated in school events such as CCA Display Day, Chinese New Year Celebrations, Racial Harmony Day, National Day Commemoration, Teachers’ Day Celebrations and Open House.  
 
@@ -48,4 +48,4 @@ PSG also participated in school events such as CCA Display Day, Chinese New Year
 | 15. | Mdm Soh Chiew Hoon | Parents Support Member |
 | | |
 
-<center> Updated 22 Feb 2023 </center>
+<center> Updated 26 Mar 2023 </center>
