@@ -121,11 +121,11 @@ Mother Tongue Department adopted Communicative Language Teaching Approach in the
 
 *   Reading Programme
 
-Objective of the reading programme is to promote reading culture and reading habits in students and to improve students’ vocabulary and reading skills.
+An objective of the reading programme is to promote reading culture and reading habits in students and to improve students’ vocabulary and reading skills.
 
   
 
-Students will read newspaper articles (all three languages) on a bi-weekly basis. Assignments or discussion on topic will be designed for the students to complete after reading.
+Students will read newspaper articles (all three languages) on a bi-weekly basis. Assignments or discussion on the given topic will be designed for the students to complete after reading.
 
   
 
