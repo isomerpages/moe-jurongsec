@@ -24,6 +24,7 @@ third_nav_title: Student Development
 <col style="width: 344px">
 </colgroup>
 <thead>
+	</tr>
   <tr>
     <th class="tg-od4g">HOD CCE<br></th>
     <th class="tg-od4g">Mr Stanley Tan<br></th>
