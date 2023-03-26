@@ -20,7 +20,7 @@ The Student Council aims to nurture Student Leaders who Lead with Heart and are 
 
 |   |   |  
 |---|---|  
-| ![](/images/JSSC3.jpg) <center>President Team</center> | ![](/images/JSSC4.jpg) <center>Project Ohana</center> |
+| ![](/images/JSSC3.jpg) <center>Presidential Team</center> | ![](/images/JSSC4.jpg) <center>Project Ohana</center> |
 
 
 |   |   |  
