@@ -149,7 +149,7 @@ In alignment to our mission of developing independent problem solvers, our secon
 
   
 
-As part of our quest to link mathematics to real world problems, we have integrated a mathematical modelling enrichment module in our sec 2E curriculum. Our sec 2 students will be tasked a with real world problem, usually in the form of experiments, to formulate simple mathematical model that will best mirror relationships between variables in the experiment.
+As part of our quest to link mathematics to real world problems, we have integrated a mathematical modelling enrichment module in our sec 2E curriculum. Our sec 2 students will be tasked a with real-world problem, usually in the form of experiments, to formulate simple mathematical model that will best mirror relationships between variables in the experiment.
 
   
 
