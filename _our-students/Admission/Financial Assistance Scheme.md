@@ -28,4 +28,4 @@ For information regarding application for MOE FAS and financial assistance sche
 
 Needy students who do not meet the MOE Financial Assistance Eligibility Criteria may still apply for financial assistance offered by the school or external organisations. Please approach the staff at the General Office.
 
-<center> Updated 14 Jan 2022 </center>
+<center> Updated 26 Mar 2023 </center>
