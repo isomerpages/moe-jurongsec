@@ -96,13 +96,17 @@ third_nav_title: Academic Programmes
     <td class="tg-lm8h"><a href="mailto:nur_zawani_mion@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">nur_zawani_mion@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw" rowspan="2">Tamil Language<br></td>
+    <td class="tg-f4yw" rowspan="3">Tamil Language<br></td>
     <td class="tg-zr06">Mrs Joseph Savethiri<br></td>
     <td class="tg-lm8h"><a href="mailto:savethiri_arumugam@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">savethiri_arumugam@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mr Balasubramanian Mohan Kumar<br></td>
     <td class="tg-lm8h"><a href="mailto:balasubramanian_mohan_kumar@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">balasubramanian_mohan_kumar@moe.edu.sg</span></a></td>
+	</tr>
+  <tr>
+    <td class="tg-zr06">Mrs Krishnamurthy Sudha ilavarasan<br></td>
+    <td class="tg-lm8h"><a href="mailto:krishnamurthy_sudha_ilavarasan@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">krishnamurthy_sudha_ilavarasan@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
