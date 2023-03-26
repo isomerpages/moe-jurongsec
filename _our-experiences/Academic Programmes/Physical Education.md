@@ -95,7 +95,7 @@ third_nav_title: Academic Programmes
 </colgroup>
 <thead>
   <tr>
-		<th class="tg-ktyi"><li>Minton</li></th>
+		<th class="tg-ktyi"><li>Badminton</li></th>
 		<th class="tg-ktyi"><li>Mini Tennis</li></th>
   </tr>
 </thead>
