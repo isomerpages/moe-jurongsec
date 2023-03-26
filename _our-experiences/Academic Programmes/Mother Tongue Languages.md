@@ -141,7 +141,7 @@ Selected Sec 2 CL students will participate in this programme where students wil
 
 *   Cultural Exposure programme
 
-Students has opportunities to learn more about own culture through activities such as Mother Tongue Fortnight events, Leaning Journeys, attending Drama performance, etc.
+Students have opportunities to learn more about own culture through activities such as Mother Tongue Fortnight events, Leaning Journeys, attending Drama performance, etc.
 
   
 
