@@ -6,7 +6,7 @@ third_nav_title: Assessment Matters
 ---
 The academic performance of a student is assessed regularly to gauge his/her progress in learning as well as to provide timely feedback and for his/her academic achievement.
 
-The assessment includes the following:
+The school assessment includes the following:
 
 a) Weighted Assessments (W.A) <br>
 E.g. Alternative assessments, Class quizzes, Project work, Practical tests and daily assignments
@@ -14,7 +14,7 @@ E.g. Alternative assessments, Class quizzes, Project work, Practical tests and d
 b) Semestral Assessment (S.A) <br>
 E.g. End-year Examinations and Graduation Examinations
 
-c) The table below shows the distribution of weightage of assessments for each subject.
+c) The table below shows the distribution of weighting of assessments for each subject.
 
 | | Term 1 | Term 2 |Term 3  | Term 4 |  | 
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@ c) The table below shows the distribution of weightage of assessments for each s
 | | | | | | 
 
 Note: <br>
-Secondary 4 and 5 students will be sitting for their Graduation Examinations 1 and 2 in Term 2 and 3 respectively.   
+Secondary 4 and 5 students will be sitting for their Graduation Examinations in Term 3.   
 
 ### Schedule of Weighted Assessment for Semester 2
 
@@ -52,4 +52,4 @@ You can download the exam topics and timetable from the links below:
   
 
 
-<center> Updated 22 Mar 2023 </center>
+<center> Updated 26 Mar 2023 </center>
