@@ -66,8 +66,8 @@ third_nav_title: Academic Programmes
 *   To create the opportunities for students to engage in competitive games and thereby inculcating values of fair play and pursuit of excellence.
 *   To develop an appreciation as consumers of the sports industry and nurture an interest in furthering knowledge in the various areas of sports.
 *   To develop an awareness of the outdoor in safety and basic injury management to take care of oneself and others.
-*   To develop physical competencies and lifeskills that will be beneficial.
-*   To provide the opportunity to stretch high ability students to further their development and talent in sports through the Sports Award.
+*   To develop physical competencies and beneficial lifeskills that will be beneficial.
+*   To provide the opportunity to stretch high-ability students to further their development and talent in sports through the Sports Award.
 
 ## Our Special Programmes
 
