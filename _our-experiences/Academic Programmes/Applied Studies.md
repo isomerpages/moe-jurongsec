@@ -155,4 +155,6 @@ Upper Secondary
 *   Sec 3 and 4 Art enrichment at ArtScience Museum and National Gallery Singapore
 *   Aesthetics enrichment - MICappella performance
 
-School wide STEAM week programme
+School-wide STEAM week programme
+
+<center> Updated 26 Mar 2023 </center>
