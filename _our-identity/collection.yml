@@ -2,7 +2,7 @@ collections:
   our-identity:
     output: true
     order:
-      - Principal's Foreward.md
+      - Principal's Foreword.md
       - Vision, Mission, Values.md
       - Our History.md
       - JSS Family/.keep
