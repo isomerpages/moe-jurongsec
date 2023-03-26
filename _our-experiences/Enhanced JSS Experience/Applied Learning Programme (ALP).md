@@ -23,7 +23,7 @@ The Environmental Studies ALP is a programme that progressively raises the aware
 
 Students who are passionate about environmental studies can opt to pursue specialised mini projects delving deeper into challenges and ways to manage real-world environmental issues, tapping on knowledge provided by mentors versed in the areas of Engineering, Life Sciences, Urban Design and Environment or Geo-spatial technologies.
 
-**What are some of the key programmes of the Environmental Studies ALP?**
+**What are some of the key programmes in Environmental Studies ALP?**
 
 ![](/images/23.png)
 
