@@ -8,7 +8,7 @@ third_nav_title: CCA Uniform Groups
 
 ![](/images/JS-Red%20Cross%20Youth.jpg)
 
-Our Red Cross Youth (RCY) program seeks to instill in our cadets a sense of leadership, character development, and knowledge of blood donation. Our curriculum also incorporates activities like serving the underprivileged, fundraising for the community, and taking part in international humanitarian projects. The cadets will be prepared by these to become decent citizens with a keen sense of civic duty.
+The Red Cross Youth (RCY) program aims to cultivate leadership skills, character development, and promote knowledge of blood donation among our cadets. Our curriculum includes a range of activities, such as serving the underprivileged, fundraising for the community, and participating in international humanitarian projects. These activities prepare our cadets to become responsible citizens with a strong sense of civic duty.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q0S3ExUfhLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
