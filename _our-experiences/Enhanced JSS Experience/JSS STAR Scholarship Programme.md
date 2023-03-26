@@ -14,7 +14,7 @@ Guided by our school’s vision of grooming our students to be Champions of Mind
 
 The STAR Scholarship Programme is a unique four-year programme that has been established since Nov 2004 and is exclusive to Jurong Secondary School (JSS) because it is fully sponsored by members of the School Advisory Committee. They are inspiring examples of how one gives back to the community and how one can create meaning and deliver values to others. 
 
-The school has refined the programme to grant our students the freedom to experiment, explore, wonder and question critically. This freedom of inquiry is guided by the discipline of study, the process of Design Thinking and the ethics of research. 
+The school has refined the programme to grant our students the freedom to experiment, explore, wonder and question critically. This freedom of inquiry is guided by the discipline of study, the process of design thinking and the ethics of research. 
 
 We firmly believe that when one is blessed with talents, they should in turn be a blessing to others.
 
@@ -66,4 +66,4 @@ Secondary One students with a keen interest in the Programme and who are assesse
 **Phase II** <br>
 Secondary Two students who are keen in the Programme and who are assessed to be able to adjust extremely well to the demands of secondary education (i.e. top students of the cohort in their performance at the school’s Secondary 2 End-of-Year examination) will be identified for the Selection Process, which will commence at the end of Secondary 2, the process as indicated above in Phase I.
 
-<center> Updated 24 August 2022 </center>
+<center> Updated 26 Mar 2023 </center>
