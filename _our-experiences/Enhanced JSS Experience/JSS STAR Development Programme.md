@@ -4,23 +4,22 @@ permalink: /jss-experience/enhanced-jss-experience/jss-star-development-programm
 description: ""
 third_nav_title: Enhanced JSS Experience
 ---
-
 ![](/images/STAR%20Development%20Programme%20Committee.jpg)
 
 <img src="/images/STAR%20programme.png" 
      style="width:30%">
 		 
 ### The Programme’s Philosophy:
-Guided by our school’s vision of grooming our students to be Champions of Mind and Leaders with Heart, the JSS Skills, Talent and Research (STAR) Scholarship Programme is committed to provide our students the opportunity to stretch their intellectual capacity and talents in areas beyond the core curriculum and to hone their leadership skills.
+Guided by our school’s vision of grooming our students to be Champions of Mind and Leaders with Heart, the JSS Skills, Talent and Research (STAR) Development Programme is committed to provide our students the opportunity to stretch their intellectual capacity and talents in areas beyond the core curriculum and to hone their leadership skills.
 
-The STAR Scholarship Programme is a unique four-year programme that has been established since Nov 2004 and is exclusive to Jurong Secondary School (JSS) because it is fully sponsored by members of the School Advisory Committee. They are inspiring examples of how one gives back to the community and how one can create meaning and deliver values to others. 
+The STAR Development Programme is a unique four-year programme that has been established since Nov 2004 and is exclusive to Jurong Secondary School (JSS) because it is fully sponsored by members of the School Advisory Committee. They are inspiring examples of how one gives back to the community and how one can create meaning and deliver values to others. 
 
 The school has refined the programme to grant our students the freedom to experiment, explore, wonder and question critically. This freedom of inquiry is guided by the discipline of study, the process of design thinking and the ethics of research. 
 
 We firmly believe that when one is blessed with talents, they should in turn be a blessing to others.
 
 
-### The Outcomes of the JSS STAR Scholar
+### The Outcomes of the JSS STAR Student
 The programme strives to nurture students who shall be exemplary in the following aspects:
 
 _**As Champions of Mind**_, students of Intellectual Strength who:
@@ -53,7 +52,7 @@ Developing a design thinking mindset and research awareness amongst students is 
 * cultivates good team dynamics to equip students with the right attitudes and social skills for the future.
 
 ### The Privileges:
-Each JSS STAR Scholar will be able to participate in selected workshops, learning journeys, conferences and seminars that are fully subsidised by the school in order to further their development. 
+Each JSS STAR Student will be able to participate in selected workshops, learning journeys, conferences and seminars that are fully subsidised by the school in order to further their development. 
 
 In addition, the school will provide full subsidy for student's participation in approved academic competitions and training fees incurred for the year. As part of the terms, the Overseas Immersion Programme in Year 3 will be heavily subsidised by the school with co-payment by the student via their Edusave accounts.  
 
