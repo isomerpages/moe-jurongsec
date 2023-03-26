@@ -147,4 +147,4 @@ Students have opportunities to learn more about own culture through activities s
 
 *   Overseas Immersion Programme
 
-Selected Sec 2 CL students will attend one week immersion programme in Tianjin and Beijing, China in November, to enhance cultural awareness of students through an exchange programme with students from Tianjin First Middle School.
+Selected Sec 2 CL students will attend a one-week immersion programme in Tianjin and Beijing, China in November, to enhance cultural awareness of students through an exchange programme with students from Tianjin First Middle School.
