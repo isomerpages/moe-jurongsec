@@ -8,8 +8,7 @@ third_nav_title: CCA Performing Arts
 
 ![](/images/JS1_Jurong%20Symphonic%20Band.jpg)
 
-Jurong Symphonic Band (JSB) continues to provide everyone with lovely music in spite of the Covid-19 crisis. The JSB followed strong safe management procedures as it prepared for the annual SYF. The Secondary Two pupils gave their first performance at that time as well. The members of JSB were able to function as a unit despite the obstacles they met along the way and overcome them. The members also encouraged loyalty, love, and camaraderie among one another.
-
+Jurong Symphonic Band (JSB) has persistently produced beautiful music, even amidst the Covid-19 pandemic. In preparation for the annual SYF, the band meticulously adhered to strict safety protocols. The event also marked the debut performance of the Secondary Two pupils, who demonstrated exceptional musical proficiency. Despite facing numerous obstacles, JSB members remained unified, and their solidarity and mutual support have fostered strong bonds of loyalty and camaraderie within the band.
 
 
 |   |   |  
