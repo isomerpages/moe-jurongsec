@@ -8,7 +8,7 @@ third_nav_title: CCA Performing Arts
 
 ![](/images/JSC-Jurong%20Chorale.jpg)
 
-The Jurong Chorale participated in the first-ever SYF online in 2021, recording its choir members' voices in groups of five before putting the recording together and submitting it. Both the teachers and the kids had a fantastic learning experience. The choir was no longer permitted to perform live singing as a result of Covid. In order to brighten everyone's spirits, teachers and students invited the choir to join in on games and bonding activities. Jurong Chorale participated in SYFgoesOnline! 2021, the West Zone Cluster virtual chorus, the NDP online choir, and the W4 Stand Together virtual choir.
+The Jurong Chorale showcased their exceptional talent by participating in the first-ever online Singapore Youth Festival (SYF) in 2021. Despite the challenges posed by Covid, the choir recorded their voices in groups of five and merged the recordings into a single submission, resulting in a fantastic learning experience for both the teachers and students. Unable to perform live, the choir participated in various virtual activities such as games and bonding sessions, bringing joy to all involved. In addition to the SYF, the choir also participated in other virtual performances such as the West Zone Cluster virtual chorus, the NDP online choir, and the W4 Stand Together virtual choir.
 
 |   |   |   |  
 |---|---|---|  
