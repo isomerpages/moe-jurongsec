@@ -17,3 +17,5 @@ i-DANCE.ity is a dance CCA that aims to cultivate the artistic talents of its pa
 |   |   |  
 |---|---|  
 | ![](/images/JS4_Dance_3.jpg) <center>Dancers preparing for performances</center> | ![](/images/JS5_Dance_4.jpg)<center>Dancers stretching and warming up</center> |
+
+<center> Updated 26 Mar 2023 </center>
