@@ -79,13 +79,17 @@ third_nav_title: Academic Programmes
     <td class="tg-lm8h"><a href="mailto:neo_guo_wei_tony@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">neo_guo_wei_tony@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw" rowspan="2">Nutrition &amp; Food Science Teachers<br></td>
+    <td class="tg-f4yw" rowspan="3">Nutrition &amp; Food Science Teachers<br></td>
     <td class="tg-zr06">Ms Norliyana Bte Matin<br></td>
     <td class="tg-lm8h"><a href="mailto:norliyana_matin@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">norliyana_matin@moe.edu.sg</span></a></td>
-  </tr>
+	</tr>
   <tr>
     <td class="tg-zr06">Ms Shuryani</td>
     <td class="tg-lm8h"><a href="mailto:shuryani_abdul_wahab@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">shuryani_abdul_wahab@moe.edu.sg</span></a></td>
+	</tr>
+  <tr>
+		<td class="tg-zr06">Mr David Liew (FAJT-FCE)</td>
+    <td class="tg-lm8h"><a href="mailto:david_liew_kian_yuen@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">david_liew_kian_yuen@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-f4yw" rowspan="2">Music Teachers</td>
