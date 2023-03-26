@@ -144,7 +144,7 @@ Some of the features of the JSS Lower Secondary Science course include:
 
 *   the use of demonstrations and inquiry-focused lesson materials to increase student engagement in the classroom;
 *   investigative skills focusing on experimental planning;
-*   collection and analysis of scientific data related to real world scenarios to make logical and justifiable conclusions.
+*   collection and analysis of scientific data related to real-world scenarios to make logical and justifiable conclusions.
 
 ### Our Special Programmes
 
