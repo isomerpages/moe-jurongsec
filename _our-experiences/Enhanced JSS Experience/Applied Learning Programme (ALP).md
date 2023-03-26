@@ -8,9 +8,6 @@ third_nav_title: Enhanced JSS Experience
 
 ### Environmental Studies: A multi-disciplinary approach to sustainable urban living.
 
-<img src="/images/18.png" 
-     style="width:60%">
-
 **Why Environmental Studies?** <br>
 As a small island state, Singapore must monitor trends in the global landscape, anticipate challenges and plan ahead to ensure its future sustainability. One of our key challenges facing the world today is environmental sustainability.
 
@@ -34,4 +31,4 @@ Students who are passionate about environmental studies can opt to pursue specia
 
 ![](/images/24.png)
 
-<center> Updated 24 Aug 2022 </center>
+<center> Updated 26 Mar 2023 </center>
