@@ -9,7 +9,7 @@ third_nav_title: CCA Club and Societies
 
 ![](/images/Library%20Club.jpg)
 
+The JSS Library Club is dedicated to nurturing student librarians who are not only critical readers but also passionate about encouraging their peers to embrace reading. To ensure a love for diverse literary genres, our student librarians organize book-related activities that ignite their own enthusiasm for reading. They also work alongside the school librarian to oversee the daily operations of the library, which serves as a central hub for learning and discussion in the school.
 
-The JSS Library Club seeks to cultivate student librarians as critical readers in order to encourage other students to enjoy reading. In order to foster and maintain a passion and enthusiasm for a wide variety of literary genres, our student librarians design and coordinate book-related activities. Additionally, our student librarians help the school librarian run and maintain the library as a hub for learning and discussion.
 
 <center> Updated 26 Mar 2023 </center>
