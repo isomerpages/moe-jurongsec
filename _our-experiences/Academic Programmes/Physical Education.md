@@ -173,7 +173,7 @@ third_nav_title: Academic Programmes
 </colgroup>
 <thead>
   <tr>
-		<th class="tg-ktyi"><li>kayaking</li></th>
+		<th class="tg-ktyi"><li>Kayaking</li></th>
 		<th class="tg-ktyi"><li>Tchouckball</li></th>
   </tr>
 </thead>
