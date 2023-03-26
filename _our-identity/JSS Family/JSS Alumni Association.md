@@ -9,7 +9,7 @@ third_nav_title: JSS Family
 ### Aims and Objectives
 -------------------
 
-*   To forge school ties and community involvement between Jurong Secondary School and her former pupils;
+*   To forge school ties and community involvement between Jurong Secondary School and its former pupils;
 *   To provide members with the opportunity to help develop the school for the benefit of the students;
 *   To encourage the spirit of volunteerism among members and,
 *   For members to offer and provide expertise and resources to the school.
@@ -17,7 +17,7 @@ third_nav_title: JSS Family
 ### Introduction to the JSS Alumni Association
 ------------------------------------------
 
-As a fraternity, the JSS Alumni Association aims to forge school ties and community involvement between Jurong Secondary School and her former students. The Alumni offers and provides expertise and resources for the development and benefit of our students by encouraging their spirit of volunteerism. In doing so, they forge school ties and community involvement among our current and former students.
+As a fraternity, the JSS Alumni Association aims to forge school ties and community involvement between Jurong Secondary School and its former students. The Alumni offers and provides expertise and resources for the development and benefit of our students by encouraging their spirit of volunteerism. In doing so, they forge school ties and community involvement among our current and former students.
 
   
 
@@ -92,7 +92,7 @@ Ordinary membership is open to all who are graduates of the school, provided tha
 
   
 
-**Ordinary membership** is open to all who are graduates of the school, provided that the person is not currently attending Secondary Schools, Centralised Institutes or Junior Colleges. All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni Association.
+**Ordinary membership** is open to all who are graduates of the school, provided that they are not currently attending Secondary Schools, Centralised Institutes or Junior Colleges. All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni Association.
 
   
 
@@ -138,7 +138,7 @@ Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Se
 | ![](/images/Alumni%205.jpg) Golf Tournament 2017 | ![](/images/Alumni%206.jpg) Golf Tournament 2018 |
 | ![](/images/Alumni%207.jpg) Golf Tournament 2019 | ![](/images/Alumni%208.jpg) Movie Screening | 
 | ![](/images/Alumni%209.jpg) Bowling Competition | ![](/images/Alumni%2010.jpg) Happy Winners of the Bowling Competition |
-| ![](/images/Alumni%2011.jpg) Alunmi Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) JSS Alumni Association Meeting | 
+| ![](/images/Alumni%2011.jpg) Alumni Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) JSS Alumni Association Meeting | 
 | | |
 
 <center> Updated 22 Feb 2023 </center>
