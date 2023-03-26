@@ -116,11 +116,11 @@ The department’s general approach to teaching & learning is inspired by Polya�
 
 <br>
 
-![](/images/JS_11%20Math.jpg)
+<img src="/images/JS_11%20Math.jpg" style="height: auto;width:400px;">
 
 <b>Pedagogy</b>
 
-![](/images/JS_12%20Math.jpg)
+<img src="/images/JS_12%20Math.jpg" style="height: auto;width:400px;">
 
 The department believes that the best way to introduce mathematical concepts starts with using concrete examples that our students can relate with. Using their prior knowledge from the concrete examples, we follow up with visuals and pictorials to assist students’ understanding, developing their understanding of the concepts and leading them to formulate their logic of the abstract ideas.
 
