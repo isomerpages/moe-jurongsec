@@ -9,7 +9,9 @@ third_nav_title: CCA   Sports
 ![](/images/JSS1_Volleyball.jpg)
 <br>
 
-The Volleyball team perseveres to sustain greatness through demanding year-round trainings. A volleyball camp that is held over the March break serves to enhance the links between the players is one of the other activities in which the kids have taken part all year. Extensive training sessions at the end of the year and international excursions also help expose our players to various levels of competition.
+The Volleyball team demonstrates unwavering determination to maintain their excellence through rigorous year-round training. In addition to their regular training, the team participates in a volleyball camp during the March break to foster stronger bonds among the players.
+
+Furthermore, extensive training sessions at the end of the year, as well as international excursions, provide valuable opportunities for our players to compete at various levels. These activities enable our players to gain exposure to different styles of play and heighten their level of competitiveness.
 
 |   |   |  
 |---|---|  
