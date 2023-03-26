@@ -27,7 +27,7 @@ third_nav_title: Student Development
 	  <tr>
     <td class="tg-od4g">HOD CCE<br></th>
     <td class="tg-od4g">Mr Stanley Tan<br></th>
-    <td class="tg-nd0w"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_chin_kwan@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">tan_chin_kwan@moe.edu.sg</span></a><br></th>
+    <td class="tg-nd0w"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_chin_kwan@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">tan_chin_kwan@moe.edu.sg</span></a><br></td>
   </tr>
 </thead>
 <tbody>
