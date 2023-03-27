@@ -10,13 +10,13 @@ third_nav_title: Academic Programmes
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD English   | Mrs Farhain Aidil    | [farhain_ahmad_bustami@moe.edu.sg](farhain_ahmad_bustami@moe.edu.sg)    |
+|  Year Head (Lower Sec & Sec 1)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
+|   SH ICT  | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
 | English Language Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar_borhan_said@moe.edu.sg](bakhtiar_borhan_said@moe.edu.sg)     |
-|     | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
 |    | Mr Mahathir Aziz    | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)    |
 |    | Mdm Norlinda Bte Omar   | [norlinda_omar@moe.edu.sg](norlinda_omar@moe.edu.sg)    |
 |      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi_karupaiya@moe.edu.sg](vijayaletchumi_karupaiya@moe.edu.sg)     |
 |      | Mdm Wang Cuifeng     | [wang_cuifeng@moe.edu.sg](wang_cuifeng@moe.edu.sg)    |
-|      | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
 |    | Ms Zhang Michelle   | [zhang\_minting\_michelle@moe.edu.sg](mailto:zhang_minting_michelle@moe.edu.sg)    |
 |     | Ms Mardiana Roslan   | [mardiana\_roslan@moe.edu.sg](mailto:mardiana_roslan@moe.edu.sg)   |
 |     |Ms Goh Eng Jue   | [goh\_eng\_jue@moe.edu.sg](mailto:goh_eng_jue@moe.edu.sg)  |
