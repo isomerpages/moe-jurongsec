@@ -7,6 +7,33 @@ third_nav_title: Academic Programmes
 # English Language
 ![](/images/Js_English%20Language%20Department.jpg)
 
+|  |  |  |
+| -------- | -------- | -------- |
+| HOD English   | Mrs Farhain Aidil    | [farhain_ahmad_bustami@moe.edu.sg](farhain_ahmad_bustami@moe.edu.sg)    |
+| English Language Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar_borhan_said@moe.edu.sg](bakhtiar_borhan_said@moe.edu.sg)     |
+|     | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
+|    | Mr Mahathir Aziz    | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)    |
+|    | Mdm Norlinda Bte Omar   | [norlinda_omar@moe.edu.sg](norlinda_omar@moe.edu.sg)    |
+|      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi_karupaiya@moe.edu.sg](vijayaletchumi_karupaiya@moe.edu.sg)     |
+|      | Mdm Wang Cuifeng     | [wang_cuifeng@moe.edu.sg](wang_cuifeng@moe.edu.sg)    |
+|      | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
+|    | Ms Zhang Michelle   | [zhang\_minting\_michelle@moe.edu.sg](mailto:zhang_minting_michelle@moe.edu.sg)    |
+|     | Ms Mardiana Roslan   | [mardiana\_roslan@moe.edu.sg](mailto:mardiana_roslan@moe.edu.sg)   |
+|     |Ms Goh Eng Jue   | [goh\_eng\_jue@moe.edu.sg](mailto:goh_eng_jue@moe.edu.sg)  |
+|     | Mr Lee Yue Hern Mark   | [yue\_hern\_mark\_lee@moe.edu.sg](mailto:yue_hern_mark_lee@moe.edu.sg)    |
+|     | Ms Kalai     | [Kalaivanni\_somasundram@moe.edu.sg](mailto:Kalaivanni_somasundram@moe.edu.sg)   |
+|     | Ms Maria Chung Su-Yin    | [Maria_chung-Su-Yin@moe.edu.sg](Maria_chung-Su-Yin@moe.edu.sg)    |
+|     | Mr Sim Rui Xiang Darius    | [sim\_rui\_xiang\_darius@moe.edu.sg](mailto:sim_rui_xiang_darius@moe.edu.sg)   |
+|     | Ms Sarah Lee Cheong Khi    | [lee\_cheong\_khi@moe.edu.sg](mailto:lee_cheong_khi@moe.edu.sg)    |
+|     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)   |
+|     | Mandaraz Lim Shi Hui   | [Lim_Shi_Hui_Mandaraz@moe.edu.sg](Lim_Shi_Hui_Mandaraz@moe.edu.sg)    |
+| English Literature Teachers   | Mrs Farhain Aidil     | [farhain\_ahmad\_bustami@moe.edu.sg](mailto:farhain_ahmad_bustami@moe.edu.sg)  |
+|      | Mdm Norlinda Bte Omar   | [norlinda\_omar@moe.edu.sg](mailto:norlinda_omar@moe.edu.sg)   |
+|     | Mr Sim Rui Xiang Darius    | [sim_rui_xiang_darius@moe.edu.sg](sim_rui_xiang_darius@moe.edu.sg)   |
+|     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)     |
+|     | Ms Maria Chung Su-Yin     | [Maria\_chung-Su-Yin@moe.edu.sg](mailto:Maria_chung-Su-Yin@moe.edu.sg)    |
+|     | Mandaraz Lim Shi Hui     | [Lim_Shi_Hui_Mandaraz@moe.edu.sg](Lim_Shi_Hui_Mandaraz@moe.edu.sg)   |
+
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
