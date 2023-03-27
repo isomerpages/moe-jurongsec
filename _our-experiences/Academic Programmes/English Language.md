@@ -86,3 +86,5 @@ Our English Language Department uses the communicative approach to language lear
 *   Secondary 2 Debate Enrichment Programme
 *   Secondary 3 Public Speaking Programme
 *   Speak Good English Movement
+
+<center> Updated 27 Mar 2023 </center>
