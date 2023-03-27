@@ -9,47 +9,14 @@ third_nav_title: Academic Programmes
 
 ![](/images/JS_Info-Comm%20and%20Technology%20Department.jpg)
 
-<br>
+|  |  |  |
+| -------- | -------- | -------- |
+| HOD ICT   | Mr Chris Lok   | [lok\_jian\_ming@moe.edu.sg](mailto:lok_jian_ming@moe.edu.sg)    |
+| SH ICT    | Mr Lam Chee Leong     | [lam\_chee\_leong@moe.edu.sg](mailto:lam_chee_leong@moe.edu.sg)     |
+| ICT Manager   | Mr Hatta Bin Moktar     | [hatta\_moktar@moe.edu.sg](mailto:hatta_moktar@moe.edu.sg)    |
+| Desktop Engineers    | Mr Young Lee Yang Yik    |     |
+|    | Mr Goh Kwan Wen    |     |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-lm8h{background-color:#FFF;color:#B21D00;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-f4yw">HOD ICT</th>
-    <th class="tg-zr06">Mr Chris Lok</th>
-    <th class="tg-lm8h"><a href="mailto:lok_jian_ming@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lok_jian_ming@moe.edu.sg</span></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">SH ICT</td>
-    <td class="tg-zr06">Mr Lam Chee Leong</td>
-    <td class="tg-lm8h"><a href="mailto:lam_chee_leong@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lam_chee_leong@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">ICT Manager</td>
-    <td class="tg-zr06">Mr Hatta Bin Moktar</td>
-    <td class="tg-lm8h"><a href="mailto:hatta_moktar@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">hatta_moktar@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Desktop Engineers</td>
-    <td class="tg-zr06">Mr Young Lee Yang Yik</td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
+
+
+<br>
