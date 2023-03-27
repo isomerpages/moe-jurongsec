@@ -10,106 +10,27 @@ third_nav_title: Academic Programmes
 
 ![](/images/JS_Mother%20Tongue%20Department.jpg)
 
+| |  |  |
+| -------- | -------- | -------- |
+| HOD Mother Tongue Languages   | Ms Ng Ching Ing     | [ng\_ching\_ing@moe.edu.sg](mailto:ng_ching_ing@moe.edu.sg)  |
+| SH Chinese Language    | Mdm Zoey Oh Sze Wee    | [oh\_sze\_wee@moe.edu.sg](mailto:oh_sze_wee@moe.edu.sg)    |
+| ST Malay Language    | Ms Siti Daliah     | [siti\_daliah\_amat@moe.edu.sg](mailto:siti_daliah_amat@moe.edu.sg)    |
+| Chinese Language   | Mdm Soo Lee Fong     | [soo\_lee\_fong@moe.edu.sg](mailto:soo_lee_fong@moe.edu.sg)    |
+|     | Mdm Lee Wai Yee   | [lee\_wai\_yee@moe.edu.sg](mailto:lee_wai_yee@moe.edu.sg)    |
+|     | Mdm Chin Hsuen Wei    | [chin\_hsuen\_wei@moe.edu.sg](mailto:chin_hsuen_wei@moe.edu.sg)     |
+|     | Ms Roxanne Choy   | [choy\_shu\_wei\_roxanne@moe.edu.sg](mailto:choy_shu_wei_roxanne@moe.edu.sg)   |
+|     | Ms Chua Syin Thian  | [chua\_syin\_thian@moe.edu.sg](mailto:chua_syin_thian@moe.edu.sg)    |
+|     |Ms Yaw Lee Cheng     |[yaw\_lee\_cheng@moe.edu.sg](mailto:yaw_lee_cheng@moe.edu.sg)    |
+|     | Ms Lim Kaihui    | [lim\_kaihui@moe.edu.sg](mailto:lim_kaihui@moe.edu.sg)    |
+|      |Ms Lim Wan Xin    | [lim\_wan\_xin\_a@schools.gov.sg](mailto:lim_wan_xin_a@schools.gov.sg)   |
+| Malay Language    | Ms Siti Hawa Zaini    | [siti\_hawa\_zaini@moe.edu.sg](mailto:siti_hawa_zaini@moe.edu.sg)   |
+|     | Ms Nur Zukhairiah   | [nur\_zukhairiah\_hamdan@moe.edu.sg](mailto:nur_zukhairiah_hamdan@moe.edu.sg)    |
+|     | Ms Bazilah Baderi    | [bazilah\_baderi@moe.edu.sg](mailto:bazilah_baderi@moe.edu.sg)    |
+|     | Ms Nur Zawani    | [nur\_zawani\_mion@moe.edu.sg](mailto:nur_zawani_mion@moe.edu.sg)    |
+| Tamil Language  | Mr Balasubramanian Mohan Kumar    | [balasubramanian\_mohan\_kumar@moe.edu.sg](mailto:balasubramanian_mohan_kumar@moe.edu.sg)   |
+|     | Mrs Krishnamurthy Sudha ilavarasan     | [krishnamurthy\_sudha\_ilavarasan@moe.edu.sg](mailto:krishnamurthy_sudha_ilavarasan@moe.edu.sg)   |
+
 <br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-lm8h{background-color:#FFF;color:#B21D00;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-f4yw">HOD Mother Tongue Languages<br></th>
-    <th class="tg-zr06">Ms Ng Ching Ing<br></th>
-    <th class="tg-lm8h"><a href="mailto:ng_ching_ing@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">ng_ching_ing@moe.edu.sg</span></a><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">SH Chinese Language<br></td>
-    <td class="tg-zr06">Mdm Zoey Oh Sze Wee<br></td>
-    <td class="tg-lm8h"><a href="mailto:oh_sze_wee@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">oh_sze_wee@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">ST Malay Language<br></td>
-    <td class="tg-zr06">Ms Siti Daliah<br></td>
-    <td class="tg-lm8h"><a href="mailto:siti_daliah_amat@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">siti_daliah_amat@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="8">Chinese Language<br></td>
-    <td class="tg-zr06">Mdm Soo Lee Fong<br></td>
-    <td class="tg-lm8h"><a href="mailto:soo_lee_fong@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">soo_lee_fong@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mdm Lee Wai Yee<br></td>
-    <td class="tg-lm8h"><a href="mailto:lee_wai_yee@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lee_wai_yee@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mdm Chin Hsuen Wei</td>
-    <td class="tg-lm8h"><a href="mailto:chin_hsuen_wei@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">chin_hsuen_wei@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Roxanne Choy</td>
-    <td class="tg-lm8h"><a href="mailto:choy_shu_wei_roxanne@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">choy_shu_wei_roxanne@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Chua Syin Thian<br></td>
-    <td class="tg-lm8h"><a href="mailto:chua_syin_thian@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">chua_syin_thian@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Yaw Lee Cheng<br></td>
-    <td class="tg-lm8h"><a href="mailto:yaw_lee_cheng@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">yaw_lee_cheng@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Lim Kaihui<br></td>
-    <td class="tg-lm8h"><a href="mailto:lim_kaihui@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lim_kaihui@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Lim Wan Xin<br></td>
-    <td class="tg-lm8h"><a href="mailto:lim_wan_xin_a@schools.gov.sg"><span style="text-decoration:none;color:#B21D00">lim_wan_xin_a@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="4">Malay Language<br></td>
-    <td class="tg-zr06">Ms Siti Hawa Zaini<br></td>
-    <td class="tg-lm8h"><a href="mailto:siti_hawa_zaini@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">siti_hawa_zaini@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Nur Zukhairiah<br></td>
-    <td class="tg-lm8h"><a href="mailto:nur_zukhairiah_hamdan@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">nur_zukhairiah_hamdan@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Bazilah Baderi<br></td>
-    <td class="tg-lm8h"><a href="mailto:bazilah_baderi@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">bazilah_baderi@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Nur Zawani<br></td>
-    <td class="tg-lm8h"><a href="mailto:nur_zawani_mion@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">nur_zawani_mion@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="3">Tamil Language<br></td>
-    <td class="tg-zr06">Mrs Joseph Savethiri<br></td>
-    <td class="tg-lm8h"><a href="mailto:savethiri_arumugam@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">savethiri_arumugam@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Balasubramanian Mohan Kumar<br></td>
-    <td class="tg-lm8h"><a href="mailto:balasubramanian_mohan_kumar@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">balasubramanian_mohan_kumar@moe.edu.sg</span></a></td>
-	</tr>
-  <tr>
-    <td class="tg-zr06">Mrs Krishnamurthy Sudha ilavarasan<br></td>
-    <td class="tg-lm8h"><a href="mailto:krishnamurthy_sudha_ilavarasan@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">krishnamurthy_sudha_ilavarasan@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
 
 ## Our Learning Approach
 
