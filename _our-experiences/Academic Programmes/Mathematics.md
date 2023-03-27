@@ -29,104 +29,6 @@ third_nav_title: Academic Programmes
 |    | Miss Lau Kai Ting     | [lau\_kai\_ting@moe.edu.sg](mailto:lau_kai_ting@moe.edu.sg)   |
 |    | Miss Caroline Wooi Lian Hong     | [wooi\_lian\_hong@moe.edu.sg](mailto:wooi_lian_hong@moe.edu.sg)    |
 
-
-
-
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-lm8h{background-color:#FFF;color:#B21D00;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-f4yw">HOD Mathematics<br></th>
-    <th class="tg-zr06">Mr Ooi Wei Yong<br></th>
-    <th class="tg-lm8h"><a href="mailto:ooi_wei_yong@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">ooi_wei_yong@moe.edu.sg</span></a><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">SH Mathematics<br></td>
-    <td class="tg-zr06">Mdm Zheng Jieyun<br></td>
-    <td class="tg-lm8h"><a href="mailto:zheng_jieyun@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">zheng_jieyun@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Senior Teacher /<br>Education Support<br></td>
-    <td class="tg-zr06">Mdm Teo Kah Ping<br></td>
-    <td class="tg-lm8h"><a href="mailto:teo_kah_ping@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">teo_kah_ping@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="14">Mathematics Teachers<br></td>
-    <td class="tg-zr06">Mr Woon Ta Chuang<br></td>
-    <td class="tg-lm8h"><a href="mailto:woon_ta_chuang@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">woon_ta_chuang@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Simranjit Kaur<br></td>
-    <td class="tg-lm8h"><a href="mailto:simranjit_kaur_ranjit_singh@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">simranjit_kaur_ranjit_singh@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Kenny Hong Anliang<br></td>
-    <td class="tg-lm8h"><a href="mailto:hong_anliang@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">hong_anliang@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Sim Sze Wai<br></td>
-    <td class="tg-lm8h"><a href="mailto:sim_sze_wai@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">sim_sze_wai@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Md Faydzully<br></td>
-    <td class="tg-lm8h"><a href="mailto:mohd_faydzully_mohd_razif@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">mohd_faydzully_mohd_razif@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Lee Sin Yi<br></td>
-    <td class="tg-lm8h"><a href="mailto:lee_sin_yi@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lee_sin_yi@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Wu Dan Amy<br></td>
-    <td class="tg-lm8h"><a href="mailto:wu_dan_a@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">wu_dan_a@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Nurul Nadia<br></td>
-    <td class="tg-lm8h"><a href="mailto:nurul_nadia_abdul_kalam@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">nurul_nadia_abdul_kalam@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Aida Mardianah Kinam<br></td>
-    <td class="tg-lm8h"><a href="mailto:aida_mardianah_kinam@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">aida_mardianah_kinam@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mrs Calista Yap - Fang Shilin<br></td>
-    <td class="tg-lm8h"><a href="mailto:fang_shilin@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">fang_shilin@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Ho Kah Yong Joel</td>
-    <td class="tg-lm8h"><a href="mailto:ho_kah_yong_joel@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">ho_kah_yong_joel@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mrs Chua-Tan Siew Hong</td>
-    <td class="tg-lm8h"><a href="mailto:tan_siew_hong_b@schools.gov.sg"><span style="text-decoration:none;color:#B21D00">tan_siew_hong_b@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Miss Lau Kai Ting</td>
-    <td class="tg-lm8h"><a href="mailto:lau_kai_ting@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lau_kai_ting@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Miss Caroline Wooi Lian Hong<br></td>
-    <td class="tg-lm8h"><a href="mailto:wooi_lian_hong@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">wooi_lian_hong@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
-
 <br>
 
 ## Our Learning Approach
@@ -178,4 +80,4 @@ As part of our quest to link mathematics to real world problems, we have integra
 
 An example of past problems includes students’ exploring the relationship between the diameter of parachutes and its landing time.
 
-<center> Updated 26 Mar 2023 </center>
+<center> Updated 27 Mar 2023 </center>
