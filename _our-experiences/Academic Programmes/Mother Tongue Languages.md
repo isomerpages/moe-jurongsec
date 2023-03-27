@@ -35,7 +35,7 @@ third_nav_title: Academic Programmes
 ## Our Learning Approach
 
 
-Mother Tongue Department adopted Communicative Language Teaching Approach in the teaching of MTL. We would like to develop our students into a confident person who is open-minded and able to communicate effectively.
+Mother Tongue Department adopted Communicative Language Teaching Approach in the teaching of MTL. We would like to develop our students into a confident individuals who are open-minded and able to communicate effectively.
 
 ## Our Special Programmes
 
