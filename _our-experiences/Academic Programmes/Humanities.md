@@ -44,39 +44,11 @@ Students undergoing the JSS Humanities learning experience will:
 *   Be encouraged to be curious, courageous and confident in approaching societal issues and presenting points of view in a convincing manner
 *   Participate in performance tasks that enable them with opportunities for learning the discipline in an authentic setting within the community
 
-
 ## Our Special Programmes
 <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jb5e{background-color:#FFF;border-color:inherit;color:#000000;font-weight:bold;text-align:center;text-decoration:underline;
-  vertical-align:middle}
-.tg .tg-us5t{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-us5t">Programme</th>
-    <th class="tg-us5t">Discipline</th>
-    <th class="tg-jb5e">Levels</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">Environmental Studies ALP</td>
-    <td class="tg-f4yw">Inter-disciplinary</td>
-    <td class="tg-f4yw">S1 &amp; S2</td>
-  </tr>
-</tbody>
-</table>
+| Programme | Discipline | Levels |
+| -------- | -------- | -------- |
+| Environmental Studies ALP    | Inter-disciplinary    | S1 & S2     |
+
+<center> Updated 27 Mar 2023 </center>
