@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Student Development
 ---
 # Student Development
+<iframe allowfullscreen="true" height="400" width="791" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdYa3Nvh4LUafbL_yJ-vKOoZSet_1jrHNoObK289nxQAtkxecTzgESUBSMUKfvJ4xHtbV8F6gcqcv6/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
 
+<br>
 
 | |  | |
 | -------- | -------- | -------- |
@@ -18,9 +20,6 @@ third_nav_title: Student Development
 | Asst Year Head (Sec 4 & 5)    | Mr Md Faydzully    | [mohd_faydzully_mohd_razif@moe.edu.sg](mohd_faydzully_mohd_razif@moe.edu.sg)    |
 
 <br>
-
-<iframe allowfullscreen="true" height="400" width="791" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdYa3Nvh4LUafbL_yJ-vKOoZSet_1jrHNoObK289nxQAtkxecTzgESUBSMUKfvJ4xHtbV8F6gcqcv6/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe>
-
 
 ## Our Direction
 <br>
