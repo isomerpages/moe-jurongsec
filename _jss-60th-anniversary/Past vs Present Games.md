@@ -26,6 +26,14 @@ Event Categories:
 Table Tennis (Singles)<br>
 Table Tennis (Doubles)
 
-<center> Registration for the Past vs Present Games is now closed.
+![](/images/PvP%205.jpeg)
 
-<center> Updated 26 Mar 2023 </center>
+![](/images/PvP%201.jpeg)
+
+![](/images/PvP%202.jpeg)
+
+![](/images/PvP%204.jpeg)
+
+![](/images/PvP%203.jpeg)
+
+<center> Updated 27 Mar 2023 </center>
