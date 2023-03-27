@@ -9,6 +9,24 @@ third_nav_title: Academic Programmes
  
  ![](/images/JS_Humanities%20Department.jpg)
  
+ 
+|  |  |  |
+| -------- | -------- | -------- |
+| HOD Humanities  | Ms Anna Cai    | [cai\_shihui\_anna@moe.edu.sg](mailto:cai_shihui_anna@moe.edu.sg)   |
+| Text     | Ms Vijayaletchumi d/o K.    | [vijayaletchumi\_karupaiya@moe.edu.sg](mailto:vijayaletchumi_karupaiya@moe.edu.sg)     |
+| Text     | Ms Zhang Michelle    | [zhang\_minting\_michelle@moe.edu.sg](mailto:zhang_minting_michelle@moe.edu.sg)    |
+| Text     | Mr Don Marcus K.    | [kannangara\_don\_marcus@moe.edu.sg](mailto:kannangara_don_marcus@moe.edu.sg)   |
+| Text     | Mr Mahathir Aziz    | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)    |
+| Text     | Mdm Lee Hui Cheng    | [lee\_hui\_cheng@moe.edu.sg](mailto:lee_hui_cheng@moe.edu.sg)   |
+| Text     | Ms Goh Eng Jue   | [goh\_eng\_jue@moe.edu.sg](mailto:goh_eng_jue@moe.edu.sg)   |
+| Text     | Ms Catherine Teh   | [teh\_me\_me\_catherine@moe.edu.sg](mailto:teh_me_me_catherine@moe.edu.sg)   |
+| Text     | Mr Neo Guo Wei Tony    | [neo\_guo\_wei@moe.edu.sg](mailto:neo_guo_wei@moe.edu.sg)    |
+| Text     | Mr Ng Zhi Kai Joel   | [ng\_zhi\_kai@moe.edu.sg](mailto:ng_zhi_kai@moe.edu.sg)     |
+| Text     | Mr Wong Ho Jann, Joel    | [wong\_ho\_jann\_joel@moe.edu.sg](mailto:wong_ho_jann_joel@moe.edu.sg)     |
+| Text     | Mdm Linda Ng     | [ng\_siew\_ching@moe.edu.sg](mailto:ng_siew_ching@moe.edu.sg)    |
+| Text     | Mr Tan Yong Zhi     | [tan_yong_zhi@moe.edu.sg](tan_yong_zhi@moe.edu.sg)   |
+
+
  <br>
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
