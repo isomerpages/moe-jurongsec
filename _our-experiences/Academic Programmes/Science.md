@@ -62,50 +62,11 @@ Some of the features of the JSS Lower Secondary Science course include:
 
 ### Our Special Programmes
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-1bbm{background-color:#FFF;color:#000000;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 970px">
-<colgroup>
-<col style="width: 198 px">
-<col style="width: 320px">
-<col style="width: 320px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-zr06">Programme</th>
-    <th class="tg-zr06">Time frame</th>
-    <th class="tg-1bbm">Levels</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06">Investigation and Project Based Curriculum</td>
-    <td class="tg-zr06">Curriculum Dependent</td>
-    <td class="tg-zr06">Lower Secondary</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">JSS Annual STEAM Week</td>
-    <td class="tg-zr06">Term III</td>
-    <td class="tg-zr06">All Levels</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Enrichment Programmes</td>
-    <td class="tg-zr06">Enrichment dependent</td>
-    <td class="tg-zr06">All Levels</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Science Competitions</td>
-    <td class="tg-zr06">Competition dependent</td>
-    <td class="tg-zr06">Secondary Two &amp; Three</td>
-  </tr>
-</tbody>
-</table>
+| Programme | Time frame| Time frame |
+| -------- | -------- | -------- |
+| Investigation and Project Based Curriculum    | Curriculum Dependent   | Lower Secondary   |
+| JSS Annual STEAM Week   | Term III    | All Levels   |
+| Enrichment Programmes   | Enrichment dependent    | All Levels   |
+| Science Competitions  | Competition dependent   | Secondary Two & Three  |
 
 <center> Updated 27 Mar 2023 </center>
