@@ -11,50 +11,16 @@ third_nav_title: Academic Programmes
 ![](/images/JS_PHYSICAL%20EDUCATION%20DEPARTMENT%202022%20wO%20Frame.jpg)
 <br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-lm8h{background-color:#FFF;color:#B21D00;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-f4yw">HOD PE</th>
-    <th class="tg-zr06">Mr Nur Qarnain</th>
-    <th class="tg-lm8h"><a href="mailto:nur_qarnain_b_hussin@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">nur_qarnain_b_hussin@moe.edu.sg</span></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">SH PE</td>
-    <td class="tg-zr06">Ms Ong Wei Chen</td>
-    <td class="tg-lm8h"><a href="mailto:ong_wei_chen@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">ong_wei_chen@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="3">PE Teachers</td>
-    <td class="tg-zr06">Mr Bakhtiar Borhan Said</td>
-    <td class="tg-lm8h"><a href="mailto:bakhtiar_borhan_said@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">bakhtiar_borhan_said@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mdm Wang Cuifeng</td>
-    <td class="tg-lm8h"><a href="mailto:wang_cuifen@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">wang_cuifeng@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mrs Elizabeth Woon</td>
-    <td class="tg-lm8h"><a href="mailto:ng_siew_tuan@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">elizabeth_woon@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+|  |  |  |
+| -------- | -------- | -------- |
+| HOD PE   | Mr Nur Qarnain    | [nur\_qarnain\_b\_hussin@moe.edu.sg](mailto:nur_qarnain_b_hussin@moe.edu.sg)    |
+| SH PE   | Ms Ong Wei Chen    | [ong\_wei\_chen@moe.edu.sg](mailto:ong_wei_chen@moe.edu.sg)   |
+| PE Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar\_borhan\_said@moe.edu.sg](mailto:bakhtiar_borhan_said@moe.edu.sg)     |
+|     | Mdm Wang Cuifeng     |[wang\_cuifeng@moe.edu.sg](mailto:wang_cuifen@moe.edu.sg)     |
+|     | Mrs Elizabeth Woon   | [elizabeth\_woon@moe.edu.sg](mailto:ng_siew_tuan@moe.edu.sg) |
+|     | Mr Philip Wan   | [wan_wei_meng@moe.edu.sg](wan_wei_meng@moe.edu.sg)     |
+|     | Mr Ler Jun Yi     | [ler_jun_yi@moe.edu.sg](ler_jun_yi@moe.edu.sg)    |
+|   | Mr Ng Jian Xiang Lawrence    | [ng_jian_xiang_lawrence@moe.edu.sg](ng_jian_xiang_lawrence@moe.edu.sg)   |
 
 <br>
 
