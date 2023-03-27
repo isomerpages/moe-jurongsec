@@ -64,8 +64,8 @@ Mr Chua King Wah, PBM
 | Assistant Treasurer| Mr Tony Hon |  |
 | Secretary| Mr Chua Yew Gee Roland|  |
 | Assistant Secretary| Miss Roxanne Choy |  |
-| Social & Sports Secretary| Miss Syarafina Binte Azmi |  |
-| Assistant Social & Sport Secretary| Mr Tan Chee Chow |  |
+| Social &amp; Sports Secretary| Miss Syarafina Binte Azmi |  |
+| Assistant Social &amp; Sport Secretary| Mr Tan Chee Chow |  |
 | Public Relations Secretary| Mr Ong Khoon Aun |  |
 | Assistant Public Relations Secretary| Mr Kok Shaw Terk |  |
 |Auditor| Mdm Ang Chor Hiok|  |
@@ -80,19 +80,19 @@ Ordinary membership is open to all who are graduates of the school, provided tha
 
   
 
-**Life membership** may be conferred on any Ordinary Member upon the payment of a one-time subscription fee as decided and prescribed by the Committee from time to time. Life Members shall enjoy all the rights and privileges of an Ordinary Member, including the rights to vote and to hold office in the Alumni Association.
+**Life membership**&nbsp;may be conferred on any Ordinary Member upon the payment of a one-time subscription fee as decided and prescribed by the Committee from time to time. Life Members shall enjoy all the rights and privileges of an Ordinary Member, including the rights to vote and to hold office in the Alumni Association.
 
   
 
-**Honorary Membership** may be conferred by the Alumni on such persons distinguished by service to the school as the Committee may be in any case considered appropriate. Honorary Members shall have no rights to vote or hold office in the Alumni Association.
+**Honorary Membership**&nbsp;may be conferred by the Alumni on such persons distinguished by service to the school as the Committee may be in any case considered appropriate. Honorary Members shall have no rights to vote or hold office in the Alumni Association.
 
   
 
-**Associate Membership** may be conferred by the Alumni, upon application, on school staff, parents of all former students (alumni) and on such persons who, in the opinion of the Committee, are related to the school and/ or would contribute to the furtherance of the objectives of the Alumni. Associate Members shall have no rights to vote and to hold office in the Alumni Association.
+**Associate Membership**&nbsp;may be conferred by the Alumni, upon application, on school staff, parents of all former students (alumni) and on such persons who, in the opinion of the Committee, are related to the school and/ or would contribute to the furtherance of the objectives of the Alumni. Associate Members shall have no rights to vote and to hold office in the Alumni Association.
 
   
 
-**Ordinary membership** is open to all who are graduates of the school, provided that they are not currently attending Secondary Schools, Centralised Institutes or Junior Colleges. All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni Association.
+**Ordinary membership**&nbsp;is open to all who are graduates of the school, provided that they are not currently attending Secondary Schools, Centralised Institutes or Junior Colleges. All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni Association.
 
   
 
@@ -112,13 +112,13 @@ Hard copy application forms may be returned to the following address upon comple
 
   
 
-  Jurong Secondary School Alumni Association<br>
-  c/o Jurong Secondary School<br>
-  31 Yuan Ching Road, Singapore 618652  
+&nbsp;&nbsp;Jurong Secondary School Alumni Association<br>
+&nbsp;&nbsp;c/o Jurong Secondary School<br>
+&nbsp;&nbsp;31 Yuan Ching Road, Singapore 618652  
 
- Attn: Ms Roxanne Choy and Mdm Wang Cuifeng
+&nbsp;Attn: Ms Roxanne Choy and Mdm Wang Cuifeng
 
-Link: [JSS Alumni Association application form](https://jurongsec.moe.edu.sg/qql/slot/u184/JSS%202022/About%20Us/JSS%20Family/JSS%20Alumni%20Association/Application_form_JSSAA%20.pdf)
+Link:&nbsp;[JSS Alumni Association application form](https://jurongsec.moe.edu.sg/qql/slot/u184/JSS%202022/About%20Us/JSS%20Family/JSS%20Alumni%20Association/Application_form_JSSAA%20.pdf)
 
 ### Keeping in touch with the JSS Alumni Association
 ------------------------------------------------
@@ -127,9 +127,11 @@ Get in touch or stay updated with the JSS Alumni Association through our Faceboo
 
   
 
-Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Secondary-School-Alumni-Association-171815156192778/)
+Link:&nbsp;[JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Secondary-School-Alumni-Association-171815156192778/)
 
 ### Photo Story
+
+<iframe allowfullscreen="true" height="400" width="791" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7okKUfgebrUf0kqRUZEMVQp_K4LuMNCOI187X3HDgIWbyH1nA2aNle4HYZ-mQRaqwbx4Da36DbCFM/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 |  |  |
 | -------- | -------- |
@@ -137,7 +139,7 @@ Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Se
 | ![](/images/Alumni%203.jpg) Appreciating former teachers of Jurong Secondary School | ![](/images/Alumni%204.jpg) Golf Tournament 2016 |
 | ![](/images/Alumni%205.jpg) Golf Tournament 2017 | ![](/images/Alumni%206.jpg) Golf Tournament 2018 |
 | ![](/images/Alumni%207.jpg) Golf Tournament 2019 | ![](/images/Alumni%208.jpg) Movie Screening | 
-| ![](/images/Alumni%209.jpg) Bowling Competition | ![](/images/Alumni%2010.jpg) Happy Winners of the Bowling Competition |
+| ![](/images/Alumni%209.jpg)&nbsp;Bowling Competition | ![](/images/Alumni%2010.jpg) Happy Winners of the Bowling Competition |
 | ![](/images/Alumni%2011.jpg) Alumni Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) JSS Alumni Association Meeting | 
 | | |
 
