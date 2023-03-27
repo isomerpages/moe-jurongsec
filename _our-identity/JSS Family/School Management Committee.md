@@ -4,8 +4,6 @@ permalink: /our-identity/jss-family/school-management-committee/
 description: ""
 third_nav_title: JSS Family
 ---
-![](/images/School%20Management%20Committee.jpg)
-
 ### School Leaders
 
 |  |  |
