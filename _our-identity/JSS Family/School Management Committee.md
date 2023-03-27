@@ -34,7 +34,7 @@ third_nav_title: JSS Family
 | Student Management  | HOD Student Management  | Mr Phlip Wan Wei Meng   |
 | | | |
 
-### Support Team (For Teaching and Learning and Student Development)
+### Support Team (For Teaching & Learning and Student Development)
 
 |  |  |
 |---|---|
