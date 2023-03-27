@@ -20,3 +20,5 @@ third_nav_title: Academic Programmes
 
 
 <br>
+
+<center> Updated 27 Mar 2023 </center>
