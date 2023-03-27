@@ -14,11 +14,11 @@ third_nav_title: Academic Programmes
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD PE   | Mr Nur Qarnain    | [nur\_qarnain\_b\_hussin@moe.edu.sg](mailto:nur_qarnain_b_hussin@moe.edu.sg)    |
+|  HOD SM   | Mr Philip Wan   | [wan_wei_meng@moe.edu.sg](wan_wei_meng@moe.edu.sg)     |
 | SH PE   | Ms Ong Wei Chen    | [ong\_wei\_chen@moe.edu.sg](mailto:ong_wei_chen@moe.edu.sg)   |
 | PE Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar\_borhan\_said@moe.edu.sg](mailto:bakhtiar_borhan_said@moe.edu.sg)     |
 |     | Mdm Wang Cuifeng     |[wang\_cuifeng@moe.edu.sg](mailto:wang_cuifen@moe.edu.sg)     |
 |     | Mrs Elizabeth Woon   | [elizabeth\_woon@moe.edu.sg](mailto:ng_siew_tuan@moe.edu.sg) |
-|     | Mr Philip Wan   | [wan_wei_meng@moe.edu.sg](wan_wei_meng@moe.edu.sg)     |
 |     | Mr Ler Jun Yi     | [ler_jun_yi@moe.edu.sg](ler_jun_yi@moe.edu.sg)    |
 |   | Mr Ng Jian Xiang Lawrence    | [ng_jian_xiang_lawrence@moe.edu.sg](ng_jian_xiang_lawrence@moe.edu.sg)   |
 
