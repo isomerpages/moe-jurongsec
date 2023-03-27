@@ -29,112 +29,6 @@ third_nav_title: Academic Programmes
 |     | Ms Nicole Lek   | [lek\_hui\_xin\_nicole@moe.edu.sg](mailto:lek_hui_xin_nicole@moe.edu.sg)   |
 |   | Ms Xie Hui Ru     | [xie\_huiru@moe.edu.sg](mailto:xie_huiru@moe.edu.sg)    |
 
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-lm8h{background-color:#FFF;color:#B21D00;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 70px">
-<col style="width: 70px">
-<col style="width: 70px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-f4yw">HOD Science</th>
-    <th class="tg-zr06">Ms Lim Yan Mui</th>
-    <th class="tg-lm8h"><a href="mailto:lim_yan_mui@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lim_yan_mui@moe.edu.sg</span></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">HOD Character &amp; Citizenship Education</td>
-    <td class="tg-zr06">Mr Stanley Tan</td>
-    <td class="tg-lm8h"><a href="mailto:tan_chin_kwan@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">tan_chin_kwan@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">School Staff Developer</td>
-    <td class="tg-zr06">Mr Eric Tan</td>
-    <td class="tg-lm8h"><a href="mailto:eric_tan_ching_kuan@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">eric_tan_ching_kuan@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Year Head</td>
-    <td class="tg-zr06">Mr Aaron Tang Wei Lun</td>
-    <td class="tg-lm8h"><a href="mailto:tang_wei_lun_aaron@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">tang_wei_lun_aaron@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">SH Science</td>
-    <td class="tg-zr06">Mr Traven Loh</td>
-    <td class="tg-lm8h"><a href="mailto:loh_wei_chuen@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">loh_wei_chuen@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Senior Teacher – Educational Support</td>
-    <td class="tg-zr06">Mr Lim Kok Meng</td>
-    <td class="tg-lm8h"><a href="mailto:lim_kok_meng_a@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lim_kok_meng_a@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Senior Teacher – Chemistry</td>
-    <td class="tg-zr06">Ms Julianah Johar-Astapura</td>
-    <td class="tg-lm8h"><a href="mailto:julianah_johar@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">julianah_johar@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="14">Science Teachers</td>
-    <td class="tg-zr06">Mr Ng Teck Koon</td>
-    <td class="tg-lm8h"><a href="mailto:ng_teck_koon@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">ng_teck_koon@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Rachel Lim Poh Yen</td>
-    <td class="tg-lm8h"><a href="mailto:lim_poh_yen@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lim_poh_yen_a@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Teoh M H Clarice</td>
-    <td class="tg-lm8h"><a href="mailto:teoh_mooi_hoon@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">teoh_mooi_hoon@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Md Riduwan Ahmad</td>
-    <td class="tg-lm8h"><a href="mailto:muhammed_riduwan_ahmad@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">muhammed_riduwan_ahmad@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Eugene Wong</td>
-    <td class="tg-lm8h"><a href="mailto:wong_jia_wei@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">wong_jia_wei_eugene@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Koo Chee Kiong</td>
-    <td class="tg-lm8h"><a href="mailto:koo_chee_kiong@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">koo_chee_kiong@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Simranjit Kaur</td>
-    <td class="tg-lm8h"><a href="mailto:simranjit_kaur_ranjit_singh@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">simranjit_kaur_ranjit_singh@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Valerie Wong</td>
-    <td class="tg-lm8h"><a href="mailto:wong_hui_ping_valerie@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">wong_hui_ping_valerie@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Mr Kenny Hong Anliang</td>
-    <td class="tg-lm8h"><a href="mailto:hong_anliang@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">hong_anliang@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Nurul Nadia</td>
-    <td class="tg-lm8h"><a href="mailto:nurul_nadia_abdul_kalam@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">nurul_nadia_abdul_kalam@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Nicole Lek</td>
-    <td class="tg-lm8h"><a href="mailto:lek_hui_xin_nicole@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">lek_hui_xin_nicole@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Ms Xie Hui Ru</td>
-    <td class="tg-lm8h"><a href="mailto:xie_huiru@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">xie_huiru@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
 
 ### Our Learning Approach
 
@@ -214,4 +108,4 @@ Some of the features of the JSS Lower Secondary Science course include:
 </tbody>
 </table>
 
-<center> Updated 26 Mar 2023 </center>
+<center> Updated 27 Mar 2023 </center>
