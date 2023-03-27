@@ -7,7 +7,7 @@ third_nav_title: Student Development
 # Student Development
 
 
-| -----|-----  |----- |
+| |  | |
 | -------- | -------- | -------- |
 | HOD CCE  | Mr Stanley Tan     | [tan_chin_kwan@moe.edu.sg](tan_chin_kwan@moe.edu.sg)    |
 | HOD SM    | Mr Philip Wan    |[wan_wei_meng@moe.edu.sg](wan_wei_meng@moe.edu.sg)    |
