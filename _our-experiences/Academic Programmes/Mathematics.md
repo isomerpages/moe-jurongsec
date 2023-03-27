@@ -33,7 +33,7 @@ third_nav_title: Academic Programmes
 
 ## Our Learning Approach
 
-The JSS Mathematics Department consists of dedicated teachers who are committed to nurturing proficient and confident problem solvers. Every teacher is driven by the belief that all students are capable of being developed into independent problem solvers who possess the capacity of analytical and critical thinking skills. Our students will learn to recognize and apply mathematical concepts into real world situations, translating the academic concepts into real world problem solving tools. In addition, we seek to extend our students’ positive disposition in the discipline through their participation in related competitions and activities.
+The JSS Mathematics Department consists of dedicated teachers who are committed to nurturing proficient and confident problem solvers. Every teacher is driven by the belief that all students are capable of being developed into independent problem solvers who possess the capacity of analytical and critical thinking skills. Our students will learn to recognize and apply mathematical concepts into real world situations, translating the academic concepts into real-world problem solving tools. In addition, we seek to extend our students’ positive disposition in the discipline through their participation in related competitions and activities.
 
   
 
