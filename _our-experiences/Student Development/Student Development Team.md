@@ -34,7 +34,7 @@ third_nav_title: Student Development
   <tr>
 		<td class="tg-zr06">HOD SM<br></td>
     <td class="tg-zr06">Mr Philip Wan<br></td>
-    <td class="tg-lm8h"><a href="mailto:Wan_wei_meng@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">Wan_wei_meng@moe.edu.sg</span></a></td>
+    <td class="tg-lm8h"><a href="mailto:wan_wei_meng@moe.edu.sg"><span style="text-decoration:none;color:#B21D00">wan_wei_meng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Year Head (Upper Sec)<br></td>
