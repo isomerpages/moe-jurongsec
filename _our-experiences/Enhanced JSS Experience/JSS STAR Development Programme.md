@@ -51,7 +51,7 @@ Developing a design thinking mindset and research awareness amongst students is 
 * raises confidence to communicate projects clearly and effectively;
 * cultivates good team dynamics to equip students with the right attitudes and social skills for the future.
 
-### The Privileges:
+### Talent Development Experiences:
 Each JSS STAR Student will be able to participate in selected workshops, learning journeys, conferences and seminars that are fully subsidised by the school in order to further their development. 
 
 In addition, the school will provide full subsidy for student's participation in approved academic competitions and training fees incurred for the year. As part of the terms, the Overseas Immersion Programme in Year 3 will be heavily subsidised by the school with co-payment by the student via their Edusave accounts.  
