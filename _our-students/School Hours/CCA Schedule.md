@@ -4,7 +4,9 @@ permalink: /our-students/school-hours/cca-schedule/
 description: ""
 third_nav_title: School Hours
 ---
-[Click here to download the CCA schedule](/files/CCA%202023.pdf)
+[Click here to download the CCA 2023 schedule](/files/CCA%202023_final.pdf)
+
+
 
 
 
