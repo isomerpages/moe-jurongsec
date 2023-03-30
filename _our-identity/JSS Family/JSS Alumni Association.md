@@ -4,7 +4,7 @@ permalink: /our-identity/JSS-Family/jss-alumni-association/
 description: ""
 third_nav_title: JSS Family
 ---
-![](/images/JSS%20Alumni%202019.jpg)
+![](/images/Alumni%202023.jpeg)
 
 ### Aims and Objectives
 -------------------
