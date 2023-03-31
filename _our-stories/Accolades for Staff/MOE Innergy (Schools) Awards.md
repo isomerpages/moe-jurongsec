@@ -9,6 +9,8 @@ Innovation takes effort and everyone needs recognition and encouragement to spur
 ### 2022
 ![](/images/Innergy%20Award%202022%201.jpg)
 
+![](/images/innergy%20award%202022%203.JPG)
+
 ### 2021
 
 ![](/images/Innergy%201.jpg)
