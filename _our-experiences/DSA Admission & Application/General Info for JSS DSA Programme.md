@@ -20,3 +20,4 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 
 Please click on this link to download the JSS DSA brochure.
 
+<center> Updated 5 Apr 2023 </center>
