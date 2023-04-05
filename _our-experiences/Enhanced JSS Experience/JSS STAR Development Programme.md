@@ -59,7 +59,7 @@ Continued enrolment in the programme is renewed biannually. It is subject to sat
 ### Eligibility:
 
 **Phase I** <br>
-Secondary One students with a keen interest in the Programme and who are assessed to be able to cope extremely well with the demands of secondary education (i.e. top students of the cohort based on their performance in the PSLE) will be identified for the Selection Process. They will be invited to put up a personal statement, following which they may be called up for a panel interview. The selection exercise for this group of students will commence in Term 1.&nbsp;&nbsp;  
+Secondary One students with a keen interest in the Programme and who are assessed to be able to cope extremely well with the demands of secondary education (i.e. top students of the cohort based on their performance in the Sec 1 end-of-year exams) will be identified for the Selection Process. They will be invited to put up a personal statement, following which they may be called up for a panel interview. The selection exercise for this group of students will commence at the end of Sec 1.  
   
 **Phase II** <br>
 Secondary Two students who are keen in the Programme and who are assessed to be able to adjust extremely well to the demands of secondary education (i.e. top students of the cohort in their performance at the school’s Secondary 2 End-of-Year examination) will be identified for the Selection Process, which will commence at the end of Secondary 2, the process as indicated above in Phase I.
