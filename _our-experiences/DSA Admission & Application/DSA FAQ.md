@@ -2,7 +2,7 @@
 title: DSA FAQ
 permalink: /our-experiences/dsa-admission-and-application-matters/dsa-faq/
 description: ""
-third_nav_title: DSA Admission & Application
+third_nav_title: DSA Admission &amp; Application
 ---
 **General**
 
@@ -42,7 +42,7 @@ third_nav_title: DSA Admission & Application
 | Answer | Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is open from 5 May 2022 to 1 Jun 2022, closing time at 3pm.<br><br>For more information, please refer to MOE website –<br>[https://www.moe.gov.sg/secondary/dsa/application/](https://www.moe.gov.sg/secondary/dsa/application/) |
 | | |
 
-**SCoRe**
+**Science**
 
 |  |  |
 |---|---|
@@ -72,7 +72,7 @@ third_nav_title: DSA Admission & Application
 |---|---|
 | Question 1 | Will my child be guaranteed a place on the school sports team if he is accepted via DSA? |
 | Answer | There is no guarantee of a confirmed place on the team.<br>Selection for the teams participating in NSG is based on merit and will be done nearer to the date of competition. We also participate in other competitions to provide opportunities to gain experience. |
-| Question 2 | • My son's CCA is concert band, but your school does not have it for DSA. Is it advisable for my son to use badminton, to apply for DSA? As his primary school did not have badminton as CCA, he played it as a hobby.<br>• Can I choose DSA basketball although I am in badminton as I like to play both badminton and basketball?<br>• My child’s Primary school does not have a basketball CCA but he has been on ActiveSG Basketball Activity since primary 2 till now, participating in games challenge & carnivals. Can this be considered something that the school will accept? |
+| Question 2 | • My son's CCA is concert band, but your school does not have it for DSA. Is it advisable for my son to use badminton, to apply for DSA? As his primary school did not have badminton as CCA, he played it as a hobby.<br>• Can I choose DSA basketball although I am in badminton as I like to play both badminton and basketball?<br>• My child’s Primary school does not have a basketball CCA but he has been on ActiveSG Basketball Activity since primary 2 till now, participating in games challenge &amp; carnivals. Can this be considered something that the school will accept? |
 | Answer | Yes, we will welcome application as long there is interest and passion for the particular DSA category. |
 | Question 3 | • Will the students be asked to show skills during the DSA e-interview?<br>• During the e interview, is the school expecting the applicant to perform any footwork or displaying the strokes to the interviewer? |
 | Answer | All shortlisted applicants will be invited to attend in-person sports trials. |
