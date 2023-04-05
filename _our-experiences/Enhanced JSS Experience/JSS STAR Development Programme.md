@@ -64,4 +64,4 @@ Secondary One students with a keen interest in the Programme and who are assesse
 **Phase II** <br>
 Secondary Two students who are keen in the Programme and who are assessed to be able to adjust extremely well to the demands of secondary education (i.e. top students of the cohort in their performance at the school’s Secondary 2 End-of-Year examination) will be identified for the Selection Process, which will commence at the end of Secondary 2, the process as indicated above in Phase I.
 
-<center> Updated 26 Mar 2023 </center>
+<center> Updated 5 Apr 2023 </center>
