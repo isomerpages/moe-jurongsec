@@ -17,11 +17,11 @@ third_nav_title: Academic Programmes
 |  (Asst Year Head Sec 2) | Ms Norliyana Bte Matin     | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
 | Computer Application Teachers   | Mr Chris Lok  | [lok_jian_ming@moe.edu.sg](lok_jian_ming@moe.edu.sg)    |
 |   | Mr Lam Chee Leong  | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)   |
-| Design & Technology Teachers    | Mr Alex Chew     | [chew_khee_lim@moe.edu.sg](chew_khee_lim@moe.edu.sg)   |
+| Design &amp; Technology Teachers    | Mr Alex Chew     | [chew_khee_lim@moe.edu.sg](chew_khee_lim@moe.edu.sg)   |
 |   | Mr Ng Choon Hui Vincent     | [ng_choon_hui@moe.edu.sg](ng_choon_hui@moe.edu.sg)    |
 |      | Mr Lim Kwee Hock (Flexi Adjunct)     | [lim_kwee_hock@moe.edu.sg](lim_kwee_hock@moe.edu.sg)    |
 | Element of Business Skills Teachers    | Ms Caroline Wooi   | [wooi_lian_hong@moe.edu.sg](wooi_lian_hong@moe.edu.sg)     |
-| Nutrition & Food Science Teachers  | Ms Norliyana Bte Matin    | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
+| Nutrition &amp; Food Science Teachers  | Ms Norliyana Bte Matin    | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
 |     | Ms Shuryani    | [shuryani_abdul_wahab@moe.edu.sg](shuryani_abdul_wahab@moe.edu.sg)    |
 |      | Mr David Liew (FAJT-FCE)    | [david\_liew\_kian\_yuen@moe.edu.sg](mailto:david_liew_kian_yuen@moe.edu.sg)    |
 | Music Teachers    | Ms Kalai   | [kalaivanni_somasundram@moe.edu.sg](kalaivanni_somasundram@moe.edu.sg)  |
@@ -56,7 +56,7 @@ Lower Secondary
 
 *   Sec 1 Art enrichment programme at Singapore ArtScience Museum
 *   Sec 2 Art enrichment programme at National Gallery Singapore
-*   Aesthetics enrichment - Marbling Art
+*   Aesthetics enrichment - Marbling Art, Media Art
 
   
 
@@ -69,4 +69,4 @@ Upper Secondary
 
 School-wide STEAM week programme
 
-<center> Updated 27 Mar 2023 </center>
+<center> Updated 5 Apr 2023 </center>
