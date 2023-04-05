@@ -6,6 +6,8 @@ third_nav_title: DSA Admission &amp; Application
 ---
 **Application &amp; Selection Process**
 
+**Note**: *2022 DSA-Sec School Preference has ended*
+
 All applicants must be eligible for Secondary One admission in 2023.
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022 (11am) to 1 Jun 2022 (3pm). For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
