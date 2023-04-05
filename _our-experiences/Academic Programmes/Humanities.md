@@ -49,6 +49,6 @@ Students undergoing the JSS Humanities learning experience will:
 
 | Programme | Discipline | Levels |
 | -------- | -------- | -------- |
-| Environmental Studies ALP    | Inter-disciplinary    | S1 & S2     |
+| Humanities/ Star Overseas Immersion    | Humanities   | S3     |
 
-<center> Updated 27 Mar 2023 </center>
+<center> Updated 5 Apr 2023 </center>
