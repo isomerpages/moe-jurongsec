@@ -8,7 +8,7 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 
 
 
-| ![](/images/sports.jpg) | ![](/images/science%20communication%20n%20research.jpg) | ![](/images/proj%20compassion.jpg) |
+| ![](/images/sports.jpg) | <img src="/images/science%20communication%20n%20research.jpg" style="width:1000px;"> | ![](/images/proj%20compassion.jpg) |
 | -------- | -------- | -------- |
 | **SPORTS**    | **SCIENCE**    | **SERVICE LEADERSHIP**    |
 | Basketball (Boys and Girls)<br>Volleyball<br>badminton<br>Cross Country (Boys and Girls)    |   |   |
