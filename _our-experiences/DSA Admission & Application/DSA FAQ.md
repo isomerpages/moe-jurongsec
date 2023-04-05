@@ -46,8 +46,8 @@ third_nav_title: DSA Admission &amp; Application
 
 |  |  |
 |---|---|
-| Question 1 | If my child has not participated in the Science Olympiad, is it alright for him to apply for SCoRe? What is the criteria to apply for it? | 
-| Answer | The applicant does not require Science Olympiad to apply for DSA SCoRe. The qualities that we look out for in applicants include: a keen interest in learning science beyond the standard prescribed curriculum, passion in science research, and an interest to share their love for science with others. |  
+| Question 1 | If my child has not participated in the Science Olympiad, is it alright for him to apply for DSA Science? What is the criteria to apply for it? | 
+| Answer | The applicant does not require Science Olympiad to apply for DSA Science. The qualities that we look out for in applicants include: a keen interest in learning science beyond the standard prescribed curriculum, passion in science research, and an interest to share their love for science with others. |  
 | | |
 
 **Service Leadership**
