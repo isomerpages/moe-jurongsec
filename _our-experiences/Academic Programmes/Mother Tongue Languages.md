@@ -50,7 +50,7 @@ Students will read newspaper articles (all three languages) on a bi-weekly basis
 
   
 
-Sec 1 to Sec 3 CL students will read two books during term holidays and complete reading worksheets as holiday assignment.
+Sec 1 to Sec 2 CL students will read one book in each semester.  Assignments or discussions will be conducted in class to deepen students' understanding of the text.
 
   
 
