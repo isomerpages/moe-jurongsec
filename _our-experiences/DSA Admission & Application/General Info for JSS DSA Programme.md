@@ -2,10 +2,20 @@
 title: General Info for JSS DSA Programme
 permalink: /our-experiences/dsa-admission-and-application/jss-dsa-info/
 description: ""
-third_nav_title: DSA Admission & Application
+third_nav_title: DSA Admission &amp; Application
 ---
-Put the intro of the original page here
+We are pleased to share with you that Jurong Secondary School offers 3 key programmes under our DSA (Sec) Exercise.
 
-3 catergories
 
-YOu want to put the 2 page brouche and will provide the link to download the broachure
+
+| ![](/images/sports.jpg) | ![](/images/science%20communication%20n%20research.jpg) | ![](/images/proj%20compassion.jpg) |
+| -------- | -------- | -------- |
+| **SPORTS**    | **SCIENCE**    | **SERVICE LEADERSHIP**    |
+| Basketball (Boys and Girls)<br>Volleyball<br>badminton<br>Cross Country (Boys and Girls)    |   |   |
+
+
+![](/images/DSA%20Brochure%202022%20External.png)
+
+![](/images/DSA%20Brochure%202022%20Internal.png)
+
+Please click on this link to download the JSS DSA brochure.
