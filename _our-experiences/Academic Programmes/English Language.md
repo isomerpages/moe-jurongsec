@@ -10,7 +10,7 @@ third_nav_title: Academic Programmes
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD English   | Mrs Farhain Aidil    | [farhain_ahmad_bustami@moe.edu.sg](farhain_ahmad_bustami@moe.edu.sg)    |
-|  Year Head (Lower Sec & Sec 1)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
+|  Year Head (Lower Sec &amp; Sec 1)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
 |   SH ICT  | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
 | English Language Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar_borhan_said@moe.edu.sg](bakhtiar_borhan_said@moe.edu.sg)     |
 |    | Mr Mahathir Aziz    | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)    |
@@ -82,9 +82,9 @@ Our English Language Department uses the communicative approach to language lear
 ## Our Special Programmes:
 
 
-*   Secondary 1 Drama Enrichment Programme
-*   Secondary 2 Debate Enrichment Programme
+*   Secondary 1 Drama Programme
+*   Secondary 2 Debate Programme
 *   Secondary 3 Public Speaking Programme
 *   Speak Good English Movement
 
-<center> Updated 27 Mar 2023 </center>
+<center> Updated 5 Apr 2023 </center>
