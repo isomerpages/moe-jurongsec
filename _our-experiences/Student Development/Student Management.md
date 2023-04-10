@@ -28,3 +28,5 @@ The Student Management Committee @ JSS strives to work together with colleagues,
 We strive towards a balance of order and discipline, with a positive and proactive approach to create an environment conducive for students’ learning and development. This includes going beyond ensuring behavioural compliance in students by focusing on promoting positive student behaviour in support of learning and growth through the teaching of values and skills, and timely reinforcement through corrective guidance to address students’ misbehaviour. 
 
 ![](/images/student%20management%201.png)
+
+<center> Updated 10 Apr 2023 </center>
