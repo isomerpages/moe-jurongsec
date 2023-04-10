@@ -4,8 +4,6 @@ permalink: /our-experiences/student-development/level-team/
 description: ""
 third_nav_title: Student Development
 ---
-
-
 |  |  |  |
 | -------- | -------- | -------- |
 |Year Head   | Mr Aaron Tang Wei Lun    |[tang_wei_lun_aaron@moe.edu.sg](tang_wei_lun_aaron@moe.edu.sg)  |
@@ -31,3 +29,4 @@ At the core of our educational approach is the development of a growth mindset a
 | Secondary 3   | Mission (I’m) Possible   | Resilient Leader   |
 | Secondary 4 and 5    | Above & Beyond  | Inspirational Role Model   |
 
+![](/images/level%20team%201.png)
