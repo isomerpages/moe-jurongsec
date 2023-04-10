@@ -6,29 +6,39 @@ third_nav_title: Enhanced JSS Experience
 ---
 ![](/images/Applied%20Learning%20Programme%20Committee.jpg)
 
-### Environmental Studies: A multi-disciplinary approach to sustainable urban living.
+### Design for Smart and Sustainable Urban Living 
 
-**Why Environmental Studies?** <br>
-As a small island state, Singapore must monitor trends in the global landscape, anticipate challenges and plan ahead to ensure its future sustainability. One of our key challenges facing the world today is environmental sustainability.
+The ‘Design for Smart, Sustainable Urban Living’ ALP offers a range of learning experiences that cover content (outside of the national curriculum for Lower Secondary Science, Geography and Design and Technology) and STEM-related skills. <br>
 
-Environmental Studies focuses on the interdisciplinary connections and interactions between environmental and social systems. It requires our students to think critically about environmental issues and actively participate in experiences where they can apply their knowledge.  This includes serving our community with the knowledge and skills for environmental change.
+All Secondary 1 and 2 students will undergo an engaging curriculum that features hands-on activities that allow them to pick up coding skills and apply them to everyday life. 
 
-**The JSS Student who experiences the Environmental Studies will be:**
+#### Tier 1 learning experiences can include: 
 
-<img src="/images/JSS%20Framework%20-%20ALP.png" 
-     style="width:70%">
-		 
-**What is Environmental Studies experience like?** <br>
-The Environmental Studies ALP is a programme that progressively raises the awareness and hones our students’ knowledge and skills in the area of environmental studies while leveraging related and relevant knowledge and skills in the Lower Secondary Science and Geography syllabuses. All lower secondary students will go through bi-weekly lessons designed by the school’s dedicated ALP committee with the aim of providing a learning experience that is authentic and activity-based.
+##### Introduction to Coding / Micro:bit <br>
+* Code for Fun <br>
+* Series of Micro:bit-infused lessons with hands-on activities for students to learn by tinkering
 
-Students who are passionate about environmental studies can opt to pursue specialised mini projects delving deeper into challenges and ways to manage real-world environmental issues, tapping on knowledge provided by mentors versed in the areas of Engineering, Life Sciences, Urban Design and Environment or Geo-spatial technologies.
+#### Introduction to Living in Smart Cities
+* Example of Inquiry Questions: <br>
+* What are the benefits and drawbacks of living in a city? How have different stakeholders tackled problems related to sustainable living in an urban city?   <br>
+* Case Study of Singapore <br>
+* Case Study of Japan <br>
+* Student-directed Research into another Case Study of their own choice 
 
-**What are some of the key programmes in Environmental Studies ALP?**
+Our lessons and inquiry are framed by Design Thinking which gives students an accessible protocol to explore the community around them and tinker with prototypes to create workable solutions.
 
-![](/images/23.png)
+Students will have the opportunity to showcase their best work at our annual Learning Fest and Makerfaire.
 
-![](/images/25.png)
+#### Tier 2 learning experiences <br>
+The Tier 2 offerings will give interested and passionate students a chance to go deeper into how technology can be used to solve problems related to urban living. A key feature of Tier 2 will be learning with the use of 3D printing technology, computing language, and a self-directed project to be completed with school-funds and a teacher-mentor.
 
-![](/images/24.png)
+##### School-run Workshops 
+These workshops will give students greater exposure and training in Design Thinking, 3D printing, laser-cutting to help students develop skills in these areas. Our school’s Imaginarium (Makerspace) will be a key site of learning for students and staff.
 
-<center> Updated 26 Mar 2023 </center>
+##### Competitions
+Competitions run by community groups in Taman Jurong and MOE institutions will provide our students opportunities to apply their knowledge and skills. Examples include the ‘Impact Festival Makeathon’ (organised by Lionsforge and GreenSG), ‘Green Wave Environmental Care Competition’, ‘Young Innovators’ Fair’, Engineering Innovation Challenge, NXplorers Challenge, National STEM Championship and National ITE Skills Challenge. 
+
+##### Learning Journey / Camp
+We hope to organise an annual Learning Journey or Day Camp to schools, organisations, urban farms or government institutions that have started using green technology, renewable energy or urban farming in a meaningful way. These learning journeys will be for our ALP reps and Environment Club students and show them real-life application of knowledge they have learnt in school.
+
+<center> Updated 10 Apr 2023 </center>
