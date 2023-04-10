@@ -1,0 +1,8 @@
+collections:
+  jss:
+    output: true
+    order:
+      - Concerned Citizen.md
+      - Confident Person.md
+      - Flexible Thinker.md
+      - Persevering Learner.md

@@ -1,0 +1,90 @@
+---
+title: English Language
+permalink: /our-experiences/Academic-Programmes/english-language/
+description: ""
+third_nav_title: Academic Programmes
+---
+# English Language
+![](/images/Js_English%20Language%20Department.jpg)
+
+|  |  |  |
+| -------- | -------- | -------- |
+| HOD English   | Mrs Farhain Aidil    | [farhain_ahmad_bustami@moe.edu.sg](farhain_ahmad_bustami@moe.edu.sg)    |
+|  Year Head (Lower Sec &amp; Sec 1)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
+|   SH ICT  | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
+| English Language Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar_borhan_said@moe.edu.sg](bakhtiar_borhan_said@moe.edu.sg)     |
+|    | Mr Mahathir Aziz    | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)    |
+|    | Mdm Norlinda Bte Omar   | [norlinda_omar@moe.edu.sg](norlinda_omar@moe.edu.sg)    |
+|      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi_karupaiya@moe.edu.sg](vijayaletchumi_karupaiya@moe.edu.sg)     |
+|      | Mdm Wang Cuifeng     | [wang_cuifeng@moe.edu.sg](wang_cuifeng@moe.edu.sg)    |
+|    | Ms Zhang Michelle   | [zhang\_minting\_michelle@moe.edu.sg](mailto:zhang_minting_michelle@moe.edu.sg)    |
+|     | Ms Mardiana Roslan   | [mardiana\_roslan@moe.edu.sg](mailto:mardiana_roslan@moe.edu.sg)   |
+|     |Ms Goh Eng Jue   | [goh\_eng\_jue@moe.edu.sg](mailto:goh_eng_jue@moe.edu.sg)  |
+|     | Mr Lee Yue Hern Mark   | [yue\_hern\_mark\_lee@moe.edu.sg](mailto:yue_hern_mark_lee@moe.edu.sg)    |
+|     | Ms Kalai     | [Kalaivanni\_somasundram@moe.edu.sg](mailto:Kalaivanni_somasundram@moe.edu.sg)   |
+|     | Ms Maria Chung Su-Yin    | [Maria_chung-Su-Yin@moe.edu.sg](Maria_chung-Su-Yin@moe.edu.sg)    |
+|     | Mr Sim Rui Xiang Darius    | [sim\_rui\_xiang\_darius@moe.edu.sg](mailto:sim_rui_xiang_darius@moe.edu.sg)   |
+|     | Ms Sarah Lee Cheong Khi    | [lee\_cheong\_khi@moe.edu.sg](mailto:lee_cheong_khi@moe.edu.sg)    |
+|     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)   |
+|     | Ms Mandaraz Lim Shi Hui   | [Lim_Shi_Hui_Mandaraz@moe.edu.sg](Lim_Shi_Hui_Mandaraz@moe.edu.sg)    |
+| English Literature Teachers   | Mrs Farhain Aidil     | [farhain\_ahmad\_bustami@moe.edu.sg](mailto:farhain_ahmad_bustami@moe.edu.sg)  |
+|      | Mdm Norlinda Bte Omar   | [norlinda\_omar@moe.edu.sg](mailto:norlinda_omar@moe.edu.sg)   |
+|     | Mr Sim Rui Xiang Darius    | [sim_rui_xiang_darius@moe.edu.sg](sim_rui_xiang_darius@moe.edu.sg)   |
+|     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)     |
+|     | Ms Maria Chung Su-Yin     | [Maria\_chung-Su-Yin@moe.edu.sg](mailto:Maria_chung-Su-Yin@moe.edu.sg)    |
+|     | Ms Mandaraz Lim Shi Hui     | [Lim_Shi_Hui_Mandaraz@moe.edu.sg](Lim_Shi_Hui_Mandaraz@moe.edu.sg)   |
+
+<br>
+
+## Our Learning Approach
+
+
+Our English Language Department uses the communicative approach to language learning, which encourages students to learn the language through its actual use to communicate real meaning during an interaction. Guided by this principle, our EL lessons serve as a platform for learner-centred, authentic learning to take place. It is through this interactive learning that communicative competence is developed, resulting in more confident EL speakers and learners.
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8g4u{background-color:#FFF;border-color:inherit;color:#000000;font-weight:bold;text-align:center;text-decoration:underline;
+  vertical-align:top}
+.tg .tg-3ugf{background-color:#FFF;border-color:inherit;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 70px">
+<col style="width: 70px">
+<col style="width: 70px">
+<col style="width: 70px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-3ugf">Focus<br></th>
+    <th class="tg-3ugf">Sec 1<br>The Thespian<br></th>
+    <th class="tg-8g4u">Sec 2<br>The Debater<br></th>
+    <th class="tg-9hzb">Sec 3, 4, 5<br>The Orator<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Learning Goals<br></td>
+    <td class="tg-ktyi">Students will be able to:<br><br>Converse with general clarity using pronunciation/ stress/ intonation patterns which allow for overall intelligibility.<br>Recognise their own verbal mistakes and correct them.<br>Imagine innovative, artistic responses to circumstances and ideas—and use different techniques to solve problems. They will show the confidence to take intellectual and creative risks, accepting failure as part of the creative process.</td>
+    <td class="tg-ktyi">Students will be able to:<br><br>Articulate, in conversation and oral presentations, clearly organized ideas and supporting evidence using vocabulary appropriate to the target audience.<br>Critically think and reflect to enable them to interpret and evaluate information from multiple perspectives—and to analyse, judge, define, question, organise, and prioritise information.</td>
+    <td class="tg-ktyi">Students will be able to:<br><br>Give a standard oral presentation confidently which informs and/or persuades the audience.<br>Integrate material from outside sources logically and gracefully into an oral presentation<br>Collaborate and communicate to foster positive interdependence and individual accountability. Both are rooted in the ability to listen actively and express oneself clearly, with intention in spoken, written, non-verbal, visual, and performative domains.</td>
+  </tr>
+</tbody>
+</table>
+
+## Our Special Programmes:
+
+
+*   Secondary 1 Drama Programme
+*   Secondary 2 Debate Programme
+*   Secondary 3 Public Speaking Programme
+*   Speak Good English Movement
+
+<center> Updated 5 Apr 2023 </center>

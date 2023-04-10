@@ -1,0 +1,17 @@
+collections:
+  our-students:
+    output: true
+    order:
+      - Textbook Lists.md
+      - Student Handbook.md
+      - Meet the Parents Session.md
+      - Admission/.keep
+      - Admission/Financial Assistance Scheme.md
+      - Admission/School Fees.md
+      - Admission/School Bookshop.md
+      - Admission/School Uniform.md
+      - School Hours/.keep
+      - School Hours/Curriculum Hours.md
+      - School Hours/CCA Schedule.md
+      - Assessment Matters/.keep
+      - Assessment Matters/Assessments and Examinations.md

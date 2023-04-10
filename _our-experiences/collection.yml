@@ -1,0 +1,56 @@
+collections:
+  our-experiences:
+    output: true
+    order:
+      - Enhanced JSS Experience/.keep
+      - Enhanced JSS Experience/Applied Learning Programme (ALP).md
+      - Enhanced JSS Experience/inSPire.md
+      - Enhanced JSS Experience/Learning for Life Programme (LLP).md
+      - Enhanced JSS Experience/JSS STAR Development Programme.md
+      - DSA Admission & Application/.keep
+      - DSA Admission & Application/General Info for JSS DSA Programme.md
+      - DSA Admission & Application/Eligibility Criteria for DSA.md
+      - DSA Admission & Application/DSA Application Process.md
+      - DSA Admission & Application/DSA FAQ.md
+      - Academic Programmes/.keep
+      - Academic Programmes/Academic Programmes Video.md
+      - Academic Programmes/Applied Studies.md
+      - Academic Programmes/English Language.md
+      - Academic Programmes/Humanities.md
+      - Academic Programmes/Information Communication Technology.md
+      - Academic Programmes/Mathematics.md
+      - Academic Programmes/Mother Tongue Languages.md
+      - Academic Programmes/Physical Education.md
+      - Academic Programmes/Science.md
+      - Student Development/.keep
+      - Student Development/CCE Committee.md
+      - Student Development/Level Team.md
+      - Student Development/Student Management.md
+      - Student Development/MOE Sexuality Education for Secondary Schools.md
+      - Student Development/Student Council.md
+      - CCA   Sports/.keep
+      - CCA   Sports/Badminton (Boys).md
+      - CCA   Sports/Basketball.md
+      - CCA   Sports/Cross Country.md
+      - CCA   Sports/Dragon Boat.md
+      - CCA   Sports/Floorball.md
+      - CCA   Sports/Sports and Recreational Club.md
+      - CCA   Sports/Volleyball (Girls).md
+      - CCA Uniform Groups/.keep
+      - CCA Uniform Groups/Girl Guides.md
+      - CCA Uniform Groups/NCC.md
+      - CCA Uniform Groups/NPCC.md
+      - CCA Uniform Groups/Red Cross.md
+      - CCA Uniform Groups/Scouts.md
+      - CCA Performing Arts/.keep
+      - CCA Performing Arts/Chinese Orchestra.md
+      - CCA Performing Arts/Choir.md
+      - CCA Performing Arts/Contemporary Dance.md
+      - CCA Performing Arts/English Drama Club.md
+      - CCA Performing Arts/Symphonic Band.md
+      - CCA Clubs and Societies/.keep
+      - CCA Clubs and Societies/Environment Club.md
+      - CCA Clubs and Societies/Library Club.md
+      - CCA Clubs and Societies/Media and Visual Arts Club.md
+      - CCA Clubs and Societies/Science Explorers Club.md
+      - Virtual School Tour.md
