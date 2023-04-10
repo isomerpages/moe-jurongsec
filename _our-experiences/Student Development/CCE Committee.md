@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Student Development
 ---
 
-
-
-
 |  |  |  |
 | -------- | -------- | -------- |
 |HOD CCE  | Mr Stanley Tan   | [tan_chin_kwan@moe.edu.sg](tan_chin_kwan@moe.edu.sg)    |
@@ -62,5 +59,5 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 |Education and Career guidance|CareerSeminar<br>Educational and Career Talks<br>Educational and Career Modules<br> JSS ECG Morning Series <br>Learning Journeys to Post-Secondary<br> Education Institutions (PSEI)<br>Applied Learning Modules ||
 |Values in Action|Level based VIA <br>ProjectProject COMpassion (Student initiated project)<br>Direct School Admission (Service Leadership) |||
 |Student Leadership|Student Leadership Modules<br>Peer Support Leaders Training <br>Class Monitor Workshop<br>Student Leaders’ Camp ||
-|Co-curricular activities|Uniformed Groups, Performing Arts Groups, Sports Teams, Clubs &amp; Societies|||
+|Co-curricular activities|Uniformed Groups<br> Performing Arts Groups<br> Sports Teams<br> Clubs &amp; Societies|||
 |Citizenship Education|NE Commemorative Events<br>Cohort Learning Journeys<br>NRIC Presentation Ceremony<br>NS Men Engagement <br>Overseas Schools Exchange Programme||
