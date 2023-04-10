@@ -36,9 +36,30 @@ _**As Leaders with Heart**,_&nbsp;students of Service who:
 * show respect for all life and embrace diversity;
 * and apply their personal and inter-personal leadership competencies and passion to exert positive influence.
 
+### The key programmes planned for the students for 2023 are as follows:
+
+
+
+| **Acquire** <br> (Skills) | **Connect** <br>(Applying Skills) | **Extend** <br> (Planning for my Future) |
+| -------- | -------- | -------- |
+|  S2   | S2-S3     | S4    |
+|   Star core Skills Programme:  | Participation in competitions     | Portfolio building  |
+|  Project Management   | Model UN (external)     |EAE &amp; DSA prep     |
+|   Design Thinking  | Model COP (school-based)     | Passion project    |
+|  Understanding self &amp; Teamwork    | Research opportunities   |Interview skills     |
+|      | Collaboration with IHL or industrial partners   | Resume skills     |
+
+#### Common Experiences:
+* Learning journeys
+* Overseas trip (Sec 3 scholars only) to expose students to the importance of globalization and the need for Singapore to remain connected to the rest of the world to remain competitive
+* Fireside chat with industrial partners, alumni, experts 
+* IQ camp
+
+
+
 ### The Curriculum:
 
-<img src="/images/JSS%20Framework%20-%20STAR.png" style="width:70%">
+
 
 ### The Value of Design Thinking &amp; Research:
 
