@@ -36,8 +36,9 @@ _**As Leaders with Heart**,_&nbsp;students of Service who:
 * show respect for all life and embrace diversity;
 * and apply their personal and inter-personal leadership competencies and passion to exert positive influence.
 
-### The key programmes planned for the students for 2023 are as follows:
+![](/images/star%20framework.JPG)
 
+### The key programmes planned for the students for 2023 are as follows:
 
 
 | **Acquire** <br> (Skills) | **Connect** <br>(Applying Skills) | **Extend** <br> (Planning for my Future) |
