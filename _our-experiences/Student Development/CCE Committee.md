@@ -60,3 +60,5 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 |Student Leadership|Student Leadership Modules<br>Peer Support Leaders Training <br>Class Monitor Workshop<br>Student Leaders’ Camp ||
 |Co-curricular activities|Uniformed Groups<br> Performing Arts Groups<br> Sports Teams<br> Clubs &amp; Societies|||
 |Citizenship Education|NE Commemorative Events<br>Cohort Learning Journeys<br>NRIC Presentation Ceremony<br>NS Men Engagement <br>Overseas Schools Exchange Programme||
+
+<center> Updated 10 Apr 2023 </center>
