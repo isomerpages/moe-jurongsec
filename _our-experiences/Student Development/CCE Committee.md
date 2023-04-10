@@ -4,7 +4,6 @@ permalink: /our-experiences/student-development/cce/
 description: ""
 third_nav_title: Student Development
 ---
-
 |  |  |  |
 | -------- | -------- | -------- |
 |HOD CCE  | Mr Stanley Tan   | [tan_chin_kwan@moe.edu.sg](tan_chin_kwan@moe.edu.sg)    |
