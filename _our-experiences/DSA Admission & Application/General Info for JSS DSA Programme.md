@@ -18,7 +18,7 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 
 ![](/images/DSA%20Brochure%202022%20Internal.png)
 
-Please click on this link to download the JSS DSA brochure.
+Please click on this [link to download](/files/dsa%20brochure%202023.pdf) the JSS DSA brochure.
 
 *The selection criteria and process for the talent areas will be updated from early-May.  For more information on DSA-Sec, please refer to the MOE website at [http://moe.gov.sg/dsa-sec](http://moe.gov.sg/dsa-sec)*
 
