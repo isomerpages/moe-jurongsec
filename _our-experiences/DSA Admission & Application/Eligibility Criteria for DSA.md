@@ -19,6 +19,14 @@ third_nav_title: DSA Admission &amp; Application
 | **Programmes, activities and/or opportunities that students can expect to participate in for each DSA-Sec talent** | ![](/images/science%20research.png) |  |
 |  |  |  |
 # Service Leadership
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+
 |  |  |  |
 |---|---|---|
 | **Eligibility Criteria** | 1.  Holds leadership roles in student leadership bodies (eg. prefectorial  board, student council, class committees)<br><br>2. Displays leadership skills in service to school and community (eg. led in class VIA activity, co-organise cohort/ class activity)<br><br>3. Displays interest and passion in service and community-related activities outside of school<br><br> 4. Demonstrates exemplary character and leadership<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |  |
