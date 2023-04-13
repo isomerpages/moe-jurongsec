@@ -13,11 +13,13 @@ third_nav_title: DSA Admission &amp; Application
 | **Programmes, activities and/ or opportunities that students can expect to participate in for each DSA-Sec talent**   | 1. Sports Science Workshops<br><br>2. Sports Scholarship Award<br><br>Please refer to our DSA E-brochure for more details.     |      |
 
 # Science
-|  | |  |
+|  |  |  |
 | -------- | -------- | -------- |
-| **Eligibility Criteria**   | 1. History of participation in science related activities in and beyond primary school<br><br>2. History of team-based collaboration<br><br>3. Evidence of passion and interest in Science<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer    |     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 |  |  |  |
