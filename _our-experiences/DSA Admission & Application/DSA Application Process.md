@@ -4,6 +4,10 @@ permalink: /our-experiences/dsa-admission-and-application-matters/dsa-applicatio
 description: ""
 third_nav_title: DSA Admission &amp; Application
 ---
+To be updated 3 May 2023
+
+<div hidden="">
+
 **Application &amp; Selection Process**
 
 **Note**: *2022 DSA-Sec School Preference has ended*
@@ -69,3 +73,5 @@ For clarifications regarding our DSA programmes, please do not hesitate to conta
 | | |
 
 <center> Updated 5 April 2023 </center>
+	
+</div>
