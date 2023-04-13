@@ -26,11 +26,7 @@ third_nav_title: DSA Admission &amp; Application
 | **Mode of Selection**   | s<br><br>Shortlisted  -<br><br>Part 1: Sports Trials<br><br>Part 2: .    |      |
 | **Programmes, activities and/ or opportunities that students can expect to participate in for each DSA-Sec talent**   | 1. <br><br>2. <br><br>Please refer to our DSA E-brochure for more details.     |      |
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+
 
 
 |  |  |  |
