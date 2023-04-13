@@ -12,20 +12,6 @@ third_nav_title: DSA Admission &amp; Application
 | **Mode of Selection**   | Interview and Trials<br><br>Shortlisted students will need to go through an interview that consists of two parts -<br><br>Part 1: Sports Trials<br><br>Part 2: An interview conducted by a panel of teachers.    |      |
 | **Programmes, activities and/ or opportunities that students can expect to participate in for each DSA-Sec talent**   | 1. Sports Science Workshops<br><br>2. Sports Scholarship Award<br><br>Please refer to our DSA E-brochure for more details.     |      |
 # Science
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Lam    | Text     |
-
-
-
-
-
-
-
-
-
-
-
 |  |  |  |
 |---|---|---|
 | **Eligibility Criteria** | 1. History of participation in science-related activities in and beyond primary school<br><br>2. History of team-based collaboration<br><br>3. Evidence of passion and interest in Science<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |  |
