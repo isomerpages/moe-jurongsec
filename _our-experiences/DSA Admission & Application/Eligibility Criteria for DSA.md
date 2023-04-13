@@ -4,8 +4,6 @@ permalink: /jss-experience/dsa-eligibility-criteria/
 description: ""
 third_nav_title: DSA Admission &amp; Application
 ---
-Under Construction
-<div hidden="">
 # Sports
 |  |  |  |
 |---|---|---|
@@ -31,4 +29,3 @@ Under Construction
 
 		 
 <center> Updated 5 Apr 2023 </center>
-	</div>
