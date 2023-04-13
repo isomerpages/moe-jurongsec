@@ -8,7 +8,7 @@ third_nav_title: DSA Admission &amp; Application
 
 |  ||  |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Eligibility Criteria   | 1. History and achievements in the sports     |     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 
