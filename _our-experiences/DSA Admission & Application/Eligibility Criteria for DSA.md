@@ -8,8 +8,8 @@ third_nav_title: DSA Admission &amp; Application
 
 |  ||  |
 | -------- | -------- | -------- |
-| Eligibility Criteria   | 1. History and achievements in the sports     |     |
-| Text     | Text     | Text     |
+| Eligibility Criteria   | 1. History and achievements in the sports<br>2. Evidence of passion/ talent/ interest<br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.     |     |
+| Mode of Selection   | Interview and Trials<br>Shortlisted students will need to go through an interview that consists of two parts -<br>Part 1: Sports Trials<br>Part 2: An interview conducted by a panel of teachers.    |      |
 | Text     | Text     | Text     |
 
 |  |  |  |
