@@ -13,11 +13,12 @@ third_nav_title: DSA Admission &amp; Application
 | **Programmes, activities and/ or opportunities that students can expect to participate in for each DSA-Sec talent**   | 1. Sports Science Workshops<br><br>2. Sports Scholarship Award<br><br>Please refer to our DSA E-brochure for more details.     |      |
 
 # Science
-|  |  |  |
+| Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+
+
+
 
 
 
