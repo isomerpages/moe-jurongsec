@@ -4,6 +4,8 @@ permalink: /our-experiences/dsa-admission-and-application/jss-dsa-info/
 description: ""
 third_nav_title: DSA Admission &amp; Application
 ---
+![](/images/dsa%20info%20session%202023.jpeg)
+
 We are pleased to share with you that Jurong Secondary School offers 3 key programmes under our DSA (Sec) Exercise.
 
 
