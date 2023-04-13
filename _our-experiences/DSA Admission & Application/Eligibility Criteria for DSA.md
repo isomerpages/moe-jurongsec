@@ -9,6 +9,12 @@ third_nav_title: DSA Admission &amp; Application
 
 
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
 |  |  |  |
 |---|---|---|
 | **Eligibility Criteria** | 1. History and achievements in the sport<br><br>2. Evidence of passion/ talent/ interest<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |  |
