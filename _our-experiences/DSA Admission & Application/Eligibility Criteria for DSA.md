@@ -16,8 +16,8 @@ third_nav_title: DSA Admission &amp; Application
 |  |  |  |
 | -------- | -------- | -------- |
 | **Eligibility Criteria**   | 1. History of participation in science-related activities in and beyond primary school<br><br>2. History of team-based collaboration<br><br>3. Evidence of passion and interest in Science<br><br>Please note that meeting all the criteria does not guarantee the students will be shortlisted/ given an offer.    |   |
-| **Mode of Selection**  | Text     |     |
-|  **Programmes**  | Text     |    |
+| Text | Text     |     |
+|Text  | Text     |    |
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 |  |  |  |
