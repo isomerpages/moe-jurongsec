@@ -22,17 +22,17 @@ c) The table below shows the distribution of weighting of assessments for each s
 | Sec 1 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
 | Sec 2 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
 | Sec 3 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
-|Sec 4 & 5|15%|15%|Grad Exam<br>4N:W5 - 7<br>4E5N: W8 - 10<br>(70%|
+|Sec 4 &amp; 5|15%|15%|Grad Exam<br>4N:W5 - 7<br>4E5N: W8 - 10<br>(70%|
 | | | | | | 
 
-Note: <br>
-Secondary 4 and 5 students will be sitting for their Graduation Examinations in Term 3.   
+Note:&nbsp;<br>
+Secondary 4 and 5 students will be sitting for their Graduation Examinations in Term 3. &nbsp;&nbsp;
 
 ### Schedule of Weighted Assessment for Semester 2
 
 You can download the schedules from the links below:  
 [2023 Sem 1 Sec 1 WA Schedule](/files/2023%20Sem1%20Sec1%20WA%20PN%20FINAL.pdf)<br>
-[2023 Sem 1 Sec 2 WA Schedule](/files/2023%20Sem%201%20Sec2%20WA%20PN%20(1).pdf)<br>[2023 Sem 1 Sec 3 WA Schedule](/files/2023%20Sem1%20Sec3%20WA%20PN%20Updated.pdf)<br>[2023 Sem 1 Sec 4 & 5 WA Schedule](/files/2023%20Sem%201%20Sec45%20WA%20PN%20(1).pdf)
+[2023 Sem 1 Sec 2 WA Schedule](/files/2023%20Sem%201%20Sec2%20WA%20PN%20(1).pdf)<br>[2023 Sem 1 Sec 3 WA Schedule](/files/2023%20Sem1%20Sec3%20WA%20PN%20Updated.pdf)<br>[2023 Sec 4&amp;5 Sem 1 WA Schedule (14 April 2023)](/files/2023%20sec%204&amp;5%20sem%201%20wa%20schedule%20(14%20april%202023).pdf)
 
 
 ### Sec 1 Exam Topics and Timetable for End-of-Year Examination
@@ -46,7 +46,7 @@ You can download the exam topics and timetable from the links below:
 
 You can download the exam topics and timetable from the links below:  
 
-### Sec 4&5 Exam Topics and Timetable for Graduation Examination
+### Sec 4&amp;5 Exam Topics and Timetable for Graduation Examination
 
 You can download the exam topics and timetable from the links below:  
   
