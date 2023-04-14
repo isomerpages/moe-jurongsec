@@ -4,6 +4,9 @@ permalink: /our-experiences/dsa-admission-and-application-matters/dsa-faq/
 description: ""
 third_nav_title: DSA Admission &amp; Application
 ---
+To be updated on 3 May 2023
+<div hidden="">
+
 **General**
 
 |  |  |
@@ -88,4 +91,4 @@ third_nav_title: DSA Admission &amp; Application
 | Answer | All shortlisted applicants will be invited to attend in-person sports trials. |
 | | |
 
-<center> Updated 13 May 2022 </center>
+<center> Updated 13 May 2022 </center></div>
