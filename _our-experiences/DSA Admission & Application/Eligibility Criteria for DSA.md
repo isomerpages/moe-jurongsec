@@ -4,6 +4,7 @@ permalink: /jss-experience/dsa-eligibility-criteria/
 description: ""
 third_nav_title: DSA Admission &amp; Application
 ---
+To be updated on 3 May 2023
 <div hidden="">
 # Sports
 
