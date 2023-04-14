@@ -4,6 +4,8 @@ permalink: /our-experiences/dsa-admission-and-application/jss-dsa-info/
 description: ""
 third_nav_title: DSA Admission &amp; Application
 ---
+![](/images/dsa%20info%20session%202023.jpeg)
+
 We are pleased to share with you that Jurong Secondary School offers 3 key programmes under our DSA (Sec) Exercise.
 
 
@@ -18,6 +20,8 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 
 ![](/images/DSA%20Brochure%202022%20Internal.png)
 
-Please click on this link to download the JSS DSA brochure.
+Please click on this [link to download](/files/dsa%20brochure%202023.pdf) the JSS DSA brochure.
 
-<center> Updated 5 Apr 2023 </center>
+*The selection criteria and process for the talent areas will be updated from early-May.  For more information on DSA-Sec, please refer to the MOE website at [http://moe.gov.sg/dsa-sec](http://moe.gov.sg/dsa-sec)*
+
+<center> Updated 13 Apr 2023 </center>
