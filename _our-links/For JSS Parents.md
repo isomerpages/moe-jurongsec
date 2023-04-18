@@ -9,4 +9,3 @@ description: ""
 | [Meet the Parents Session](https://www.jurongsec.moe.edu.sg/our-students/meet-the-parents-session/) |
 | [Parent Gateway](https://pg.moe.edu.sg/) |
 | [Parent Support Group](https://www.jurongsec.moe.edu.sg/our-identity/jss-family/parent-support-group/) |
-
