@@ -2,7 +2,7 @@
 title: DSA Application Process
 permalink: /our-experiences/dsa-admission-and-application-matters/dsa-application-process/
 description: ""
-third_nav_title: DSA Admission &amp; Application
+third_nav_title: DSA Admission & Application
 ---
 To be updated on 3 May 2023
 
