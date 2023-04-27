@@ -51,11 +51,11 @@ Returning Singaporeans and International Students applying to Jurong Secondary S
 *   Certified true copies or documentary proof of non-school based activities and achievements.
 *   Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools.
 
-4.  **Notification of outcome by school (By 12 September 2022)**&nbsp;–
+4.  **Notification of outcome by school (By 11 September 2023)**&nbsp;–
 
-Applicants will be notified of the outcomes by 12 September 2022. The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
+Applicants will be notified of the outcomes by 11 September 2023. The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants.
 
-5.  **School Preference Submission (31 October 2022 to 4 November 2022)**&nbsp;–
+5.  **School Preference Submission (23 October 2023 to 27 October  2023)**&nbsp;–
 
 All applicants with a Confirmed Offer (CO), or who are on the Waiting List (WL) of a school, will be issued a School Preference Form via email. The form will include instructions on how to submit your child’s preferences.
 
