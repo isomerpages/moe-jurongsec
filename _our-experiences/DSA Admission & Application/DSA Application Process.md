@@ -22,7 +22,7 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 | From 26 Jun 2023 onwards | Shortlisted candidates will be notified to attend interviews/ trials |
 | 26 Jun to 11 Sept 2023 | In-person* interviews and trials will be conducted in Jurong Secondary School for all talent areas:<br><br>• Badminton (Boys only)<br>• Basketball (Boys &amp; Girls)<br>• Cross Country (Boys &amp; Girls)<br>• Volleyball (Girls only)<br>• Science Communications and Research (SCoRe)<br>•Service Leadership<br><br>Subjected to prevailing SMMs<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |
 | By 12 Sept 2023 | Release of Selection Outcome |
-| 31 Oct to 4 Nov 2023 | Primary School: School Preference Submission |
+| 23 Oct to 27 Oct 2023 | Primary School: School Preference Submission |
 | Late Nov 2023 | Primary School: Results Release Stage by MOE |
 | | |
 
