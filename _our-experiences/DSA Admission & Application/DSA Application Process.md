@@ -6,20 +6,20 @@ third_nav_title: DSA Admission & Application
 ---
 To be updated on 3 May 2023
 
-<div hidden="">
+
 
 **Application &amp; Selection Process**
 
 **Note**: *2022 DSA-Sec School Preference has ended*
 
-All applicants must be eligible for Secondary One admission in 2023.
+All applicants must be eligible for Secondary One admission in 2024.
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022 (11am) to 1 Jun 2022 (3pm). For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023 (11am) to 31 May 2023 (3pm). For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 | Date | Process |
 |---|---|
-| 5 May to 1 Jun 2022 | Online application at DSA-Sec portal |
-| From 27 Jun 2022 onwards | Shortlisted candidates will be notified to attend interviews/ trials |
+| 4 May to 31 May 2023 | Online application at DSA-Sec portal |
+| From 26 Jun 2023 onwards | Shortlisted candidates will be notified to attend interviews/ trials |
 | 27 Jun to 12 Sept 2022 | In-person* interviews and trials will be conducted in Jurong Secondary School for all talent areas:<br><br>• Badminton (Boys only)<br>• Basketball (Boys &amp; Girls)<br>• Cross Country (Boys &amp; Girls)<br>• Volleyball (Girls only)<br>• Science Communications and Research (SCoRe)<br>•Service Leadership<br><br>Subjected to prevailing SMMs<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |
 | By 12 Sept 2022 | Release of Selection Outcome |
 | 31 Oct to 4 Nov 2022 | Primary School: School Preference Submission |
@@ -74,4 +74,3 @@ For clarifications regarding our DSA programmes, please do not hesitate to conta
 
 <center> Updated 5 April 2023 </center>
 	
-</div>
