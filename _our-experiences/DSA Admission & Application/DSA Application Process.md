@@ -6,7 +6,7 @@ third_nav_title: DSA Admission & Application
 ---
 To be updated on 3 May 2023
 
-
+<div hidden="">
 
 **Application &amp; Selection Process**
 
@@ -61,4 +61,4 @@ For clarifications regarding our DSA programmes, please do not hesitate to conta
 | **Service Leadership** | HOD/CCE, Mr Stanley Tan<br>AYH, Mr Faydzully |  |
 | | |
 
-<center> Updated 27 April 2023 </center>
+<center> Updated 27 April 2023 </center></div>
