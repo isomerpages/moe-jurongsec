@@ -1,8 +1,8 @@
 ---
 title: Eligibility Criteria for DSA
-permalink: /jss-experience/dsa-eligibility-criteria/
+permalink: /our-experiences/dsa-admission-and-application/eligibility-criteria-dsa/
 description: ""
-third_nav_title: DSA Admission &amp; Application
+third_nav_title: DSA Admission & Application
 ---
 To be updated on 3 May 2023
 <div hidden="">

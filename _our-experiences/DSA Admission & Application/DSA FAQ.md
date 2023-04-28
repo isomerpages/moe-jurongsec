@@ -1,8 +1,8 @@
 ---
 title: DSA FAQ
-permalink: /our-experiences/dsa-admission-and-application-matters/dsa-faq/
+permalink: /our-experiences/dsa-admission-and-application/dsa-faq/
 description: ""
-third_nav_title: DSA Admission &amp; Application
+third_nav_title: DSA Admission & Application
 ---
 To be updated on 3 May 2023
 <div hidden="">
