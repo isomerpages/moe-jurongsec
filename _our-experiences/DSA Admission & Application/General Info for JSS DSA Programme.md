@@ -23,4 +23,4 @@ Please click on this [link to download](/files/dsa%20brochure%202023%20(420%20×
 
 *The selection criteria and process for the talent areas will be updated from early-May.  For more information on DSA-Sec, please refer to the MOE website at [http://moe.gov.sg/dsa-sec](http://moe.gov.sg/dsa-sec)*
 
-<center> Updated 13 Apr 2023 </center>
+<center> Updated 2 May 2023 </center>
