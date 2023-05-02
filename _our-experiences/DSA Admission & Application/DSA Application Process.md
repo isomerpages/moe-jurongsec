@@ -10,7 +10,6 @@ To be updated on 3 May 2023
 
 **Application &amp; Selection Process**
 
-**Note**: *2022 DSA-Sec School Preference has ended*
 
 All applicants must be eligible for Secondary One admission in 2024.
 
@@ -20,8 +19,8 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 |---|---|
 | 4 May to 31 May 2023 | Online application at DSA-Sec portal |
 | From 26 Jun 2023 onwards | Shortlisted candidates will be notified to attend interviews/ trials |
-| 26 Jun to 11 Sept 2023 | In-person* interviews and trials will be conducted in Jurong Secondary School for all talent areas:<br><br>• Badminton (Boys only)<br>• Basketball (Boys &amp; Girls)<br>• Cross Country (Boys &amp; Girls)<br>• Volleyball (Girls only)<br>• Science Communications and Research (SCoRe)<br>•Service Leadership<br><br>Subjected to prevailing SMMs<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |
-| By 12 Sept 2023 | Release of Selection Outcome |
+| 26 Jun to 11 Sept 2023 | In-person* interviews and trials will be conducted in Jurong Secondary School for all talent areas:<br><br>• Badminton (Boys only)<br>• Basketball (Boys &amp; Girls)<br>• Cross Country (Boys &amp; Girls)<br>• Volleyball (Girls only)<br>• Science <br>•Service Leadership<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |
+| By 11 Sept 2023 | Release of Selection Outcome |
 | 23 Oct to 27 Oct 2023 | Primary School: School Preference Submission |
 | Late Nov 2023 | Primary School: Results Release Stage by MOE |
 | | |
@@ -38,7 +37,7 @@ All international students who are not currently studying in MOE mainstream prim
 <u><strong> For Other Applicants </strong></u><br>
 Applicants who are not currently studying in MOE mainstream primary schools should apply online for a Registration Number from 4 May 2023 (9am) to 31 May 2023 (3pm). This is done using an online form via MOE DSA Website. Parents/ guardians whose child/ ward is from MOE mainstream primary school, who are unable to apply online, can approach their child's/ ward's primary school for assistance.
 
-Returning Singaporeans and International Students applying to Jurong Secondary School will have to sit for a JSS Entrance Test, and score passes in English, Mathematics and Science.
+Returning Singaporeans and International Students applying to Jurong Secondary School will have to sit for a JSS Placement Test.
 
 **Other information:**
 
