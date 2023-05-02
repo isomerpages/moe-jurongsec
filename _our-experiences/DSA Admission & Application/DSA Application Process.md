@@ -37,7 +37,7 @@ All international students who are not currently studying in MOE mainstream prim
 <u><strong> For Other Applicants </strong></u><br>
 Applicants who are not currently studying in MOE mainstream primary schools should apply online for a Registration Number from 4 May 2023 (9am) to 31 May 2023 (3pm). This is done using an online form via MOE DSA Website. Parents/ guardians whose child/ ward is from MOE mainstream primary school, who are unable to apply online, can approach their child's/ ward's primary school for assistance.
 
-Returning Singaporeans and International Students applying to Jurong Secondary School will have to sit for a JSS Entrance Test, and score passes in English, Mathematics and Science.
+Returning Singaporeans and International Students applying to Jurong Secondary School will have to sit for a JSS Placement Test.
 
 **Other information:**
 
