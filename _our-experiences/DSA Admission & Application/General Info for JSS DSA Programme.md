@@ -15,7 +15,7 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 | **SPORTS**    | **SCIENCE**    | **SERVICE LEADERSHIP**    |
 | Basketball (Boys and Girls)<br>Volleyball (Girls only)<br>Badminton (Boys only)<br>Cross Country (Boys and Girls)    |   |   |
 
-![](/images/DSA%20Brochure%202022%20External.png)
+![](/images/dsa%202023%201-1.JPG)
 
 ![](/images/dsa%202023%201.JPG)
 
