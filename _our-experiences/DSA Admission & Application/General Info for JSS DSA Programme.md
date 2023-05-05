@@ -15,12 +15,12 @@ We are pleased to share with you that Jurong Secondary School offers 3 key progr
 | **SPORTS**    | **SCIENCE**    | **SERVICE LEADERSHIP**    |
 | Basketball (Boys and Girls)<br>Volleyball (Girls only)<br>Badminton (Boys only)<br>Cross Country (Boys and Girls)    |   |   |
 
-![](/images/DSA%20Brochure%202022%20External.png)
+![](/images/dsa%202023%201-1.JPG)
 
 ![](/images/dsa%202023%201.JPG)
 
 Please click on this [link to download](/files/dsa%20brochure%202023%20(420%20×%20210%20mm)%20final%20(1)_compressed.pdf) the JSS DSA brochure.
 
-*The selection criteria and process for the talent areas will be updated from early-May.  For more information on DSA-Sec, please refer to the MOE website at [http://moe.gov.sg/dsa-sec](http://moe.gov.sg/dsa-sec)*
+For more information on DSA-Sec, please refer to the MOE website at [http://moe.gov.sg/dsa-sec](http://moe.gov.sg/dsa-sec)*
 
-<center> Updated 2 May 2023 </center>
+<center> Updated 4 May 2023 </center>
