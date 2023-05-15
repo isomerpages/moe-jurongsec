@@ -6,11 +6,9 @@ third_nav_title: JSS Family
 ---
 ![](/images/JSS-PSG-Logo.jpg)
 
-![](/images/WhatsApp%20Image%202018-10-1%20PM.jpeg)
-
 ### Our PSG Vision
 --------------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2CHvUzi_1d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CHvUzi_1d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Collaborative partnership with the School to nurture our children to be "Champions of Mind, Leaders with Heart."  
 
@@ -31,21 +29,24 @@ PSG also participated in school events such as CCA Display Day, Chinese New Year
 
 |  | Parent's Name | PSG Exco |
 |---|---|---|
-| 1. | Mdm Helen Lau | Advisor |
-| 2. | Mdm Alicia Cheng Gek Choo | Advisor |
-| 3. | Mr Eric Toh Gim Wah | Chairperson |
-| 4. | Mdm Jessy Lim Siew Hong | Co-Chairperson |
-| 5. | Mdm Penny Cheah Ean Peen | Co-Chairperson |
-| 6. | Mdm Florence Lee | Assistant Coordinator |
-| 7. | Mdm Yusnizan Bte Mohd Taib | Secretary |
-| 8. | Mdm Irene Lim Peck Ngoh | Assistant Secretary |
-| 9. | Ms Janice Wong Hong Yan | Assistant Secretary |
-| 10. | Mr Tin Tun Naing | Student Support I/C |
-| 11. | Mdm Jestine Lee Kar Kau | Student Support Member |
-| 12. | Ms Cindy Chen Xinmin | Staff Support I/C |
-| 13. | Mdm Melody Lim Geok Ling | Staff Support Member |
-| 14. | Mdm Neo Nahloo | Parents Support I/C |
-| 15. | Mdm Soh Chiew Hoon | Parents Support Member |
+| 1. | Mr Eric Toh Gim Wah | Chairperson |
+| 2. | Mdm Liaw Mui Chee | Co-Chairperson |
+| 3. | Mdm Jessy Lim Siew Hong | Co-Chairperson |
+| 4. | Mdm Devaki Suppramaniam | Secretary |
+| 5. | Mdm Yusnizan Bte Mohd Taib | Asst Secretary |
+| 6. | Mdm Jennyfer Aw | Asst Secretary |
+| 7. | Mdm Penny Cheah | EXCO Member |
+| 8. | Mdm Fanny Soh | EXCO Member |
+| 9. | Mr Tin Tun Naing | EXCO Member |
+| 10. | Mdm Saraswathi | EXCO Member |
+| 11. | Mdm Diana Regehr | EXCO Member |
+| 12. | Mdm Ramani Saravanan | EXCO Member |
+| 13. | Mr Solomon Anthony | EXCO Member |
+| 14. | Mr Kenneth Kee | EXCO Member |
+| 15. | Mdm Sherlin Tan | EXCO Member |
+| 16. | Mdm Kathy Kong | EXCO Member |
+| 17. | Mdm Sheena Goh | EXCO Member |
+| 18. | Mdm Jade Du | EXCO Member |
 | | |
 
-<center> Updated 26 Mar 2023 </center>
+<center> Updated 15 May 2023 </center>
