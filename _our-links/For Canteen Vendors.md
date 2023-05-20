@@ -29,7 +29,7 @@ description: ""
 3) Proposed daily menu and price-list; and
 4) Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA license if any.
 
-Only shortlisted applicants will be notified.  They are required to attend an interview and to provide food sampling.
+**Only shortlisted applicants will be notified.  They are required to attend an interview and to provide food sampling.**
 
 <hr>
 
