@@ -11,7 +11,7 @@ description: ""
 | 1     | Japanese/Korean Stall<br>**Immediate vacancy** <br>We are inviting interested applicants to operate a Japanese/ Korean Food Stall at our school canteen.     | 30 June 2023     |
 
 ### **Requirements**
-##### **Interested applicants must satisfy the following requirements:**
+##### Interested applicants must satisfy the following requirements:
 1.  Stall holder and assistant should be a Singapore Citizen or Singapore Permanent Resident;
 2.  Have some experience in operating a food stall and/or catering experience;
 3.  Possess Basic Food Hygiene Certificate;
