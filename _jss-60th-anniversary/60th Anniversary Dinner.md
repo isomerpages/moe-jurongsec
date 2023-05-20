@@ -25,4 +25,6 @@ Operating Hours: Mon - Fri (including school holidays), 8 am to 5 pm.
 
 Contact Number (General Office): 62655980
 
+***For guests attending the 60th Anniversary Dinner, kindly note that parking space is not avaliable in the school.  Please park at the Jurong Lake Gardens public carpark opposite the school, or the adjacent Lake Vista @ Yuan Ching HDB carpark.***
+
 ![](/images/60th%20Anniversary%20Bottom%20Banner.jpeg)
