@@ -15,9 +15,6 @@ Since its inception in 1963, Jurong Secondary School has been a school built by 
 | Sports Carnival     | 19th May 2023    |    |
 | 60th Anniversary Dinner     | 1 June 2023    |      |
 
-Whether you are a current student, an alumnus, or a member of our community, you are welcome to be a part of our celebrations by posting your well-wishes on this link: [https://tinyurl.com/JSS60Anniversary](https://tinyurl.com/JSS60Anniversary)  
-
-  
 
 Please click on the links on the left to know more about our 60th Anniversary events, and how you can join us in the celebrations.
 
