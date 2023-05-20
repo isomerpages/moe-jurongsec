@@ -38,4 +38,4 @@ description: ""
 For enquiries, please contact Mdm Pamela Wong at 62655980.
 <hr>
 
-<center>Page Updated on 20 May 2023</center>
+<center>Updated 20 May 2023</center>
