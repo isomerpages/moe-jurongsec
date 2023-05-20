@@ -3,14 +3,14 @@ title: For JSS Canteen Vendors
 permalink: /our-links/for-jss-canteen/
 description: ""
 ---
-# School Canteen Vacancy
+### School Canteen Vacancy
 **Location:** Jurong Secondary School (31 Yuan Ching Road, Singapore 618652)
 
 | No | Type of Stall | Closing Date |
 | -------- | -------- | -------- |
 | 1     | Japanese/Korean Stall<br>**Immediate vacancy** <br>We are inviting interested applicants to operate a Japanese/ Korean Food Stall at our school canteen.     | 30 June 2023     |
 
-# **Requirements**
+### **Requirements**
 Interested applicants must satisfy the following requirements: 
 1. Stall holder and assistant should be a Singapore Citizen or Singapore Permanent Resident;
 1. Have some experience in operating a food stall and/or catering experience;
@@ -21,7 +21,7 @@ Interested applicants must satisfy the following requirements:
 1. Able to maintain a high standard of food and personal hygiene.
 <hr>
 
-# **Application Procedure**
+### **Application Procedure**
 
 Application form can be obtained from the General Office of Jurong Secondary School or downloaded from MOE website: 
 
@@ -35,7 +35,7 @@ Only shortlisted applicants will be notified.  They are required to attend an in
 
 <hr>
 
-# **Enquiries**
+### **Enquiries**
 
 For enquiries, please contact Mdm Pamela Wong at 62655980.
 <hr>
