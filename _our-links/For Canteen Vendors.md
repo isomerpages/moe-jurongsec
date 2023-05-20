@@ -14,17 +14,17 @@ description: ""
 ##### **Interested applicants must satisfy the following requirements:**
 1.  Stall holder and assistant should be a Singapore Citizen or Singapore Permanent Resident;
 2.  Have some experience in operating a food stall and/or catering experience;
-3.  Possess Basic Food Hygiene Certificate.
-4.  Be healthy and fit
-5.  Be able to provide good service and quality food at reasonable price in consultation with the school
-6.  Provide cooked food that meets the health / nutritional standards set by the Health Promotion Board and comply with the School Healthy Meal Programme
+3.  Possess Basic Food Hygiene Certificate;
+4.  Be healthy and fit;
+5.  Be able to provide good service and quality food at reasonable price in consultation with the school;
+6.  Provide cooked food that meets the health / nutritional standards set by the Health Promotion Board and comply with the School Healthy Meal Programme;
 7.  Able to maintain a high standard of food and personal hygiene.
 <hr>
 
 ### **Application Procedure**
 
 ##### Please submit the following supporting document to the General Office by 31 May 2023:
-1) Application form (Application form can be obtained from the General Office of Jurong Secondary School or downloaded from MOE website)
+1) Application form (Application form can be obtained from the General Office of Jurong Secondary School or downloaded from MOE website);
 2) One photocopy of NRIC (front and back); 
 3) Proposed daily menu and price-list; and
 4) Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA license if any.
