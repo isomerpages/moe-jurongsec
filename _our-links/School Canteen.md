@@ -3,7 +3,7 @@ title: School Canteen
 permalink: /our-links/jss-canteen/
 description: ""
 ---
-### School Canteen Vacancy
+### Stall Vacancy
 **Location:** Jurong Secondary School (31 Yuan Ching Road, Singapore 618652)
 
 | No | Type of Stall | Closing Date |
