@@ -24,10 +24,10 @@ description: ""
 ### **Application Procedure**
 
 ##### Please submit the following supporting document to the General Office by 31 May 2023:
-1) Application form (Application form can be obtained from the General Office of Jurong Secondary School or downloaded from MOE website);
-2) One photocopy of NRIC (front and back); 
-3) Proposed daily menu and price-list; and
-4) Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA license if any.
+1. Application form (Application form can be obtained from the General Office of Jurong Secondary School or downloaded from MOE website);
+2. One photocopy of NRIC (front and back); 
+3. Proposed daily menu and price-list; and
+4. Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA license if any.
 
 **Only shortlisted applicants will be notified.  They are required to attend an interview and to provide food sampling.**
 
