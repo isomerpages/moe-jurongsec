@@ -19,7 +19,7 @@ The Sec 3 Meet-the-Parents session was held on the 3 Mar 2023 from 6:00 pm to 7:
 #### Sec 2 Meet-the-Parents Session  
 The Secondary 2 Meet-the_Parents was held on the 12 May 2023 6:00 pm to 7:30 pm.<br>
 [2023 S2 MTP &amp; SOE Talk Slides](/files/s2%20mtp%20&amp;%20soe%20talk%202023.pdf)<br>
-[2023 Sec 2 MTP &amp; SOE Talk Chinese Lit (Exp)](/files/2023%20s2_mtp%20&amp;%20soe_chinese%20lit%20exp)
+[2023 Sec 2 MTP &amp; SOE Talk Chinese Lit (Exp)](/files/2023%20s2_mtp%20&amp;%20soe_chinese%20lit%20exp)<br>
 [2023 Sec 2 MTP &amp; SOE Talk (Video on Principles of Accounts)](https://youtu.be/XAHsknlDnjc)
 
   
