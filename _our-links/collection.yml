@@ -2,7 +2,7 @@ collections:
   our-links:
     output: true
     order:
-      - For JSS Canteen Vendors.md
+      - For Canteen Vendors.md
       - For JSS Parents.md
       - For JSS Staff.md
       - For JSS Students.md
