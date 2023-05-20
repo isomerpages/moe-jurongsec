@@ -3,6 +3,7 @@ title: For JSS Canteen Vendors
 permalink: /our-links/for-jss-canteen/
 description: ""
 ---
+
 **School Canteen Advertisement**
 
 
@@ -25,9 +26,22 @@ Interested applicants must satisfy the following requirements:
 1. Be able to provide good service and quality food at reasonable price in consultation with the school
 1. Provide cooked food that meets the health / nutritional standards set by the Health Promotion Board and comply with the School Healthy Meal Programme
 1. Able to maintain a high standard of food and personal hygiene.
-
+<hr>
 
 **Application Procedure**
 
+Application form can be obtained from the General Office of Jurong Secondary School or downloaded from MOE website: 
 
+Please submit the following supporting document to the General Office by 31 May 2023:
+1) Application form;
+2) One photocopy of NRIC (front and back); 
+3) Proposed daily menu and price-list; and
+4) Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA license if any.
 
+Only shortlisted applicants will be notified.  They are required to attend an interview and to provide food sampling.
+
+<hr>
+
+**Enquiries**
+
+For enquiries, please contact Mdm Pamela Wong at 62655980.
