@@ -8,7 +8,7 @@ description: ""
 
 | No | Type of Stall | Closing Date |
 | -------- | -------- | -------- |
-| 1     | Japanese/Korean Stall<br>**Immediate vacancy** <br>We are inviting interested applicants to operate a Japanese/ Korean Food Stall at our school canteen.     | 30 June 2023     |
+| 1     | Japanese/Korean/Indian Muslim Stall<br>**Immediate vacancy** <br>We are inviting interested applicants to operate a Japanese/ Korean/ Indian Muslim Food Stall at our school canteen.     | 15 June 2023     |
 
 ### **Requirements**
 ##### Interested applicants must satisfy the following requirements:
@@ -23,7 +23,7 @@ description: ""
 
 ### **Application Procedure**
 
-##### Please submit the following supporting document to the General Office by 31 May 2023:
+##### Please submit the following supporting document to the General Office by 15 June 2023:
 1. Application form (Application form can be obtained from the General Office of Jurong Secondary School or downloaded from MOE website);
 2. One photocopy of NRIC (front and back); 
 3. Proposed daily menu and price-list; and
@@ -38,4 +38,4 @@ description: ""
 For enquiries, please contact Mdm Pamela Wong at 62655980.
 <hr>
 
-<center>Updated 20 May 2023</center>
+<center>Updated 23 May 2023</center>
