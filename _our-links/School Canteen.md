@@ -28,6 +28,7 @@ description: ""
 2. One photocopy of NRIC (front and back); 
 3. Proposed daily menu and price-list; and
 4. Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA license if any.
+5. Submission can be done physically at JSS General Office or email to : jurong_ss@moe.edu.sg
 
 **Only shortlisted applicants will be notified.  They are required to attend an interview and to provide food sampling.**
 
