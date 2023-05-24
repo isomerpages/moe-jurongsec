@@ -23,8 +23,8 @@ description: ""
 
 ### **Application Procedure**
 
-##### Please submit the following supporting document to the General Office by 15 June 2023:
-1. Application form (Application form can be obtained from the General Office of Jurong Secondary School / downloaded from MOE website / click here: [Canteen Application]());
+##### Please submit the following supporting documents to the General Office by 15 June 2023:
+1. Application form (Application form can be obtained from the General Office of Jurong Secondary School or download here: [Canteen Application]());
 2. One photocopy of NRIC (front and back); 
 3. Proposed daily menu and price-list; and
 4. Photocopy of relevant certificates such as Basic Food Hygiene Course and previous NEA license if any.
