@@ -28,7 +28,7 @@ c) The table below shows the distribution of weighting of assessments for each s
 Note:&nbsp;<br>
 Secondary 4 and 5 students will be sitting for their Graduation Examinations in Term 3. &nbsp;&nbsp;
 
-### Schedule of Weighted Assessment for Semester 2
+### Schedule of Weighted Assessment for Semester 1
 
 You can download the schedules from the links below:  
 [2023 Sec 1 Sem 1 WA Schedule (14 April 2023)](/files/2023%20sec%201%20sem%201%20wa%20schedule%20(14%20april%202023).pdf)<br>
