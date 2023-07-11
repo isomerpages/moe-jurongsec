@@ -112,4 +112,4 @@ Link:&nbsp;[JSS Alumni Association Facebook Page](https://www.facebook.com/Juron
 | ![](/images/Alumni%2011.jpg) Alumni Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) JSS Alumni Association Meeting | 
 | | |
 
-<center> Updated 30 Mar 2023 </center>
+<center> Updated 11 Jul 2023 </center>
