@@ -28,7 +28,7 @@ c) The table below shows the distribution of weighting of assessments for each s
 Note:&nbsp;<br>
 Secondary 4 and 5 students will be sitting for their Graduation Examinations in Term 3. &nbsp;&nbsp;
 
-### Schedule of Weighted Assessment for Semester 2
+### Schedule of Weighted Assessment for Semester 1
 
 You can download the schedules from the links below:  
 [2023 Sec 1 Sem 1 WA Schedule (14 April 2023)](/files/2023%20sec%201%20sem%201%20wa%20schedule%20(14%20april%202023).pdf)<br>
@@ -48,8 +48,9 @@ You can download the exam topics and timetable from the links below:
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
-[2023 Sec 4 GE Timetable (N-Level Subjects)]()<br>[2023 Sec 4 &amp; 5 GE Timetable (O Level Subjects)]()
-  
+[2023 Sec 4 GE Timetable (N-Level Subjects)](/files/2023%20sec%204%20ge%20timetable%20(n-level%20subjects).pdf)
+
+  [2023 Sec 4 &amp; 5 GE Timetable (O-Level Subjects)](/files/2023%20sec%204&amp;5%20ge%20timetable%20(o-level%20subjects).pdf)
 
 
 <center> Updated 11 Jul 2023 </center>
