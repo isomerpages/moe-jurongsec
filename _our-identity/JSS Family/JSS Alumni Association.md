@@ -6,40 +6,38 @@ third_nav_title: JSS Family
 ---
 ![](/images/Alumni%202023.jpeg)
 
-### Aims and Objectives
--------------------
-
-*   To forge school ties and community involvement between Jurong Secondary School and its former pupils;
-*   To provide members with the opportunity to help develop the school for the benefit of the students;
-*   To encourage the spirit of volunteerism among members and,
-*   For members to offer and provide expertise and resources to the school.
-
 ### Introduction to the JSS Alumni Association
 ------------------------------------------
-
-As a fraternity, the JSS Alumni Association aims to forge school ties and community involvement between Jurong Secondary School and its former students. The Alumni offers and provides expertise and resources for the development and benefit of our students by encouraging their spirit of volunteerism. In doing so, they forge school ties and community involvement among our current and former students.
-
-  
+The JSS Alumni Association (JSSAA) is an integral part of the JSS family. As a valued partner of our school, the Alumni Association is dedicated to serving our alumni and supporting our school's programs and development. 
 
 The JSS Alumni Association also organises events to build camaraderie amongst alumni of JSS. Key events include the yearly golf tournament, the Chinese New Year Dinner, and alumni basketball tournament. Other ad hoc events include bowling competitions and movie screenings.
 
-  
+In recent years, the JSS Alumni Association has graciously sponsored the Alumni Book Prizes to students who have performed well academically, and the Alumni Sports Excellence Award to student athletes who have excelled in sporting events at the National level. 
 
-In recent years, the JSS Alumni Association has graciously sponsored the Alumni Book Prizes to students who have performed well academically, and the Alumni Sports Excellence Award to student athletes who have excelled in sporting events at the National level. In addition, the JSS Alumni Association also supported the school in major school projects such as the DSA Science Communication and Research (SCoRe) and JSS 55th Anniversary Carnival. These continued contributions demonstrate the JSS Alumni Association’s high level of commitment to the holistic development of JSS students.
+In addition, the JSS Alumni Association also supported the school in major school programme and facilities such as the sponsorship of the school gym, Food Donation Drive for Needy Families in Taman Jurong, Sec 4 Career Seminar, DSA Science Communication and Research (SCoRe), JSS 60th School Anniversary (Past vs Present Games) and 60th School Anniversary (Dinner). These continued contributions demonstrate the JSS Alumni Association’s high level of commitment to the holistic development of JSS students.
 
-### 12th Executive Committee Members of the JSS Alumni Association
+
+
+### Aims and Objectives
+-------------------
+Based on the constitution, the objectives of the alumni are:
+*   To forge school ties and community involvement between Jurong Secondary School and its former pupils;
+*   To provide members with the opportunity to help develop the school for the benefit of the students;
+*   To encourage the spirit of volunteerism among members and,
+*   For members, as a fraternity, to offer and provide expertise and resources.
+
+
+### 13th Executive Committee Members of the JSS Alumni Association
 --------------------------------------------------------------
 
 **Advisor**<br>
 Mr Ang Mong Seng, BBM
-
   
 
 **Honorary Advisor**<br>
 Mr Ong Poh Hin
 <br>Mr Tan Teck Yoke, PBM
 
-  
 
 **Honorary Chairperson**<br>
 Mr Wong Sing Lam<br>
@@ -48,28 +46,27 @@ Mr Ng Chor Tan, PBM<br>
 Ms Samantha Chia<br>
 Mdm Wang Lai Poh<br>
 Mr Quek Hong Peng
-
-  
-
-**Immediate Past Chairperson**<br>
 Mr Chua King Wah, PBM
-
-
 
 |  |  | |
 | -------- | -------- | -------- |
 | Chairperson    | Mr Ang Jit Chuang, PBM  |  |
-| Vice Chairperson   |  Mr Koh Chin Heng Vincent, PBM<br>Mr Lim Ah Poh Michael<br> Mdm Tan Seow Choo |  |
-| Treasurer   | Mr Peh Eng Hup |  |
-| Assistant Treasurer| Mr Tony Hon |  |
+| Vice Chairperson   |  Mr Koh Chin Heng Vincent, PBM<br>Mr Peh Eng Hup<br> Mr Michael Lim |  |
+| Treasurer   | Mr Tony Hon |  |
+| Assistant Treasurer| Mr Tan Seow Chow |  |
 | Secretary| Mr Chua Yew Gee Roland|  |
-| Assistant Secretary| Miss Roxanne Choy |  |
-| Social &amp; Sports Secretary| Miss Syarafina Binte Azmi |  |
-| Assistant Social &amp; Sport Secretary| Mr Tan Chee Chow |  |
-| Public Relations Secretary| Mr Ong Khoon Aun |  |
+| Assistant Secretary| Mr Tan Chee Chow |  |
+| Sports Secretary| Mr Ong Khoon Ann|  |
+| Assistant Sports Secretary| Mr Wu Ming Ming||
+| Public Relations Secretary| Mr Toh Gim Wah Eric |  |
 | Assistant Public Relations Secretary| Mr Kok Shaw Terk |  |
+| Social Media Secretary| Mr Tommy Gui||
+| Member Secretary| Mr Fabian Ho||
+|Event Planning Secretary| Mr Tan Shao Koon||
+|Youth Leaders| Miss Cheryl Ng <br> Miss Tan Zhu Kou||
 |Auditor| Mdm Ang Chor Hiok|  |
-| Members| Mr Michael Cheng<br>Mr Toh Gim Wah<br>Mr Ng Tor Yew Albert<br>Mr Wong Chee Keong<br>Mr Ng Seng Tho<br>Ms Wang Cuifeng<br>Mr Yap Chin Hua |  |
+| Members| Mr Wong Chee Kiong<br> Miss Roxanne Choy <br> Mr Michael Cheng<br>Mr Albert Ng<br>Mr Ng Seng Tho |  |
+|School Liasion Officer| Mr Philip Wan (HOD Student Management) <br>Mr Stanley Tan (HOD CCE)
 
 Ordinary membership is open to all who are graduates of the school, provided that the person is not currently attending Secondary Schools, Centralised Institutes or Junior Colleges.All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni.
 
