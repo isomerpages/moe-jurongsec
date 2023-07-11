@@ -35,21 +35,21 @@ You can download the schedules from the links below:
 [2023 Sec 2 Sem 1 WA Schedule (14 April 2023)](/files/2023%20sec%202%20sem%201%20wa%20schedule%20(14%20april%202023).pdf)<br>[2023 Sem 1 Sec 3 WA Schedule](/files/2023%20Sem1%20Sec3%20WA%20PN%20Updated.pdf)<br>[2023 Sec 4&amp;5 Sem 1 WA Schedule (14 April 2023)](/files/2023%20sec%204&amp;5%20sem%201%20wa%20schedule%20(14%20april%202023).pdf)
 
 
-### Sec 1 Exam Topics and Timetable for End-of-Year Examination
+### Sec 1 Exam Topics and Timetable for End-of-Year Examinations
 
 You can download the exam topics and timetable from the links below:  
   
-### Sec 2 Exam Topics and Timetable for End-of-Year Examination
+### Sec 2 Exam Topics and Timetable for End-of-Year Examinations
 You can download the exam topics and timetable from the links below:
 
-### Sec 3 Exam Topics and Timetable for Mid-Year Examination
+### Sec 3 Exam Topics and Timetable for End-of-Year Examinations
 
 You can download the exam topics and timetable from the links below:  
 
-### Sec 4&amp;5 Exam Topics and Timetable for Graduation Examination
+### Sec 4 &amp; 5 Timetable for Graduation Examination
 
-You can download the exam topics and timetable from the links below:  
+[2023 Sec 4 GE Timetable (N-Level Subjects)]()<br>[2023 Sec 4 &amp; 5 GE Timetable (O Level Subjects)]()
   
 
 
-<center> Updated 26 Mar 2023 </center>
+<center> Updated 11 Jul 2023 </center>
