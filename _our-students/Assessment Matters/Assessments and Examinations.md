@@ -49,7 +49,7 @@ You can download the exam topics and timetable from the links below:
 
 [2023 Sec 4 GE Timetable (N-Level Subjects)](/files/2023%20sec%204%20ge%20timetable%20(n-level%20subjects).pdf)
 
-  [2023 Sec 4 &amp; 5 GE Timetable (O-Level Subjects)](/files/2023%20sec%204&amp;5%20ge%20timetable%20(o-level%20subjects).pdf)
+[2023 Sec 4&amp;5 GE Timetable (O-Level Subjects) Updated 13 Jul 2023](/files/2023%20sec%204&amp;5%20ge%20timetable%20(o-level%20subjects)%20updated%2013%20jul%202023.pdf)
 
 
 <center> Updated 11 Jul 2023 </center>
