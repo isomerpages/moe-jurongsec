@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+Please click on [this link](https://tinyurl.com/CharacterAwardsNomination) to submit your nomination for the JSS Character Awards (MOE ECHA & JSS SAC-Alumni Character Excellence Award)
