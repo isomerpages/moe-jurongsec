@@ -34,14 +34,14 @@ You can download the schedules from the links below:
 [2023 Sem 2 Sec 1 WA Schedule](/files/2023%20sem%202%20sec1%20wa%20pn%20final.pdf)<br>
 [2023 Sem 2 Sec 2 WA Schedule](/files/2023%20sem%202%20sec2%20wa%20pn%20final.pdf)<br> [2023 Sem 2 Sec 3 WA Schedule](/files/2023%20sem%202%20sec3%20wa%20pn%20final.pdf)
 
-### Sec 1 Exam Timetable for End-of-Year Examinations
+### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
 
 You can download the timetable from the links below:<br>
-[2023 S1 EOY Exam Timetable](/files/2023%20s1%20eoy%20exam%20timetable%20(students).pdf)
+[2023 S1 EOY Exam Timetable](/files/2023%20s1%20eoy%20exam%20timetable%20(students).pdf)<br>[2023 Sec 1 EOY Exam Topics](/files/2023%20sec%201%20eoy%20exam%20topics.pdf)
   
-### Sec 2 Exam Timetable for End-of-Year Examinations
+### Sec 2 Exam Timetable and Topics for End-of-Year Examinations
 You can download the exam timetable from the links below:<br>
-[2023 S2 EOY Exam Timetable](/files/2023%20s2%20eoy%20exam%20timetable%20(students).pdf)
+[2023 S2 EOY Exam Timetable](/files/2023%20s2%20eoy%20exam%20timetable%20(students).pdf)<br>[2023 Sec 2 EOY Exam Topics](/files/2023%20sec%202%20eoy%20exam%20topics.pdf)
 
 ### Sec 3 Exam Timetable and Topics for End-of-Year Examinations
 
