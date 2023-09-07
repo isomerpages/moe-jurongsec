@@ -34,19 +34,19 @@ You can download the schedules from the links below:
 [2023 Sem 2 Sec 1 WA Schedule](/files/2023%20sem%202%20sec1%20wa%20pn%20final.pdf)<br>
 [2023 Sem 2 Sec 2 WA Schedule](/files/2023%20sem%202%20sec2%20wa%20pn%20final.pdf)<br> [2023 Sem 2 Sec 3 WA Schedule](/files/2023%20sem%202%20sec3%20wa%20pn%20final.pdf)
 
-### Sec 1 Exam Timetable for End-of-Year Examinations
+### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
 
 You can download the timetable from the links below:<br>
-[2023 S1 EOY Exam Timetable](/files/2023%20s1%20eoy%20exam%20timetable%20(students).pdf)
+[2023 S1 EOY Exam Timetable](/files/2023%20s1%20eoy%20exam%20timetable%20(students).pdf)<br>[2023 Sec 1 EOY Exam Topics](/files/2023%20sec%201%20eoy%20exam%20topics.pdf)
   
-### Sec 2 Exam Timetable for End-of-Year Examinations
+### Sec 2 Exam Timetable and Topics for End-of-Year Examinations
 You can download the exam timetable from the links below:<br>
-[2023 S2 EOY Exam Timetable](/files/2023%20s2%20eoy%20exam%20timetable%20(students).pdf)
+[2023 S2 EOY Exam Timetable](/files/2023%20s2%20eoy%20exam%20timetable%20(students).pdf)<br>[2023 Sec 2 EOY Exam Topics](/files/2023%20sec%202%20eoy%20exam%20topics.pdf)
 
-### Sec 3 Exam Timetable for End-of-Year Examinations
+### Sec 3 Exam Timetable and Topics for End-of-Year Examinations
 
 You can download the exam timetable from the links below:<br>
-[2023 S3 EOY Exam Timetable](/files/2023%20s3%20eoy%20exam%20timetable%20(students).pdf)
+[2023 S3 EOY Exam Timetable (4 Sep)](/files/2023%20s3%20eoy%20exam%20timetable%20(4%20sep)%20students.pdf)<br>[2023 Sec 3 EOY Exam Topics](/files/2023%20sec%203%20eoy%20exam%20topics.pdf)
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
@@ -54,4 +54,4 @@ You can download the exam timetable from the links below:<br>
 
 [2023 Sec 4&amp;5 GE Timetable (O-Level subjects) updated 3 Aug 2023](/files/2023%20sec%204&amp;5%20ge%20timetable%20(o-level%20subjects)%20updated%203%20aug%202023.pdf)
 
-<center> Updated 4 Aug 2023 </center>
+<center> Updated 7 Sep 2023 </center>
