@@ -43,10 +43,10 @@ You can download the timetable from the links below:<br>
 You can download the exam timetable from the links below:<br>
 [2023 S2 EOY Exam Timetable](/files/2023%20s2%20eoy%20exam%20timetable%20(students).pdf)
 
-### Sec 3 Exam Timetable for End-of-Year Examinations
+### Sec 3 Exam Timetable and Topics for End-of-Year Examinations
 
 You can download the exam timetable from the links below:<br>
-[2023 S3 EOY Exam Timetable (4 Sep)](/files/2023%20s3%20eoy%20exam%20timetable%20(4%20sep)%20students.pdf)
+[2023 S3 EOY Exam Timetable (4 Sep)](/files/2023%20s3%20eoy%20exam%20timetable%20(4%20sep)%20students.pdf)<br>[2023 Sec 3 EOY Exam Topics](/files/2023%20sec%203%20eoy%20exam%20topics.pdf)
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
