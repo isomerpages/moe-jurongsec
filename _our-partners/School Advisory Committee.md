@@ -1,9 +1,8 @@
 ---
 title: School Advisory Committee
-permalink: /our-identity/jss-family/our-partners/school-advisory-committee/
+permalink: /our-partners/permalink/
 description: ""
 ---
-
 ![](/images/JurongSS-015.jpg)
 
 | | |

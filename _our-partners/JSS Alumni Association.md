@@ -1,9 +1,8 @@
 ---
 title: JSS Alumni Association
-permalink: /our-identity/jss-family/our-partners/jss-alumni-association/
+permalink: /our-partners/permalink/
 description: ""
 ---
-
 ![](/images/JSS%20Alumni%202019.jpg)
 
 ### Aims and Objectives
@@ -15,11 +14,11 @@ description: ""
 
 ### Introduction to the JSS Alumni Association
 
-As a fraternity, the JSS Alumni Association aims to forge school ties and community involvement between Jurong Secondary School and her former students. The Alumni offers and provides expertise and resources for the development and benefit of our students by encouraging their spirit of volunteerism. In doing so, they forge school ties and community involvement among our current and former students. 
+As a fraternity, the JSS Alumni Association aims to forge school ties and community involvement between Jurong Secondary School and her former students. The Alumni offers and provides expertise and resources for the development and benefit of our students by encouraging their spirit of volunteerism. In doing so, they forge school ties and community involvement among our current and former students.&nbsp;
   
-The JSS Alumni Association also organises events to build camaraderie amongst alumni of JSS. Key events include the yearly golf tournament, the Chinese New Year Dinner, and alumni basketball tournament. Other ad hoc events include bowling competitions and movie screenings. 
+The JSS Alumni Association also organises events to build camaraderie amongst alumni of JSS. Key events include the yearly golf tournament, the Chinese New Year Dinner, and alumni basketball tournament. Other ad hoc events include bowling competitions and movie screenings.&nbsp;
 
-In recent years, the JSS Alumni Association has graciously sponsored the Alumni Book Prizes to students who have performed well academically, and the Alumni Sports Excellence Award to student athletes who have excelled in sporting events at the National level. In addition, the JSS Alumni Association also supported the school in major school projects such as the DSA Science Communication and Research (SCoRe) and JSS 55th Anniversary Carnival. These continued contributions demonstrate the JSS Alumni Association’s high level of commitment to the holistic development of JSS students. 
+In recent years, the JSS Alumni Association has graciously sponsored the Alumni Book Prizes to students who have performed well academically, and the Alumni Sports Excellence Award to student athletes who have excelled in sporting events at the National level. In addition, the JSS Alumni Association also supported the school in major school projects such as the DSA Science Communication and Research (SCoRe) and JSS 55th Anniversary Carnival. These continued contributions demonstrate the JSS Alumni Association’s high level of commitment to the holistic development of JSS students.&nbsp;
 
 ### 12th Executive Committee Members of the JSS Alumni Association
 
@@ -56,7 +55,7 @@ Mr Chua King Wah, PBM
 | **Secretary** | **Assistant Secretary** |
 | Mr Chua Yew Gee Roland | Miss Roxanne Choy |
 | | |
-| **Social & Sports Secretary** | **Assistant Social & Sport Secretary** |
+| **Social &amp; Sports Secretary** | **Assistant Social &amp; Sport Secretary** |
 | Miss Syarafina Binte Azmi | Mr Tan Chee Chow |
 | | | 
 | **Public Relations Secretary** | **Assistant Public Relations Secretary** |
@@ -77,33 +76,33 @@ Ordinary membership is open to all who are graduates of the school, provided tha
 ### Joining the JSS Alumni Association
 
 <u><strong> Types of membership </strong></u> <br>
-**Life membership** may be conferred on any Ordinary Member upon the payment of a one-time subscription fee as decided and prescribed by the Committee from time to time. Life Members shall enjoy all the rights and privileges of an Ordinary Member, including the rights to vote and to hold office in the Alumni Association.
+**Life membership**&nbsp;may be conferred on any Ordinary Member upon the payment of a one-time subscription fee as decided and prescribed by the Committee from time to time. Life Members shall enjoy all the rights and privileges of an Ordinary Member, including the rights to vote and to hold office in the Alumni Association.
 
-**Honorary Membership** may be conferred by the Alumni on such persons distinguished by service to the school as the Committee may be in any case considered appropriate. Honorary Members shall have no rights to vote or hold office in the Alumni Association.
+**Honorary Membership**&nbsp;may be conferred by the Alumni on such persons distinguished by service to the school as the Committee may be in any case considered appropriate. Honorary Members shall have no rights to vote or hold office in the Alumni Association.
 
-**Associate Membership** may be conferred by the Alumni, upon application, on school staff, parents of all former students (alumni) and on such persons who, in the opinion of the Committee, are related to the school and/ or would contribute to the furtherance of the objectives of the Alumni. Associate Members shall have no rights to vote and to hold office in the Alumni Association.
+**Associate Membership**&nbsp;may be conferred by the Alumni, upon application, on school staff, parents of all former students (alumni) and on such persons who, in the opinion of the Committee, are related to the school and/ or would contribute to the furtherance of the objectives of the Alumni. Associate Members shall have no rights to vote and to hold office in the Alumni Association.
 
-**Ordinary membership** is open to all who are graduates of the school, provided that the person is not currently attending Secondary Schools, Centralised Institutes or Junior Colleges. All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni Association.
+**Ordinary membership**&nbsp;is open to all who are graduates of the school, provided that the person is not currently attending Secondary Schools, Centralised Institutes or Junior Colleges. All Ordinary Members above 18 years of age shall have the rights to vote and to hold office in the Alumni Association.
 
 <u><strong> How to join the JSS Alumni Association </strong></u><br>
-To join the JSS Alumni Association, please complete the application form and either submit the hard copy to the school, or email the soft copy to the Alumni Association email address and CC the school. The email address of the Alumni Association can be found on the application form. 
+To join the JSS Alumni Association, please complete the application form and either submit the hard copy to the school, or email the soft copy to the Alumni Association email address and CC the school. The email address of the Alumni Association can be found on the application form.&nbsp;
 
 The Committee reserves all rights to approve or reject the applications.
 
 Hard copy application forms may be returned to the following address upon completion:
 
-   Jurong Secondary School Alumni Association <br>
-   c/o Jurong Secondary School <br>
-   31 Yuan Ching Road, Singapore 618652 <br>
-   Attn: Ms Roxanne Choy and Mdm Wang Cuifeng
+&nbsp;&nbsp; Jurong Secondary School Alumni Association <br>
+&nbsp;&nbsp; c/o Jurong Secondary School <br>
+&nbsp;&nbsp; 31 Yuan Ching Road, Singapore 618652 <br>
+&nbsp;&nbsp; Attn: Ms Roxanne Choy and Mdm Wang Cuifeng
 
-   Link: [JSS Alumni Association application form](https://jurongsec.moe.edu.sg/qql/slot/u184/Application_form_JSSAA%20.pdf) 
+&nbsp;&nbsp;&nbsp;Link:&nbsp;[JSS Alumni Association application form](https://jurongsec.moe.edu.sg/qql/slot/u184/Application_form_JSSAA%20.pdf)&nbsp;
 
 ### Keeping in touch with the JSS Alumni Association
 
 Get in touch or stay updated with the JSS Alumni Association through our Facebook Page.
 
-Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Secondary-School-Alumni-Association-171815156192778/) 
+Link:&nbsp;[JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Secondary-School-Alumni-Association-171815156192778/)&nbsp;
 
 ### Photo Story
 
@@ -113,6 +112,6 @@ Link: [JSS Alumni Association Facebook Page](https://www.facebook.com/Jurong-Se
 | ![](/images/Alumni%203.jpg) Appreciating former teachers of Jurong Secondary School | ![](/images/Alumni%204.jpg) Golf Tournament 2016 |
 | ![](/images/Alumni%205.jpg) Golf Tournament 2017 | ![](/images/Alumni%206.jpg) Golf Tournament 2018 |
 | ![](/images/Alumni%207.jpg) Golf Tournament 2019 | ![](/images/Alumni%208.jpg) Movie Screening | 
-| ![](/images/Alumni%209.jpg) Bowling Competition | ![](/images/Alumni%2010.jpg) Happy Winners of the Bowling Competition |
+| ![](/images/Alumni%209.jpg)&nbsp;Bowling Competition | ![](/images/Alumni%2010.jpg) Happy Winners of the Bowling Competition |
 | ![](/images/Alumni%2011.jpg) Alunmi Basketball Tournament 2018 | ![](/images/Alumni%2012.jpg) JSS Alumni Association Meeting | 
 | | |

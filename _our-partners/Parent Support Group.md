@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /our-identity/jss-family/our-partners/parent-support-group/
+permalink: /our-partners/permalink/
 description: ""
 ---
 ![](/images/JSS-PSG-Logo.jpg)
