@@ -2,7 +2,7 @@
 title: Girl Guides
 permalink: /our-experiences/CCA-Uniform-Groups/girl-guides/
 description: ""
-third_nav_title: CCA Uniform Groups
+third_nav_title: CCA Uniformed Groups
 ---
 ## Girl Guides
 
@@ -12,6 +12,6 @@ Our Girl Guides engage in activities designed to cultivate their confidence and 
 
 The connections forged through these community activities are often enduring and have the potential to last a lifetime. The friendships our students form while making a difference in their community are a testament to the enduring value of service and the bonds it can create.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vl1vJy9obWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vl1vJy9obWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <center> Updated 26 Mar 2023 </center>
