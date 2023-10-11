@@ -4,7 +4,7 @@ permalink: /our-identity/jss-family/executive-and-administrative-staff/
 description: ""
 third_nav_title: JSS Family
 ---
-![](/images/Executive%20and%20Administrative%20Staff.jpg)
+
 
 ### General Office
 
