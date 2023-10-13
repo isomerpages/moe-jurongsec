@@ -53,7 +53,7 @@ Mr Chua King Wah, PBM
 | Chairperson    | Mr Ang Jit Chuang, PBM  |  |
 | Vice Chairperson   |  Mr Koh Chin Heng Vincent, PBM<br>Mr Peh Eng Hup<br> Mr Michael Lim |  |
 | Treasurer   | Mr Tony Hon |  |
-| Assistant Treasurer| Mr Tan Seow Chow |  |
+| Assistant Treasurer| Mdm Tan Seow Chow |  |
 | Secretary| Mr Chua Yew Gee Roland|  |
 | Assistant Secretary| Mr Tan Chee Chow |  |
 | Sports Secretary| Mr Ong Khoon Ann|  |
