@@ -31,9 +31,10 @@ sections:
       id: infopic
       button: Click here to register for our open house
       url: https://go.gov.sg/jss-openhouse2023-registration
-      image: /images/jss open house 2023.jpeg
+      image: /images/jss open house final.jpeg
       alt: Image alt text
-      description: Click on this link to register for our Open House on 18 Nov, 9.30am - 1pm
+      description: Click on this link to register for our Open House on 18 Nov, 9.30am
+        - 1.30pm
   - infopic:
       title: JSS 60th Anniversary Celebrations
       subtitle: COME JOIN US AT
