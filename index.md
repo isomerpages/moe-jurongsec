@@ -27,7 +27,7 @@ sections:
       button: View More
   - infopic:
       title: JSS Open House 2023
-      subtitle: Come join us
+      subtitle: Come join us at
       id: infopic
       button: Click here to register for our open house
       url: https://go.gov.sg/jss-openhouse2023-registration
