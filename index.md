@@ -26,11 +26,19 @@ sections:
       title: Announcements
       button: View More
   - infopic:
+      title: JSS Open House 2023
+      subtitle: Come join us
+      id: infopic
+      button: Click here to register for our open house
+      url: https://go.gov.sg/jss-openhouse2023-registration
+      image: /images/jss open house 2023.jpeg
+      alt: Image alt text
+  - infopic:
       title: JSS 60th Anniversary Celebrations
       subtitle: COME JOIN US AT
-      description: " Jurong Secondary school, founded in 1963, turns 60 this year.  We
+      description: Jurong Secondary school, founded in 1963, turns 60 this year.  We
         are heartened to invite the community to celebrate this momentous
-        occasion with us."
+        occasion with us.
       image: /images/60th Anniversary Logo.jpeg
       alt: Image alt text
       button: Click here to find out more
