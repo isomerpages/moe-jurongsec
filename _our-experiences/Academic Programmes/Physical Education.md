@@ -13,9 +13,9 @@ third_nav_title: Academic Programmes
 
 |  |  |  |
 | -------- | -------- | -------- |
-| HOD PE   | Mr Nur Qarnain    | [nur\_qarnain\_b\_hussin@moe.edu.sg](mailto:nur_qarnain_b_hussin@moe.edu.sg)    |
+| HOD PE &amp; CCA   | Mr Nur Qarnain    | [nur\_qarnain\_b\_hussin@moe.edu.sg](mailto:nur_qarnain_b_hussin@moe.edu.sg)    |
 |  HOD SM   | Mr Philip Wan   | [wan_wei_meng@moe.edu.sg](wan_wei_meng@moe.edu.sg)     |
-| SH PE   | Ms Ong Wei Chen    | [ong\_wei\_chen@moe.edu.sg](mailto:ong_wei_chen@moe.edu.sg)   |
+| SH PE &amp; CCA   | Ms Ong Wei Chen    | [ong\_wei\_chen@moe.edu.sg](mailto:ong_wei_chen@moe.edu.sg)   |
 | PE Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar\_borhan\_said@moe.edu.sg](mailto:bakhtiar_borhan_said@moe.edu.sg)     |
 |     | Mdm Wang Cuifeng     |[wang\_cuifeng@moe.edu.sg](mailto:wang_cuifen@moe.edu.sg)     |
 |     | Mrs Elizabeth Woon   | [elizabeth\_woon@moe.edu.sg](mailto:ng_siew_tuan@moe.edu.sg) |
@@ -38,7 +38,7 @@ third_nav_title: Academic Programmes
 ## Our Special Programmes
 
 
-*   Level Camp for Secondary One & Three students
+*   Level Camp for Secondary One &amp; Three students
 *   Annual Sports Meet
 *   Annual Cross Country Meet
 *   Inter-Class Games
