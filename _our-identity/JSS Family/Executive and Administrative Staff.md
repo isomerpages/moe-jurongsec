@@ -18,7 +18,7 @@ third_nav_title: JSS Family
 | Operations Support Officer | Mdm Mismah Bte Miskam |
 | Operations Support Officer | Mdm Lim Chiew Guat Yvonne |
 | Library Assistant | Ms Reena Devika Ravichandran |
-| SEN Officer  | Mr Lee Hao Yong |
+| Senior SEN Officer  | Mr Lee Hao Yong |
 | Senior School Counsellor)   | Siti Marinah Bte Mohd Ali   |
 | | |
 
