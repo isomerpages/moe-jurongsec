@@ -7,7 +7,7 @@ third_nav_title: Academic Programmes
 ## Applied Studies
 <br>
 
-![](/images/JS_Applied%20Studies%20Department.jpg)
+![Applied Studies Department 2023](/images/staff4.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
