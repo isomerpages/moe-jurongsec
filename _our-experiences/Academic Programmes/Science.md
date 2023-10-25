@@ -7,7 +7,7 @@ third_nav_title: Academic Programmes
 # Science
 <br>
 
-![](/images/js_Science%20Department%204.jpg)
+![Science Department 2023](/images/staff10.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
