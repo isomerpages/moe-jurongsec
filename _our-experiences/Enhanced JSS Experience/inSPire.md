@@ -29,4 +29,4 @@ The JSS Learning Fest, which was first held in 2021, aims to provide a learner-c
 
 <img src="/images/table.jpg" style="width:90%">
 		 
-<center> Updated 26 Mar 2023 </center>
+<center> Updated 25 Oct 2023 </center>
