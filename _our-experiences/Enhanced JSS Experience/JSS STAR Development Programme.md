@@ -4,7 +4,8 @@ permalink: /jss-experience/enhanced-jss-experience/jss-star-development-programm
 description: ""
 third_nav_title: Enhanced JSS Experience
 ---
-![](/images/STAR%20Development%20Programme%20Committee.jpg)
+
+![STAR Committee 2023](/images/staff24.jpg)
 
 <img src="/images/STAR%20programme.png" style="width:30%">
 		 
