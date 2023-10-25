@@ -4,7 +4,7 @@ permalink: /our-experiences/student-development/level-team/
 description: ""
 third_nav_title: Student Development
 ---
-![](/images/level%20team.jpg)
+![Level Team 2023](/images/staff14.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
