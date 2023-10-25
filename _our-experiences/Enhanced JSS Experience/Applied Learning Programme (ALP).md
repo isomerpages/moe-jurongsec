@@ -4,7 +4,7 @@ permalink: /jss-experience/enhanced-jss-experience/applied-learning-programme-al
 description: ""
 third_nav_title: Enhanced JSS Experience
 ---
-![](/images/Applied%20Learning%20Programme%20Committee.jpg)
+![Applied Learning Programme Committee 2023](/images/staff15.jpg)
 
 ### Design for Smart and Sustainable Urban Living 
 
