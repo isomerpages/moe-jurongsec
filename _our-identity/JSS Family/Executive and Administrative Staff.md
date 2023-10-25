@@ -6,6 +6,8 @@ third_nav_title: JSS Family
 ---
 ### General Office
 
+![Executive and Administrative Staff 2023](/images/staff3.jpg)
+
 |  |  |
 |---|---|
 | Administration Manager | Mdm Teena Chua Lay Tin |
