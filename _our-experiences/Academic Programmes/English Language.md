@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Programmes
 ---
 # English Language
-![](/images/Js_English%20Language%20Department.jpg)
+![English Language Department 2023](/images/staff5.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
