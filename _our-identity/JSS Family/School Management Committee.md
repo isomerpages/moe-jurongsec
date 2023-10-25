@@ -17,8 +17,8 @@ third_nav_title: JSS Family
 |  |  |  |
 |---|---|---|
 | Languages | HOD English Language | Mrs Farhain Aidil |
-|  | HOD Mother Tongue Languages <br><Br> SH Chinese Language | Ms Ng Ching Ing <br><br> Mdm Zoey Oh Sze Wee |
-| Mathematics & Sciences | HOD Mathematics <br><br> SH Mathematics | Mr Ooi Wei Yong <br><br> Mdm Zheng Jieyun |
+|  | HOD Mother Tongue Languages <br><br> SH Chinese Language | Ms Ng Ching Ing <br><br> Mdm Zoey Oh Sze Wee |
+| Mathematics &amp; Sciences | HOD Mathematics <br><br> SH Mathematics | Mr Ooi Wei Yong <br><br> Mdm Zheng Jieyun |
 |  | HOD Sciences <br><br> SH Sciences | Ms Lim Yan Mui <br><br> Mr Traven Loh Wei Chuen |
 | Applied Studies | HOD Applied Studies | Mrs Juliana Ng |
 | Humanities | HOD Humanities | Mdm Anna Cai Shihui |
@@ -28,13 +28,13 @@ third_nav_title: JSS Family
 
 |  |  |  |
 |---|---|---|
-| Level Team | Year Head (Upper Sec) <br><br>Year Head (Lower Sec & Sec 1) <br><br> Asst Year Head (Sec 2) <br><br> Asst Year Head (Sec 3) <br><br> Asst Year Head (Sec 4&5) | Mr Aaron Tang Wei Lun <br><br> Ms Hannah Wen Cuiyan <br><br> Ms Norliyana Bte Matin <br><br> Mr Chua Syin Thian <br><Br> Mr Faydzully|
+| Level Team | Year Head (Upper Sec) <br><br>Year Head (Lower Sec &amp; Sec 1) <br><br> Asst Year Head (Sec 2) <br><br> Asst Year Head (Sec 3) <br><br> Asst Year Head (Sec 4&amp;5) | Mr Aaron Tang Wei Lun <br><br> Ms Hannah Wen Cuiyan <br><br> Ms Norliyana Bte Matin <br><br> Ms Chua Syin Thian <br><br> Mr Faydzully|
 | Character and Citizenship Education | HOD Character and Citizenship Education  | Mr Stanley Tan  |
-|  Physical Education | HOD Physical Education & Co-Curricular Activities <br><br> SH Physical Education & Co-Curricular Activities | Mr Nur Qarnain Bin Hussin <br><br>Ms Ong Wei Chen |
+|  Physical Education | HOD Physical Education &amp; Co-Curricular Activities <br><br> SH Physical Education &amp; Co-Curricular Activities | Mr Nur Qarnain Bin Hussin <br><br>Ms Ong Wei Chen |
 | Student Management  | HOD Student Management  | Mr Phlip Wan Wei Meng   |
 | | | |
 
-### Support Team (For Teaching & Learning and Student Development)
+### Support Team (For Teaching &amp; Learning and Student Development)
 
 |  |  |
 |---|---|
