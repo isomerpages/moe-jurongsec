@@ -8,7 +8,7 @@ third_nav_title: Academic Programmes
 
 <br>
 
-![](/images/JS_Mother%20Tongue%20Department.jpg)
+![Mother Tongue Languages Department 2023](/images/staff8.jpg)
 
 | |  |  |
 | -------- | -------- | -------- |
