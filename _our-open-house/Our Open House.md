@@ -3,9 +3,9 @@ title: Our Open House
 permalink: /our-open-house/
 description: ""
 ---
-JSS Open House will take place on the 19th Nov 2022.
+JSS Open House will take place on the 18th Nov 2023.
 
-![](/images/Open%20House%202022%20MOTD%202.png)
+
 
 **Open House Brochure**
 
@@ -13,7 +13,7 @@ JSS Open House will take place on the 19th Nov 2022.
 
 ![](/images/Open%20House%20Brochure%20Page%202.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MP1cQUzX8a4?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MP1cQUzX8a4?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Information
 
@@ -22,9 +22,9 @@ JSS Open House will take place on the 19th Nov 2022.
 9:30am - 1:30pm  
   
 **Key Highlights for Open House**  
-School Leader’s Talk (10am & 12pm)  
-Live Sharing Session by students & teachers (10:20am)  
-Academic, Special Programmes & CCA booths  
+School Leader’s Talk (10am &amp; 12pm)  
+Live Sharing Session by students &amp; teachers (10:20am)  
+Academic, Special Programmes &amp; CCA booths  
 Exciting CCA performances  
   
 
