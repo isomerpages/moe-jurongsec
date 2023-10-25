@@ -4,7 +4,7 @@ permalink: /our-experiences/student-development/cce/
 description: ""
 third_nav_title: Student Development
 ---
-![](/images/character%20and%20citizenship%20education%20committee.jpg)
+![Character and Citizenship Education Committee 2023](/images/staff11.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
