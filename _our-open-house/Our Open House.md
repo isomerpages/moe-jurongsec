@@ -9,9 +9,9 @@ JSS Open House will take place on the 18th Nov 2023.
 
 **Open House Brochure**
 
-![](/images/Open%20House%20Brochure%20Page%201.png)
+![JSS Open House Brochure 1](/images/jss%20open%20house%20brochure%201.jpeg)
 
-![](/images/Open%20House%20Brochure%20Page%202.png)
+![JSS Open House Brochure 2](/images/jss%20open%20house%20brochure%202.jpeg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MP1cQUzX8a4?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
