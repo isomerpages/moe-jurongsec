@@ -7,7 +7,7 @@ third_nav_title: Academic Programmes
 # Mathematics 
 <br>
 
-![](/images/js_Mathematics%20Department.jpg)
+![Mathematics Department 2023](/images/staff7.jpg)
 
 
 |  |  |  |
