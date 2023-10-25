@@ -3,9 +3,9 @@ title: Our Open House
 permalink: /our-open-house/
 description: ""
 ---
-JSS Open House will take place on the 18th Nov 2023.
+## JSS Open House will take place on the 18th Nov 2023.
 
-
+![JSS Open House 2023_1](/images/jss%20open%20house%202023_1.jpeg)
 
 **Open House Brochure**
 
@@ -22,13 +22,13 @@ JSS Open House will take place on the 18th Nov 2023.
 9:30am - 1:30pm  
   
 **Key Highlights for Open House**  
-School Leader’s Talk (10am &amp; 12pm)  
-Live Sharing Session by students &amp; teachers (10:20am)  
+School Leader’s Talk (9:30am)  
+Live Sharing Session by Principal, PSG &amp; students (11:15am)  
 Academic, Special Programmes &amp; CCA booths  
 Exciting CCA performances  
   
 
-[[Click on this link to register for our Open House on 18 Nov, 9:30am - 1:30pm](https://go.gov.sg/jss-openhouse2023-registration)
+[Click on this link to register for our Open House on 18 Nov, 9:30am - 1:30pm](https://go.gov.sg/jss-openhouse2023-registration)
 
 ![](/images/Monochromatic%20painting%20-%20JSS%20School%20Facade%2013%20Apr%202022%20at%201_35%20PM.png)
 
