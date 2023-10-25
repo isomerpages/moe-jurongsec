@@ -69,4 +69,4 @@ Upper Secondary
 
 School-wide STEAM week programme
 
-<center> Updated 5 Apr 2023 </center>
+<center> Updated 25 Oct 2023 </center>
