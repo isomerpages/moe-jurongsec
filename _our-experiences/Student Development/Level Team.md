@@ -11,7 +11,7 @@ third_nav_title: Student Development
 |Year Head   | Mr Aaron Tang Wei Lun    |[tang_wei_lun_aaron@moe.edu.sg](tang_wei_lun_aaron@moe.edu.sg)  |
 | Year Head (Sec 2)   | Ms Hannah Wen Cuiyan   |[wen_cuiyan_hannah@moe.edu.sg](wen_cuiyan_hannah@moe.edu.sg)     |
 | Asst Year Head (Sec 1)    | Ms Norliyana Bte Matin   | [norliyana_matin@moe.edu.sg](norliyana_matin@moe.edu.sg)    |
-| Asst Year Head (Sec 4&5)  |Ms Chua Syin Thian   | [chua_syin_thian@moe.edu.sg](chua_syin_thian@moe.edu.sg)   |
+| Asst Year Head (Sec 4&amp;5)  |Ms Chua Syin Thian   | [chua_syin_thian@moe.edu.sg](chua_syin_thian@moe.edu.sg)   |
 | Asst Year Head (Sec 3)   | Mr Md Faydzully    | [mohd_faydzully_mohd_razif@moe.edu.sg](mohd_faydzully_mohd_razif@moe.edu.sg)   |
 
 ### Our Directions
@@ -29,6 +29,8 @@ At the core of our educational approach is the development of a growth mindset a
 | Secondary 1    | All Aboard     | Reflective Learner  |
 | Secondary 2    | Take Flight    | Courageous Contributor    |
 | Secondary 3   | Mission (I’m) Possible   | Resilient Leader   |
-| Secondary 4 and 5    | Above & Beyond  | Inspirational Role Model   |
+| Secondary 4 and 5    | Above &amp; Beyond  | Inspirational Role Model   |
 
 ![](/images/level%20team%201.png)
+
+<center> Updated 25 Oct 2023 </center>
