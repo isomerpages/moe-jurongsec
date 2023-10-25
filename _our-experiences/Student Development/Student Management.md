@@ -29,4 +29,4 @@ We strive towards a balance of order and discipline, with a positive and proacti
 
 ![](/images/student%20management%201.png)
 
-<center> Updated 10 Apr 2023 </center>
+<center> Updated 25 Oct 2023 </center>
