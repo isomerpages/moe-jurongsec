@@ -4,7 +4,7 @@ permalink: /jss-experience/enhanced-jss-experience/learning-for-life-programme-l
 description: ""
 third_nav_title: Enhanced JSS Experience
 ---
-![](/images/Learning%20for%20Life%20Programme%20Committee.jpg)
+![Learning for Life Programme Committee 2023](/images/staff17.jpg)
 
 ### Learning for Life programme
 The Learning for Life programme will provide students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self expression and strengthen their people skills. This will be an integral aspect and a distinctive signature approach of Character and Citizenship Education (CCE). The intent is to instill in our students a sense of rootedness and responsibility for their community and fellow Singaporeans. Areas explored in LLP may include, among others, outdoor adventure learning, sports, student leadership development, uniformed groups, performing and visual arts.
@@ -15,8 +15,7 @@ Our LLP vision is guided by our belief that sports, when presented and organised
 ### Our Framework
 JSS’ Sporty at Heart, Sporting in Mind programme adopts a 3-tiered approach of (1) Know, (2) Do and (3) Excel, which is applied across different levels of participation (from mass participation to participation by the talented or passionate). It emphasises value acquisition and transference of such values into the way we live and work.
 
-<img src="/images/JSS%20Framework%20-%20LLP.png" 
-     style="width:70%">
+<img src="/images/JSS%20Framework%20-%20LLP.png" style="width:70%">
 
 ### Value and Impact
 Through active participation in sports at the three levels (know, do and excel) and through competitive and non-competitive platforms, our LLP seeks to support the building of core values, as articulated in the desired outcomes.
