@@ -8,10 +8,11 @@ description: ""
 ![JSS Open House 2023_1](/images/jss%20open%20house%202023_1.jpeg)
 
 **Open House Brochure**
+![JSS Open House Brochure Page 1](/images/jss%20open%20house%20brochure%201.jpeg)
 
-![](/images/Open%20House%20Brochure%20Page%201.png)
+![JSS Open House Brochure Page 2](/images/jss%20open%20house%20brochure%202.jpeg)
 
-![](/images/Open%20House%20Brochure%20Page%202.png)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MP1cQUzX8a4?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
