@@ -8,7 +8,7 @@ third_nav_title: Academic Programmes
 
 <br>
 
-![](/images/JS_PHYSICAL%20EDUCATION%20DEPARTMENT%202022%20wO%20Frame.jpg)
+![Physical Education Department 2023](/images/staff9.jpg)
 <br>
 
 |  |  |  |
