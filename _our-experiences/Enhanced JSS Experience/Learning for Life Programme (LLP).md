@@ -41,4 +41,4 @@ A community where all staff and students embrace sports as part of their lifesty
 | **Award Process** | In line with the intention to motivate current school players towards excellence, Sports Scholars are selected from the existing pool of school players based on their high level of play and strong commitment to the school teams. Regarding recruitment, the school actively invites and offers the scholarship to players from primary schools who show potential in Basketball. |  |
 | | |
 
-<center> Updated 26 Mar 2023 </center>
+<center> Updated 25 Oct 2023 </center>
