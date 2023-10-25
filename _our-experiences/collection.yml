@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - JSS Open House.md
       - Enhanced JSS Experience/.keep
       - Enhanced JSS Experience/Applied Learning Programme (ALP).md
       - Enhanced JSS Experience/inSPire.md
