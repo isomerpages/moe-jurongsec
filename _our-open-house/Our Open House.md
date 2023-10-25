@@ -28,7 +28,7 @@ Academic, Special Programmes &amp; CCA booths
 Exciting CCA performances  
   
 
-[Registration Link for Open House](https://forms.gle/GEdew5bbEoC8ZGGw6)
+[[Click on this link to register for our Open House on 18 Nov, 9:30am - 1:30pm](https://go.gov.sg/jss-openhouse2023-registration)
 
 ![](/images/Monochromatic%20painting%20-%20JSS%20School%20Facade%2013%20Apr%202022%20at%201_35%20PM.png)
 
