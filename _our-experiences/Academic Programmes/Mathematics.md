@@ -7,15 +7,15 @@ third_nav_title: Academic Programmes
 # Mathematics 
 <br>
 
-![](/images/js_Mathematics%20Department.jpg)
+![Mathematics Department 2023](/images/staff7.jpg)
 
 
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD Mathematics   | Mr Ooi Wei Yong    | [ooi\_wei\_yong@moe.edu.sg](mailto:ooi_wei_yong@moe.edu.sg)    |
 | SH Mathematics   | Mdm Zheng Jieyun    | [zheng\_jieyun@moe.edu.sg](mailto:zheng_jieyun@moe.edu.sg)    |
-|  Asst Year Head (Sec 4&5) | Mr Md Faydzully   | [mohd\_faydzully\_mohd\_razif@moe.edu.sg](mailto:mohd_faydzully_mohd_razif@moe.edu.sg)   |
-|Senior Teacher /  Education Support    | Mdm Teo Kah Ping    | [teo\_kah\_ping@moe.edu.sg](mailto:teo_kah_ping@moe.edu.sg)   |
+|  Asst Year Head (Sec 4&amp;5) | Mr Md Faydzully   | [mohd\_faydzully\_mohd\_razif@moe.edu.sg](mailto:mohd_faydzully_mohd_razif@moe.edu.sg)   |
+|Senior Teacher /  Educational Support    | Mdm Teo Kah Ping    | [teo\_kah\_ping@moe.edu.sg](mailto:teo_kah_ping@moe.edu.sg)   |
 | Mathematics Teachers    | Mr Woon Ta Chuang     | [woon\_ta\_chuang@moe.edu.sg](mailto:woon_ta_chuang@moe.edu.sg)   |
 |    | Ms Simranjit Kaur    | [simranjit\_kaur\_ranjit\_singh@moe.edu.sg](mailto:simranjit_kaur_ranjit_singh@moe.edu.sg)   |
 |    | Mr Kenny Hong Anliang   |[hong\_anliang@moe.edu.sg](mailto:hong_anliang@moe.edu.sg)     |
@@ -37,7 +37,7 @@ The JSS Mathematics Department consists of dedicated teachers who are committed 
 
   
 
-The department’s general approach to teaching & learning is inspired by Polya’s Problem Solving Heuristics. It generally consists of 4 stages: Understanding the problem, Devising a plan, Carrying out their plan & checking and extending their solutions.
+The department’s general approach to teaching &amp; learning is inspired by Polya’s Problem Solving Heuristics. It generally consists of 4 stages: Understanding the problem, Devising a plan, Carrying out their plan &amp; checking and extending their solutions.
 
 <br>
 
@@ -54,7 +54,7 @@ The department believes that the best way to introduce mathematical concepts sta
 ## Our Special Programmes
 
 
-**Maths Olympiad Training & SASMO (Singapore & Asian Schools Math Olympiad) Competition**
+**Maths Olympiad Training &amp; SASMO (Singapore &amp; Asian Schools Math Olympiad) Competition**
 
   
 
@@ -80,4 +80,4 @@ As part of our quest to link mathematics to real world problems, we have integra
 
 An example of past problems includes students’ exploring the relationship between the diameter of parachutes and its landing time.
 
-<center> Updated 27 Mar 2023 </center>
+<center> Updated 25 Oct 2023 </center>

@@ -4,7 +4,7 @@ permalink: /our-experiences/student-development/student-management/
 description: ""
 third_nav_title: Student Development
 ---
-![](/images/student%20management%20committee.jpg)
+![Student Management Committee 2023](/images/staff19.jpg)
 
 
 
@@ -29,4 +29,4 @@ We strive towards a balance of order and discipline, with a positive and proacti
 
 ![](/images/student%20management%201.png)
 
-<center> Updated 10 Apr 2023 </center>
+<center> Updated 25 Oct 2023 </center>

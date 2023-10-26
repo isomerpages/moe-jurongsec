@@ -6,6 +6,8 @@ third_nav_title: JSS Family
 ---
 ### General Office
 
+![Executive and Administrative Staff 2023](/images/staff3.jpg)
+
 |  |  |
 |---|---|
 | Administration Manager | Mdm Teena Chua Lay Tin |
@@ -18,7 +20,7 @@ third_nav_title: JSS Family
 | Operations Support Officer | Mdm Mismah Bte Miskam |
 | Operations Support Officer | Mdm Lim Chiew Guat Yvonne |
 | Library Assistant | Ms Reena Devika Ravichandran |
-| SEN Officer  | Mr Lee Hao Yong |
+| Senior SEN Officer  | Mr Lee Hao Yong |
 | Senior School Counsellor)   | Siti Marinah Bte Mohd Ali   |
 | | |
 
@@ -50,4 +52,4 @@ third_nav_title: JSS Family
 
 
 
-<center> Updated 22 Feb 2023 </center>
+<center> Updated 25 Oct 2023 </center>

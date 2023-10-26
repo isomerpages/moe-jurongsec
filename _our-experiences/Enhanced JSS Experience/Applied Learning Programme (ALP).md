@@ -4,7 +4,7 @@ permalink: /jss-experience/enhanced-jss-experience/applied-learning-programme-al
 description: ""
 third_nav_title: Enhanced JSS Experience
 ---
-![](/images/Applied%20Learning%20Programme%20Committee.jpg)
+![Applied Learning Programme Committee 2023](/images/staff15.jpg)
 
 ### Design for Smart and Sustainable Urban Living 
 
@@ -41,4 +41,4 @@ Competitions run by community groups in Taman Jurong and MOE institutions will p
 ##### Learning Journey / Camp
 We hope to organise an annual Learning Journey or Day Camp to schools, organisations, urban farms or government institutions that have started using green technology, renewable energy or urban farming in a meaningful way. These learning journeys will be for our ALP reps and Environment Club students and show them real-life application of knowledge they have learnt in school.
 
-<center> Updated 10 Apr 2023 </center>
+<center> Updated 25 Oct 2023 </center>

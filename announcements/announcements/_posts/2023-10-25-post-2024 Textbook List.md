@@ -1,7 +1,7 @@
 ---
-title: 2023 Textbook List
-permalink: /announcements/announcements/2023-textbook-list/
-date: 2023-07-01
+title: 2024 Textbook List
+permalink: /our-students/textbook-lists/
+date: 2023-10-25
 layout: post
 description: ""
 image: ""

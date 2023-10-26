@@ -7,16 +7,15 @@ third_nav_title: Academic Programmes
 # Science
 <br>
 
-![](/images/js_Science%20Department%204.jpg)
+![Science Department 2023](/images/staff10.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD Science    | Ms Lim Yan Mui   | [lim\_yan\_mui@moe.edu.sg](mailto:lim_yan_mui@moe.edu.sg)   |
-| HOD Character & Citizenship Education  | Mr Stanley Tan    | [tan\_chin\_kwan@moe.edu.sg](mailto:tan_chin_kwan@moe.edu.sg)    |
+| HOD Character &amp; Citizenship Education  | Mr Stanley Tan    | [tan\_chin\_kwan@moe.edu.sg](mailto:tan_chin_kwan@moe.edu.sg)    |
 | School Staff Developer     | Mr Eric Tan   | [eric\_tan\_ching\_kuan@moe.edu.sg](mailto:eric_tan_ching_kuan@moe.edu.sg)    |
 | Year Head (Upper Sec)  | Mr Aaron Tang Wei Lun   | [tang\_wei\_lun\_aaron@moe.edu.sg](mailto:tang_wei_lun_aaron@moe.edu.sg)     |
 | SH Science    | Mr Traven Loh   | [loh\_wei\_chuen@moe.edu.sg](mailto:loh_wei_chuen@moe.edu.sg)   |
-| Senior Teacher – Educational Support     | Mr Lim Kok Meng    | [lim\_kok\_meng\_a@moe.edu.sg](mailto:lim_kok_meng_a@moe.edu.sg)    |
 | Senior Teacher – Chemistry     | Ms Julianah Johar-Astapura    | [julianah\_johar@moe.edu.sg](mailto:julianah_johar@moe.edu.sg)   |
 | Science Teachers    | Mr Ng Teck Koon    | [ng\_teck\_koon@moe.edu.sg](mailto:ng_teck_koon@moe.edu.sg)    |
 |     | Ms Rachel Lim Poh Yen    |[lim\_poh\_yen\_a@moe.edu.sg](mailto:lim_poh_yen@moe.edu.sg)   |
@@ -67,6 +66,6 @@ Some of the features of the JSS Lower Secondary Science course include:
 | Investigation and Project Based Curriculum    | Curriculum Dependent   | Lower Secondary   |
 | JSS Annual STEAM Week   | Term III    | All Levels   |
 | Enrichment Programmes   | Enrichment dependent    | All Levels   |
-| Science Competitions  | Competition dependent   | Secondary Two & Three  |
+| Science Competitions  | Competition dependent   | Secondary Two &amp; Three  |
 
-<center> Updated 27 Mar 2023 </center>
+<center> Updated 24 Oct 2023 </center>
