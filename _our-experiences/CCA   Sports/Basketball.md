@@ -3,6 +3,7 @@ title: Basketball
 permalink: /our-experiences/CCA-Sports/Basketball/
 description: ""
 third_nav_title: CCA   Sports
+variant: markdown
 ---
 ## Basketball
 <br>
@@ -13,11 +14,9 @@ third_nav_title: CCA   Sports
 
 ![](/images/JS2_Basketball%20Girls.jpg)
 
-The JSS Badminton team remained unwavering in their spirit despite the challenges posed by the Covid-19 pandemic. Our collective efforts have forged a stronger bond within the team, as we strive towards greater unity, persistence, and determination. Vigilantly monitoring each player's progress, both in-person and online, has been a key component of our approach. 
+Our JSS Basketball Team is dedicated to instilling a robust ethos of hard work and unwavering resilience within our members, through rigorous physical and technical training regimens. Our players cultivate a profound sense of teamwork, emphasising mutual support both during games and in their daily interactions. Eager to contribute to our school’s rich sporting legacy, the team recently showcased their prowess in a commendable display during the National School Games.
 
-Notably, our team's "B" division players demonstrated exceptional bravery, resilience, and excellence by securing a top-six finish in the NSG West Zone Badminton Championship held in March 2021. This accomplishment stands as a testament to their unwavering dedication and rigorous training regimen. 
-
-Through this rigorous training, we have instilled a sense of discipline and fostered an optimistic outlook among our players. As we look to the future, we remain committed to maintaining our high standards and pushing the boundaries of what is possible.
+As we look to the future, our sights are set on continuous improvement,determined to elevate our performance even further in the years to come.
 
 |   |   |
 |---|---|
@@ -49,6 +48,6 @@ Through this rigorous training, we have instilled a sense of discipline and fost
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Du7828uDDaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Du7828uDDaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <center> Updated 26 Mar 2023 </center>
