@@ -2,6 +2,7 @@ collections:
   our-students:
     output: true
     order:
+      - Secondary One Registration 2024.md
       - Textbook Lists.md
       - Student Handbook.md
       - Meet the Parents Session.md
