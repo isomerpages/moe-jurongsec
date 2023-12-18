@@ -13,4 +13,4 @@ Please click below to download the JSS School Magazine.
 
 
 
-<center> Updated 22 Mar 2023</center>
+<center> Updated 18 Dec 2023</center>
