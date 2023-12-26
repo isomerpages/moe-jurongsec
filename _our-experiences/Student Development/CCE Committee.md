@@ -3,6 +3,7 @@ title: CCE Committee
 permalink: /our-experiences/student-development/cce/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ![Character and Citizenship Education Committee 2023](/images/staff11.jpg)
 
@@ -58,7 +59,7 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 | Character and Citizenship Education (CCE)     | Level Assembly<br>CCE Lessons<br>Key Personnel’s Address <br>Students’ Sharing<br>Level Programme
 |Learning for Life Programme|Sporty at Heart, Sporting in Mind Programme<br>Cohort Camps<br>Sports Carnival||
 |Education and Career guidance|CareerSeminar<br>Educational and Career Talks<br>Educational and Career Modules<br> JSS ECG Morning Series <br>Learning Journeys to Post-Secondary<br> Education Institutions (PSEI)<br>Applied Learning Modules ||
-|Values in Action|Level based VIA <br>ProjectProject COMpassion (Student initiated project)<br>Direct School Admission (Service Leadership) |||
+|Values in Action|Level based VIA <br>Project COMpassion (Student initiated project)<br>Direct School Admission (Service Leadership) |||
 |Student Leadership|Student Leadership Modules<br>Peer Support Leaders Training <br>Class Monitor Workshop<br>Student Leaders’ Camp ||
 |Co-curricular activities|Uniformed Groups<br> Performing Arts Groups<br> Sports Teams<br> Clubs &amp; Societies|||
 |Citizenship Education|NE Commemorative Events<br>Cohort Learning Journeys<br>NRIC Presentation Ceremony<br>NS Men Engagement <br>Overseas Schools Exchange Programme||
