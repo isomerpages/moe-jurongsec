@@ -3,6 +3,7 @@ title: Executive and Administrative Staff
 permalink: /our-identity/jss-family/executive-and-administrative-staff/
 description: ""
 third_nav_title: JSS Family
+variant: markdown
 ---
 ### General Office
 
@@ -19,7 +20,7 @@ third_nav_title: JSS Family
 | Corporate Support Officer | Ms Jenny Toh |
 | Operations Support Officer | Mdm Mismah Bte Miskam |
 | Operations Support Officer | Mdm Lim Chiew Guat Yvonne |
-| Library Assistant | Ms Reena Devika Ravichandran |
+| Library Assistant | Ms Mariyah|
 | Senior SEN Officer  | Mr Lee Hao Yong |
 | Senior School Counsellor)   | Siti Marinah Bte Mohd Ali   |
 | | |
@@ -46,10 +47,9 @@ third_nav_title: JSS Family
 
 |  |  |
 |---|---|
-| Technical Support Officer | Mdm Teh Ah Moi |
 | Technical Support Officer | Mr Zulkifle Bin Md Yassin |
 | | |
 
 
 
-<center> Updated 25 Oct 2023 </center>
+<center> Updated 3 Jan 2024 </center>
