@@ -3,16 +3,18 @@ title: Level Team
 permalink: /our-experiences/student-development/level-team/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ![Level Team 2023](/images/staff14.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
-|Year Head   | Mr Aaron Tang Wei Lun    |[tang_wei_lun_aaron@moe.edu.sg](tang_wei_lun_aaron@moe.edu.sg)  |
-| Year Head (Sec 2)   | Ms Hannah Wen Cuiyan   |[wen_cuiyan_hannah@moe.edu.sg](wen_cuiyan_hannah@moe.edu.sg)     |
+|Year Head (Upper Sec &amp; Sec 3)   | Mr Aaron Tang Wei Lun    |[tang_wei_lun_aaron@moe.edu.sg](tang_wei_lun_aaron@moe.edu.sg)  |
+| Year Head (Lower Sec &amp; Sec 2)   | Ms Hannah Wen Cuiyan   |[wen_cuiyan_hannah@moe.edu.sg](wen_cuiyan_hannah@moe.edu.sg)     |
 | Asst Year Head (Sec 1)    | Ms Norliyana Bte Matin   | [norliyana_matin@moe.edu.sg](norliyana_matin@moe.edu.sg)    |
 | Asst Year Head (Sec 4&amp;5)  |Ms Chua Syin Thian   | [chua_syin_thian@moe.edu.sg](chua_syin_thian@moe.edu.sg)   |
-| Asst Year Head (Sec 3)   | Mr Md Faydzully    | [mohd_faydzully_mohd_razif@moe.edu.sg](mohd_faydzully_mohd_razif@moe.edu.sg)   |
+
+
 
 ### Our Directions
 
