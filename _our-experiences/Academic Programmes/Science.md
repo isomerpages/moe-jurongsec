@@ -68,4 +68,4 @@ Some of the features of the JSS Lower Secondary Science course include:
 | Enrichment Programmes   | Enrichment dependent    | All Levels   |
 | Science Competitions  | Competition dependent   | Any  |
 
-<center> Updated 24 Oct 2023 </center>
+<center> Updated 3 Jan 2024 </center>
