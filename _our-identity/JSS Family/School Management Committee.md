@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /our-identity/jss-family/school-management-committee/
 description: ""
 third_nav_title: JSS Family
+variant: markdown
 ---
 ### School Leaders
 
@@ -11,7 +12,7 @@ third_nav_title: JSS Family
 |  |  |
 |---|---|
 | Principal | Ms Yeo Siok Ee |
-| Vice-Principals | Ms Deborah Tan<br>Mdm Julia Ler<br>Mr Lu Yeow Chor |
+| Vice-Principals | Mdm Julia Ler<br>Mr Lu Yeow Chor |
 | | | 
 
 ![School Management Committee 2023](/images/school%20management%20committee%202023.jpg)
