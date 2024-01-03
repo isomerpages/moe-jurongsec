@@ -3,6 +3,7 @@ title: Science
 permalink: /our-experiences/Academic-Programmes/science/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 # Science
 <br>
@@ -18,7 +19,6 @@ third_nav_title: Academic Programmes
 | SH Science    | Mr Traven Loh   | [loh\_wei\_chuen@moe.edu.sg](mailto:loh_wei_chuen@moe.edu.sg)   |
 | Senior Teacher – Chemistry     | Ms Julianah Johar-Astapura    | [julianah\_johar@moe.edu.sg](mailto:julianah_johar@moe.edu.sg)   |
 | Science Teachers    | Mr Ng Teck Koon    | [ng\_teck\_koon@moe.edu.sg](mailto:ng_teck_koon@moe.edu.sg)    |
-|     | Ms Rachel Lim Poh Yen    |[lim\_poh\_yen\_a@moe.edu.sg](mailto:lim_poh_yen@moe.edu.sg)   |
 |     | Ms Teoh M H Clarice   | [teoh\_mooi\_hoon@moe.edu.sg](mailto:teoh_mooi_hoon@moe.edu.sg)     |
 |    | Mr Md Riduwan Ahmad    | [muhammed\_riduwan\_ahmad@moe.edu.sg](mailto:muhammed_riduwan_ahmad@moe.edu.sg)    |
 |    | Mr Eugene Wong    | [wong\_jia\_wei\_eugene@moe.edu.sg](mailto:wong_jia_wei@moe.edu.sg)   |
@@ -26,7 +26,7 @@ third_nav_title: Academic Programmes
 |     | Ms Simranjit Kaur    | [simranjit\_kaur\_ranjit\_singh@moe.edu.sg](mailto:simranjit_kaur_ranjit_singh@moe.edu.sg)    |
 |     | Mr Kenny Hong Anliang     | [hong\_anliang@moe.edu.sg](mailto:hong_anliang@moe.edu.sg)     |
 |     | Ms Nicole Lek   | [lek\_hui\_xin\_nicole@moe.edu.sg](mailto:lek_hui_xin_nicole@moe.edu.sg)   |
-|   | Ms Xie Hui Ru     | [xie\_huiru@moe.edu.sg](mailto:xie_huiru@moe.edu.sg)    |
+|   | Mrs Low Huiru     | [xie\_huiru@moe.edu.sg](mailto:xie_huiru@moe.edu.sg)    |
 
 
 ### Our Learning Approach
@@ -61,11 +61,11 @@ Some of the features of the JSS Lower Secondary Science course include:
 
 ### Our Special Programmes
 
-| Programme | Time frame| Time frame |
+| Programme | Time frame| Students Involved |
 | -------- | -------- | -------- |
 | Investigation and Project Based Curriculum    | Curriculum Dependent   | Lower Secondary   |
 | JSS Annual STEAM Week   | Term III    | All Levels   |
 | Enrichment Programmes   | Enrichment dependent    | All Levels   |
-| Science Competitions  | Competition dependent   | Secondary Two &amp; Three  |
+| Science Competitions  | Competition dependent   | Any  |
 
 <center> Updated 24 Oct 2023 </center>
