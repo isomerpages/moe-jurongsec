@@ -13,4 +13,3 @@ The Red Cross Youth (RCY) program aims to cultivate leadership skills, character
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q0S3ExUfhLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<center> Updated 26 Mar 2023 </center>
