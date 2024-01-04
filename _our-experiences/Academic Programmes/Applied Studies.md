@@ -26,7 +26,7 @@ variant: markdown
 |     | Ms Shuryani    | [shuryani_abdul_wahab@moe.edu.sg](shuryani_abdul_wahab@moe.edu.sg)    |
 | Music Teachers    | Ms Kalai   | [kalaivanni_somasundram@moe.edu.sg](kalaivanni_somasundram@moe.edu.sg)  |
 |    | Ms Lau Kai Ting  | [lau_kai_ting@moe.edu.sg](lau_kai_ting@moe.edu.sg)  |
-| Art Teachers  | Mr Syazwan Bin    |  |
+| Art Teachers  | Mr Syazwan Bin (Flexi Adjunct)   |[syazwan_ibrahim_a@moe.edu.sg](syazwan_ibrahim_a@moe.edu.sg)  |
 |    | Ms Mardiana Roslan   | [mardiana\_roslan@moe.edu.sg](mailto:mardiana_roslan@moe.edu.sg)   |
 | Workshop Instructors | Mr Zulkifle B Md Yassin   | [zulkifie_mohd_yassin@moe.edu.sg](zulkifie_mohd_yassin@moe.edu.sg)    |
 
@@ -68,4 +68,4 @@ Upper Secondary
 
 School-wide STEAM week programme
 
-<center> Updated 25 Oct 2023 </center>
+<center> Updated 4 Jan 2024 </center>
