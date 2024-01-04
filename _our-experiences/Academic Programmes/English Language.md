@@ -13,8 +13,7 @@ variant: markdown
 | HOD English   | Ms Shynn Lim    |  lim_shi_ying@moe.edu.sg |
 |  Year Head (Lower Sec &amp; Sec 2)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
 |   SH ICT  | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
-| English Language Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar_borhan_said@moe.edu.sg](bakhtiar_borhan_said@moe.edu.sg)     |
-|    | Mr Mahathir Aziz    | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)    |
+| English Language Teachers    |  Mr Mahathir Aziz   | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)  |
 |    | Mdm Norlinda Bte Omar   | [norlinda_omar@moe.edu.sg](norlinda_omar@moe.edu.sg)    |
 |      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi_karupaiya@moe.edu.sg](vijayaletchumi_karupaiya@moe.edu.sg)     |
 |      | Mdm Wang Cuifeng     | [wang_cuifeng@moe.edu.sg](wang_cuifeng@moe.edu.sg)    |
@@ -28,12 +27,14 @@ variant: markdown
 |     | Ms Sarah Lee Cheong Khi    | [lee\_cheong\_khi@moe.edu.sg](mailto:lee_cheong_khi@moe.edu.sg)    |
 |     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)   |
 |     | Ms Mandaraz Lim Shi Hui   | [Lim_Shi_Hui_Mandaraz@moe.edu.sg](Lim_Shi_Hui_Mandaraz@moe.edu.sg)    |
+||Mdm Inderjit||
 | English Literature Teachers   | Mrs Farhain Aidil     | [farhain\_ahmad\_bustami@moe.edu.sg](mailto:farhain_ahmad_bustami@moe.edu.sg)  |
 |      | Mdm Norlinda Bte Omar   | [norlinda\_omar@moe.edu.sg](mailto:norlinda_omar@moe.edu.sg)   |
 |     | Mr Sim Rui Xiang Darius    | [sim_rui_xiang_darius@moe.edu.sg](sim_rui_xiang_darius@moe.edu.sg)   |
 |     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)     |
 |     | Ms Maria Chung Su-Yin     | [Maria\_chung-Su-Yin@moe.edu.sg](mailto:Maria_chung-Su-Yin@moe.edu.sg)    |
 |     | Ms Mandaraz Lim Shi Hui     | [Lim_Shi_Hui_Mandaraz@moe.edu.sg](Lim_Shi_Hui_Mandaraz@moe.edu.sg)   |
+||Mdm Inderjit||
 
 <br>
 
