@@ -42,4 +42,3 @@ Jurong Symphonic Band (JSB) has persistently produced beautiful music, even amid
 |---|
 |&nbsp;![](/images/JSJ11.jpg)<center>Singapore International Band Festival \- International School Exchange</center> |
 
-<center> Updated 26 Mar 2023 </center>
