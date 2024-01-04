@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /our-experiences/Academic-Programmes/Mathematics/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 # Mathematics 
 <br>
@@ -14,12 +15,10 @@ third_nav_title: Academic Programmes
 | -------- | -------- | -------- |
 | HOD Mathematics   | Mr Ooi Wei Yong    | [ooi\_wei\_yong@moe.edu.sg](mailto:ooi_wei_yong@moe.edu.sg)    |
 | SH Mathematics   | Mdm Zheng Jieyun    | [zheng\_jieyun@moe.edu.sg](mailto:zheng_jieyun@moe.edu.sg)    |
-|  Asst Year Head (Sec 4&amp;5) | Mr Md Faydzully   | [mohd\_faydzully\_mohd\_razif@moe.edu.sg](mailto:mohd_faydzully_mohd_razif@moe.edu.sg)   |
-|Senior Teacher /  Educational Support    | Mdm Teo Kah Ping    | [teo\_kah\_ping@moe.edu.sg](mailto:teo_kah_ping@moe.edu.sg)   |
+|Lead Teacher /  Educational Support    | Mdm Teo Kah Ping    | [teo\_kah\_ping@moe.edu.sg](mailto:teo_kah_ping@moe.edu.sg)   |
 | Mathematics Teachers    | Mr Woon Ta Chuang     | [woon\_ta\_chuang@moe.edu.sg](mailto:woon_ta_chuang@moe.edu.sg)   |
 |    | Ms Simranjit Kaur    | [simranjit\_kaur\_ranjit\_singh@moe.edu.sg](mailto:simranjit_kaur_ranjit_singh@moe.edu.sg)   |
 |    | Mr Kenny Hong Anliang   |[hong\_anliang@moe.edu.sg](mailto:hong_anliang@moe.edu.sg)     |
-|     | Mr Sim Sze Wai  | [sim\_sze\_wai@moe.edu.sg](mailto:sim_sze_wai@moe.edu.sg)    |
 |   | Ms Lee Sin Yi    | [lee\_sin\_yi@moe.edu.sg](mailto:lee_sin_yi@moe.edu.sg)   |
 |     | Ms Wu Dan Amy   | [wu\_dan\_a@moe.edu.sg](mailto:wu_dan_a@moe.edu.sg)    |
 |      | Ms Nurul Nadia  | [nurul\_nadia\_abdul\_kalam@moe.edu.sg](mailto:nurul_nadia_abdul_kalam@moe.edu.sg)    |
@@ -28,6 +27,7 @@ third_nav_title: Academic Programmes
 |     | Mrs Chua-Tan Siew Hong     | [tan\_siew\_hong\_b@schools.gov.sg](mailto:tan_siew_hong_b@schools.gov.sg)    |
 |    | Miss Lau Kai Ting     | [lau\_kai\_ting@moe.edu.sg](mailto:lau_kai_ting@moe.edu.sg)   |
 |    | Miss Caroline Wooi Lian Hong     | [wooi\_lian\_hong@moe.edu.sg](mailto:wooi_lian_hong@moe.edu.sg)    |
+||Eugene Wong Jia Wei|wong_jia_wei_eugene@moe.edu.sg 
 
 <br>
 
