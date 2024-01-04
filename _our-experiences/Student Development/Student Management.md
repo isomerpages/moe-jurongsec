@@ -3,6 +3,7 @@ title: Student Management
 permalink: /our-experiences/student-development/student-management/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
 ![Student Management Committee 2023](/images/staff19.jpg)
 
@@ -17,7 +18,7 @@ third_nav_title: Student Development
 | Lower Sec Coordinator  | Mr Muhd Ridhuwan Ahmad    | [muhammed_riduwan_ahmad@schools.gov.sg](muhammed_riduwan_ahmad@schools.gov.sg)     |
 |   | Ms Sarah Lee Cheong Khi    |[lee_cheong_khi@schools.gov.sg](lee_cheong_khi@schools.gov.sg)    |
 |     | Mr Ler Jun Yi    | [ler_jun_yi@schools.gov.sg](ler_jun_yi@schools.gov.sg)  |
-|    | Mr Lawrence Ng    |[ng_jian_xiang_lawrence@schools.gov.sg](ng_jian_xiang_lawrence@schools.gov.sg)  |
+|    | Ms Lau Kai Ting    |[lau_kai_ting@moe.edu.sg](lau_kai_ting@moe.edu.sg)  |
 
 ### Our Direction 
 
@@ -29,4 +30,4 @@ We strive towards a balance of order and discipline, with a positive and proacti
 
 ![](/images/student%20management%201.png)
 
-<center> Updated 25 Oct 2023 </center>
+<center> Updated 4 Jan 2024 </center>

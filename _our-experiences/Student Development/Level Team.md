@@ -35,4 +35,4 @@ At the core of our educational approach is the development of a growth mindset a
 
 ![](/images/level%20team%201.png)
 
-<center> Updated 25 Oct 2023 </center>
+<center> Updated 4 Jan 2024 </center>

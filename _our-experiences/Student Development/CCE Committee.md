@@ -10,10 +10,12 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 |HOD CCE  | Mr Stanley Tan   | [tan_chin_kwan@moe.edu.sg](tan_chin_kwan@moe.edu.sg)    |
-|CCE Specialist (Sec 1)  | Mr Ng Teck Koon	 | [ng_teck_koon@moe.edu.sg](ng_teck_koon@moe.edu.sg) |
-|CCE Specialist (Sec 2)  | Ms Teoh Mooi Hoon Clarice   | [teoh_mooi_hoon@moe.edu.sg](teoh_mooi_hoon@moe.edu.sg) |
-|CCE Specialist (Sec 3)  | Ms Wang Cui Feng/Mr Joel Ng   | [wang_cuifeng@moe.edu.sg](wang_cuifeng@moe.edu.sg) [ng_zhi_kai@moe.edu.sg](ng_zhi_kai@moe.edu.sg) |
-|CCE Specialist (Sec 4/5) | Ms Shuryani   |[shuryani_abdul_wahab@moe.edu.sg](shuryani_abdul_wahab@moe.edu.sg)   |
+|CCE Specialist (Sec 2)  | Mr Ng Teck Koon	 | [ng_teck_koon@moe.edu.sg](ng_teck_koon@moe.edu.sg) |
+|CCE Specialist (Sec 3)  | Ms Teoh Mooi Hoon Clarice   | [teoh_mooi_hoon@moe.edu.sg](teoh_mooi_hoon@moe.edu.sg) |
+|CCE Specialist (Sec 4)  | Ms Wang Cui Feng/Mr Joel Ng   | [wang_cuifeng@moe.edu.sg](wang_cuifeng@moe.edu.sg) [ng_zhi_kai@moe.edu.sg](ng_zhi_kai@moe.edu.sg) |
+|CCE Specialist (Sec 1) | Ms Shuryani   |[shuryani_abdul_wahab@moe.edu.sg](shuryani_abdul_wahab@moe.edu.sg)   |
+|Citizenship Education Coordinator|Ms Vijayaletchumi d/o K.|[vijayaletchumi_karupaiya@moe.edu.sg](vijayaletchumi_karupaiya@moe.edu.sg)|
+|Sexuality Education Coordinator|Mdm Norlinda Bte Omar|[norlinda_omar@moe.edu.sg](norlinda_omar@moe.edu.sg)|
 
 At Jurong Secondary School, Character and Citizenship Education (CCE) is an integral part of our students' holistic development. Our goal is to cultivate a "Champion Mindset" in all our students, enabling them to reach their full potential. We strive to nurture students of exceptional character, grounded in strong values, and with a genuine concern for their school and society. By doing so, we aim to develop the next generation of responsible and ethical leaders who will make a positive impact in their communities and beyond.
 
@@ -64,4 +66,4 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 |Co-curricular activities|Uniformed Groups<br> Performing Arts Groups<br> Sports Teams<br> Clubs &amp; Societies|||
 |Citizenship Education|NE Commemorative Events<br>Cohort Learning Journeys<br>NRIC Presentation Ceremony<br>NS Men Engagement <br>Overseas Schools Exchange Programme||
 
-<center> Updated 25 Oct 2023 </center>
+<center> Updated 4 Jan 2024 </center>

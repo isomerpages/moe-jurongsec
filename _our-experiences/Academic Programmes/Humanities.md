@@ -3,6 +3,7 @@ title: Humanities
 permalink: /our-experiences/Academic-Programmes/humanities/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 # Humanities
 
@@ -12,7 +13,7 @@ third_nav_title: Academic Programmes
  
 |  |  |  |
 | -------- | -------- | -------- |
-| HOD Humanities  | Ms Anna Cai    | [cai\_shihui\_anna@moe.edu.sg](mailto:cai_shihui_anna@moe.edu.sg)   |
+| HOD Humanities  | Mr Wu Zonglun    | [wu_zonglun@moe.edu.sg](wu_zonglun@moe.edu.sg)   |
 |      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi\_karupaiya@moe.edu.sg](mailto:vijayaletchumi_karupaiya@moe.edu.sg)     |
 |     | Ms Zhang Michelle    | [zhang\_minting\_michelle@moe.edu.sg](mailto:zhang_minting_michelle@moe.edu.sg)    |
 |      | Mr Don Marcus K.    | [kannangara\_don\_marcus@moe.edu.sg](mailto:kannangara_don_marcus@moe.edu.sg)   |
@@ -21,7 +22,6 @@ third_nav_title: Academic Programmes
 |     | Ms Goh Eng Jue   | [goh\_eng\_jue@moe.edu.sg](mailto:goh_eng_jue@moe.edu.sg)   |
 |      | Ms Catherine Teh   | [teh\_me\_me\_catherine@moe.edu.sg](mailto:teh_me_me_catherine@moe.edu.sg)   |
 |     | Mr Neo Guo Wei Tony    | [neo\_guo\_wei@moe.edu.sg](mailto:neo_guo_wei@moe.edu.sg)    |
-|      | Mr Ng Zhi Kai Joel   | [ng\_zhi\_kai@moe.edu.sg](mailto:ng_zhi_kai@moe.edu.sg)     |
 |      | Mr Wong Ho Jann, Joel    | [wong\_ho\_jann\_joel@moe.edu.sg](mailto:wong_ho_jann_joel@moe.edu.sg)     |
 |     | Mdm Linda Ng     | [ng\_siew\_ching@moe.edu.sg](mailto:ng_siew_ching@moe.edu.sg)    |
 |     | Mr Tan Yong Zhi     | [tan_yong_zhi@moe.edu.sg](tan_yong_zhi@moe.edu.sg)   |
@@ -51,4 +51,4 @@ Students undergoing the JSS Humanities learning experience will:
 | -------- | -------- | -------- |
 | Humanities/ Star Overseas Immersion    | Humanities   | S3     |
 
-<center> Updated 25 Oct 2023 </center>
+<center> Updated 4 Jan 2024 </center>

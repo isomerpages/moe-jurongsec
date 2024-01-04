@@ -3,10 +3,11 @@ title: Dragon Boat
 permalink: /our-experiences/CCA-Sports/Dragon-Boat/
 description: ""
 third_nav_title: CCA   Sports
+variant: markdown
 ---
 ## Dragon Boat
 
-![](/images/JS-Dragonboat.jpg)
+![](/images/Dragonboat__Combine__FORMAL.jpg)
 
 Dragonboat racing is an exhilarating sport that demands exceptional teamwork, physical prowess, and strict discipline. Our students not only enhance their physical abilities but also learn the value of sportsmanship, perseverance, humility, and teamwork. 
 
@@ -26,7 +27,7 @@ Training for this sport involves two essential components: "water" or "boat" tra
 
 |   |   |
 |---|---|
-| ![](/images/JSD7-Photo%206.jpg) <center>Our B division girls came in 3rd place at  Singapore Dragonboat Festival in 2022</center>| ![](/images/JSD8-Photo%207.jpg) <center>Our C division girls came in 3rd place at Singapore Dragonboat Festival in 2022</center> |
+| ![](/images/JSD7-Photo%206.jpg) <center>Our B division girls came in 3rd&nbsp;place at  Singapore Dragonboat Festival in 2022</center>| ![](/images/JSD8-Photo%207.jpg) <center>Our C division girls came in 3rd&nbsp;place at Singapore Dragonboat Festival in 2022</center> |
 
 
 
@@ -38,4 +39,3 @@ Training for this sport involves two essential components: "water" or "boat" tra
 |---|---|
 | ![](/images/JSD11-Photo%2010.jpg) <center>All dragonboat boys take a team photo  before the start of the races at the Singapore Dragonboat Festival 2022</center> | ![](/images/JSD12-Photo%2011.jpg) <center>All boys and girls getting a final briefing by our coach after all our races at Singapore Dragonboat Festival 2022</center> |
 
-<center> Updated 26 Mar 2023 </center>

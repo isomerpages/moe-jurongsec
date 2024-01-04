@@ -3,10 +3,11 @@ title: Badminton (Boys)
 permalink: /our-experiences/CCA-Sports/badminton/
 description: ""
 third_nav_title: CCA   Sports
+variant: markdown
 ---
 ## Badminton (Boys)
 
-![](/images/JS_Badminton.jpg)
+![](/images/Badminton__Boys__FORMAL.jpg)
 
 <br>
 
@@ -53,4 +54,3 @@ Our team in the "B" division exhibited exceptional courage, resilience, and prof
 
 ![](/images/JS12_Training%20hard.jpeg)
 
-<center> Updated 26 Mar 2023 </center>

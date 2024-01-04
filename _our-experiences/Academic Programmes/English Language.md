@@ -3,14 +3,15 @@ title: English Language
 permalink: /our-experiences/Academic-Programmes/english-language/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 # English Language
 ![English Language Department 2023](/images/staff5.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
-| HOD English   | Mrs Farhain Aidil    | [farhain_ahmad_bustami@moe.edu.sg](farhain_ahmad_bustami@moe.edu.sg)    |
-|  Year Head (Lower Sec &amp; Sec 1)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
+| HOD English   | Ms Shynn Lim    |  lim_shi_ying@moe.edu.sg |
+|  Year Head (Lower Sec &amp; Sec 2)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
 |   SH ICT  | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
 | English Language Teachers    | Mr Bakhtiar Borhan Said    | [bakhtiar_borhan_said@moe.edu.sg](bakhtiar_borhan_said@moe.edu.sg)     |
 |    | Mr Mahathir Aziz    | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)    |
