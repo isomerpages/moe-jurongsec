@@ -18,7 +18,7 @@ variant: markdown
 |  (Asst Year Head Sec 2) | Ms Norliyana Bte Matin     | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
 | Computer Application Teachers   | Mr Chris Lok  | [lok_jian_ming@moe.edu.sg](lok_jian_ming@moe.edu.sg)    |
 |   | Mr Lam Chee Leong  | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)   |
-| Design &amp; Technology Teachers    | Mr Sim Chow Meng     |    |
+| Design &amp; Technology Teachers    | Mr Sim Chow Meng     |sim_chow_meng@moe.edu.sg    |
 |   | Mr Ng Choon Hui Vincent     | [ng_choon_hui@moe.edu.sg](ng_choon_hui@moe.edu.sg)    |
 |      | Mr Lim Kwee Hock (Flexi Adjunct)     | [lim_kwee_hock@moe.edu.sg](lim_kwee_hock@moe.edu.sg)    |
 | Element of Business Skills Teachers    | Ms Caroline Wooi   | [wooi_lian_hong@moe.edu.sg](wooi_lian_hong@moe.edu.sg)     |
