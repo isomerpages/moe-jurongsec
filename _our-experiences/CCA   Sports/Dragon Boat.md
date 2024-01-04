@@ -39,4 +39,3 @@ Training for this sport involves two essential components: "water" or "boat" tra
 |---|---|
 | ![](/images/JSD11-Photo%2010.jpg) <center>All dragonboat boys take a team photo  before the start of the races at the Singapore Dragonboat Festival 2022</center> | ![](/images/JSD12-Photo%2011.jpg) <center>All boys and girls getting a final briefing by our coach after all our races at Singapore Dragonboat Festival 2022</center> |
 
-<center> Updated 26 Mar 2023 </center>
