@@ -16,4 +16,4 @@ Please click on the links below to view the class time-tables for Odd weeks.&nbs
 [2024 Sem 1 Even Week Timetable](/files/2024_SEM_1_EVEN_WEEK_v2.pdf)
 
 
-<center> Updated 4 Jan 2024 </center>
+<center> Updated 7 Jan 2024 </center>
