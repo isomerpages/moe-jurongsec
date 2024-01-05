@@ -14,11 +14,11 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD Humanities  | Mr Wu Zonglun    | [wu_zonglun@moe.edu.sg](wu_zonglun@moe.edu.sg)   |
+|SH Humanities|Mdm Lee Hui Cheng|[lee\_hui\_cheng@moe.edu.sg](mailto:lee_hui_cheng@moe.edu.sg)  |
 |      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi\_karupaiya@moe.edu.sg](mailto:vijayaletchumi_karupaiya@moe.edu.sg)     |
 |     | Ms Zhang Michelle    | [zhang\_minting\_michelle@moe.edu.sg](mailto:zhang_minting_michelle@moe.edu.sg)    |
 |      | Mr Don Marcus K.    | [kannangara\_don\_marcus@moe.edu.sg](mailto:kannangara_don_marcus@moe.edu.sg)   |
 |      | Mr Mahathir Aziz    | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)    |
-|     | Mdm Lee Hui Cheng    | [lee\_hui\_cheng@moe.edu.sg](mailto:lee_hui_cheng@moe.edu.sg)   |
 |     | Ms Goh Eng Jue   | [goh\_eng\_jue@moe.edu.sg](mailto:goh_eng_jue@moe.edu.sg)   |
 |      | Ms Catherine Teh   | [teh\_me\_me\_catherine@moe.edu.sg](mailto:teh_me_me_catherine@moe.edu.sg)   |
 |     | Mr Neo Guo Wei Tony    | [neo\_guo\_wei@moe.edu.sg](mailto:neo_guo_wei@moe.edu.sg)    |
