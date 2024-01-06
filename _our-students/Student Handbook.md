@@ -6,4 +6,4 @@ variant: markdown
 ---
 Please download the student handbook from the link below:  
   
-[JSS Student Handbook](/files/Student_Handbook.pdf)
+[JSS Student Handbook](/files/Student_Handbook_v4.pdf)
