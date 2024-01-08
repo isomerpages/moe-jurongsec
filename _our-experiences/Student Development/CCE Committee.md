@@ -10,10 +10,10 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 |HOD CCE  | Mr Stanley Tan   | [tan_chin_kwan@moe.edu.sg](tan_chin_kwan@moe.edu.sg)    |
+|Specialised CCE Teacher (Sec 1) | Ms Shuryani   |[shuryani_abdul_wahab@moe.edu.sg](shuryani_abdul_wahab@moe.edu.sg)   |
 |Specialised CCE Teacher (Sec 2)  | Mr Ng Teck Koon	 | [ng_teck_koon@moe.edu.sg](ng_teck_koon@moe.edu.sg) |
 |Specialised CCE Teacher (Sec 3)  | Ms Teoh Mooi Hoon Clarice   | [teoh_mooi_hoon@moe.edu.sg](teoh_mooi_hoon@moe.edu.sg) |
 |Specialised CCE Teacher (Sec 4)  | Ms Wang Cui Feng/Mr Joel Ng   | [wang_cuifeng@moe.edu.sg](wang_cuifeng@moe.edu.sg) [ng_zhi_kai@moe.edu.sg](ng_zhi_kai@moe.edu.sg) |
-|Specialised CCE Teacher (Sec 1) | Ms Shuryani   |[shuryani_abdul_wahab@moe.edu.sg](shuryani_abdul_wahab@moe.edu.sg)   |
 |Citizenship Education Coordinator|Ms Vijayaletchumi d/o K.|[vijayaletchumi_karupaiya@moe.edu.sg](vijayaletchumi_karupaiya@moe.edu.sg)|
 |Sexuality Education Coordinator|Mdm Norlinda Bte Omar|[norlinda_omar@moe.edu.sg](norlinda_omar@moe.edu.sg)|
 
