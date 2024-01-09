@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /our-experiences/Academic-Programmes/mother-tongue-languages/
 description: ""
 third_nav_title: Academic Programmes
+variant: markdown
 ---
 ## Mother Tongue Languages 
 
@@ -27,7 +28,7 @@ third_nav_title: Academic Programmes
 |     | Ms Nur Zukhairiah   | [nur\_zukhairiah\_hamdan@moe.edu.sg](mailto:nur_zukhairiah_hamdan@moe.edu.sg)    |
 |     | Ms Bazilah Baderi    | [bazilah\_baderi@moe.edu.sg](mailto:bazilah_baderi@moe.edu.sg)    |
 |     | Ms Nur Zawani    | [nur\_zawani\_mion@moe.edu.sg](mailto:nur_zawani_mion@moe.edu.sg)    |
-| Tamil Language  | Mr Balasubramanian Mohan Kumar    | [balasubramanian\_mohan\_kumar@moe.edu.sg](mailto:balasubramanian_mohan_kumar@moe.edu.sg)   |
+| Tamil Language  | Mdm Loganathan Dhanalakshimi    | loganathan_dhanalakshmi@moe.edu.sg  |
 |     | Mrs Krishnamurthy Sudha ilavarasan     | [krishnamurthy\_sudha\_ilavarasan@moe.edu.sg](mailto:krishnamurthy_sudha_ilavarasan@moe.edu.sg)   |
 
 <br>
@@ -46,7 +47,7 @@ An objective of the reading programme is to promote reading culture and reading 
 
   
 
-Students will read newspaper articles (all three languages) on a bi-weekly basis. Assignments or discussion on the given topic will be designed for the students to complete after reading.
+Students will read newspaper articles (all three languages). Assignments or discussion on the given topic will be designed for the students to complete after reading.
 
   
 
