@@ -35,13 +35,13 @@ PSG also participated in school events such as CCA Display Day, Chinese New Year
 | Co-Chairperson |  Mdm Diana Regehr |     |
 | Co-Chairperson | Mr Solomon Anthony  |     |
 | Secretary | Mdm Sheena Goh  |     |
-| EXCO Member | Mdm Ramani Saravanan  |     |
-| EXCO Member | Mdm Kathy Kong  |     |
-| EXCO Member | Mdm Kathy Kong  |     |
-| EXCO Member | Mdm Kathy Kong  |     |
-| EXCO Member| Mdm Kathy Kong  |     |
-| EXCO Member | Mdm Kathy Kong  |     |
-| EXCO Member | Mdm Kathy Kong  |     |
-| EXCO Member | Mdm Kathy Kong  |     |
+| Assistant Secretary | Mdm Ramani Saravanan  |     |
+| Assistant Secretary | Mdm Kathy Kong  |     |
+| EXCO Member | Mr Kenneth Kee |     |
+| EXCO Member |Mdm Saraswathi  |     |
+| EXCO Member| Mdm Jade Du |     |
+| EXCO Member | Mdm Sherlin Tan  |     |
+| EXCO Member | Mdm Jennyfer Aw |     |
+| EXCO Member | Mdm Devaki Suppramaniam |     |
 
 <center> Updated 12 Jan 2024 </center>
