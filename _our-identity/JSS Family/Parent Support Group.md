@@ -3,6 +3,7 @@ title: Parent Support Group
 permalink: /our-identity/jss-family/parent-support-group/
 description: ""
 third_nav_title: JSS Family
+variant: markdown
 ---
 ![](/images/JSS-PSG-Logo.jpg)
 
@@ -27,26 +28,20 @@ PSG also participated in school events such as CCA Display Day, Chinese New Year
 
 ### PSG Executive Committee
 
-|  | Parent's Name | PSG Exco |
-|---|---|---|
-| 1. | Mr Eric Toh Gim Wah | Chairperson |
-| 2. | Mdm Liaw Mui Chee | Co-Chairperson |
-| 3. | Mdm Jessy Lim Siew Hong | Co-Chairperson |
-| 4. | Mdm Devaki Suppramaniam | Secretary |
-| 5. | Mdm Yusnizan Bte Mohd Taib | Asst Secretary |
-| 6. | Mdm Jennyfer Aw | Asst Secretary |
-| 7. | Mdm Penny Cheah | EXCO Member |
-| 8. | Mdm Fanny Soh | EXCO Member |
-| 9. | Mr Tin Tun Naing | EXCO Member |
-| 10. | Mdm Saraswathi | EXCO Member |
-| 11. | Mdm Diana Regehr | EXCO Member |
-| 12. | Mdm Ramani Saravanan | EXCO Member |
-| 13. | Mr Solomon Anthony | EXCO Member |
-| 14. | Mr Kenneth Kee | EXCO Member |
-| 15. | Mdm Sherlin Tan | EXCO Member |
-| 16. | Mdm Kathy Kong | EXCO Member |
-| 17. | Mdm Sheena Goh | EXCO Member |
-| 18. | Mdm Jade Du | EXCO Member |
-| | |
+|  |Name of Parent |  |
+| -------- | -------- | -------- |
+| Advisor  | Mdm Yusnizan Bte Mohd Talib  |     |
+| Chairperson | Mdm Liaw Mui Chee  |     |
+| Co-Chairperson |  Mdm Diana Regehr |     |
+| Co-Chairperson | Mr Solomon Anthony  |     |
+| Secretary | Mdm Sheena Goh  |     |
+| EXCO Member | Mdm Ramani Saravanan  |     |
+| EXCO Member | Mdm Kathy Kong  |     |
+| EXCO Member | Mdm Kathy Kong  |     |
+| EXCO Member | Mdm Kathy Kong  |     |
+| EXCO Member| Mdm Kathy Kong  |     |
+| EXCO Member | Mdm Kathy Kong  |     |
+| EXCO Member | Mdm Kathy Kong  |     |
+| EXCO Member | Mdm Kathy Kong  |     |
 
-<center> Updated 15 May 2023 </center>
+<center> Updated 12 Jan 2024 </center>
