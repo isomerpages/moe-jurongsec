@@ -23,7 +23,7 @@ c) The table below shows the distribution of weighting of assessments for each s
 | Sec 1 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
 | Sec 2 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
 | Sec 3 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
-|Sec 4 &amp; 5|15%|15%|Grad Exam<br>4N:W5 - 7<br>4E5N: W8 - 10<br>(70%|
+|Sec 4 &amp; 5|15%|15%|Grad Exam<br>(70%)|
 | | | | | | 
 
 Note:&nbsp;<br>
