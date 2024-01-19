@@ -3,7 +3,27 @@ title: MOE Sexuality Education for Secondary Schools
 permalink: /our-experiences/Student-Development/moe-sexuality-education-for-secondary-schools/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
+# JURONG SECONDARY SCHOOL
+
+**MOE SEXUALITY EDUCATION IN SCHOOLS**
+
+1.	Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+
+2.	The **Goals** of Sexuality Education are to: <br>
+(a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. <br>
+(b)	Guide students to make wise, informed and responsible decisions on sexuality matters. <br>
+(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
+
+3.	The **Key Messages** of Sexuality Education are:
+<br>(a)	Love and respect yourself as you love and respect others;
+<br>(b)	Build positive relationships based on love and respect (which are the foundation for strong families);
+<br>(c)	Make responsible decisions for yourself, your family and society; and
+<br>(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<br><br>You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+
+
 ### MOE Sexuality Education for Secondary Schools
 
 
@@ -17,17 +37,17 @@ third_nav_title: Student Development
 
 <br>  
 
-2.  The <b>Goals</b> of Sexuality Education are to:
+2.  The&nbsp;<b>Goals</b>&nbsp;of Sexuality Education are to:
 
-    i. To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate <u>knowledge</u> on human sexuality and the consequences of sexual activity;
+    i. To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;
 
-    ii. To help students know themselves and build healthy and rewarding relationships through the acquisition of <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+    ii. To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-    iii. To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
+    iii. To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.
 
   
 
-3.  The <b>Key Messages</b> of Sexuality Education are:
+3.  The&nbsp;<b>Key Messages</b>&nbsp;of Sexuality Education are:
 
     i. Love and respect yourself as you love and respect others;
 
@@ -38,13 +58,13 @@ third_nav_title: Student Development
     iv. Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
 
-#### Overview of Jurong Secondary School’s Sexuality Education Programme for 2023
+#### Overview of Jurong Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2023
 
 
-4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
   
 	
@@ -65,10 +85,10 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
   
 
-<b>At Jurong Secondary School, the following Sexuality Education lessons will be taught in <u>2023</u>:</b>
+<b>At Jurong Secondary School, the following Sexuality Education lessons will be taught in&nbsp;<u>2023</u>:</b>
 
 
-  <center><img style="width:25%" src="/images/MOE%20logo.jpg"></center>
+&nbsp; <center><img style="width:25%" src="/images/MOE%20logo.jpg"></center>
 	
 	
  <center><b>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</b></center> 	
@@ -358,15 +378,15 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 #### eTeens Programme:
 
 
-8.  **_eTeens_** is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. **_eTeens_** is conducted in two segments – a mass talk segment and a classroom-based programme.
+8.  **_eTeens_**&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;**_eTeens_**&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.
 
   
 
-9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the **_eTeens_** programme is that students are empowered to make wise, informed and sensible decisions.
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;**_eTeens_**&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
 
   
 
-**At Jurong Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+**At Jurong Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -410,16 +430,16 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 #### Information for Parents
 
 
-10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10.  Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
   
 
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://jurongsec.moe.edu.sg/qql/slot/u184/2023%20Documents/Annex%20A.docx). The completed form is to be submitted by 03/02/2023.
+11.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](https://jurongsec.moe.edu.sg/qql/slot/u184/2023%20Documents/Annex%20A.docx). The completed form is to be submitted by 03/02/2023.
 
   
 
-12.  Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://jurongsec.moe.edu.sg/qql/slot/u184/2023%20Documents/Annex%20B.docx). The completed form is to be submitted by 03/02/2023.
+12.  Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](https://jurongsec.moe.edu.sg/qql/slot/u184/2023%20Documents/Annex%20B.docx). The completed form is to be submitted by 03/02/2023.
 
   
 
-13.  Parents can contact the school at [jurong\_ss@moe.edu.sg](mailto:jurong_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+13.  Parents can contact the school at&nbsp;[jurong\_ss@moe.edu.sg](mailto:jurong_ss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
