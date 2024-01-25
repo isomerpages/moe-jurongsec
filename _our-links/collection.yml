@@ -1,0 +1,14 @@
+collections:
+  our-links:
+    output: true
+    order:
+      - For JSS Parents.md
+      - For JSS Staff.md
+      - For JSS Students.md
+      - School Canteen Advertisement.md
+      - Quick Links.md
+      - Links to Application Forms/.keep
+      - Links to Application Forms/Leave of Absence.md
+      - Links to Application Forms/MOE Financial Assistance Scheme.md
+      - Links to Application Forms/Home Access Programme (Home Broadband
+        Connectivity).md

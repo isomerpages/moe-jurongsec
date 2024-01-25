@@ -1,0 +1,12 @@
+logo: /images/jsslogo11.png
+links:
+  - title: Our Identity
+    collection: our-identity
+  - title: Our Students
+    collection: our-students
+  - title: Our Experiences
+    collection: our-experiences
+  - title: Our Stories
+    collection: our-stories
+  - title: Our Links
+    collection: our-links
