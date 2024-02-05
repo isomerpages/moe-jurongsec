@@ -3,7 +3,8 @@ title: Teaching Staff
 permalink: /our-identity/jss-family/teaching-staff/
 description: ""
 third_nav_title: JSS Family
+variant: markdown
 ---
-![](/images/Staff%202022%201.jpg)
+![JSS Staff Photo 2023](/images/MASS_PHOTO_FORMAL.jpg)
 
-<center> Updated 22 Feb 2023 </center>
+<center> Updated 5 Feb 2024 </center>
