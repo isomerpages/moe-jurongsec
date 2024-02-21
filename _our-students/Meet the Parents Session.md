@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4>Meet-the-Parents Session</h4>
 <hr>
-<p><strong>Secondary 4 and 5</strong>
+<p><strong>Secondary 4 and 5</strong> 
 <br>The Secondary 4 and 5 Meet-the-Parents session was held on the 16th February
 2024. Below are the slides used during the session.</p>
 <p>Main Slides</p>
@@ -32,7 +32,7 @@ variant: tiptap
 </li>
 </ul>
 <hr>
-<p><strong>Secondary 1</strong>
+<p><strong>Secondary 1</strong> 
 <br>The Secondary 1 Meet-the-Parents session was held on the 6th January 2024.
 <br>Below are the slides used during the session.
 <br>
@@ -51,9 +51,9 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/National_Digital_Literacy_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme 2024</a>
+<p><a href="/files/National_Digital_Literacy_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme 2024</a> 
 <br>
 </p>
 </li>
 </ul>
-<p>Updated 8 Jan 2024</p>
+<p>Updated 21 Feb 2024</p>
