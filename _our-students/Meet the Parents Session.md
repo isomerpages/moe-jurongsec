@@ -6,6 +6,31 @@ variant: tiptap
 ---
 <h4>Meet-the-Parents Session</h4>
 <hr>
+<p><strong>Secondary 3</strong> 
+<br>The Secondary 3 Meet-the-Parents session was held on the 23th February
+2024. Below are the slides used during the session.</p>
+<p>Main Slides</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_Sec_3_MTP_Main_Session_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Meet the Parents Main Session</a>
+</p>
+</li>
+</ul>
+<p>Sharing on Progression Pathway</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024_Sec3_MTP_ECG__3E_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Meet the Parents ECG (Express)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_Sec3_MTP_ECG__3NA_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Meet the Parents ECG (Normal Academic)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2024_Sec3_MTP_ECG__3NT_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Meet the Parents ECG (Normal Technical)</a>
+</p>
+</li>
+</ul>
 <p><strong>Secondary 4 and 5</strong> 
 <br>The Secondary 4 and 5 Meet-the-Parents session was held on the 16th February
 2024. Below are the slides used during the session.</p>
@@ -56,4 +81,4 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>Updated 21 Feb 2024</p>
+<p>Updated 26 Feb 2024</p>
