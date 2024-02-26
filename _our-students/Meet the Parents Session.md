@@ -81,4 +81,4 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p>Updated 21 Feb 2024</p>
+<p>Updated 26 Feb 2024</p>
