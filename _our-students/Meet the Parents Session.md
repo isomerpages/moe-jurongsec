@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4>Meet-the-Parents Session</h4>
 <hr>
-<p><strong>Secondary 3</strong>
+<p><strong>Secondary 3</strong> 
 <br>The Secondary 3 Meet-the-Parents session was held on the 23th February
 2024. Below are the slides used during the session.</p>
 <p>Main Slides</p>
