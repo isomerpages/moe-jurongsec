@@ -28,9 +28,9 @@ sections:
   - infopic:
       title: JSS 60th Anniversary Celebrations
       subtitle: COME JOIN US AT
-      description: Jurong Secondary school, founded in 1963, turns 60 this year.  We
-        are heartened to invite the community to celebrate this momentous
-        occasion with us.
+      description: Jurong Secondary School, celebrated its 60th Anniversary in 2023!
+        We were heartened to invite our school community to celebrate this
+        momentous occasion with us.
       image: /images/60th Anniversary Logo.jpeg
       alt: Image alt text
       button: Click here to find out more
