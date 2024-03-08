@@ -29,10 +29,17 @@ c) The table below shows the distribution of weighting of assessments for each s
 Note:&nbsp;<br>
 Secondary 4 and 5 students will be sitting for their Graduation Examinations in Term 3. &nbsp;&nbsp;
 
-### Schedule of Weighted Assessment for Semester 1
+### Schedule of Weighted Assessment
 
 You can download the schedules from the links below:  
-[Schedule of Weighted Assessment 1 Sec 1](/files/Schedule_of_Weighted_Assessment_1_2024_Sec_1.pdf)<br>[Schedule of Weighted Assessment 1 Sec 2](/files/Schedule_of_Weighted_Assessment_1_2024_Sec_2.pdf)<br>[Schedule of Weighted Assessment 1 Sec 3](/files/Schedule_of_Weighted_Assessment_1_2024_Sec_3.pdf)<br>[Schedule of Weighted Assessment 1 Sec 4](/files/Schedule_of_Weighted_Assessment_1_2024_Sec_4.pdf)<br>[Schedule of Weighted Assessment 1 Sec 5](/files/Schedule_of_Weighted_Assessment_1_2024_Sec_5.pdf)<br>
+[Schedule of Weighted Assessment 2 Sec 1](/files/Schedule_of_Weighted_Assessment_2_Sec_1.pdf)<br>
+[Schedule of Weighted Assessment 2 Sec 2](/files/Schedule_of_Weighted_Assessment_2_Sec_2.pdf)<br>
+[Schedule of Weighted Assessment 2 Sec 3](/files/Schedule_of_Weighted_Assessment_2_Sec_3.pdf)<br>
+[Schedule of Weighted Assessment 2 Sec 4](/files/Schedule_of_Weighted_Assessment_2_Sec_4.pdf)<br>
+[Schedule of Weighted Assessment 2 Sec 5](/files/Schedule_of_Weighted_Assessment_2_Sec_5.pdf)
+
+
+
 
 
 ### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
@@ -53,4 +60,4 @@ You can download the exam timetable from the links below:<br>
 
 
 
-<center> Updated 17 Jan 2024 </center>
+<center> Updated 8 Mar 2024 </center>
