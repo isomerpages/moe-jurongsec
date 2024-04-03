@@ -27,7 +27,6 @@ sections:
       button: View More
   - infopic:
       title: JSS 60th Anniversary Celebrations
-      subtitle: COME JOIN US AT
       description: Jurong Secondary School, celebrated its 60th Anniversary in 2023!
         We were heartened to invite our school community to celebrate this
         momentous occasion with us.
