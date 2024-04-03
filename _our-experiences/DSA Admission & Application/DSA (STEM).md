@@ -35,6 +35,10 @@ on design thinking. Apart from leveraging the design thinking process to
 analyse and ideate solutions for real-world issues, students will also
 prototype their ideas through tinkering in our Imaginarium, which is equipped
 with 3D and laser printers.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvX5XoXGU9PsB8isH8GaRw55L-wnl30gvG6rNd_ZnyOBLbVtEdIc0L4w0gtMCiv5e5tiCd_PjYlClz/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p><strong>Enrichment Opportunities</strong>
 </p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Beyond CCA opportunities, the STEM programme
