@@ -35,9 +35,6 @@ on design thinking. Apart from leveraging the design thinking process to
 analyse and ideate solutions for real-world issues, students will also
 prototype their ideas through tinkering in our Imaginarium, which is equipped
 with 3D and laser printers.</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvX5XoXGU9PsB8isH8GaRw55L-wnl30gvG6rNd_ZnyOBLbVtEdIc0L4w0gtMCiv5e5tiCd_PjYlClz/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <p><strong>Enrichment Opportunities</strong>
 </p>
@@ -46,3 +43,7 @@ also offers a range of enrichment opportunities to further inspire and
 engage students. This may include guest lectures by industry experts, field
 trips to research institutions or technology companies, and participation
 in STEM competitions.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvX5XoXGU9PsB8isH8GaRw55L-wnl30gvG6rNd_ZnyOBLbVtEdIc0L4w0gtMCiv5e5tiCd_PjYlClz/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
