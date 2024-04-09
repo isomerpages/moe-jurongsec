@@ -42,6 +42,6 @@ opportunities to further inspire and engage students. This may include
 guest lectures by industry experts, field trips to research institutions
 or technology companies, and participation in STEM competitions.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHUxwUxZhCxUzv0nvO_4S8j6z4eQX_z9l-zvRBXSAhg1UaogNdRCfZHeMtnm4qow/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHUxwUxZhCxUzv0nvO_4S8j6z4eQX_z9l-zvRBXSAhg1UaogNdRCfZHeMtnm4qow/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
