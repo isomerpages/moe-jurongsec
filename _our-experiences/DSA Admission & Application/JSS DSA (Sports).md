@@ -33,6 +33,6 @@ the games.</p>
 <p>Supports outstanding student athletes to pursue their passion and maximise
 their potential.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC7ON9fdt57ZhRmwp4smL0qsS8uYFl33IrJxrz-7HMy77M8G53jT-vQwHd-cIYtQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC7ON9fdt57ZhRmwp4smL0qsS8uYFl33IrJxrz-7HMy77M8G53jT-vQwHd-cIYtQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
