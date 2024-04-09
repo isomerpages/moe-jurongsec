@@ -37,4 +37,7 @@ development among Singapore youths. Students, in teams of four, will have
 the opportunity to undergo training and volunteer mentorship for executing
 self-initiated projects to raise public awareness, funds and mobolise volunteers
 for Social Service organisations of their choice.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQv55I8K2FQrIeN0WGX_AtqgQFqETkh130gy6qefW9eWOxEia_pZ4uRvMs7MnNGBw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>&nbsp;</p>
