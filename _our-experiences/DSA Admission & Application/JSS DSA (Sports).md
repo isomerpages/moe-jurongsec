@@ -1,6 +1,6 @@
 ---
 title: JSS DSA (Sports)
-permalink: /dsa-sports/
+permalink: /jss-dsa-sports/
 variant: tiptap
 description: ""
 third_nav_title: DSA Admission & Application
