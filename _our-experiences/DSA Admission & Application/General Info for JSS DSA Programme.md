@@ -5,7 +5,6 @@ description: ""
 third_nav_title: DSA Admission & Application
 variant: markdown
 ---
-
 ![](/images/DSA_Tea_Session_Slide.png)
 
 For more information on DSA-Sec, please refer to the MOE website at [http://moe.gov.sg/dsa-sec](http://moe.gov.sg/dsa-sec)*
