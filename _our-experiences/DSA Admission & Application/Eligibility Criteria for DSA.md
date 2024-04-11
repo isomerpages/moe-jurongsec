@@ -25,14 +25,17 @@ For clarifications regarding our DSA programmes, please do not hesitate to email
 #### Sports
 
 Mr Nur Qarnian, HOD/PE & CCA
+
 Miss Ong Wei Chen, SH/PE & CCA
 
 #### STEM	
 
 Mr Nur Qarnian, HOD/PE & CCA
+
 Mr Vincent Ng, Explorers Club IC
 
 #### Service Leadership 	
 
 Mr Stanley Tan, HOD/CCE
+
 Ms Clarice Teoh, VIA Coordinator
