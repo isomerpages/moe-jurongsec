@@ -54,7 +54,7 @@ For clarifications regarding our DSA programmes, please do not hesitate to conta
 |---|---|---|
 | **Sports** | HOD/PE, Mr Nur Qarnain<br>SH/PE, Ms Ong Wei Chen | jurong_ss@moe.edu.sg<br>6265 5980 |
 | **Science** | HOD/Science, Ms Lim Yan Mui<br>SH/Science, Mr Traven Loh |  |
-| **Service Leadership** | HOD/CCE, Mr Stanley Tan<br>AYH, Mr Faydzully |  |
+| **Service Leadership** | HOD/CCE, Mr Stanley Tan<br>AYH|  |
 | | |
 
 <center> Updated 2 May 2023 </center>
