@@ -7,16 +7,22 @@ third_nav_title: DSA Admission & Application
 ---
 <p><strong>A Sporting Powerhouse in the West</strong>
 </p>
-<p>JSS believes in developing our students' talents and nurturing them to
-be responsible and lifelong learners. Sports and games play a central role
-in equipping our students with values that are crucial in their development
-as leaders and contributing members of the society in future. In addition
-to our core values of Loyalty, Industry, Sincerity and Love, participation
-in sports also inculcates important values including discipline, team spirit
-and fair play in our students.</p>
-<p>In the sporting arena, our sportsmen and sportswomen have achieved no
-less than 100 national titles since 1963. For the achievements made, JSS
-is widely known as the 'Sporting Powerhouse in the West’.</p>
+<p>At JSS, we believe in identifying and developing our young athletes’ potential.
+We are committed to long term athlete development, and work closely with
+stakeholders to support and chart our students’ sporting journeys.</p>
+<p>The JSS DSA Sports Programmes provide well-planned pathways for athletes
+to pursue and deepen their sporting passion, so that they can achieve their
+long-term sporting. Every JSS athlete is both challenged and supported
+through his or her journey. The school provides structured training programmes
+by experienced teachers and coaches, which are grounded upon Sports Science
+and Sports Psychology.</p>
+<p>We also firmly believe that competitive sports offer a rich and multifaceted
+opportunities for students to develop adaptive and critical thinking skills,
+especially when athletes have to think on their feet, assess situations
+and adapt to changing circumstances. To this end, the JSS Sports CCA programmes
+empower our Sports Leaders to co-develop training curriculum and nurture
+their teambuilding skills to navigate through the complexities both on
+and off court.</p>
 <p><strong>JSS SPORTS EXCELLENCE PROGRAMME</strong>
 </p>
 <p>Supported by a team of dedicated and qualified coaches, teachers and members
