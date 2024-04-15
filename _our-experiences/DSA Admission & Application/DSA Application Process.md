@@ -3,13 +3,14 @@ title: DSA Application Process
 permalink: /our-experiences/dsa-admission-and-application/dsa-application-process/
 description: ""
 third_nav_title: DSA Admission & Application
+variant: markdown
 ---
 **Application &amp; Selection Process**
 
 
-All applicants must be eligible for Secondary One admission in 2024.
+All applicants must be eligible for Secondary One admission in 2025.
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023 (11am) to 31 May 2023 (3pm). For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024 (11am) to 3 Jun 2024 (3pm). For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 | Date | Process |
 |---|---|
