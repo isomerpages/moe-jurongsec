@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: DSA Admission & Application
 ---
-<p><strong>SERVICE LEADERSHIP – FROM ADVOCACY TO ACTIVISM</strong>
+<p><strong>SERVICE LEADERSHIP – STUDENT AGENCY FOR THE COMMUNITY</strong>
 </p>
 <p>All students on the Service Leadership Programme will learn the necessary
 knowledge, skills and values for becoming empathetic and adaptive leaders
