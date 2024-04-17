@@ -7,6 +7,7 @@ variant: markdown
 ---
 ![](/images/DSA_Tea_Session_Slide.png)
 
+The selection criteria and process  for the talent areas will be updated from early-May.  
 For more information on DSA-Sec, please refer to the MOE website at [http://moe.gov.sg/dsa-sec](http://moe.gov.sg/dsa-sec)*
 
-<center> Updated 4 May 2023 </center>
+<center> Updated 17 April 2024 </center>
