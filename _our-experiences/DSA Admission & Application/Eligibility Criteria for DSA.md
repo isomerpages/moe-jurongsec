@@ -16,10 +16,6 @@ All applicants must be eligible for Secondary One admission the following year. 
 
 Parents and students are encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the school's academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-**Application Timeline**
-
-For information on the DSA application criteria, process and timeline, scan the following QR code to access the JSS school website.
-
 For clarifications regarding our DSA programmes, please do not hesitate to email our school (jurong_ss@moe.edu.sg), specifying the respective Key Personnel that you would like to get in touch with: 
 
 #### Sports
