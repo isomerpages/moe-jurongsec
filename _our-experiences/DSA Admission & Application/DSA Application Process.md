@@ -44,7 +44,7 @@ Returning Singaporeans and International Students applying to Jurong Secondary S
 | 2    | An applicant can indicate **up to 3 choices**. Each choice consists of a secondary school and a talent area offered by the secondary school. Of the 3 choices, an applicant may use a maximum of 2 choices to apply to the same school, for two different talent areas of that school.   |      |
 | 3    |  The following supporting documents may have to be provided – <br> •  Certified true copies or documentary proof of non-school based activities and achievements.<br> •  Certified true copies of school academic results and activities / achievements for applicants NOT studying in MOE mainstream schools. |      |
 | 4   |  **Notification of outcome by school (By 9 September 2024)** - <br> Applicants will be notified of the outcomes by 11 September 2023. The school’s decision is final. The school reserves the right not to release the reasons for non-selection of applicants. |      |
-| 5    | **School Preference Submission (21 October 2023 to 25 October 2024)**&nbsp;–<br>All applicants with a Confirmed Offer (CO), or who are on the Waiting List (WL) of a school, will be issued a School Preference Form via email. The form will include instructions on how to submit your child’s preferences.   |      |
+| 5    | **School Preference Submission (21 October 2024 to 25 October 2024)**&nbsp;–<br>All applicants with a Confirmed Offer (CO), or who are on the Waiting List (WL) of a school, will be issued a School Preference Form via email. The form will include instructions on how to submit your child’s preferences.   |      |
 | 6   |   Fill out the School Preference Form with your child, listing a **maximum of 3 schools in order of preference**. Parents can submit their child’s school preference(s) either electronically via the DSA-Sec Portal or physically at their child’s primary school. Students should consider carefully before opting for the DSA schools. Students can only amend or withdraw their submitted school preferences before the end of this stage. Any amendment or withdrawal from the exercise will not be allowed after this stage. |      |
 | 7    |  Successful DSA-Sec applicant will receive their results on the school they are allocated to, via their primary schools, on the day they receive their PSLE results  |      |
 
@@ -53,8 +53,8 @@ For clarifications regarding our DSA programmes, please do not hesitate to conta
 |  |  |  |
 |---|---|---|
 | **Sports** | HOD/PE, Mr Nur Qarnain<br>SH/PE, Ms Ong Wei Chen | jurong_ss@moe.edu.sg<br>6265 5980 |
-| **Science** | HOD/Science, Ms Lim Yan Mui<br>SH/Science, Mr Traven Loh |  |
-| **Service Leadership** | HOD/CCE, Mr Stanley Tan<br>AYH|  |
+| **STEM** | HOD/Science, Ms Lim Yan Mui<br>SH/Science, Mr Traven Loh |  |
+| **Service Leadership** | HOD/CCE, Mr Stanley Tan<br>VIA Coordinator, Ms Clarice Teoh|  |
 | | |
 
-<center> Updated 2 May 2023 </center>
+<center> Updated 17 Apr 2024 </center>
