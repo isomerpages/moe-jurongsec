@@ -24,7 +24,7 @@ For clarifications regarding our DSA programmes, please do not hesitate to email
 
 #### Sports
 
-Mr Nur Qarnian, HOD/PE & CCA
+Mr Nur Qarnain, HOD/PE & CCA
 
 Miss Ong Wei Chen, SH/PE & CCA
 
