@@ -3,6 +3,7 @@ title: JSS STAR Development Programme
 permalink: /jss-experience/enhanced-jss-experience/jss-star-development-programme/
 description: ""
 third_nav_title: Enhanced JSS Experience
+variant: markdown
 ---
 ![STAR Committee 2023](/images/staff24.jpg)
 
@@ -86,4 +87,24 @@ Secondary One students with a keen interest in the Programme and who are assesse
 **Phase II** <br>
 Secondary Two students who are keen in the Programme and who are assessed to be able to adjust extremely well to the demands of secondary education (i.e. top students of the cohort in their performance at the school’s Secondary 2 End-of-Year examination) will be identified for the Selection Process, which will commence at the end of Secondary 2, the process as indicated above in Phase I.
 
-<center> Updated 25 Oct 2023 </center>
+![LJ to sea aquarium to learn about careers in marine biology sector](/images/LJ_to_sea_aquarium_to_learn_about_careers_in_marine_biology_sector.jpg)
+Learning Journey to SEA aquarium to learn about careers in marine biology sector
+
+![Learning stop motion animation during IQ camp](/images/Learning_stop_motion_animation_during_IQ_camp.jpg)
+Learning stop motion animation during IQ camp
+
+![Learning how to fly a drone during IQ camp](/images/Learning_how_to_fly_a_drone_during_IQ_camp.jpg)
+Learning how to fly a drone during IQ camp
+
+![Preparing for SAFMC 1](/images/Preparing_for_SAFMC_1.jpg)
+Preparing for SAFMC 1
+
+![Preparing for SAFMC 2](/images/Preparing_for_SAFMC_2.jpg)
+Preparing for SAFMC 2
+
+![Vietnamese cooking class during overseas trip](/images/vietnamese_cooking_class_during_overseas_trip.jpg)
+Vietnamese cooking class during overseas trip
+![Visit to ArtScience musuem to learn about mental health](/images/visit_to_ArtScience_musuem_to_learn_about_mental_health_2.jpg)
+Visit to ArtScience musuem to learn about mental health
+
+<center> Updated 17 Apr 2024 </center>
