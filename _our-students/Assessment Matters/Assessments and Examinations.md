@@ -39,8 +39,9 @@ You can download the schedules from the links below:
 [Schedule of Weighted Assessment 2 Sec 5](/files/Schedule_of_Weighted_Assessment_2_Sec_5.pdf)
 
 
-
-
+### Sec 4 &amp; 5 Timetable for Graduation Examination
+You can download the Sec 4 &amp; 5 Mother Tongue Graduation Examination timetable from the link below:<br>
+[Sec 4 &amp; 5 MTL GE](/files/To_students___Sec_4_5MTL_GENFS.pdf)
 
 ### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
 
@@ -56,8 +57,8 @@ You can download the exam timetable from the links below:<br>
 You can download the exam timetable from the links below:<br>
 
 
-### Sec 4 &amp; 5 Timetable for Graduation Examination
 
 
 
-<center> Updated 8 Mar 2024 </center>
+
+<center> Updated 19 Apr 2024 </center>
