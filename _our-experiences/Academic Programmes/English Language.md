@@ -10,7 +10,7 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-| HOD English   | Ms Shynn Lim    |  lim_shi_ying@moe.edu.sg |
+| HOD English   | Ms Shynn Lim    |  lim_shi_ying@moe.edu.sg|
 |  Year Head (Lower Sec &amp; Sec 2)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
 |   SH ICT  | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
 | English Language Teachers    |  Mr Mahathir Aziz   | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)  |
@@ -27,14 +27,14 @@ variant: markdown
 |     | Ms Sarah Lee Cheong Khi    | [lee\_cheong\_khi@moe.edu.sg](mailto:lee_cheong_khi@moe.edu.sg)    |
 |     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)   |
 |     | Ms Mandaraz Lim Shi Hui   | [Lim_Shi_Hui_Mandaraz@moe.edu.sg](Lim_Shi_Hui_Mandaraz@moe.edu.sg)    |
-||Mdm Inderjit||
-| English Literature Teachers   | Mrs Farhain Aidil     | [farhain\_ahmad\_bustami@moe.edu.sg](mailto:farhain_ahmad_bustami@moe.edu.sg)  |
-|      | Mdm Norlinda Bte Omar   | [norlinda\_omar@moe.edu.sg](mailto:norlinda_omar@moe.edu.sg)   |
+|    |Mdm Inderjit   | [inderjit_kaur_a@moe.edu.sg](inderjit_kaur_a@moe.edu.sg)    |
+|    | Dr Lydia Tan-Chia   | [chia_cheng_kuen_lydia@schools.gov.sg](chia_cheng_kuen_lydia@schools.gov.sg)    |
+| English Literature Teachers   | Mdm Norlinda Bte Omar   | [norlinda\_omar@moe.edu.sg](mailto:norlinda_omar@moe.edu.sg)   |
 |     | Mr Sim Rui Xiang Darius    | [sim_rui_xiang_darius@moe.edu.sg](sim_rui_xiang_darius@moe.edu.sg)   |
 |     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)     |
 |     | Ms Maria Chung Su-Yin     | [Maria\_chung-Su-Yin@moe.edu.sg](mailto:Maria_chung-Su-Yin@moe.edu.sg)    |
 |     | Ms Mandaraz Lim Shi Hui     | [Lim_Shi_Hui_Mandaraz@moe.edu.sg](Lim_Shi_Hui_Mandaraz@moe.edu.sg)   |
-||Mdm Inderjit||
+|    |Mdm Inderjit   | [inderjit_kaur_a@moe.edu.sg](inderjit_kaur_a@moe.edu.sg)    |
 
 <br>
 
@@ -84,9 +84,11 @@ Our English Language Department uses the communicative approach to language lear
 ## Our Special Programmes:
 
 
-*   Secondary 1 Drama Programme
+*   Secondary 1 Story-Boarding
 *   Secondary 2 Debate Programme
-*   Secondary 3 Public Speaking Programme
+*   Secondary 3 LiveOn Programme
 *   Speak Good English Movement
+*   EL Week
+*   JSS R.E.A.D.S
 
 <center> Updated 4 Jan 2024 </center>
