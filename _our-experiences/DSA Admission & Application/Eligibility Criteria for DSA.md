@@ -26,7 +26,7 @@ Miss Ong Wei Chen, SH/PE & CCA
 
 #### STEM	
 
-Mr Nur Qarnian, HOD/PE & CCA
+Mr Nur Qarnain, HOD/PE & CCA
 
 Mr Vincent Ng, Explorers Club IC
 
