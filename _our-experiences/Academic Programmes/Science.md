@@ -64,7 +64,7 @@ Some of the features of the JSS Lower Secondary Science course include:
 | Programme | Time frame| Students Involved |
 | -------- | -------- | -------- |
 | Investigation and Project Based Curriculum    | Curriculum Dependent   | Lower Secondary   |
-| JSS Annual STEAM Week   | Term III    | All Levels   |
+| JSS Annual STEAM Week   | Term II    | All Levels   |
 | Enrichment Programmes   | Enrichment dependent    | All Levels   |
 | Science Competitions  | Competition dependent   | Any  |
 
