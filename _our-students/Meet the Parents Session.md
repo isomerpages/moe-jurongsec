@@ -6,6 +6,33 @@ variant: tiptap
 ---
 <h4>Meet-the-Parents Session</h4>
 <hr>
+<p><strong>Secondary 2</strong>
+</p>
+<p>Dear parents, here are the subject briefing slides for your pre-reading.
+During Secondary 2 MTP and Subject Option Panel Discussion this year, there
+will not be any Subject Talks or Briefings. Instead, we invite you to pre-read
+the following briefing material and we will be happy to answer your questions
+and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
+<p>Also, to facilitate the Subject Option Panel Discussion segment, we would
+like to invite you to share your questions related to the Subject Option
+Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jsssec2mtp</a>
+</p>
+<p><a href="/files/Additional_Mathematics_and_Computing.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics and Computing</a>
+</p>
+<p><a href="/files/Express_Sciences___Pure_vs_Combined_Biology_Chemistry_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Express Sciences: Pure vs Combined Biology, Chemistry and Physics</a>
+</p>
+<p><a href="/files/NA_and_NT_Sciences___Biology_Chemistry_and_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">NA and NT Sciences: Biology, Chemistry and Physics</a>
+</p>
+<p><a href="/files/Humanities___History_Geography_Social_Studies_Principles_of_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities: History, Geography, Social Studies and Principles of Accounts</a>
+</p>
+<p><a href="/files/Mobile_Robotics.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Robotics</a>
+</p>
+<p><a href="/files/D_T_and_NFS_and_EBS.pdf" rel="noopener noreferrer nofollow" target="_blank">D&amp;T, NFS and EBS</a>
+</p>
+<p><a href="/files/Literature_in_English.pdf" rel="noopener noreferrer nofollow" target="_blank">Literature in English</a>
+</p>
+<p><a href="/files/Literature_in_Chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">Literature in Chinese</a>
+</p>
 <p><strong>Secondary 3</strong> 
 <br>The Secondary 3 Meet-the-Parents session was held on the 23th February
 2024. Below are the slides used during the session.</p>
