@@ -27,6 +27,8 @@ Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener nor
 </p>
 <p><a href="/files/Mobile_Robotics.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Robotics</a>
 </p>
+<p><a href="/files/D_T_and_NFS_and_EBS.pdf" rel="noopener noreferrer nofollow" target="_blank">D&amp;T, NFS and EBS</a>
+</p>
 <p><a href="/files/Literature_in_English.pdf" rel="noopener noreferrer nofollow" target="_blank">Literature in English</a>
 </p>
 <p><a href="/files/Literature_in_Chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">Literature in Chinese</a>
