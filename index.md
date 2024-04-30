@@ -29,7 +29,7 @@ sections:
       title: JSS Direct School Admission Tea Session
       subtitle: Info Session 2024
       id: infopic
-      description: If you are keen to attend this event on 18 May, Sat, 10 a.m. - 12 p.m.
+      description: If you are keen to attend this event on 18 May, Sat, 10 a.m. - 12 p.m,
       button: Register via this link
       url: https://forms.gle/UJEergENszue7Rw66
       image: /images/DSA_Info_Session_Programme_2024.jpg
