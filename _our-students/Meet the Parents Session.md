@@ -19,17 +19,17 @@ Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener nor
 </p>
 <p><a href="/files/Additional_Mathematics_and_Computing.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics and Computing</a>
 </p>
-<p><a href="/files/Express_Sciences___Pure_vs_Combined_Biology_Chemistry_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Express Sciences: Pure vs Combined Biology, Chemistry and Physics</a>
+<p><a href="/files/Express_Science___Pure_and_Combined_Biology_Chemistry_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Express Science - Pure and Combined Biology, Chemistry and Physics updated 30 Apr 2024</a>
 </p>
-<p><a href="/files/NA_and_NT_Sciences___Biology_Chemistry_and_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">NA and NT Sciences: Biology, Chemistry and Physics</a>
+<p><a href="/files/NA_NT_Science___Biology_Chemistry_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">NA and NT Science - Biology, Chemistry and Physics updated 30 Apr 2024</a>
 </p>
-<p><a href="/files/Humanities___History_Geography_Social_Studies_Principles_of_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities: History, Geography, Social Studies and Principles of Accounts</a>
+<p><a href="/files/History_and_Geography_and_Principles_of_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities - History, Geography, Social Studies and Principles of Accounts updated 30 Apr 2024</a>
 </p>
-<p><a href="/files/Mobile_Robotics.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Robotics</a>
+<p><a href="/files/Mobile_Robotics__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Robotics updated 30 Apr 2024</a>
 </p>
-<p><a href="/files/D_T_and_NFS_and_EBS.pdf" rel="noopener noreferrer nofollow" target="_blank">D&amp;T, NFS and EBS</a>
+<p><a href="/files/D_T_and_NFS_and_EBS__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">D&amp;T, NFS and EBS updated 30 Apr 2024</a>
 </p>
-<p><a href="/files/Literature_in_English.pdf" rel="noopener noreferrer nofollow" target="_blank">Literature in English</a>
+<p><a href="/files/Literature_in_English__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Literature in English updated 30 Apr 2024</a>
 </p>
 <p><a href="/files/Literature_in_Chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">Literature in Chinese</a>
 </p>
