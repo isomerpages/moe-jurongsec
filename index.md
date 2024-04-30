@@ -26,6 +26,16 @@ sections:
       title: Announcements
       button: View More
   - infopic:
+      title: JSS Direct School Admission
+      subtitle: Info Session 2024
+      id: infopic
+      description: If you are keen to attend the JSS DSA Tea Session on 18 May,
+        Saturday 2024 10 a.m. to 12 p.m.
+      button: Register via this link
+      url: https://forms.gle/UJEergENszue7Rw66
+      image: /images/DSA_Info_Session_Programme_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: JSS 60th Anniversary Celebrations
       description: Jurong Secondary School, celebrated its 60th Anniversary in 2023!
         We were heartened to invite our school community to celebrate this
