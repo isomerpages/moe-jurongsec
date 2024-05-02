@@ -12,10 +12,10 @@ We are committed to long term athlete development, and work closely with
 stakeholders to support and chart our students’ sporting journeys.</p>
 <p>The JSS DSA Sports Programmes provide well-planned pathways for athletes
 to pursue and deepen their sporting passion, so that they can achieve their
-long-term sporting. Every JSS athlete is both challenged and supported
-through his or her journey. The school provides structured training programmes
-by experienced teachers and coaches, which are grounded upon Sports Science
-and Sports Psychology.</p>
+long-term sporting aspirations. Every JSS athlete is both challenged and
+supported through his or her journey. The school provides structured training
+programmes by experienced teachers and coaches, which are grounded upon
+Sports Science and Sports Psychology.</p>
 <p>We also firmly believe that competitive sports offer a rich and multifaceted
 opportunities for students to develop adaptive and critical thinking skills,
 especially when athletes have to think on their feet, assess situations
