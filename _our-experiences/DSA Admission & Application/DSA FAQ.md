@@ -3,8 +3,9 @@ title: DSA FAQ
 permalink: /our-experiences/dsa-admission-and-application/dsa-faq/
 description: ""
 third_nav_title: DSA Admission & Application
+variant: markdown
 ---
-To be updated on 22 May 2023
+To be updated on 22 May 2024
 <div hidden="">
 
 **General**
