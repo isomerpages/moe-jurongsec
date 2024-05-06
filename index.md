@@ -26,7 +26,7 @@ sections:
       title: Announcements
       button: View More
   - infopic:
-      title: JSS Direct School Admission Tea Session
+      title: JSS Direct School Admission Info Session
       subtitle: Info Session 2024
       id: infopic
       description: If you are keen to attend this event on 18 May, Sat, 10 a.m. - 12 p.m,
