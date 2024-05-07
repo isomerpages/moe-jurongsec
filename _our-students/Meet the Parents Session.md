@@ -17,7 +17,10 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 like to invite you to share your questions related to the Subject Option
 Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jsssec2mtp</a>
 </p>
-<p></p>
+<p><a href="/files/Overview_of_3EXP_Subject_Combinations.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of 3EXP Subject Combinations</a>
+</p>
+<p><a href="/files/Overview_of_3NA___3NT_Subject_Combinations.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of 3NA and 3NT Subject Combinations</a>
+</p>
 <p><a href="/files/additional_mathematics_and_computing.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics and Computing</a>
 </p>
 <p><a href="/files/Express_Science___Pure_and_Combined_Biology_Chemistry_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Express Science - Pure and Combined Biology, Chemistry and Physics updated 30 Apr 2024</a>
