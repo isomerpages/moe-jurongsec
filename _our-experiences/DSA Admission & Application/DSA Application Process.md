@@ -10,11 +10,11 @@ variant: markdown
 
 All applicants must be eligible for Secondary One admission in 2025.
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024 (11am) to 3 Jun 2024. For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2024 (11 am) to 3 Jun 2024 (3 pm). For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 | Date | Process |
 |---|---|
-| 7 May to 3 Jun 2024 | Online application at DSA-Sec portal |
+| 7 May (11 am) to 3 Jun 2024 (3 pm)| Online application at DSA-Sec portal |
 | From 24 Jun 2024 onwards | Shortlisted candidates will be notified to attend interviews/ trials |
 | 24 Jun to 9 Sept 2024 | In-person* interviews and trials will be conducted in Jurong Secondary School for all talent areas:<br><br>• Badminton (Boys only)<br>• Basketball (Boys &amp; Girls)<br>• Cross Country (Boys &amp; Girls)<br>• Volleyball (Girls only)<br>• Science <br>•Service Leadership<br><br>Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer. |
 | By 9 Sept 2024 | Release of Selection Outcome |
@@ -51,4 +51,4 @@ For clarifications regarding our DSA programmes, please do not hesitate to conta
 | **Service Leadership** | HOD/CCE, Mr Stanley Tan<br>VIA Coordinator, Ms Clarice Teoh|  |
 | | |
 
-<center> Updated 3 May 2024 </center>
+<center> Updated 7 May 2024 </center>
