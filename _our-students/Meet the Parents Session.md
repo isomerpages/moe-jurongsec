@@ -21,7 +21,11 @@ Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener nor
 </p>
 <p><a href="/files/Overview_of_3NA___3NT_Subject_Combinations.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of 3NA and 3NT Subject Combinations</a>
 </p>
-<p><a href="/files/additional_mathematics_and_computing.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics and Computing</a>
+<p><a href="/files/ECG_Counsellor_Briefing_Slides___EXP.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Counsellor Briefing Slides Express</a>
+</p>
+<p><a href="/files/ECG_Counsellor_Briefing_Slides___NA_and_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Counsellor Briefing Slides NA and NT</a>
+</p>
+<p><a href="/files/Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics and Computing updated 7 May 2024</a>
 </p>
 <p><a href="/files/Express_Science___Pure_and_Combined_Biology_Chemistry_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Express Science - Pure and Combined Biology, Chemistry and Physics updated 30 Apr 2024</a>
 </p>
