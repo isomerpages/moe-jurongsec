@@ -17,13 +17,9 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 like to invite you to share your questions related to the Subject Option
 Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jsssec2mtp</a>
 </p>
-<p><a href="/files/Overview_of_3EXP_Subject_Combinations.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of 3EXP Subject Combinations</a>
+<p><a href="/files/EXP_Hall_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Express - MTP and SOE Briefing Slides in the Hall</a>
 </p>
-<p><a href="/files/Overview_of_3NA___3NT_Subject_Combinations.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of 3NA and 3NT Subject Combinations</a>
-</p>
-<p><a href="/files/ECG_Counsellor_Briefing_Slides___EXP.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Counsellor Briefing Slides Express</a>
-</p>
-<p><a href="/files/ECG_Counsellor_Briefing_Slides___NA_and_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">ECG Counsellor Briefing Slides NA and NT</a>
+<p><a href="/files/NA_NT_Pulse_Studio_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 NA and NT - MTP and SOE Briefing Slides at Pulse Studio</a>
 </p>
 <p><a href="/files/Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics and Computing updated 7 May 2024</a>
 </p>
