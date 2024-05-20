@@ -29,8 +29,8 @@ sections:
       title: JSS Direct School Admission Info Session
       subtitle: Info Session 2024
       id: infopic
-      description: Have you missed out the event on 18 May? Click on this link for
-        information shared!
+      description: Thank you for joining us! Click on this link to access information
+        shared!
       button: DSA Sharing Session Slides
       url: https://drive.google.com/drive/folders/1w5tY_Bf2ly5GaHXt6_u-7hWwxZgNl8ik?usp=sharing
       image: /images/DSA_Info_Session_Programme_2024_final.jpg
