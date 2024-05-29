@@ -6,6 +6,7 @@ third_nav_title: DSA Admission & Application
 variant: markdown
 ---
 <p>Under Construction</p>
+<div hidden="">
 <p><strong>General</strong>
 </p>
 <table style="minWidth: 50px">
@@ -773,4 +774,4 @@ trials.</p>
 </tr>
 </tbody>
 </table>
-<p>Updated 13 May 2022</p>
+<p>Updated 13 May 2022</p></div>
