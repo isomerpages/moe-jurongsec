@@ -5,7 +5,7 @@ description: ""
 third_nav_title: DSA Admission & Application
 variant: markdown
 ---
-<p>To be updated on 22 May 2024</p>
+<p>Under Constuction</p>
 <div hidden="">
 <p><strong>General</strong>
 </p>
