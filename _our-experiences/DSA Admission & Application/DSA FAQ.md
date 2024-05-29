@@ -5,8 +5,7 @@ description: ""
 third_nav_title: DSA Admission & Application
 variant: tiptap
 ---
-<p>Under Constuction</p>
-<div hidden="">
+<p>Under Construction</p>
 <p><strong>General</strong>
 </p>
 <table style="minWidth: 50px">
@@ -774,4 +773,4 @@ trials.</p>
 </tr>
 </tbody>
 </table>
-<p>Updated 13 May 2022</p></div>
+<p>Updated 13 May 2022</p>
