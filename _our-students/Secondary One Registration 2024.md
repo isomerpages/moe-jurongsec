@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <p>Under Construction</p>
-<p>&lt;div hidden=""&gt;</p>
+<div hidden="">
 <p><strong>A Warm Welcome to our 2024 Secondary 1 Students and Parents/Guardians!</strong>
 </p>
 <p>Congratulations on your successful posting to Jurong Secondary School
@@ -371,4 +371,4 @@ be submitted online via this link <a href="https://go.gov.sg/sec1-transfer-in-ap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p></p></div>
