@@ -6,7 +6,7 @@ third_nav_title: DSA Admission & Application
 variant: markdown
 ---
 <p>To be updated on 22 May 2024</p>
-<p>&lt;div hidden=""&gt;</p>
+<div hidden="">
 <p><strong>General</strong>
 </p>
 <table style="minWidth: 50px">
@@ -774,4 +774,4 @@ trials.</p>
 </tr>
 </tbody>
 </table>
-<p>Updated 13 May 2022</p>
+<p>Updated 13 May 2022</p></div>
