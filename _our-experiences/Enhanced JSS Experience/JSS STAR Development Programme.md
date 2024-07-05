@@ -87,6 +87,8 @@ Secondary One students with a keen interest in the Programme and who are assesse
 **Phase II** <br>
 Secondary Two students who are keen in the Programme and who are assessed to be able to adjust extremely well to the demands of secondary education (i.e. top students of the cohort in their performance at the school’s Secondary 2 End-of-Year examination) will be identified for the Selection Process, which will commence at the end of Secondary 2, the process as indicated above in Phase I.
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzImNDYqRjNTMThaOXesdjY72UKL0QbPK5XTWDXBNlanGUNyBKcEKNoIWXsrGAO-_ZwzejrQBEn8h5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 ![LJ to sea aquarium to learn about careers in marine biology sector](/images/LJ_to_sea_aquarium_to_learn_about_careers_in_marine_biology_sector.jpg)
 Learning Journey to SEA aquarium to learn about careers in marine biology sector
 
