@@ -33,7 +33,7 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| Level Team | Year Head (Upper Sec &amp; Sec 3) <br><br><br>Year Head (Lower Sec &amp; Sec 2) <br><br><br> Asst Year Head (Sec 1) <br><br><br> Asst Year Head (Sec 4&amp;5) | Mr Aaron Tang Wei Lun <br><br> Ms Hannah Wen Cuiyan <br><br> Ms Norliyana Bte Matin <br><br> Ms Chua Syin Thian|
+| Level Team | Year Head (Upper Sec &amp; Sec 3) <br><br>Year Head (Lower Sec &amp; Sec 2) <br><br> Asst Year Head (Sec 1) <br><br> Asst Year Head (Sec 4&amp;5) | Mr Aaron Tang Wei Lun <br><br> Ms Hannah Wen Cuiyan <br><br> Ms Norliyana Bte Matin <br><br> Ms Chua Syin Thian|
 | Character and Citizenship Education | HOD Character and Citizenship Education  | Mr Stanley Tan  |
 |  Physical Education | HOD Physical Education &amp; Co-Curricular Activities <br><br> SH Physical Education &amp; Co-Curricular Activities | Mr Nur Qarnain Bin Hussin <br><br>Ms Ong Wei Chen |
 | Student Management  | HOD Student Management  | Mr Phlip Wan Wei Meng   | 
