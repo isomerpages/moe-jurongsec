@@ -21,7 +21,7 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| Languages | HOD English Language | Ms Shynn Lim Shi Ying |
+| Languages | HOD English Language | Ms Lim Shi Ying Shynn|
 |  | HOD Mother Tongue Languages <br><br> SH Chinese Language | Ms Ng Ching Ing <br><br> Mdm Zoey Oh Sze Wee |
 | Mathematics &amp; Sciences | HOD Mathematics <br><br> SH Mathematics | Mr Ooi Wei Yong <br><br> Mdm Zheng Jieyun |
 |  | HOD Sciences <br><br> SH Sciences | Ms Lim Yan Mui <br><br> Mr Traven Loh Wei Chuen |
