@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### School Leaders
 
-![School Leaders](/images/school%20leaders.jpg)
+![](/images/SL_Group_Photo1.jpg)
 
 |  |  |
 |---|---|
