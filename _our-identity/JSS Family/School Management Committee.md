@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### School Leaders
 
-![School Leaders](/images/school%20leaders.jpg)
+![](/images/SL_Group_Photo1.jpg)
 
 |  |  |
 |---|---|
@@ -21,7 +21,7 @@ variant: markdown
 
 |  |  |  |
 |---|---|---|
-| Languages | HOD English Language | Ms Shynn Lim Shi Ying |
+| Languages | HOD English Language | Ms Lim Shi Ying Shynn|
 |  | HOD Mother Tongue Languages <br><br> SH Chinese Language | Ms Ng Ching Ing <br><br> Mdm Zoey Oh Sze Wee |
 | Mathematics &amp; Sciences | HOD Mathematics <br><br> SH Mathematics | Mr Ooi Wei Yong <br><br> Mdm Zheng Jieyun |
 |  | HOD Sciences <br><br> SH Sciences | Ms Lim Yan Mui <br><br> Mr Traven Loh Wei Chuen |
@@ -45,7 +45,6 @@ variant: markdown
 |  |  |
 |---|---|
 | School Staff Developer | Mr Eric Tan Ching Kuan |
-| HOD ICT  | Mr Lok Jian Ming Chris |
 |  SH ICT | Mr Lam Chee Leong  |
 |  Admin Manager | Mdm Teena Chua Lay Tin |
 | Admin Manager | Mdm Koh Kiat Peng |
