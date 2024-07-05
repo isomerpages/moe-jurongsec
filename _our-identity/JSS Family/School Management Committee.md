@@ -45,7 +45,6 @@ variant: markdown
 |  |  |
 |---|---|
 | School Staff Developer | Mr Eric Tan Ching Kuan |
-| HOD ICT  | Mr Lok Jian Ming Chris |
 |  SH ICT | Mr Lam Chee Leong  |
 |  Admin Manager | Mdm Teena Chua Lay Tin |
 | Admin Manager | Mdm Koh Kiat Peng |
