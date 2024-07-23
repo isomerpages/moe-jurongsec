@@ -39,7 +39,7 @@ You can download the schedules from the links below:
 You can download the Sec 4 &amp; 5 Mother Tongue Graduation Examination timetable from the link below:<br>
 [Sec 4 &amp; 5 MTL GE](/files/To_students___Sec_4_5MTL_GENFS.pdf)
 
-You can download the Sec 4 &amp; 5 Graduation Examination timetable from the link below:
+You can download the Sec 4 &amp; 5 Graduation Examination timetable from the link below:<br>
 [Sec 4 &amp; 5 Graduation Examination 2024 Updated 21 Jul 2024](/files/GE_2024_21_July.pdf)
 
 ### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
