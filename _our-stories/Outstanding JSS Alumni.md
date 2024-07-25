@@ -2,6 +2,7 @@
 title: Outstanding JSS Alumni
 permalink: /our-stories/outstanding-jss-alumni/
 description: ""
+variant: markdown
 ---
 **Amirthaa** <br>
 **Class of 2019**
@@ -10,9 +11,9 @@ Our recently graduated alumna Amirthaa from the class of 2019, recently told us 
 
 ![](/images/alumni.jpg)
 
-</insert video> 
+ ![](/images/0k4t87jo.png)
 
-![](/images/Outstanding%20Alumni.png)
+![](/images/h14ovlae.png)
 
 ### Deborah Lee Shi Min (Graduated from JSS in 2014)
 
