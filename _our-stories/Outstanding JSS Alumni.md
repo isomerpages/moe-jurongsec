@@ -11,9 +11,11 @@ Our recently graduated alumna Amirthaa from the class of 2019, recently told us 
 
 ![](/images/alumni.jpg)
 
+![](/images/h14ovlae.png)
+
  ![](/images/0k4t87jo.png)
 
-![](/images/h14ovlae.png)
+
 
 ### Deborah Lee Shi Min (Graduated from JSS in 2014)
 
