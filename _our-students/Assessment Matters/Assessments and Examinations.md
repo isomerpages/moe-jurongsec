@@ -42,16 +42,16 @@ You can download the Sec 4 &amp; 5 Graduation Examination timetable from the lin
 
 ### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
 
-You can download the timetable from the links below:<br>To be updated
+You can download the timetable from the links below:<br>[EOY Timetable and Assessment Details (Sec 1)](/files/EOY_S1_23082024.pdf)
 
   
 ### Sec 2 Exam Timetable and Topics for End-of-Year Examinations
-You can download the exam timetable from the links below:<br>To be updated
+You can download the exam timetable from the links below:<br>[EOY Timetable and Assessment Details (Sec 2)](/files/EOY_S2_23082024.pdf)
 
 
 ### Sec 3 Exam Timetable and Topics for End-of-Year Examinations
 
-You can download the exam timetable from the links below:<br>To be updated
+You can download the exam timetable from the links below:<br>[EOY Timetable and Assessment Details (Sec 3)](/files/EOY_S3_23082024.pdf)
 
 
 
