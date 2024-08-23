@@ -58,4 +58,4 @@ You can download the exam timetable from the links below:<br>[EOY Timetable and 
 
 
 
-<center> Updated 23 Jul 2024 </center>
+<center> Updated 23 Aug 2024 </center>
