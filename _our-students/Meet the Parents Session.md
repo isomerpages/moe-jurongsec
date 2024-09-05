@@ -23,7 +23,7 @@ Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener nor
 </p>
 <p><a href="/files/Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics and Computing updated 7 May 2024</a>
 </p>
-<p><a href="/files/Express_Science___Pure_and_Combined_Biology_Chemistry_Physics.pdf" rel="noopener noreferrer nofollow" target="_blank">Express Science - Pure and Combined Biology, Chemistry and Physics updated 30 Apr 2024</a>
+<p><a href="/files/S2_MTP_2024___EX_Science_FINAL.pdf" rel="noopener nofollow" target="_blank">Express Science - Pure and Combined Biology Chemistry and Physics</a>
 </p>
 <p><a href="/files/S2_MTP_2024___NA_NT_Science___Biology_Chemistry_Physics.pdf" rel="noopener nofollow" target="_blank">NA and NT Science - Biology_ Chemistry_ Physics</a>
 </p>
