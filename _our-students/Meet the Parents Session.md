@@ -29,7 +29,7 @@ Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener nor
 </p>
 <p><a href="/files/History_and_Geography_and_Principles_of_Accounts.pdf" rel="noopener noreferrer nofollow" target="_blank">Humanities - History, Geography, Social Studies and Principles of Accounts updated 30 Apr 2024</a>
 </p>
-<p><a href="/files/Mobile_Robotics__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Robotics updated 30 Apr 2024</a>
+<p><a href="/files/S2_MTP_2024___Mobile_Robotics_FINAL__1_.pdf" rel="noopener nofollow" target="_blank">Mobile Robotics Final</a>
 </p>
 <p><a href="/files/D_T_and_NFS_and_EBS__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">D&amp;T, NFS and EBS updated 30 Apr 2024</a>
 </p>
