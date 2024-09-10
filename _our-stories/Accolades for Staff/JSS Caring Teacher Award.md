@@ -11,22 +11,21 @@ Caring Teachers lead, care for, and inspire the students. There are three tiers 
 
 Congratulations to the recipients of this award!
 
-#### 2023
+### 2023
 
-![](/images/Staff_2023_1.png)
+
 
 ### 2022
 
-![](/images/2%20caring.png)
 
-![](/images/1%20caring.png)
+
 
 ### 2021
 
-![](/images/Caring%20Teacher%20Award%202021.jpg)
+
 
 ### 2020
 
-![](/images/Caring%20Teacher%202020.jpg)
 
-<center> Updated 19 Sep 2022 </center>
+
+<center> Updated 10 Sep 2024 </center>
