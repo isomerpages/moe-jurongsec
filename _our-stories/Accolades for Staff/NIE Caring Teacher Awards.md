@@ -11,3 +11,4 @@ The Caring Teacher Awards (CTA) are aimed at acknowledging teachers in our schoo
 
 ![](/images/Caring%20Teacher%20NIE%202022.png)
 
+<center> Updated 10 Sep 2024 </center>
