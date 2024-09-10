@@ -13,22 +13,5 @@ The Long Service Medal is awarded to any person who is of irreproachable charact
 
 ![](/images/WhatsApp_Image_2024_04_11_at_12_16_37_PM.jpg)
 
-### 2022
 
-![](/images/national%20day%20award%202022%201.jpg)
-
-![](/images/national%20day%20award%202022%202.jpg)
-
-### 2021
-
-![](/images/CM%202021-2.jpg)
-
-![](/images/LSM%202021.jpg)
-
-### 2020
-
-![](/images/CM%202020.jpg)
-
-![](/images/LSM%202020.jpg)
-
-<center> Updated 24 Mar 2023 </center>
+<center> Updated 10 Sep 2024 </center>
