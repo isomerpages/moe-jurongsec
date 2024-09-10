@@ -11,19 +11,12 @@ Teaching Excellence Awardees have exemplary teaching practices and use a variety
 
 ### 2023
 
-![](/images/Staff_2023.png)
+
 
 ### 2022
 
-![](/images/3%20teaching%20excellence.png)
-
-### 2021
-
-![](/images/Excellence%20Teaching%20Award%202021.jpg)
-
-### 2020
-
-![](/images/TEA%202020.jpg)
 
 
-<center> Updated 19 Sep 2022 </center>
+
+
+<center> Updated 10 Sep 2024 </center>
