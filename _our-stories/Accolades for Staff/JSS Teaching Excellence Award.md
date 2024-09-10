@@ -17,13 +17,6 @@ Teaching Excellence Awardees have exemplary teaching practices and use a variety
 
 
 
-### 2021
-
-
-
-### 2020
-
-
 
 
 <center> Updated 10 Sep 2024 </center>
