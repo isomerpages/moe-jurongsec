@@ -50,7 +50,7 @@ You can download the exam timetable from the links below:<br>[EOY Timetable and 
 
 ### Sec 3 Exam Timetable and Topics for End-of-Year Examinations
 
-You can download the exam timetable from the links below:<br>[Sec 3 EOY Exam Schedule](/files/EOY_S3_06092024.pdf)
+You can download the exam timetable from the links below:<br>[Sec 3 EOY Exam Schedule](/files/EOY_S3_10092024.pdf)
 
 
 
