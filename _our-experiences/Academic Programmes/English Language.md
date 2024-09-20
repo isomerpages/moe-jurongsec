@@ -91,6 +91,6 @@ Our English Language Department uses the communicative approach to language lear
 *   EL Week
 *   JSS R.E.A.D.S
 
-<center> Updated 4 Jan 2024 </center>
+<center> Updated 20 Sep 2024 </center>
 
 <iframe allowfullscreen="true" height="839" width="1440" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRhmoECGVeoi_5kDpbCsCPwyy8ttHCoy0tzbjLSFWXQbqOEVhoAdGHONk17krevrNASBTS_mEDl_6_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
