@@ -5,11 +5,9 @@ description: ""
 third_nav_title: Academic Programmes
 variant: markdown
 ---
-# Mathematics 
-<br>
+## Mathematics 
 
-![Mathematics Department 2023](/images/staff7.jpg)
-
+![MA 2024](/images/mathematics_department_2.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -80,4 +78,4 @@ As part of our quest to link mathematics to real world problems, we have integra
 
 An example of past problems includes students’ exploring the relationship between the diameter of parachutes and its landing time.
 
-<center> Updated 4 Jan 2024 </center>
+<center> Updated 20 Sep 2024 </center>
