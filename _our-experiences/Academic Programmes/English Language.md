@@ -6,7 +6,7 @@ third_nav_title: Academic Programmes
 variant: markdown
 ---
 # English Language
-![English Language Department 2023](/images/staff5.jpg)
+![EL 2024](/images/english_language_department_2.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
