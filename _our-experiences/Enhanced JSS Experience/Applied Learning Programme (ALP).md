@@ -124,9 +124,4 @@ themes such as food insecurity, heat stress, or biodiversity loss.</p>
 <p><strong>NUS National Geo Challenge</strong>: Focusing on sustainability
 and climate change.</p>
 <p></p>
-</li>
-<li>
-<p>Updated 5 Jul 2024</p>
-</li>
-</ul>
-<center> Updated 20 Sep 2024 </center>
+<center> Updated 20 Sep 2024 </center></li></ul>
