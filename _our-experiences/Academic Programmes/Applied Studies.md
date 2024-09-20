@@ -8,7 +8,7 @@ variant: markdown
 ## Applied Studies
 <br>
 
-![Applied Studies Department 2023](/images/staff4.jpg)
+![AS 2024](/images/applied_studies_2.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -16,7 +16,7 @@ variant: markdown
 | HOD ICT   | Mr Chris Lok  | [lok_jian_ming@moe.edu.sg](lok_jian_ming@moe.edu.sg)    |
 | SH ICT  | Mr Lam Chee Leong  | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)  
 |  (Asst Year Head Sec 2) | Ms Norliyana Bte Matin     | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
-| Computer Application Teachers   | Mr Chris Lok  | [lok_jian_ming@moe.edu.sg](lok_jian_ming@moe.edu.sg)    |
+| Computer Application Teachers   | Mr Philip Wan |[wan_wei_meng@moe.edu.sg](Wan_wei_meng@moe.edu.sg)  |
 |   | Mr Lam Chee Leong  | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)   |
 | Design &amp; Technology Teachers    | Mr Sim Chow Meng     |sim_chow_meng@moe.edu.sg    |
 |   | Mr Ng Choon Hui Vincent     | [ng_choon_hui@moe.edu.sg](ng_choon_hui@moe.edu.sg)    |
@@ -68,4 +68,4 @@ Upper Secondary
 
 School-wide STEAM week programme
 
-<center> Updated 4 Jan 2024 </center>
+<center> Updated 20 Sep 2024 </center>
