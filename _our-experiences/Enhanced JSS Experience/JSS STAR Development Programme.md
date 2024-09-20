@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Enhanced JSS Experience
 variant: markdown
 ---
-![STAR Committee 2023](/images/staff24.jpg)
+![Talent Development 2024](/images/talent_development_2.jpg)
 
 <img src="/images/STAR%20programme.png" style="width:30%">
 		 
@@ -109,4 +109,4 @@ Vietnamese cooking class during overseas trip
 ![Visit to ArtScience musuem to learn about mental health](/images/visit_to_ArtScience_musuem_to_learn_about_mental_health_2.jpg)
 Visit to ArtScience musuem to learn about mental health
 
-<center> Updated 17 Apr 2024 </center>
+<center> Updated 20 Sep 2024 </center>
