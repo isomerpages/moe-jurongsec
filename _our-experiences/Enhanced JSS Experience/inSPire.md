@@ -3,9 +3,10 @@ title: inSPire
 permalink: /jss-experience/enhanced-jss-experience/inspire/
 description: ""
 third_nav_title: Enhanced JSS Experience
+variant: markdown
 ---
-![inSPire Committee](/images/staff16.jpg)
 
+![Talent Development 2024](/images/talent_development_2.jpg)
 ### Inspiring Student Passion in Recreational Endeavours
 
 inSPire, introduced in January 2015, seeks to cater to the diversified needs of the JSS student in areas beyond the traditional school curriculum.&nbsp; With ECG components, it offers all JSS students an opportunity to explore and discover their areas of interest while continuing to provide support for students interested or passionate in their interests/ talents. It also offers all JSS students a glimpse of what they can achieve with passion, which might also have possible bearings on their post-secondary and career options in future.&nbsp;
@@ -29,4 +30,4 @@ The JSS Learning Fest, which was first held in 2021, aims to provide a learner-c
 
 <img src="/images/table.jpg" style="width:90%">
 		 
-<center> Updated 25 Oct 2023 </center>
+<center> Updated 20 Sep 2024 </center>
