@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Enhanced JSS Experience
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Applied Learning Programme Committee 2023" src="/images/staff15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ALP 2024" src="/images/applied_learning_programme_2.jpg">
 </div>
 <h3>Design for Smart and Sustainable Urban Living</h3>
 <p>Through our ALP (Applied Learning Programme) titled <em>Design for Smart and Sustainable Urban Living</em>,
