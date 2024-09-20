@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Programmes
 variant: markdown
 ---
-# English Language
+## English Language
 ![EL 2024](/images/english_language_department_2.jpg)
 
 |  |  |  |
