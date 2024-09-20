@@ -6,9 +6,9 @@ third_nav_title: Academic Programmes
 variant: markdown
 ---
 ## Information Communication Technology
-<br>
 
-![](/images/JS_Info-Comm%20and%20Technology%20Department.jpg)
+![ICT 2024](/images/information_and_communication_technology_department_2.jpg)
+
 
 |  |  |  |
 | -------- | -------- | -------- |
