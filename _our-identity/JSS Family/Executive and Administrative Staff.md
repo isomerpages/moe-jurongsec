@@ -6,8 +6,8 @@ third_nav_title: JSS Family
 variant: markdown
 ---
 ### General Office
+![EAS 2024](/images/executive_and_administrative_staff_2.jpg)
 
-![Executive and Administrative Staff 2023](/images/staff3.jpg)
 
 |  |  |
 |---|---|
@@ -30,6 +30,7 @@ variant: markdown
 |  |  |
 |---|---|
 | ICT Manager | Mr Hatta Bin Moktar |
+|ICT Associate|Mr Muhammad Faris Sulaiman|
 | Desktop Engineer | Mr Young Lee Yang Yik <br> Mr Goh Kwan Wen |
 | | | 
 
@@ -52,4 +53,4 @@ variant: markdown
 
 
 
-<center> Updated 3 Jan 2024 </center>
+<center> Updated 20 Sep 2024 </center>
