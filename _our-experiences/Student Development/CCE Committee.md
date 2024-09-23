@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-![Character and Citizenship Education Committee 2023](/images/staff11.jpg)
+## CCE Committee
+![CCE 2024](/images/character_and_citizenship_education_department_2.jpg)
+
 
 |  |  |  |
 | -------- | -------- | -------- |
