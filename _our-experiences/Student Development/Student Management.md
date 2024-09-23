@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Student Development
 variant: markdown
 ---
-![Student Management Committee 2023](/images/staff19.jpg)
-
-
+## Student Management
+![SM 2024](/images/student_management_committee_2.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
