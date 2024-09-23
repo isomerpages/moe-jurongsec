@@ -6,9 +6,9 @@ third_nav_title: Academic Programmes
 variant: markdown
 ---
 # Science
-<br>
 
-![Science Department 2023](/images/staff10.jpg)
+![Science 2024](/images/science_department_2.jpg)
+
 
 |  |  |  |
 | -------- | -------- | -------- |
