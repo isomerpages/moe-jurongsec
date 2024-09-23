@@ -7,15 +7,15 @@ variant: markdown
 ---
 ### School Leaders
 
-![](/images/SL_Group_Photo1__Cropped_.jpg)
-
+![School Leaders 2024](/images/school_leaders_2.jpg)
 |  |  |
 |---|---|
 | Principal | Ms Yeo Siok Ee |
 | Vice-Principals | Mdm Julia Ler<br>Mr Lu Yeow Chor |
 | | | 
 
-![School Management Committee 2023](/images/school%20management%20committee%202023.jpg)
+
+![SPMC 2024](/images/school_planning_and_management_committee_2.jpg)
 
 ### Academic Learning Team
 
@@ -50,4 +50,4 @@ variant: markdown
 | Admin Manager | Mdm Koh Kiat Peng |
 | | |
 
-<center> Updated 3 Jan 2024 </center>
+<center> Updated 20 Sep 2024 </center>

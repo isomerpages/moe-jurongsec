@@ -3,10 +3,11 @@ title: Applied Learning Programme (ALP)
 permalink: /jss-experience/enhanced-jss-experience/applied-learning-programme-alp/
 description: ""
 third_nav_title: Enhanced JSS Experience
-variant: tiptap
+variant: markdown
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Applied Learning Programme Committee 2023" src="/images/staff15.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ALP 2024" src="/images/applied_learning_programme_2.jpg">
 </div>
 <h3>Design for Smart and Sustainable Urban Living</h3>
 <p>Through our ALP (Applied Learning Programme) titled <em>Design for Smart and Sustainable Urban Living</em>,
@@ -122,6 +123,5 @@ themes such as food insecurity, heat stress, or biodiversity loss.</p>
 <li>
 <p><strong>NUS National Geo Challenge</strong>: Focusing on sustainability
 and climate change.</p>
-</li>
-</ul>
-<p>Updated 5 Jul 2024</p>
+<p></p>
+<center> Updated 20 Sep 2024 </center></li></ul>

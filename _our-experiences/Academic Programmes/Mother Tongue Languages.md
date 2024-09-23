@@ -7,9 +7,7 @@ variant: markdown
 ---
 ## Mother Tongue Languages 
 
-<br>
-
-![Mother Tongue Languages Department 2023](/images/staff8.jpg)
+![MT 2024](/images/mother_tongue_language_department_2.jpg)
 
 | |  |  |
 | -------- | -------- | -------- |

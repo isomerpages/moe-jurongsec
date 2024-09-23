@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Academic Programmes
 variant: markdown
 ---
-# Humanities
-
- 
-![Humanities Department 2023](/images/staff6.jpg)
- 
+## Humanities
+![HUM 2024](/images/humanities_department_2.jpg)
  
 |  |  |  |
 | -------- | -------- | -------- |
@@ -51,4 +48,4 @@ Students undergoing the JSS Humanities learning experience will:
 | -------- | -------- | -------- |
 | Humanities/ Star Overseas Immersion    | Humanities   | S3     |
 
-<center> Updated 4 Jan 2024 </center>
+<center> Updated 20 Sep 2024 </center>
