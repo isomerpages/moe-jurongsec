@@ -6,8 +6,7 @@ third_nav_title: CCA Uniformed Groups
 variant: markdown
 ---
 ## Scouts 
-
-![](/images/SCOUTS_FORMAL.jpg)
+![Scouts 2024](/images/scouts_2.jpg)
 
 The Jurong Screaming Eagle Scout Group strives to develop our Scouts into responsible and community-oriented individuals through experiential learning activities in line with the Scout Method. Our Scouts participate in fundamental scouting skills such as pioneering, campcraft, outdoor cooking, and orienteering. In line with the Singapore Scout Association's four-year Diamond Jubilee Challenge, our Scouts have the chance to take part in educational journeys and community involvement initiatives. In 2022, four of our Scouts achieved the Chief Commissioner’s Award, which is the highest honor for the Scout section, demonstrating their exceptional dedication and commitment.
 
@@ -40,4 +39,3 @@ The Jurong Screaming Eagle Scout Group strives to develop our Scouts into respon
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AnrSzI3gxaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
