@@ -6,8 +6,7 @@ third_nav_title: CCA Performing Arts
 variant: markdown
 ---
 ## Contemporary Dance
-
-![](/images/CONTEMPORARY_DANCE_FORMAL2023.jpg)
+![Dance 2024](/images/contemporary_dance_2.jpg)
 
 i-DANCE.ity is a dance CCA that aims to cultivate the artistic talents of its participants through various dance styles. Our four-year program not only focuses on developing their dance skills but also on nurturing well-rounded individuals who are active members of their communities. Despite the challenges posed by Covid-19, our dancers were able to participate in SYF 2021 and attend training sessions with proper safety measures in place. The event served as a unifying experience for the dance crew and further strengthened their bond.
 
