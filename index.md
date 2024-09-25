@@ -58,4 +58,10 @@ sections:
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
         web-share"></iframe>
+  - infopic:
+      title: Join Us!
+      subtitle: JSS Open House 2024
+      id: infopic
+      image: /images/webbanner.jpg
+      alt: Image alt text
 ---
