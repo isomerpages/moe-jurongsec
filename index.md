@@ -26,6 +26,12 @@ sections:
       title: Announcements
       button: View More
   - infopic:
+      title: Join Us!
+      subtitle: JSS Open House 2024
+      id: infopic
+      image: /images/webbanner.jpg
+      alt: Image alt text
+  - infopic:
       title: JSS Direct School Admission Info Session
       subtitle: Info Session 2024
       id: infopic
@@ -58,10 +64,4 @@ sections:
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
         web-share"></iframe>
-  - infopic:
-      title: Join Us!
-      subtitle: JSS Open House 2024
-      id: infopic
-      image: /images/webbanner.jpg
-      alt: Image alt text
 ---
