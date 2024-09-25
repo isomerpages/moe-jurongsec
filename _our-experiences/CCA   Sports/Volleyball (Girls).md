@@ -6,8 +6,8 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Volleyball 
+![VB 2024](/images/volleyball_2.jpg)
 
-![](/images/volleyballclub_formal.jpg)
 <br>
 
 The Volleyball team demonstrates unwavering determination to maintain their excellence through rigorous year-round training. In addition to their regular training, the team participates in a volleyball camp during the March break to foster stronger bonds among the players.
@@ -33,4 +33,3 @@ Furthermore, extensive training sessions at the end of the year, as well as inte
 |&nbsp;&nbsp; |&nbsp;&nbsp; |  
 |---|---|  
 |&nbsp; ![](/images/JSV-Photo%208.jpg)  <center>B girls at Training on a Saturday!</center> | ![](/images/JSV-Photo%209.jpg) <center>Focused on how to make the big break</center> |
-

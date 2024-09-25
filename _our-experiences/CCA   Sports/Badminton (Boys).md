@@ -6,8 +6,7 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Badminton (Boys)
-
-![](/images/Badminton__Boys__FORMAL.jpg)
+![Bad 2024](/images/badminton_2.jpg)
 
 <br>
 
@@ -53,4 +52,3 @@ Our team in the "B" division exhibited exceptional courage, resilience, and prof
 
 
 ![](/images/JS12_Training%20hard.jpeg)
-

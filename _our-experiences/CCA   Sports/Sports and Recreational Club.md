@@ -8,7 +8,7 @@ variant: markdown
 ## Sports and Recreational Club
 <br>
 
-![](/images/SRC_formal.jpg)
+![SRC 2024](/images/sports_and_recreational_club_2.jpg)
 
 The Sports and Recreational Club provides JSS students with opportunities to engage in a diverse range of sports and leisure activities. In the past, our activities have included cycling, kayaking, and rock climbing, among others.
 
@@ -44,4 +44,3 @@ One of SRC’s activities is to explore photography using the beautiful scenery 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpTkNGBxGMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IcNuZ_pB-QA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-

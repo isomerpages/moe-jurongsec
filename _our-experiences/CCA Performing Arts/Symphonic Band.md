@@ -6,8 +6,7 @@ third_nav_title: CCA Performing Arts
 variant: markdown
 ---
 ## Symphonic Band
-
-![](/images/Jurong_Symphonic_Band_Formal.jpg)
+![Band 2024](/images/symphonic_band_2.jpg)
 
 Jurong Symphonic Band (JSB) has persistently produced beautiful music, even amidst the Covid-19 pandemic. In preparation for the annual SYF, the band meticulously adhered to strict safety protocols. The event also marked the debut performance of the Secondary Two pupils, who demonstrated exceptional musical proficiency. Despite facing numerous obstacles, JSB members remained unified, and their solidarity and mutual support have fostered strong bonds of loyalty and camaraderie within the band.
 
@@ -41,4 +40,3 @@ Jurong Symphonic Band (JSB) has persistently produced beautiful music, even amid
 |&nbsp;&nbsp; |&nbsp; 
 |---|
 |&nbsp;![](/images/JSJ11.jpg)<center>Singapore International Band Festival \- International School Exchange</center> |
-
