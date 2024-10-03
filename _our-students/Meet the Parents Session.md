@@ -23,20 +23,50 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 <p>Main Slides</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/S3_MTP_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 3 Meet the Parents Slides</a>
+</p>
 </li>
 </ul>
 <p>Sharing on Progression Pathway</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/S3_MTP_ECG__3E_.pdf" rel="noopener nofollow" target="_blank">Sec 3 Meet the Parents ECG (Express)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S3_MTP_ECG__3NA_.pdf" rel="noopener nofollow" target="_blank">Sec 3 Meet the Parents ECG (NA)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S3_MTP_ECG__3NT_.pdf" rel="noopener nofollow" target="_blank">Sec 3 meet the Parents ECG (NT)</a>
+</p>
+</li>
+</ul>
 <p><strong>Secondary 4 and 5</strong> 
 <br>The Secondary 4 and 5 Meet-the-Parents session was held on the 16th February
 2024. Below are the slides used during the session.</p>
 <p>Main Slides</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/S45_MTP_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Meet the Parents Slides</a>
+</p>
 </li>
 </ul>
 <p>Sharing on Progression Pathway</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/S45_MTP_ECG__4E5N_.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Meet the Parents Slides (4E5N)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S45_MTP_ECG__4NA_.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Meet the Parents Slides (4NA)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S45_MTP_ECG__4NT_.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Meet the Parents Slides (4NT)</a>
+</p>
+</li>
+</ul>
 <hr>
 <p><strong>Secondary 1</strong> 
 <br>The Secondary 1 Meet-the-Parents session was held on the 6th January 2024.
