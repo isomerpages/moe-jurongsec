@@ -17,6 +17,18 @@ Subject Options Exercise.</p>
 sent on 9 October. We invite you to pre-read the following briefing material
 on Nutrition and Food Science and we will be happy to answer your questions
 and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
+<p><u>Secondary 2 MTP and Subject Option Panel Discussion Slides</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/S2_MTP___SOE_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 2 Express - MTP and SOE Briefing Slides in the Hall</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S2_MTP___SOE_Pulse_Studio_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 2 NA and NT - MTP and SOE Briefing Slides at Pulse Studio</a>
+</p>
+</li>
+</ul>
 <p><strong>Secondary 3</strong> 
 <br>The Secondary 3 Meet-the-Parents session was held on the 23th February
 2024. Below are the slides used during the session.</p>
