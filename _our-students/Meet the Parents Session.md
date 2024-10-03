@@ -8,16 +8,15 @@ variant: tiptap
 <hr>
 <p><strong>Secondary 2</strong>
 </p>
-<p>Dear parents, here are the subject briefing slides for your pre-reading.
-During Secondary 2 MTP and Subject Option Panel Discussion this year, there
-will not be any Subject Talks or Briefings. Instead, we invite you to pre-read
-the following briefing material and we will be happy to answer your questions
+<p>Dear parents, there will be a Zoom session on 18 October 2024 to update
+parents on changes to the subjects and subject options for Secondary 3
+Subject Options Exercise.</p>
+<p>Timing for NA/NT: 5.00pm</p>
+<p>Timing for EXP: 5.30pm</p>
+<p>The Zoom details are in the Parents Gateway notification that will be
+sent on 9 October. We invite you to pre-read the following briefing material
+on Nutrition and Food Science and we will be happy to answer your questions
 and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
-<p>Also, to facilitate the Subject Option Panel Discussion segment, we would
-like to invite you to share your questions related to the Subject Option
-Exercise via this link: <a href="https://go.gov.sg/jsssec2mtp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jsssec2mtp</a>
-</p>
-<p></p>
 <p><strong>Secondary 3</strong> 
 <br>The Secondary 3 Meet-the-Parents session was held on the 23th February
 2024. Below are the slides used during the session.</p>
