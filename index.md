@@ -26,11 +26,13 @@ sections:
       title: Announcements
       button: View More
   - infopic:
-      title: Join Us!
       subtitle: JSS Open House 2024
       id: infopic
       image: /images/webbanner.jpg
       alt: Image alt text
+      description: Would you like to hear Our JSS Stories In Person?
+      url: https://forms.moe.edu.sg/forms/o1WDPg
+      button: Register here
   - infopic:
       title: JSS Direct School Admission Info Session
       subtitle: Info Session 2024
