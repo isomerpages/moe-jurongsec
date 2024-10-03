@@ -90,7 +90,7 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 <p><a href="/files/S1_MTP___CCA_Display_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 1 Meet the Parents CCA Display Slides</a>
 <br>
 </p>
-<p>Updated 3 Oct 2024</p>
+Updated 3 Oct 2024
 </li>
 </ul>
 <p></p>
