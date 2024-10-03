@@ -12,7 +12,7 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-| HOD ICT   | Mr Chris Lok   | [lok\_jian\_ming@moe.edu.sg](mailto:lok_jian_ming@moe.edu.sg)    |
+| HOD ICT   | Mr Lu Yeow Chor  |   |
 | SH ICT    | Mr Lam Chee Leong     | [lam\_chee\_leong@moe.edu.sg](mailto:lam_chee_leong@moe.edu.sg)     |
 | ICT Manager   | Mr Hatta Bin Moktar     | [hatta\_moktar@moe.edu.sg](mailto:hatta_moktar@moe.edu.sg)    |
 |ICT Associate|Mr Muhammad Faris Sulaiman|muhammad_faris_sulaiman_a@moe.edu.sg|
@@ -24,4 +24,4 @@ variant: markdown
 
 <br>
 
-<center> Updated 20 Sep 2024 </center>
+<center> Updated 3 Oct 2024 </center>
