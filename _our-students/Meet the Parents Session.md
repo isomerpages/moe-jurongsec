@@ -75,9 +75,10 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>
+<p><a href="/files/S1_MTP___CCA_Display_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 1 Meet the Parents CCA Display Slides</a>
 <br>
 </p>
+<p>Updated 3 Oct 2024</p>
 </li>
 </ul>
-<p>Updated 10 Sep 2024</p>
+<p></p>
