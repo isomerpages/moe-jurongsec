@@ -25,7 +25,15 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 </p>
 </li>
 <li>
+<p><a href="/files/S2_MTP___2025_3E_Subject_Combinations__FINAL__9_Oct.pdf" rel="noopener nofollow" target="_blank">Updates to 3E SOE (9th Oct 2024)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/S2_MTP___SOE_Pulse_Studio_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 2 NA and NT - MTP and SOE Briefing Slides at Pulse Studio</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S2_MTP___2025_3N_Subject_Combinations__FINAL__9_Oct.pdf" rel="noopener nofollow" target="_blank">Updates to 3N SOE (9th Oct 2024)</a>
 </p>
 </li>
 <li>
@@ -50,10 +58,6 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 </li>
 <li>
 <p><a href="/files/Applied_Studies___Updated.pdf" rel="noopener nofollow" target="_blank">Applied Studies</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Nutrition_and_Food_Science__EX_and_NT___1_.pdf" rel="noopener nofollow" target="_blank">Nutrition and Food Science Express and NT</a>
 </p>
 </li>
 <li>
