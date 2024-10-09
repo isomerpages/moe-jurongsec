@@ -49,7 +49,11 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Applied_Studies___Updated.pdf" rel="noopener nofollow" target="_blank">Applied Studies - D&amp;T, NFS and EBS</a>
+<p><a href="/files/Applied_Studies___Updated.pdf" rel="noopener nofollow" target="_blank">Applied Studies</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Nutrition_and_Food_Science__EX_and_NT___1_.pdf" rel="noopener nofollow" target="_blank">Nutrition and Food Science Express and NT</a>
 </p>
 </li>
 <li>
