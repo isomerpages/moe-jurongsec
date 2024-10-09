@@ -2,7 +2,7 @@
 title: Meet the Parents Session
 permalink: /our-students/meet-the-parents-session/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Meet-the-Parents Session</h4>
 <hr>
@@ -25,7 +25,47 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 </p>
 </li>
 <li>
+<p><a href="/files/S2_MTP___2025_3E_Subject_Combinations__FINAL__9_Oct.pdf" rel="noopener nofollow" target="_blank">Updates to 3E SOE (9th Oct 2024)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/S2_MTP___SOE_Pulse_Studio_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 2 NA and NT - MTP and SOE Briefing Slides at Pulse Studio</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S2_MTP___2025_3N_Subject_Combinations__FINAL__9_Oct.pdf" rel="noopener nofollow" target="_blank">Updates to 3N SOE (9th Oct 2024)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/1__Math.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/IP___Computing_EXP__Slides_No_images.pdf" rel="noopener nofollow" target="_blank">Express_Computing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S2_MTP_2024___EX_Science_FINAL_REvised.pdf" rel="noopener nofollow" target="_blank">Express Science</a>
+</p>
+</li>
+<li>
+<p><a href="/files/S2_MTP_2024___NA_NT_Science___Biology_Chemistry_Physics_REvised.pdf" rel="noopener nofollow" target="_blank">NA and NT Science - Biology_Chemistry_Physics</a>
+</p>
+</li>
+<li>
+<p><a href="/files/4__Humanities__image_removed_.pdf" rel="noopener nofollow" target="_blank">Humanities</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Applied_Studies___Updated.pdf" rel="noopener nofollow" target="_blank">Applied Studies</a>
+</p>
+</li>
+<li>
+<p><a href="/files/7__Literature_in_English.pdf" rel="noopener nofollow" target="_blank">Literature in English</a>
+</p>
+</li>
+<li>
+<p><a href="/files/8__Literature_in_Chinese.pdf" rel="noopener nofollow" target="_blank">Literature in Chinese</a>
 </p>
 </li>
 </ul>
@@ -90,7 +130,7 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 <p><a href="/files/S1_MTP___CCA_Display_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 1 Meet the Parents CCA Display Slides</a>
 <br>
 </p>
-<center> Updated 3 Oct 2024 </center>
+<p>Updated 3 Oct 2024</p>
 </li>
 </ul>
 <p></p>
