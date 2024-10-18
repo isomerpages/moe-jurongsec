@@ -5,10 +5,10 @@ description: ""
 third_nav_title: CCA Performing Arts
 variant: markdown
 ---
-## Chinese Orchestra and Guzheng Ensemble
+##  Guzheng Ensemble
 ![CO Gu Zheng 2024](/images/chinese_orchestra_and_guzheng_ensemble_2.jpg)
 
-The Chinese Orchestra is a vibrant performing arts CCA that values and celebrates individual excellence. Our students showcased their musical talent and skills by participating in the SYF 2021 Junior Challenge, which greatly enhanced their learning experience. Moreover, we provide our students with opportunities to further develop their musical abilities by encouraging them to take part in the Chinese Music Instrumental Grading Examinations organized by the NTU Confucius Institute.
+The Guzheng Ensemble is a vibrant performing arts CCA that values and celebrates individual excellence. Our students showcased their musical talent and skills by participating in the SYF 2021 Junior Challenge, which greatly enhanced their learning experience. Moreover, we provide our students with opportunities to further develop their musical abilities by encouraging them to take part in the Chinese Music Instrumental Grading Examinations organized by the NTU Confucius Institute.
 
 
 |&nbsp;&nbsp; |&nbsp;&nbsp; |  
