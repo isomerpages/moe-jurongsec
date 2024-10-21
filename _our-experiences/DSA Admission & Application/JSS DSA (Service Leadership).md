@@ -35,7 +35,7 @@ as they led their classmate to come up with meaningful activities for the
 residents; but also play a key role in instilling in our students the core
 values of graciousness and gratitude as they lead their peers in reflecting
 on their experience.</p>
-<p><strong>Citi-YMCA Youth For Causes (YFC)</strong>
+<p><strong>YMCA Youth For Causes (YFC)</strong>
 </p>
 <p>Every year, our DSA students will take part in the Youth For Causes Project
 to deepen their skills in community problem solving and research. Started
