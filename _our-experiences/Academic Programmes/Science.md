@@ -26,7 +26,6 @@ variant: markdown
 |     | Ms Simranjit Kaur    | [simranjit\_kaur\_ranjit\_singh@moe.edu.sg](mailto:simranjit_kaur_ranjit_singh@moe.edu.sg)    |
 |     | Mr Kenny Hong Anliang     | [hong\_anliang@moe.edu.sg](mailto:hong_anliang@moe.edu.sg)     |
 |     | Ms Nicole Lek   | [lek\_hui\_xin\_nicole@moe.edu.sg](mailto:lek_hui_xin_nicole@moe.edu.sg)   |
-|   | Mrs Low Huiru     | [xie\_huiru@moe.edu.sg](mailto:xie_huiru@moe.edu.sg)    |
 
 
 ### Our Learning Approach
