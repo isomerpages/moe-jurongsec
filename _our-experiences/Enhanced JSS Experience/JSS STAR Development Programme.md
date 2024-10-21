@@ -39,12 +39,11 @@ _**As Leaders with Heart**,_&nbsp;students of Service who:
 
 ![](/images/star%20framework.JPG)
 
-### The key programmes planned for the students for 2023 are as follows:
+### The programmes JSS students are exposed to are as follows:
 
 
 | **Acquire** <br> (Skills) | **Connect** <br>(Applying Skills) | **Extend** <br> (Planning for my Future) |
 | -------- | -------- | -------- |
-|  S2   | S2-S3     | S4    |
 |   Star core Skills Programme:  | Participation in competitions     | Portfolio building  |
 |  Project Management   | Model UN (external)     |EAE &amp; DSA prep     |
 |   Design Thinking  | Model COP (school-based)     | Passion project    |
