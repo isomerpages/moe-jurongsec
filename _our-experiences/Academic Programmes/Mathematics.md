@@ -14,13 +14,12 @@ variant: markdown
 | HOD Mathematics   | Mr Ooi Wei Yong    | [ooi\_wei\_yong@moe.edu.sg](mailto:ooi_wei_yong@moe.edu.sg)    |
 | SH Mathematics   | Mdm Zheng Jieyun    | [zheng\_jieyun@moe.edu.sg](mailto:zheng_jieyun@moe.edu.sg)    |
 |Lead Teacher /  Educational Support    | Mdm Teo Kah Ping    | [teo\_kah\_ping@moe.edu.sg](mailto:teo_kah_ping@moe.edu.sg)   |
-| Mathematics Teachers    | Mr Woon Ta Chuang     | [woon\_ta\_chuang@moe.edu.sg](mailto:woon_ta_chuang@moe.edu.sg)   |
+Mathematics Teachers
 |    | Ms Simranjit Kaur    | [simranjit\_kaur\_ranjit\_singh@moe.edu.sg](mailto:simranjit_kaur_ranjit_singh@moe.edu.sg)   |
 |    | Mr Kenny Hong Anliang   |[hong\_anliang@moe.edu.sg](mailto:hong_anliang@moe.edu.sg)     |
 |   | Ms Lee Sin Yi    | [lee\_sin\_yi@moe.edu.sg](mailto:lee_sin_yi@moe.edu.sg)   |
 |     | Ms Wu Dan Amy   | [wu\_dan\_a@moe.edu.sg](mailto:wu_dan_a@moe.edu.sg)    |
 |      | Ms Nurul Nadia  | [nurul\_nadia\_abdul\_kalam@moe.edu.sg](mailto:nurul_nadia_abdul_kalam@moe.edu.sg)    |
-|     | Ms Aida Mardianah Kinam   | [aida\_mardianah\_kinam@moe.edu.sg](mailto:aida_mardianah_kinam@moe.edu.sg)    |
 |     | Mr Ho Kah Yong Joel   | [ho\_kah\_yong\_joel@moe.edu.sg](mailto:ho_kah_yong_joel@moe.edu.sg)     |
 |     | Mrs Chua-Tan Siew Hong     | [tan\_siew\_hong\_b@schools.gov.sg](mailto:tan_siew_hong_b@schools.gov.sg)    |
 |    | Miss Lau Kai Ting     | [lau\_kai\_ting@moe.edu.sg](mailto:lau_kai_ting@moe.edu.sg)   |
