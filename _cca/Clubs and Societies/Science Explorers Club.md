@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-## Science Explorers Club 
+## Explorer's Club 
 
 ![](/images/explorers_formal2023.jpg)
 
