@@ -12,7 +12,7 @@ variant: markdown
 |---|---|
 | Principal | Ms Yeo Siok Ee |
 | Vice-Principals | Mdm Julia Ler<br>Mr Lu Yeow Chor |
-| | | 
+||||
 
 
 ![SPMC 2024](/images/school_planning_and_management_committee_2.jpg)
