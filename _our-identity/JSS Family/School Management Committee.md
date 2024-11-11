@@ -77,7 +77,7 @@ variant: tiptap
 <p>Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English Language</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi Ying Shynn</p>
@@ -95,7 +95,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Ching Ing
 <br>
-<br>Mdm Zoey Oh Sze Wee</p>
+<br>
+</p>
+<p>Mdm Zoey Oh Sze Wee</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +106,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics
-<br>
 <br>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +205,9 @@ variant: tiptap
 <br>
 <br>Ms Hannah Wen Cuiyan
 <br>
-<br>Ms Norliyana Bte Matin
+<br>
+</p>
+<p>Ms Norliyana Bte Matin
 <br>
 <br>Ms Chua Syin Thian</p>
 </td>
@@ -232,7 +235,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Nur Qarnain Bin Hussin
 <br>
-<br>Ms Ong Wei Chen</p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p>Ms Ong Wei Chen</p>
 </td>
 </tr>
 <tr>
@@ -243,7 +250,7 @@ variant: tiptap
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Phlip Wan Wei Meng</p>
+<p>Mr Philip Wan Wei Meng</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +258,7 @@ variant: tiptap
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Management (Covering)</p>
+<p>SH Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Zawani Bte Mi’on</p>
