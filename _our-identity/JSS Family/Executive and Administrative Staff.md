@@ -22,7 +22,7 @@ variant: markdown
 | Operations Support Officer | Mdm Lim Chiew Guat Yvonne |
 | Library Assistant | Ms Mariyah|
 | Senior SEN Officer  | Mr Lee Hao Yong |
-| Senior School Counsellor)   | Siti Marinah Bte Mohd Ali   |
+| Senior School Counsellor)   | Ms Siti Marinah Bte Mohd Ali   |
 | | |
 
 ### IT Support Staff
