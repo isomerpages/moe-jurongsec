@@ -30,16 +30,4 @@ A community where all staff and students embrace sports as part of their lifesty
 |---|---|---|
 | Industry | Excellence<br>Tenacity<br>Courage<br>Confidence | A JSS student:<br>- exhibits the ability to withstand and overcome challenges and obstacles<br>- has the tenacity to strive and excel in all endeavours<br><br>Proficiency:<br>- (Baseline) able to learn a variety of games and games concepts<br>- (Talented) able to demonstrate basic game skills and Fundamentals of a Sportsman |
 | Love | Friendship<br>Care for self and others<br>Empathy<br>Teamwork | A JSS student<br>- demonstrates sportsmanship<br>- acts according to one’s moral compass<br>- is intrinsically motivated in all his/her involvements and commitments<br><br>Proficiency<br>- (Baseline) able to learn a variety of games and games concepts focussing more in depth on team.<br>- (Talented) able to demonstrate Team Dynamics and Development of Sportsmanship |
-| Sincerity | Respect<br> Class and Grace<br> Dignity<br> Harmony | A JSS student<br>- acknowledges others’ values and beliefs (respecting others’ judgement and is understanding of others’ behaviour)<br><br>Proficiency<br>- (Baseline) able to discern right from wrong and one’s behaviour is determined by their personal morals<br>- (Talented) able to be an Aspiring/Inspiring Sports Leader and Mentor for Self, School and Society |
-| | | | 
-
-### Sports Scholarship
-
-|  |  |  |
-|---|---|---|
-| **Background** | Initiated in 2011 under the sponsorship of our School Advisory Committee (SAC), the Sports Scholarship seeks to nurture students with talent in Basketball and Volleyball to excel in their proficiency in these games (i.e. part of JSS’ Sports Excellence Programme). The terms of the award include school fees, uniforms, textbooks and full subsidy for participation in overseas training trips. |  |
-| **Rationale** | The rationale of Sports Scholarship are twofold - (a) motivate current school players towards excellence, and (b) interest students who are passionate and talented in the two games to join JSS. |  |
-| **Award Process** | In line with the intention to motivate current school players towards excellence, Sports Scholars are selected from the existing pool of school players based on their high level of play and strong commitment to the school teams. Regarding recruitment, the school actively invites and offers the scholarship to players from primary schools who show potential in Basketball. |  |
-| | |
-
-<center> Updated 20 Sep 2024 </center>
+| Sincerity | Respect<br> Class and Grace<br> Dignity<br> Harmony | A JSS student<br>- acknowledges others’ values and beliefs (respecting others’ judgement and is understanding of others’ behaviour)<br><br>Proficiency<br>- (Baseline) able to discern right from wrong and one’s behaviour is determined by their personal morals<br>- (Talented) able to be an Aspiring/Inspiring Sports Leader and Mentor for Self, School and Society d 20 Sep 2024 
