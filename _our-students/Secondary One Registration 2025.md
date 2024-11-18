@@ -1,5 +1,5 @@
 ---
-title: Secondary One Registration 2024
+title: Secondary One Registration 2025
 permalink: /our-students/sec-1-registration/
 variant: markdown
 description: ""
