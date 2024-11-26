@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3>School Canteen Advertisement</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,24 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Food</p>
+<p>Western Food (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Mar 2024</p>
+<p>10 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(Halal)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muslim Cuisine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Mar 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nil</p>
 </td>
 </tr>
 </tbody>
@@ -145,4 +139,4 @@ Singapore Food Agency (SFA).</p>
 </ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense</em>
 </p>
-<p>Updated 5 Feb 2024</p>
+<p>Updated 26 Nov 2024</p>
