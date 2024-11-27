@@ -2,7 +2,7 @@
 title: School Canteen Advertisement
 permalink: /our-links/jss-canteen-advertisement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>School Canteen Advertisement</h3>
 <p>Jurong Secondary School has immediate vacancies for canteen stall. We
@@ -39,7 +39,7 @@ at our school canteen located at 31 Yuan Ching Road, Singapore 618652.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>1) Requirements </strong></h4>
+<h4><strong>1) Requirements</strong></h4>
 <p>Interested applicants must satisfy the following requirements:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -73,17 +73,12 @@ Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/files/canteen_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 </li>
 </ul>
-</li>
-</ul>
 <p>Please submit the following supporting document to the General Office
-by 10 Dec 2024:</p>
+by <strong>10 Dec 2024</strong>:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Application form;</p>
@@ -114,16 +109,21 @@ email OR to the School’s General Office.</p>
 </li>
 <li>
 <p>Contact Person: Mdm Pamela Wong</p>
+</li>
+</ul>
 <p></p>
-<p>How to get there?</p>
+</li>
+</ol>
+<p>How to get to Jurong Secondary School?</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Nearest MRT: Lakeside MRT (EW26 line) – 26 minutes walking distance</p>
+</li>
+<li>
 <p>Alight at Lakeside Station. Take bus service 98 or take bus service 154,
 240 or 246 from the bus stop opposite the MRT station.</p>
 </li>
 </ul>
-</li>
-</ol>
-<p></p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense</em>
 </p>
 <p>Updated 27 Nov 2024</p>
