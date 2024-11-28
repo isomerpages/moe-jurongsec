@@ -44,20 +44,20 @@ at our school canteen located at 31 Yuan Ching Road, Singapore 618652.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Stall holder and assistant should be a Singapore Citizen or Singapore
-Permanent Resident;</p>
+Permanent Resident.</p>
 </li>
 <li>
-<p>Have some experience in operating a food stall and/or catering experience;</p>
+<p>Have some experience in operating a food stall and/or catering experience.</p>
 </li>
 <li>
 <p>Possess Basic Food Hygiene Certificate.</p>
 </li>
 <li>
-<p>Be healthy and fit</p>
+<p>Be healthy and fit.</p>
 </li>
 <li>
 <p>Be able to provide good service and quality food at reasonable price in
-consultation with the school</p>
+consultation with the school.</p>
 </li>
 <li>
 <p>Provide cooked food that meets the health / nutritional standards set
