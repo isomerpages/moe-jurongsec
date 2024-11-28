@@ -81,17 +81,17 @@ hardcopy from the School’s General Office.</p>
 by <strong>10 Dec 2024</strong>:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Application form;</p>
+<p>Application form</p>
 </li>
 <li>
 <p>One photocopy of the NRIC (front and back)</p>
 </li>
 <li>
-<p>Proposed daily menu and price-list; and</p>
+<p>Proposed daily menu and price list and</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course and
-previous NEA licence if any;</p>
+previous NEA licence if any</p>
 </li>
 <li>
 <p>Submit the completed application form and documents by closing date via
