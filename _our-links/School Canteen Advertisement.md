@@ -5,7 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h3>School Canteen Advertisement</h3>
-<table>
+<p>Jurong Secondary School has immediate vacancies for canteen stall. We
+are inviting interested applicants to operate a Western Food (Halal) Stall
+at our school canteen located at 31 Yuan Ching Road, Singapore 618652.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,57 +28,70 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western Food</p>
+<p>Western Food (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Mar 2024</p>
+<p>10 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(Halal)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muslim Cuisine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Mar 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nil</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p><strong>Application Procedure</strong>
-</p>
+<h4><strong>1) Requirements</strong></h4>
+<p>Interested applicants must satisfy the following requirements:</p>
 <ol data-tight="true" class="tight">
 <li>
+<p>Stall holder and assistant should be a Singapore Citizen or Singapore
+Permanent Resident.</p>
+</li>
+<li>
+<p>Have some experience in operating a food stall and/or catering experience.</p>
+</li>
+<li>
+<p>Possess Basic Food Hygiene Certificate.</p>
+</li>
+<li>
+<p>Be healthy and fit.</p>
+</li>
+<li>
+<p>Be able to provide good service and quality food at reasonable price in
+consultation with the school.</p>
+</li>
+<li>
+<p>Provide cooked food that meets the health / nutritional standards set
+by the Health Promotion Board (HPB) under the "Healthy Meals in School
+Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>).</p>
+</li>
+<li>
+<p>Able to maintain a high standard of food and personal hygiene.</p>
+</li>
+</ol>
+<h4><strong>2) Application Procedure</strong></h4>
 <p>Download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/canteen_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
-<p></p>
 </li>
 </ul>
+<p>Please submit the following supporting document to the General Office
+by <strong>10 Dec 2024</strong>:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Application form</p>
 </li>
 <li>
-<p>Attach the following documents together with the application form:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Photocopy of the NRIC (front and back)</p>
+<p>One photocopy of the NRIC (front and back)</p>
 </li>
 <li>
-<p>List of proposed menu and pricing for all items</p>
+<p>Proposed daily menu and price list and</p>
 </li>
 <li>
-<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
-<p></p>
-</li>
-</ul>
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course and
+previous NEA licence if any</p>
 </li>
 <li>
 <p>Submit the completed application form and documents by closing date via
@@ -88,12 +109,12 @@ email OR to the School’s General Office.</p>
 </li>
 <li>
 <p>Contact Person: Mdm Pamela Wong</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 </li>
-<li>
-<p>How to get there?</p>
+</ol>
+<p>How to get to Jurong Secondary School?</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Lakeside MRT (EW26 line) – 26 minutes walking distance</p>
@@ -103,46 +124,6 @@ email OR to the School’s General Office.</p>
 240 or 246 from the bus stop opposite the MRT station.</p>
 </li>
 </ul>
-</li>
-</ol>
-<p><strong>Interested applicants must meet the following criteria:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.</p>
-</li>
-<li>
-<p>Able to provide good service and quality food with prices determined in
-consultation with the school.</p>
-</li>
-<li>
-<p>Able to provide cooked food that meets the health / nutritional standards
-set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools
-Programme (HMSP)” guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
-</li>
-<li>
-<p>Able to maintain high standard of food safety and personal hygiene.</p>
-</li>
-<li>
-<p>Healthy and fit to operate the stall.</p>
-</li>
-</ul>
-<p><strong>Applicants should preferably fulfill the following criteria:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
-</li>
-<li>
-<p>Possess catering experience or experience operating in a school environment.</p>
-</li>
-<li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
-</li>
-</ul>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense</em>
 </p>
-<p>Updated 5 Feb 2024</p>
+<p>Updated 27 Nov 2024</p>
