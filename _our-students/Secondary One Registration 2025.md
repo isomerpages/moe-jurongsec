@@ -359,7 +359,8 @@ Ms Pamela Wong at 62655980.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <strong><u>here</u></strong> to download the Secondary 1 booklist.</p>
+<p>Please click <strong><a href="/files/Secondary_1_Book_List.pdf" rel="noopener nofollow" target="_blank">here</a></strong> to
+download the Secondary 1 booklist.</p>
 <p></p>
 <p>Do note that the back gate (facing the HDB flats) will not be open. You
 will thus need to enter the school through the front gate (facing Jurong
