@@ -442,11 +442,9 @@ the appointment date and time to minimize over-crowding.</p>
 <td rowspan="1" colspan="1">
 <p>The full school uniform, PE T-shirt and PE shorts can be purchased from
 22 December 2024 onwards.</p>
-<p></p>
 <p>Please note that the color of the PE T-shirt depends on what house students
 are placed in. Please make payment for the PE T-shirt first and the PE
 T-shirts will be distributed to students when they report to school.</p>
-<p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school uniform can be purchased
 online at&nbsp; <strong><a rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/jurong-secondary-school</a></strong> and
 payment can be by VISA, Mastercard or Debit Card.</p>
@@ -456,7 +454,7 @@ there will be a delivery charge of $8</p>
 logging onto the website is JURONG22g</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please click <strong><a href="https://finestuniform.com/collections/jurong-secondary-school" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 the Uniform Ordering Guide</p>
-<p>&nbsp;</p>
+<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For walk-in purchase, please note
 that the uniform supplier will be at Block B, B01-04/5. Please take note
 of the opening hours for walk-in purchase:</p>
