@@ -453,7 +453,7 @@ payment can be by VISA, Mastercard or Debit Card.</p>
 there will be a delivery charge of $8</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The passcode for
 logging onto the website is JURONG22g</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please click <strong><a href="https://finestuniform.com/collections/jurong-secondary-school" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please click <strong><a href="/files/Uniform_Ordering_Guide.pdf" rel="noopener nofollow" target="_blank">here</a></strong> for
 the Uniform Ordering Guide</p>
 <p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For walk-in purchase, please note
