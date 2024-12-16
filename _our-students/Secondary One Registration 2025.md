@@ -429,7 +429,6 @@ collect the textbooks.</p>
 prompt you to select a self-collect date and time.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please keep to
 the appointment date and time to minimize over-crowding.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
