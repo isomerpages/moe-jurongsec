@@ -309,13 +309,13 @@ the General Office at 62655980.</p>
 Programme (MEP), please click on the following links to find out more:</p>
 <p>&nbsp;<strong>Art Elective Programme</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
+<p><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
 </p>
 <p>&nbsp;<strong>Music Elective Programme</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/mep</a>
+<p><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/empmepyoutubepage</a>&nbsp;</p>
+<p><a href="https://go.gov.sg/empmepyoutubepage" rel="noopener nofollow" target="_blank">https://go.gov.sg/empmepyoutubepage</a>&nbsp;</p>
 <p>&nbsp;Students will be briefed on the AEP and MEP on 2 January 2025, as
 part of the Sec 1 Orientation Programme. A detailed Parents Gateway notification
 will also be sent out on 2 January 2025. For clarifications, please contact
