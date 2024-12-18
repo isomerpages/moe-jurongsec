@@ -447,7 +447,7 @@ the appointment date and time to minimize over-crowding.</p>
 are placed in. Please make payment for the PE T-shirt first and the PE
 T-shirts will be distributed to students when they report to school.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school uniform can be purchased
-online at&nbsp; <strong><a rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/jurong-secondary-school</a></strong> and
+online at&nbsp; <a href="https://finestuniform.com/collections/jurong-secondary-school" rel="noopener nofollow" target="_blank">https://finestuniform.com/collections/jurong-secondary-school</a> and
 payment can be by VISA, Mastercard or Debit Card.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please note that
 there will be a delivery charge of $8</p>
