@@ -418,7 +418,7 @@ You may wish to park at the ActiveSG gym opposite the school instead.</p>
 </table>
 <p><strong>2. Online Purchase</strong>
 </p>
-<p>Alternatively, the school textbooks can be purchased online at <strong><a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a></strong> and
+<p>Alternatively, the school textbooks can be purchased online at <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg/</a> and
 payment can be made by VISA, Mastercard, Debit Card or PayNow.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you order online and select
 home delivery, there will be a delivery charge of $11.99.</p>
