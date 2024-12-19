@@ -515,15 +515,6 @@ of the opening hours for walk-in purchase:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Medical Appeal Exercise (MAE)</strong>
-</p>
-<p>Students with serious medical conditions (e.g. chronic heart conditions,
-kidney problems) or severe physical impairments (e.g. those requiring permanent
-use of a wheelchair) may apply for transfer as part of the Medical Appeal
-Exercise (MAE). Applicants will need to provide documentation from a certified
-medical professional in order to apply. <strong>Applications must be made in person at Jurong Secondary School on 19 December 2024, from 0830 to 1200. No applications will be accepted beyond this time frame.</strong>
-</p>
-<p></p>
 <p><strong>School Transfer (Non-Medical)</strong>
 </p>
 <p>All requests for school transfers into Jurong Secondary School should
@@ -536,4 +527,4 @@ that only shortlisted applicants will be contacted.</p>
 </tr>
 </tbody>
 </table>
-<p>Updated on 18 Dec 2024</p>
+<p>Updated on 19 Dec 2024</p>
