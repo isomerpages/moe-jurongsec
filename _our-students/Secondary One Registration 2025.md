@@ -56,7 +56,7 @@ onwards on 19 December 2024.</p>
 Secondary 1 Registration. Within the notification, there is a link to an
 online form.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To complete the Secondary 1 Registration
-process, please fill in the online form by <strong>19 December 2024, 5.00pm</strong>.</p>
+process, please fill in the online form by <strong>24 December 2024, 5.00pm</strong>.</p>
 </td>
 </tr>
 <tr>
