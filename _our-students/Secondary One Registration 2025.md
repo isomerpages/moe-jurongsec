@@ -527,4 +527,4 @@ that only shortlisted applicants will be contacted.</p>
 </tr>
 </tbody>
 </table>
-<p>Updated on 18 Dec 2024</p>
+<p>Updated on 19 Dec 2024</p>
