@@ -442,7 +442,7 @@ the appointment date and time to minimize over-crowding.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The full school uniform, PE T-shirt and PE shorts can be purchased from
-22 December 2024 onwards.</p>
+19 December 2024 onwards.</p>
 <p>Please note that the color of the PE T-shirt depends on what house students
 are placed in. Please make payment for the PE T-shirt first and the PE
 T-shirts will be distributed to students when they report to school.</p>
