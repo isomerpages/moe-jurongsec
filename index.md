@@ -18,7 +18,7 @@ sections:
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/confident-person
         - title: Adaptive Thinker
           description: ""
-          url: https://jurongsec.moe.edu.sg/jss/adaptive-thinker/
+          url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/adaptive-thinker
         - title: Persevering Learner
           description: ""
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/persevering-learner
