@@ -16,7 +16,7 @@ sections:
         - title: Confident Person
           description: ""
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/confident-person
-        - title: Flexible Thinker
+        - title: Adaptive Thinker
           description: ""
           url: https://staging.d34eg7es14fqph.amplifyapp.com/jss/flexible-thinker
         - title: Persevering Learner

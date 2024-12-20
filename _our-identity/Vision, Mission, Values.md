@@ -2,6 +2,7 @@
 title: Vision, Mission, Values
 permalink: /our-identity/vision-mission-values/
 description: ""
+variant: markdown
 ---
 ### Our Vision
 
@@ -13,15 +14,21 @@ JSS students are concerned citizens who take initiative and show genuine interes
 
 ### Our Mission
 
-**A close-knit school, in partnership with the community, nurturing students to be resilient in their pursuit of excellence.**&nbsp;
+**J**ourneying Together
 
-We are a collegial school that leverages our close partnerships with the community to maximise the learning opportunities for our students.&nbsp;
+*Working in partnership with diverse stakeholders*
 
-Together, we endeavour to support our students in their&nbsp;pursuit of excellence in all that they do. We provide an environment where they are courageous, curious and engaged in learning, and espouse our school values of&nbsp;**Loyalty, Industry, Sincerity and Love**.
+**S**haping Values
+
+*to help our students live out our school values*
+
+**S**triving Towards Excellence
+
+*and pursue excellence in all that they do.*
 
 ### Our Values
 
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6Sq_KbAUMbhy-oATMVwjY3dlXD5SLLEthixyoVbJPkjx1oFU-rvFJ-ahNV7H8w4eZOXeXKL6AIsdy/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 
-<center> Updated 22 Feb 2023 </center>
+<center> Updated 20 Dec 2024 </center>
