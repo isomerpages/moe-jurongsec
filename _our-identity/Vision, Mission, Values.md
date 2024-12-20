@@ -31,4 +31,4 @@ JSS students are concerned citizens who take initiative and show genuine interes
 <iframe allowfullscreen="true" height="500" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6Sq_KbAUMbhy-oATMVwjY3dlXD5SLLEthixyoVbJPkjx1oFU-rvFJ-ahNV7H8w4eZOXeXKL6AIsdy/embed?start=false&amp;loop=true&amp;delayms=10000"></iframe>
 
 
-<center> Updated 22 Feb 2023 </center>
+<center> Updated 20 Dec 2024 </center>
