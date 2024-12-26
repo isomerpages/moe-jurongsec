@@ -14,17 +14,8 @@ JSS students are concerned citizens who take initiative and show genuine interes
 
 ### Our Mission
 
-**J**ourneying Together
+![Mission](/images/WhatsApp_Image_2024_12_26_at_2_29_55_PM.jpg)
 
-*Working in partnership with diverse stakeholders*
-
-**S**haping Values
-
-*to help our students live out our school values*
-
-**S**triving Towards Excellence
-
-*and pursue excellence in all that they do.*
 
 ### Our Values
 
