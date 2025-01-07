@@ -13,20 +13,19 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD Applied Studies   | Mrs Juliana Ng     | [goh_wee_peng@moe.edu.sg](goh_wee_peng@moe.edu.sg)    |
-| HOD ICT   | Mr Chris Lok  | [lok_jian_ming@moe.edu.sg](lok_jian_ming@moe.edu.sg)    |
 | SH ICT  | Mr Lam Chee Leong  | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)  
 |  (Asst Year Head Sec 2) | Ms Norliyana Bte Matin     | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
 | Computer Application Teachers   | Mr Philip Wan |[wan_wei_meng@moe.edu.sg](Wan_wei_meng@moe.edu.sg)  |
 |   | Mr Lam Chee Leong  | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)   |
 | Design &amp; Technology Teachers    | Mr Sim Chow Meng     |sim_chow_meng@moe.edu.sg    |
 |   | Mr Ng Choon Hui Vincent     | [ng_choon_hui@moe.edu.sg](ng_choon_hui@moe.edu.sg)    |
-|      | Mr Lim Kwee Hock (Flexi Adjunct)     | [lim_kwee_hock@moe.edu.sg](lim_kwee_hock@moe.edu.sg)    |
+|      | Mr Lim Kwee Hock    | [lim_kwee_hock@moe.edu.sg](lim_kwee_hock@moe.edu.sg)    |
 | Element of Business Skills Teachers    | Ms Caroline Wooi   | [wooi_lian_hong@moe.edu.sg](wooi_lian_hong@moe.edu.sg)     |
 | Nutrition &amp; Food Science Teachers  | Ms Norliyana Bte Matin    | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
 |     | Ms Shuryani    | [shuryani_abdul_wahab@moe.edu.sg](shuryani_abdul_wahab@moe.edu.sg)    |
 | Music Teachers    | Ms Kalai   | [kalaivanni_somasundram@moe.edu.sg](kalaivanni_somasundram@moe.edu.sg)  |
 |    | Ms Lau Kai Ting  | [lau_kai_ting@moe.edu.sg](lau_kai_ting@moe.edu.sg)  |
-| Art Teachers  | Mr Syazwan Bin (Flexi Adjunct)   |[syazwan_ibrahim_a@moe.edu.sg](syazwan_ibrahim_a@moe.edu.sg)  |
+| Art Teachers  | Mr Syazwan Bin  |[syazwan_ibrahim_a@moe.edu.sg](syazwan_ibrahim_a@moe.edu.sg)  |
 |    | Ms Mardiana Roslan   | [mardiana\_roslan@moe.edu.sg](mailto:mardiana_roslan@moe.edu.sg)   |
 | Workshop Instructors | Mr Zulkifle B Md Yassin   | [zulkifie_mohd_yassin@moe.edu.sg](zulkifie_mohd_yassin@moe.edu.sg)    |
 
