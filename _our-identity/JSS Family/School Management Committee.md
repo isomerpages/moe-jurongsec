@@ -162,6 +162,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Education Technology</p>
 <p></p>
+<p></p>
 <p>Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
