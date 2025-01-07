@@ -78,9 +78,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD English Language</p>
+<p></p>
+<p>SH Englis Language/Literature (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi Ying Shynn</p>
+<p></p>
+<p>Mr Sim Rui Xiang Darius</p>
 </td>
 </tr>
 <tr>
@@ -97,6 +101,7 @@ variant: tiptap
 <br>
 <br>
 </p>
+<p></p>
 <p>Mdm Zoey Oh Sze Wee</p>
 </td>
 </tr>
@@ -105,13 +110,15 @@ variant: tiptap
 <p>Mathematics &amp; Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics
-<br>SH Mathematics</p>
+<p>HOD Mathematics (Covering)</p>
+<p>
+<br>SH Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ooi Wei Yong
-<br>
-<br>Mdm Zheng Jieyun</p>
+<p>Mdm Zheng Jieyun</p>
+<p></p>
+<p></p>
+<p>Mdm Wu Dan Amy</p>
 </td>
 </tr>
 <tr>
@@ -119,14 +126,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Sciences
-<br>
-<br>SH Sciences</p>
+<p>SH Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yan Mui
-<br>
-<br>Mr Traven Loh Wei Chuen</p>
+<p>Mr Traven Loh Wei Chuen</p>
 </td>
 </tr>
 <tr>
@@ -157,13 +160,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Education Technology</p>
 <p></p>
+<p>Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>HOD Education Technology</p>
 <p></p>
+<p>SH Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Ooi Wei Yong</p>
 <p></p>
+<p></p>
+<p>Mr Sim Guo Chen</p>
 </td>
 </tr>
 </tbody>
@@ -205,9 +215,7 @@ variant: tiptap
 <br>
 <br>Ms Hannah Wen Cuiyan
 <br>
-<br>
-</p>
-<p>Ms Norliyana Bte Matin
+<br>Ms Norliyana Bte Matin
 <br>
 <br>Ms Chua Syin Thian</p>
 </td>
@@ -217,10 +225,10 @@ variant: tiptap
 <p>Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Character and Citizenship Education</p>
+<p>HOD Character and Citizenship Education (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Stanley Tan</p>
+<p>Mr Nur Izhar Bin Sa'at</p>
 </td>
 </tr>
 <tr>
@@ -228,18 +236,18 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; Co-Curricular Activities
+<p>HOD Physical Education &amp; Co-Curricular Activities (Covering)
 <br>
 <br>SH Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Qarnain Bin Hussin
-<br>
-<br>
-</p>
-<p></p>
-<p></p>
 <p>Ms Ong Wei Chen</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Mdm Wang Cui Feng</p>
 </td>
 </tr>
 <tr>
@@ -247,7 +255,7 @@ variant: tiptap
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p>HOD Student Management (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Philip Wan Wei Meng</p>
