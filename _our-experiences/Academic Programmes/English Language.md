@@ -12,7 +12,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | HOD English   | Ms Shynn Lim    |  lim_shi_ying@moe.edu.sg|
 | SH English/ English Literature (Covering)  | Mr Sim Rui Xiang Darius    |  sim_rui_xiang_darius@moe.edu.sg|
-| Lead Teacher English   | Mr Richard Koh Pee Chou   |  | koh_pee_chou_richard@moe.edu.sg|
+| Lead Teacher English   | Mr Richard Koh Pee Chou   |  koh_pee_chou_richard@moe.edu.sg|
 |  Year Head (Lower Sec &amp; Sec 1)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
 |   SH ICT  | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
 | English Language Teachers    |  Ms Bibi Nur Shakirrah  | bibi_nur_shakirrah@moe.edu.sg |
