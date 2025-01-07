@@ -11,30 +11,29 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD English   | Ms Shynn Lim    |  lim_shi_ying@moe.edu.sg|
-|  Year Head (Lower Sec &amp; Sec 2)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
+| SH English/ English Literature (Covering)  | Mr Sim Rui Xiang Darius    |  sim_rui_xiang_darius@moe.edu.sg|
+| Lead Teacher English   | Mr Richard Koh Pee Chou   |  koh_pee_chou_richard@moe.edu.sg|
+|  Year Head (Lower Sec &amp; Sec 1)    | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
 |   SH ICT  | Mr Lam Chee Leong     | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)    |
-| English Language Teachers    |  Mr Mahathir Aziz   | [mahathir\_aziz@moe.edu.sg](mailto:mahathir_aziz@moe.edu.sg)  |
+| English Language Teachers    |  Ms Bibi Nur Shakirrah  | bibi_nur_shakirrah@moe.edu.sg |
 |    | Mdm Norlinda Bte Omar   | [norlinda_omar@moe.edu.sg](norlinda_omar@moe.edu.sg)    |
 |      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi_karupaiya@moe.edu.sg](vijayaletchumi_karupaiya@moe.edu.sg)     |
 |      | Mdm Wang Cuifeng     | [wang_cuifeng@moe.edu.sg](wang_cuifeng@moe.edu.sg)    |
 |     | Ms Mardiana Roslan   | [mardiana\_roslan@moe.edu.sg](mailto:mardiana_roslan@moe.edu.sg)   |
-|     |Ms Goh Eng Jue   | [goh\_eng\_jue@moe.edu.sg](mailto:goh_eng_jue@moe.edu.sg)  |
+|     |Ms Emily Low Qian Ling   | low_qian_ling@moe.edu.sg |
 |     | Mr Lee Yue Hern Mark   | [yue\_hern\_mark\_lee@moe.edu.sg](mailto:yue_hern_mark_lee@moe.edu.sg)    |
 |     | Ms Kalai     | [Kalaivanni\_somasundram@moe.edu.sg](mailto:Kalaivanni_somasundram@moe.edu.sg)   |
 |     | Ms Maria Chung Su-Yin    | [Maria_chung-Su-Yin@moe.edu.sg](Maria_chung-Su-Yin@moe.edu.sg)    |
 |     | Mr Sim Rui Xiang Darius    | [sim\_rui\_xiang\_darius@moe.edu.sg](mailto:sim_rui_xiang_darius@moe.edu.sg)   |
 |     | Ms Sarah Lee Cheong Khi    | [lee\_cheong\_khi@moe.edu.sg](mailto:lee_cheong_khi@moe.edu.sg)    |
-|     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)   |
-|    |Mdm Inderjit   | [inderjit_kaur_a@moe.edu.sg](inderjit_kaur_a@moe.edu.sg)    |
-|    | Dr Lydia Tan-Chia   | [chia_cheng_kuen_lydia@schools.gov.sg](chia_cheng_kuen_lydia@schools.gov.sg)    |
+|     | Ms Latimer Jayanthi Josephine   | latimer_jayanthi_josephine@moe.edu.sg |
 | English Literature Teachers   | Mdm Norlinda Bte Omar   | [norlinda\_omar@moe.edu.sg](mailto:norlinda_omar@moe.edu.sg)   |
 |     | Mr Sim Rui Xiang Darius    | [sim_rui_xiang_darius@moe.edu.sg](sim_rui_xiang_darius@moe.edu.sg)   |
-|     | Mr Chai Zhong Xun Brandon     | [chai\_zhong\_xun\_brandon@moe.edu.sg](mailto:chai_zhong_xun_brandon@moe.edu.sg)     |
 |     | Ms Maria Chung Su-Yin     | [Maria\_chung-Su-Yin@moe.edu.sg](mailto:Maria_chung-Su-Yin@moe.edu.sg)    |
-|    |Mdm Inderjit   | [inderjit_kaur_a@moe.edu.sg](inderjit_kaur_a@moe.edu.sg)    |
-
+|  | Ms Hannah Wen Cuiyan     | [wen\_cuiyan\_hannah@moe.edu.sg](mailto:wen_cuiyan_hannah@moe.edu.sg)  |
+||Ms Bibi Nur Shakirrah  | bibi_nur_shakirrah@moe.edu.sg |
+|     | Ms Latimer Jayanthi Josephine   | latimer_jayanthi_josephine@moe.edu.sg |
 <br>
-
 ## Our Learning Approach
 
 
