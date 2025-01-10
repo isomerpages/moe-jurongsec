@@ -11,10 +11,10 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-|Year Head (Upper Sec &amp; Sec 3)   | Mr Aaron Tang Wei Lun    |[tang_wei_lun_aaron@moe.edu.sg](tang_wei_lun_aaron@moe.edu.sg)  |
-| Year Head (Lower Sec &amp; Sec 2)   | Ms Hannah Wen Cuiyan   |[wen_cuiyan_hannah@moe.edu.sg](wen_cuiyan_hannah@moe.edu.sg)     |
-| Asst Year Head (Sec 1)    | Ms Norliyana Bte Matin   | [norliyana_matin@moe.edu.sg](norliyana_matin@moe.edu.sg)    |
-| Asst Year Head (Sec 4&amp;5)  |Ms Chua Syin Thian   | [chua_syin_thian@moe.edu.sg](chua_syin_thian@moe.edu.sg)   |
+|Year Head (Upper Sec &amp; Sec 4&amp;5)   | Mr Aaron Tang Wei Lun    |[tang_wei_lun_aaron@moe.edu.sg](tang_wei_lun_aaron@moe.edu.sg)  |
+| Year Head (Lower Sec &amp; Sec 1)   | Ms Hannah Wen Cuiyan   |[wen_cuiyan_hannah@moe.edu.sg](wen_cuiyan_hannah@moe.edu.sg)     |
+| Asst Year Head (Sec 2)    | Ms Norliyana Bte Matin   | [norliyana_matin@moe.edu.sg](norliyana_matin@moe.edu.sg)    |
+| Asst Year Head (Sec 3)  |Ms Chua Syin Thian   | [chua_syin_thian@moe.edu.sg](chua_syin_thian@moe.edu.sg)   |
 
 
 
