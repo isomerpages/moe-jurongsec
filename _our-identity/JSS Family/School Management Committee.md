@@ -210,15 +210,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aaron Tang Wei Lun
-<br>
-</p>
-<p>Ms Hannah Wen Cuiyan
-<br>
-</p>
-<p>Ms Norliyana Bte Matin
-<br>
-</p>
-<p>Ms Chua Syin Thian</p>
+<br>Ms Hannah Wen Cuiyan
+<br>Ms Norliyana Bte Matin
+<br>Ms Chua Syin Thian</p>
 </td>
 </tr>
 <tr>
