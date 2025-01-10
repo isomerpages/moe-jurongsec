@@ -22,7 +22,7 @@ variant: markdown
 | Operations Support Officer | Mdm Lim Chiew Guat Yvonne |
 | Library Assistant | Ms Mariyah|
 | Senior SEN Officer  | Mr Lee Hao Yong |
-| Senior School Counsellor)   | Ms Siti Marinah Bte Mohd Ali   |
+| Senior School Counsellor   | Ms Siti Marinah Bte Mohd Ali   |
 | | |
 
 ### IT Support Staff
@@ -31,7 +31,7 @@ variant: markdown
 |---|---|
 | ICT Manager | Mr Hatta Bin Moktar |
 |ICT Associate|Mr Muhammad Faris Sulaiman|
-| Desktop Engineer | Mr Young Lee Yang Yik <br> Mr Goh Kwan Wen |
+| Desktop Engineer | Mr Young Lee Yang Yik <br> Mr Eddie Chung |
 | | | 
 
 ### Science Workshop
