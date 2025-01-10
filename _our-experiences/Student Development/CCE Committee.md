@@ -68,4 +68,4 @@ Develop a strong national identity based on a sense of belonging to the nation, 
 |Co-curricular activities|Uniformed Groups<br> Performing Arts Groups<br> Sports Teams<br> Clubs &amp; Societies|||
 |Citizenship Education|NE Commemorative Events<br>Cohort Learning Journeys<br>NRIC Presentation Ceremony<br>NS Men Engagement <br>Overseas Schools Exchange Programme||
 
-<center> Updated 8 Jan 2024 </center>
+<center> Updated 10 Jan 2024 </center>
