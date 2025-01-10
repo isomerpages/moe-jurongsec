@@ -17,7 +17,7 @@ variant: markdown
 | ICT Manager   | Mr Hatta Bin Moktar     | [hatta\_moktar@moe.edu.sg](mailto:hatta_moktar@moe.edu.sg)    |
 |ICT Associate|Mr Muhammad Faris Sulaiman|muhammad_faris_sulaiman_a@moe.edu.sg|
 | Desktop Engineers    | Mr Young Lee Yang Yik    |     |
-|    | Mr Goh Kwan Wen    |     |
+|    | Mr Eddie Chung   |     |
 ||||
 
 
