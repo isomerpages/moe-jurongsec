@@ -99,10 +99,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Ching Ing
 <br>
-<br>
-</p>
-<p></p>
-<p>Mdm Zoey Oh Sze Wee</p>
+<br>Mdm Zoey Oh Sze Wee</p>
 </td>
 </tr>
 <tr>
@@ -111,13 +108,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics (Covering)</p>
-<p>
-<br>SH Mathematics (Covering)</p>
+<p>SH Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zheng Jieyun</p>
-<p></p>
-<p></p>
 <p>Mdm Wu Dan Amy</p>
 </td>
 </tr>
@@ -205,20 +199,26 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Sec &amp; Sec 3)
 <br>
-<br>Year Head (Lower Sec &amp; Sec 2)
+</p>
+<p>Year Head (Lower Sec &amp; Sec 2)
 <br>
-<br>Asst Year Head (Sec 1)
+</p>
+<p>Asst Year Head (Sec 1)
 <br>
-<br>Asst Year Head (Sec 4&amp;5)</p>
+</p>
+<p>Asst Year Head (Sec 4&amp;5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aaron Tang Wei Lun
 <br>
-<br>Ms Hannah Wen Cuiyan
+</p>
+<p>Ms Hannah Wen Cuiyan
 <br>
-<br>Ms Norliyana Bte Matin
+</p>
+<p>Ms Norliyana Bte Matin
 <br>
-<br>Ms Chua Syin Thian</p>
+</p>
+<p>Ms Chua Syin Thian</p>
 </td>
 </tr>
 <tr>
@@ -239,12 +239,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD Physical Education &amp; Co-Curricular Activities (Covering)
 <br>
-<br>SH Physical Education &amp; Co-Curricular Activities</p>
+</p>
+<p>SH Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Wei Chen</p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
