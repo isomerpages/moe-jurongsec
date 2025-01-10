@@ -336,4 +336,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Updated 2 January 2025</p>
+<p>Updated 10 January 2025</p>
