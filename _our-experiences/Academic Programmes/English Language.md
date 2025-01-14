@@ -35,7 +35,8 @@ variant: tiptap
 <p>Ms Shynn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_shi_ying@moe.edu.sg</p>
+<p><a href="lim_shi_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_shi_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +47,8 @@ variant: tiptap
 <p>Mr Sim Rui Xiang Darius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_rui_xiang_darius@moe.edu.sg</p>
+<p><a href="sim_rui_xiang_darius@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_rui_xiang_darius@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +59,8 @@ variant: tiptap
 <p>Mr Richard Koh Pee Chou</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_pee_chou_richard@moe.edu.sg</p>
+<p><a href="koh_pee_chou_richard@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_pee_chou_richard@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +95,8 @@ variant: tiptap
 <p>Ms Bibi Nur Shakirrah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bibi_nur_shakirrah@moe.edu.sg</p>
+<p><a href="bibi_nur_shakirrah@moe.edu.sg" rel="noopener nofollow" target="_blank">bibi_nur_shakirrah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +155,8 @@ variant: tiptap
 <p>Ms Emily Low Qian Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_qian_ling@moe.edu.sg</p>
+<p><a href="low_qian_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">low_qian_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +227,8 @@ variant: tiptap
 <p>Ms Latimer Jayanthi Josephine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>latimer_jayanthi_josephine@moe.edu.sg</p>
+<p><a href="latimer_jayanthi_josephine@moe.edu.sg" rel="noopener nofollow" target="_blank">latimer_jayanthi_josephine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +287,8 @@ variant: tiptap
 <p>Ms Bibi Nur Shakirrah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bibi_nur_shakirrah@moe.edu.sg</p>
+<p><a href="bibi_nur_shakirrah@moe.edu.sg" rel="noopener nofollow" target="_blank">bibi_nur_shakirrah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -292,7 +299,8 @@ variant: tiptap
 <p>Ms Latimer Jayanthi Josephine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>latimer_jayanthi_josephine@moe.edu.sg</p>
+<p><a href="latimer_jayanthi_josephine@moe.edu.sg" rel="noopener nofollow" target="_blank">latimer_jayanthi_josephine@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
