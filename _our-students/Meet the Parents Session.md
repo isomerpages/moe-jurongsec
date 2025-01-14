@@ -6,6 +6,15 @@ variant: tiptap
 ---
 <h4>Meet-the-Parents Session</h4>
 <hr>
+<p><strong>Secondary 1</strong> 
+<br>The Secondary 1 Meet-the-Parents session was held on the 11th January
+2025.
+<br>Below are the slides used during the session.</p>
+<p><a href="/files/2025_S1_MTP_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">2025 S1 MTP Hall Slides</a>
+</p>
+<p><a href="/files/2025_S1_MTP_FT_Time_Slides.pdf" rel="noopener nofollow" target="_blank">2025 S1 MTP FT Time Slides</a>
+</p>
+<p></p>
 <p><strong>Secondary 2</strong>
 </p>
 <p>Dear parents, there will be a Zoom session on 18 October 2024 to update
@@ -119,18 +128,8 @@ and provide clarification during the Panel Discussion (Q&amp;A Segment).</p>
 </p>
 </li>
 </ul>
-<hr>
-<p><strong>Secondary 1</strong> 
-<br>The Secondary 1 Meet-the-Parents session was held on the 6th January 2024.
-<br>Below are the slides used during the session.
+<p>
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/S1_MTP___CCA_Display_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 1 Meet the Parents CCA Display Slides</a>
-<br>
-</p>
-<p>Updated 3 Oct 2024</p>
-</li>
-</ul>
+<p>Updated 14 Jan 2025</p>
 <p></p>
