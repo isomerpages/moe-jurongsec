@@ -32,8 +32,11 @@ Secondary 4 and 5 students will be sitting for their Graduation Examinations in 
 ### Schedule of Weighted Assessment
 
 You can download the schedules from the links below:  
-[Schedule of Weighted Assessment 3 Sec 1](/files/Schedule_of_Weighted_Assessment_3_Sec_1.pdf)<br>[Schedule of Weighted Assessment 3 Sec 2](/files/Schedule_of_Weighted_Assessment_3_Sec_2.pdf)<br>[Schedule of Weighted Assessment 3 Sec 3](/files/Schedule_of_Weighted_Assessment_3_Sec_3.pdf)
-
+[Sec 1 WA 1 Schedule](/files/WA1_Sec_1.pdf)   
+[Sec 2 WA 2 Schedule](/files/WA1_Sec_2.pdf)   
+[Sec 3 WA 1 Schedule](/files/WA1_Sec_3.pdf)   
+[Sec 4 WA 1 Schedule](/files/WA1_Sec_4.pdf)  
+[Sec 5 WA 1 Schedule](/files/WA1_Sec_5.pdf)
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
