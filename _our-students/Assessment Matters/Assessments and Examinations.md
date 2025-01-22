@@ -33,29 +33,22 @@ Secondary 4 and 5 students will be sitting for their Graduation Examinations in 
 
 You can download the schedules from the links below:  
 [Sec 1 WA 1 Schedule](/files/WA1_Sec_1.pdf)   
-[Sec 2 WA 2 Schedule](/files/WA1_Sec_2.pdf)   
+[Sec 2 WA1 Schedule](/files/WA1_Sec_2.pdf)  
 [Sec 3 WA 1 Schedule](/files/WA1_Sec_3.pdf)   
 [Sec 4 WA 1 Schedule](/files/WA1_Sec_4.pdf)  
 [Sec 5 WA 1 Schedule](/files/WA1_Sec_5.pdf)
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
-You can download the Sec 4 &amp; 5 Graduation Examination timetable from the link below:[](/files/GE_7_Aug_2024.pdf)
 
 
 ### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
 
-You can download the timetable from the links below:<br>[SEC 1 EOY Exam Schedule](/files/EOY_S1_25092024.pdf)
   
 ### Sec 2 Exam Timetable and Topics for End-of-Year Examinations
-You can download the exam timetable from the links below:<br>[Sec 2 EOY Exam Schedule](/files/EOY_S2_04102024.pdf)
 
 
 ### Sec 3 Exam Timetable and Topics for End-of-Year Examinations
-
-You can download the exam timetable from the links below:<br>[Sec 3 EOY Exam Schedule](/files/EOY_S3_27092024.pdf)
-
-
 
 
 
