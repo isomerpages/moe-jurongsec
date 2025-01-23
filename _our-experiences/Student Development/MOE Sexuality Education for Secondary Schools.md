@@ -349,7 +349,7 @@ both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <h3><strong>SECONDARY 3</strong></h3>
 <table style="minWidth: 125px">
@@ -416,7 +416,7 @@ that readiness is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -446,7 +446,7 @@ is normal and one can recover from the experience</p>
 and family and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
