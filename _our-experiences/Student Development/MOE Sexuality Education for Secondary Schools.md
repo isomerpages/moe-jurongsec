@@ -317,7 +317,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -344,7 +344,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
