@@ -85,7 +85,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.
 <br>
-<br><strong>At Jurong Secondary School, the following Sexuality Education lessons will be taught in 2024:</strong>
+<br><strong>At Jurong Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 </li>
 </ol>
@@ -94,7 +94,7 @@ issues related to sexuality, which are of prime concern at this age.
 <img style="width:25%" height="auto" width="100%" src="/images/MOE%20logo.jpg">
 </div>
 <p></p>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <h3><strong>SECONDARY 1</strong></h3>
 <table style="minWidth: 125px">
