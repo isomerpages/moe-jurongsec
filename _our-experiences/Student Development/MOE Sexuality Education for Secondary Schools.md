@@ -475,7 +475,7 @@ values-based viewpoints (e.g. respect for life) and decisions, and speak
 and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 </tbody>
