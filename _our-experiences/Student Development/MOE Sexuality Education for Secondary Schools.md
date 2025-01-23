@@ -641,7 +641,7 @@ and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <h3><strong>SECONDARY 5</strong></h3>
 <table style="minWidth: 125px">
@@ -701,7 +701,7 @@ to sound values-based viewpoints (e.g. respect for life) and decisions,
 and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 </tbody>
