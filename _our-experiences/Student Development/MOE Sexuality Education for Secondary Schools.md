@@ -721,7 +721,7 @@ to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At Jurong Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
+<p><strong>At Jurong Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -746,7 +746,7 @@ family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk by delivered through a pre-recorded video.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>· Raise awareness and provide knowledge on:</p>
