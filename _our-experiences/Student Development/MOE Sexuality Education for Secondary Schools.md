@@ -155,13 +155,13 @@ online and offline.</p>
 reactions, in helpful ways that are reflective of our values and principles</p>
 <p>·&nbsp;recognise that there are different forms of love (e.g. familial,
 platonic, romantic love)</p>
-<p>·&nbsp;recognise the importance and understand what builds healthy and
-supportive relationships, both online and offline</p>
+<p>·&nbsp;recognise the importance of, and understand what builds healthy
+and supportive relationships, both online and offline</p>
 <p>·&nbsp;understand what dating is, and recognise that the readiness and
 interest in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ especially those we know and trust, can have strong negative effects on
 a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -793,5 +793,4 @@ to be submitted by 02/02/2024.</p>
 at &nbsp;<a href="mailto:jurong_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jurong_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p></p>
 <p></p>
