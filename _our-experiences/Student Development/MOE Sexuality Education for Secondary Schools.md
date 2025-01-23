@@ -480,7 +480,7 @@ and act in alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <h3><strong>SECONDARY 4</strong></h3>
 <table style="minWidth: 125px">
@@ -543,7 +543,7 @@ and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +579,7 @@ in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
