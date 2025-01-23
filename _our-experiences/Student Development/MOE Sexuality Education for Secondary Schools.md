@@ -221,7 +221,7 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <h3><strong>SECONDARY 2</strong></h3>
 <table style="minWidth: 125px">
@@ -290,7 +290,7 @@ as a male or female</p>
 <p>·&nbsp;understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
