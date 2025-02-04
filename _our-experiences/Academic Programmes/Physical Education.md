@@ -11,12 +11,12 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-| HOD PE &amp; CCA   | Mr Nur Qarnain    | [nur\_qarnain\_b\_hussin@moe.edu.sg](mailto:nur_qarnain_b_hussin@moe.edu.sg)    |
+| HOD PE &amp; CCA (Covering)   | Ms Ong Wei Chen    | [ong\_wei\_chen@moe.edu.sg](mailto:ong_wei_chen@moe.edu.sg)   |
+ | SH PE&amp;CCA (Covering)    | Mdm Wang Cuifeng |[wang\_cuifeng@moe.edu.sg](mailto:wang_cuifen@moe.edu.sg) |
 |  HOD SM   | Mr Philip Wan   | [wan_wei_meng@moe.edu.sg](wan_wei_meng@moe.edu.sg)     |
-| SH PE &amp; CCA   | Ms Ong Wei Chen    | [ong\_wei\_chen@moe.edu.sg](mailto:ong_wei_chen@moe.edu.sg)   |
-| PE Teachers    |   Mdm Wang Cuifeng |[wang\_cuifeng@moe.edu.sg](mailto:wang_cuifen@moe.edu.sg) |
-|     | Mrs Elizabeth Woon   | [elizabeth\_woon@moe.edu.sg](mailto:ng_siew_tuan@moe.edu.sg) |
-|     | Mr Ler Jun Yi     | [ler_jun_yi@moe.edu.sg](ler_jun_yi@moe.edu.sg)    |
+| PE Teachers | Mr Ler Jun Yi    | [ler_jun_yi@moe.edu.sg](ler_jun_yi@moe.edu.sg)   |
+|| Mrs Elizabeth Woon   | [elizabeth\_woon@moe.edu.sg](mailto:ng_siew_tuan@moe.edu.sg) |
+    
 
 
 <br>
