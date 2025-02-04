@@ -7,7 +7,6 @@ variant: markdown
 ---
 ## Information Communication Technology
 
-![ICT 2024](/images/information_and_communication_technology_department_2.jpg)
 
 
 |  |  |  |
