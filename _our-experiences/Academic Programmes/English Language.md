@@ -6,9 +6,6 @@ third_nav_title: Academic Programmes
 variant: tiptap
 ---
 <h2>English Language</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="EL 2024" src="/images/english_language_department_2.jpg">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
