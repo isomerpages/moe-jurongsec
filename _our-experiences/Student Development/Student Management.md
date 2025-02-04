@@ -6,7 +6,6 @@ third_nav_title: Student Development
 variant: markdown
 ---
 ## Student Management
-![SM 2024](/images/student_management_committee_2.jpg)
 
 |  |  |  |
 | -------- | -------- | -------- |
