@@ -6,8 +6,6 @@ third_nav_title: Student Development
 variant: markdown
 ---
 ## Level Team
-![Level Team 2024](/images/level_team_2.jpg)
-
 
 |  |  |  |
 | -------- | -------- | -------- |

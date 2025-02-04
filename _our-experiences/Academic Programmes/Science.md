@@ -7,8 +7,6 @@ variant: markdown
 ---
 # Science
 
-![Science 2024](/images/science_department_2.jpg)
-
 
 |  |  |  |
 | -------- | -------- | -------- |

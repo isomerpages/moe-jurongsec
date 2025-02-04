@@ -7,8 +7,6 @@ variant: markdown
 ---
 ## Physical Education
 
-
-![PE 2024](/images/physical_education_department_2.jpg)
 <br>
 
 |  |  |  |
@@ -19,7 +17,7 @@ variant: markdown
 | PE Teachers    |   Mdm Wang Cuifeng |[wang\_cuifeng@moe.edu.sg](mailto:wang_cuifen@moe.edu.sg) |
 |     | Mrs Elizabeth Woon   | [elizabeth\_woon@moe.edu.sg](mailto:ng_siew_tuan@moe.edu.sg) |
 |     | Mr Ler Jun Yi     | [ler_jun_yi@moe.edu.sg](ler_jun_yi@moe.edu.sg)    |
-|   | Mr Ng Jian Xiang Lawrence    | [ng_jian_xiang_lawrence@moe.edu.sg](ng_jian_xiang_lawrence@moe.edu.sg)   |
+
 
 <br>
 

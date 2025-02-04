@@ -6,9 +6,6 @@ third_nav_title: Student Development
 variant: markdown
 ---
 ## CCE Committee
-![CCE 2024](/images/character_and_citizenship_education_department_2.jpg)
-
-
 |  |  |  |
 | -------- | -------- | -------- |
 |HOD CCE (Covering)  | Mr Nur Izhar Bin Sa'at   | nur_izhar_saat@moe.edu.sg   |
