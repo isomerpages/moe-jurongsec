@@ -6,7 +6,7 @@ third_nav_title: Academic Programmes
 variant: markdown
 ---
 ## Humanities
-![HUM 2024](/images/humanities_department_2.jpg)
+
  
 |  |  |  |
 | -------- | -------- | -------- |
