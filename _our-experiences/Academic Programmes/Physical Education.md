@@ -7,8 +7,6 @@ variant: markdown
 ---
 ## Physical Education
 
-
-![PE 2024](/images/physical_education_department_2.jpg)
 <br>
 
 |  |  |  |
