@@ -50,9 +50,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SPMC 2024" src="/images/school_planning_and_management_committee_2.jpg">
-</div>
 <h3>Academic Learning Team</h3>
 <table style="minWidth: 75px">
 <colgroup>
