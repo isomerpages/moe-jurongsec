@@ -9,6 +9,7 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 |HOD CCE (Covering)  | Mr Nur Izhar Bin Sa'at   | nur_izhar_saat@moe.edu.sg   |
+|HOD EL| Ms Shynn Lim   | lim_shi_ying@moe.edu.sg   |
 |Specialised CCE Teacher (Sec 1) | Mr Ler Jun Yi   |ler_jun_yi@moe.edu.sg 
 |Specialised CCE Teacher (Sec 2)  | Ms Shuryani<br>Mr Ng Teck Koon	 |shuryani_abdul_wahab@moe.edu.sg<br> [ng_teck_koon@moe.edu.sg](ng_teck_koon@moe.edu.sg) |
 |Specialised CCE Teacher (Sec 3)  |Mr Nur Izhar Bin Sa'at     | nur_izhar_saat@moe.edu.sg |
