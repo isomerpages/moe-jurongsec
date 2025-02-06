@@ -14,17 +14,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics (Covering)</p>
 </td>
@@ -161,7 +150,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eugene Wong Jia Wei</p>
+<p>Mr Eugene Wong Jia Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="wong_jia_wei_eugene@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_jia_wei_eugene@moe.edu.sg</a>
@@ -173,10 +162,47 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Karthigesu s/o Chandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:karthigesu_chandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">karthigesu_chandra@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Miss Lim Kim Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_kim_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kim_lian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Kum Wah Patrick</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_kum_wah_patrick_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kum_wah_patrick_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Sophia Ang Sok Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sophia_ang_sok_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sophia_ang_sok_leng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
