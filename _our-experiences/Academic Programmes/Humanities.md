@@ -21,7 +21,8 @@ variant: markdown
 |      | Mr Wong Ho Jann, Joel    | [wong\_ho\_jann\_joel@moe.edu.sg](mailto:wong_ho_jann_joel@moe.edu.sg)     |
 |     | Mdm Linda Ng     | [ng\_siew\_ching@moe.edu.sg](mailto:ng_siew_ching@moe.edu.sg)    |
 |     | Mr Tan Yong Zhi     | [tan_yong_zhi@moe.edu.sg](tan_yong_zhi@moe.edu.sg)   |
-|     | Mr Mark Lee     | yue_hern_mark_lee@moe.edu.sg |
+|     |Mr Mark Lee|[yue\_hern\_mark@moe.edu.sg](mailto:yue_hern_mark@moe.edu.sg)  |
+
 
  <br>
 
