@@ -10,21 +10,19 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-| HOD Science    | Ms Lim Yan Mui   | [lim\_yan\_mui@moe.edu.sg](mailto:lim_yan_mui@moe.edu.sg)   |
-| HOD Character &amp; Citizenship Education  | Mr Stanley Tan    | [tan\_chin\_kwan@moe.edu.sg](mailto:tan_chin_kwan@moe.edu.sg)    |
+| SH Science    | Mr Traven Loh   | [loh\_wei\_chuen@moe.edu.sg](mailto:loh_wei_chuen@moe.edu.sg)   |
 | School Staff Developer     | Mr Eric Tan   | [eric\_tan\_ching\_kuan@moe.edu.sg](mailto:eric_tan_ching_kuan@moe.edu.sg)    |
 | Year Head (Upper Sec)  | Mr Aaron Tang Wei Lun   | [tang\_wei\_lun\_aaron@moe.edu.sg](mailto:tang_wei_lun_aaron@moe.edu.sg)     |
-| SH Science    | Mr Traven Loh   | [loh\_wei\_chuen@moe.edu.sg](mailto:loh_wei_chuen@moe.edu.sg)   |
+| HOD Character &amp; Citizenship Education (Covering)  | Mr  Nur Izhar Bin Sa'at   | [nur\_izhar\_saat@moe.edu.sg](mailto:nur_izhar_saat@moe.edu.sg)    |
 | Senior Teacher – Chemistry     | Ms Julianah Johar-Astapura    | [julianah\_johar@moe.edu.sg](mailto:julianah_johar@moe.edu.sg)   |
 | Science Teachers    | Mr Ng Teck Koon    | [ng\_teck\_koon@moe.edu.sg](mailto:ng_teck_koon@moe.edu.sg)    |
 |     | Ms Teoh M H Clarice   | [teoh\_mooi\_hoon@moe.edu.sg](mailto:teoh_mooi_hoon@moe.edu.sg)     |
 |    | Mr Md Riduwan Ahmad    | [muhammed\_riduwan\_ahmad@moe.edu.sg](mailto:muhammed_riduwan_ahmad@moe.edu.sg)    |
 |    | Mr Eugene Wong    | [wong\_jia\_wei\_eugene@moe.edu.sg](mailto:wong_jia_wei@moe.edu.sg)   |
 |      | Mr Koo Chee Kiong    | [koo\_chee\_kiong@moe.edu.sg](mailto:koo_chee_kiong@moe.edu.sg)    |
-|     | Ms Simranjit Kaur    | [simranjit\_kaur\_ranjit\_singh@moe.edu.sg](mailto:simranjit_kaur_ranjit_singh@moe.edu.sg)    |
 |     | Mr Kenny Hong Anliang     | [hong\_anliang@moe.edu.sg](mailto:hong_anliang@moe.edu.sg)     |
 |     | Ms Nicole Lek   | [lek\_hui\_xin\_nicole@moe.edu.sg](mailto:lek_hui_xin_nicole@moe.edu.sg)   |
-
+|     | Ms Juliana Binte Mohd Ramli    | [juliana\_mohd\_ramli\_a@moe.edu.sg](mailto:juliana_mohd_ramli_a@moe.edu.sg)   |
 
 ### Our Learning Approach
 
