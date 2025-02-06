@@ -12,7 +12,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | HOD Humanities  | Mr Wu Zonglun    | [wu_zonglun@moe.edu.sg](wu_zonglun@moe.edu.sg)   |
 |SH Humanities|Mdm Lee Hui Cheng|[lee\_hui\_cheng@moe.edu.sg](mailto:lee_hui_cheng@moe.edu.sg)  |
-|SH Assessment|Mr Sim Guo Chen|sim_guo_chen@moe.edu.sg
+|SH Assessment|Mr Sim Guo Chen|[sim\_guo\_chen@moe.edu.sg](mailto:sim_guo_chen@moe.edu.sg)  |
 |      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi\_karupaiya@moe.edu.sg](mailto:vijayaletchumi_karupaiya@moe.edu.sg)     |
 |      | Mr Don Marcus K.    | [kannangara\_don\_marcus@moe.edu.sg](mailto:kannangara_don_marcus@moe.edu.sg)   |
 |     | Ms Sarah Lee   | [lee_cheong_kee@moe.edu.sg](mailto:lee_cheong_kee@moe.edu.sg)   |
