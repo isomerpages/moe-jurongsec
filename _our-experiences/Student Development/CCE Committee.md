@@ -8,14 +8,16 @@ variant: markdown
 ## CCE Committee
 |  |  |  |
 | -------- | -------- | -------- |
-|HOD CCE (Covering)  | Mr Nur Izhar Bin Sa'at   | nur_izhar_saat@moe.edu.sg   |
-|HOD EL| Ms Shynn Lim   | lim_shi_ying@moe.edu.sg   |
-|Specialised CCE Teacher (Sec 1) | Mr Ler Jun Yi   |ler_jun_yi@moe.edu.sg 
-|Specialised CCE Teacher (Sec 2)  | Ms Shuryani<br>Mr Ng Teck Koon	 |shuryani_abdul_wahab@moe.edu.sg<br> [ng_teck_koon@moe.edu.sg](ng_teck_koon@moe.edu.sg) |
-|Specialised CCE Teacher (Sec 3)  |Mr Nur Izhar Bin Sa'at     | nur_izhar_saat@moe.edu.sg |
-|Specialised CCE Teacher (Sec 4)  | Ms Teoh Mooi Hoon Clarice<br>Ms Choy Shu Wei Roxanne   | teoh_mooi_hoon@moe.edu.sg<br>choy_shu_wei_roxanne@moe.edu.sg |
-|Citizenship Education Coordinator|Mdm Linda Ng|ng_siew_ching@moe.edu.sg|
+|HOD CCE (Covering)   | Mr Nur Izhar Bin Sa'at    |[nur_izhar_saat@moe.edu.sg](nur_izhar_saat@moe.edu.sg)  |
+|HOD EL   | Miss Shynn Lim Shi Ying   |[lim_shi_ying@moe.edu.sg](lim_shi_ying@moe.edu.sg)  |
+|Senior Teacher CCE (Covering)| Mdm  Shuryani Bte Abdul Wahab   |[shuryani_abdul_wahab@moe.edu.sg](shuryani_abdul_wahab@moe.edu.sg)  |
+|Specialised CCE Teacher  | Mr Ler Jun Yi    |[ler_jun_yi@moe.edu.sg](ler_jun_yi@moe.edu.sg)  |
+|Specialised CCE Teacher  | Mr Mr Ng Teck Koon	     |[ng_teck_koon@moe.edu.sg](ng_teck_koon@moe.edu.sg)  |
+|Specialised CCE Teacher | Miss Teoh Mooi Hoon Clarice |[teoh_mooi_hoon@moe.edu.sg](teoh_mooi_hoon@moe.edu.sg)  |
+|Specialised CCE Teacher  | Miss Choy Shu Wei Roxanne    | [choy_shu_wei_roxanne@moe.edu.sg](choy_shu_wei_roxanne@moe.edu.sg)  |
+|Citizenship Education Coordinator  | Mdm Linda Ng   |[ng_siew_ching@moe.edu.sg](ng_siew_ching@moe.edu.sg)  |
 |Sexuality Education Coordinator|Mdm Norlinda Bte Omar|[norlinda_omar@moe.edu.sg](norlinda_omar@moe.edu.sg)|
+
 
 At Jurong Secondary School, Character and Citizenship Education (CCE) is an integral part of our students' holistic development. Our goal is to cultivate a "Champion Mindset" in all our students, enabling them to reach their full potential. We strive to nurture students of exceptional character, grounded in strong values, and with a genuine concern for their school and society. By doing so, we aim to develop the next generation of responsible and ethical leaders who will make a positive impact in their communities and beyond.
 
