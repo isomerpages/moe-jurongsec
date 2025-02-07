@@ -35,8 +35,8 @@ You can download the schedules from the links below:
 [Sec 1 WA 1 Schedule](/files/WA1_Sec_1.pdf)   
 [Sec 2 WA1 Schedule](/files/WA1_Sec_2.pdf)  
 [Sec 3 WA 1 Schedule](/files/WA1_Sec_3.pdf)   
-[Sec 4 WA 1 Schedule](/files/WA1_Sec_4.pdf)  
-[Sec 5 WA 1 Schedule](/files/WA1_Sec_5.pdf)
+[Sec 4 WA1 Schedule ](/files/2025_Sec_4_WA1_Schedule_Updated.pdf)   
+ [Sec 5 WA 1 Schedule](/files/WA1_Sec_5.pdf)
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
