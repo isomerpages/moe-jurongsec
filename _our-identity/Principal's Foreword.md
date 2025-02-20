@@ -2,32 +2,60 @@
 title: Principal's Foreword
 permalink: /our-identity/principal-forward/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/Principal%20Ms%20Yeo.jpeg" style="height: auto;width:300px;float: right;margin: 5px;">          <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1040178053 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-ligatures:standardcontextual;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
-
-2023 was a momentous year for Jurong Secondary School as we celebrated our 60th Anniversary as a school built by the community, for the community. It was a time of reflection for all of us here at JSS as we affirmed our commitment our students and the school values that continue to ground us as we write new chapters in the JSS story.
-
-Moving ahead to 2024, the school continues to strive towards making “Every Child a Success Story”. This is a promise to journey with every student who comes through our gates to guide them in their exploration of their interests, their deepening of their passions and their pursuit of excellence. More importantly, we recognise that the success story is a changing entity that shifts and transforms as our own society grows.
-
-Minister of Education Mr Chan Chun Sing shared during Work Plan Seminar 2023 about the growing challenges that our students will face in the future amidst a fractious geopolitical, economic, and social global atmosphere. His assertion that success will come as a result of ensuring that every student is a Creator, a Connector and a Contributor is one that we at JSS are passionate about.
-
-**Creators**
-
-JSS students will be challenged to create novel solutions for our changing world. For example, in our Lower Secondary Applied Learning Programme, students will design and create their own visions of smart liveable and lovable spaces. By applying their understanding of urban sustainability and Micro:bit in our Imaginarium, our makerspace equipped with 3D printers, laser cutters and other design tools, students bring concepts into practicality. In addition, richer Education and Career Guidance experiences will bring this burgeoning creativity into reality.
-
-**Connectors**
-
-To expand the horizons of our students and connect them with the world outside of Singapore, our students will take to the skies on overseas experiences as part of various programmes including our Skills, Talent and Research Development Programme, where they will learn how to bridge divides and connect with the global community. Our school, too, will continue hosting our international partners such as the Koishikawa Secondary School in our efforts to seek new experiences for our students.
-
-**Contributors**
-
-Our students will keep championing the needs of the community as they seek to better the lives of those around them. Through Project COMpassion, students are given the agency to help and contribute to worthy causes they are passionate about. Beyond Project COMpassion, our CCAs also strive to design programmes in their myriad capacities to enrich the lives of the community.
-
-It is this student-centric approach to programme design that we hope to enhance our students’ school experiences and truly help them become Champions of Mind and Leaders with Heart. We continue to work in close partnership with our stakeholders, our parents, School Advisory Committee, alumni and the Taman Jurong Community to help all our students find their success stories, whatever shape those stories may take.
-
-Yours in Partnership,
-
-Ms Yeo Siok Ee
-
-<center> Updated 22 Jan 2024</center>
+<div class="isomer-image-wrapper">
+<img style="height: auto;width:300px;float: right;margin: 5px;" height="auto" width="100%" src="/images/Principal%20Ms%20Yeo.jpeg">
+</div>
+<h3><strong>2025 – A Year of Purposeful Growth</strong></h3>
+<p>At Jurong Secondary School, we believe that every child is a success story
+waiting to unfold. As we walk along our vibrant corridors each morning,
+our teachers are filled with pride and excitement for the unique potential
+each day brings to our students.</p>
+<p>We seek to nurture students into well-rounded individuals ready to face
+tomorrow's challenges. We are committed to hone the four desired outcomes
+of a JSS student - Adaptive Thinker, Concerned Citizen, Confident Person
+and Persevering Learner. These are not just words on a wall – they are
+the foundation of every lesson, every interaction, and every achievement
+we celebrate together.</p>
+<p>'<strong>J</strong>ourneying together, <strong>S</strong>haping values, <strong>S</strong>triving
+towards excellence' is not just our mission statement – it is our daily
+reality. Our teachers and parents have witnessed countless success stories,
+both big and small, as our students grow. From a shy child finding his
+or her voice in a school play to a budding animator achieving an award
+at a national competition, or an athlete pushing his or her limits to set
+a new personal best, these moments remind me that every child has the potential
+for growth and greatness.</p>
+<p>We are particularly proud of our Applied Learning Programme (ALP) titled
+"Design for Smart and Sustainable Urban Living". Through this programme,
+we commit to nurturing tomorrow's creators of smart solutions, empowering
+all students through a hands-on, minds-on learning approach. It is inspiring
+to see our students engage with content beyond the national curriculum,
+with a strong emphasis on the use of technology, STEM-related skills, sustainability,
+and living.</p>
+<p>Equally important is our strong focus on sports. We believe that sports
+are a powerful driver for achieving our desired outcomes. Through sports,
+our students learn invaluable lessons about teamwork, discipline, resilience,
+and leadership. These experiences contribute significantly to making every
+child's journey a success story.</p>
+<p>We are blessed to have a strong support network. Our dedicated staff,
+supportive parents, active School Advisory Committee (SAC), engaged alumni,
+industry partners, and the warm Taman Jurong community all play crucial
+roles in creating a rich, nurturing environment where every child can thrive.</p>
+<p>At the heart of our school are the values we hold dear: Loyalty, Industry,
+Sincerity and Love. I have seen these values in action – in students supporting
+each other through tough times, in the tireless efforts of our teachers,
+and in the genuine care that permeates our school culture.</p>
+<p>We believe in holistic education, supporting our students not just in
+academics, but in their Co-Curricular Activities (CCA), sports, and personal
+interests too. It brings me joy to see each child find their own path to
+success, whether it is excelling in mathematics, showcasing athletic prowess,
+or applying STEM skills to a sustainability project.</p>
+<p>Looking forward to meeting you and your child on this exciting journey
+of growth and discovery, where every child writes their own success story.</p>
+<p>Yours in Partnership</p>
+<p>Ms Yeo Siok Ee</p>
+<p>Principal</p>
+<p></p>
+<p></p>
+<p></p>
