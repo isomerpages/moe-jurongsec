@@ -3,6 +3,7 @@ title: JSS Alumni Association
 permalink: /our-identity/JSS-Family/jss-alumni-association/
 description: ""
 third_nav_title: JSS Family
+variant: markdown
 ---
 ![](/images/Alumni%202023.jpeg)
 
@@ -27,7 +28,7 @@ Based on the constitution, the objectives of the alumni are:
 *   For members, as a fraternity, to offer and provide expertise and resources.
 
 
-### 13th Executive Committee Members of the JSS Alumni Association
+### 14th Executive Committee Members of the JSS Alumni Association
 --------------------------------------------------------------
 
 **Advisor**<br>
@@ -38,35 +39,25 @@ Mr Ang Mong Seng, BBM
 Mr Ong Poh Hin
 <br>Mr Tan Teck Yoke, PBM
 
-
-**Honorary Chairperson**<br>
-Mr Wong Sing Lam<br>
-Mdm Tan Irene<br>
-Mr Ng Chor Tan, PBM<br>
-Ms Samantha Chia<br>
-Mdm Wang Lai Poh<br>
-Mr Quek Hong Peng
-Mr Chua King Wah, PBM
-
 |  |  | |
 | -------- | -------- | -------- |
 | Chairperson    | Mr Ang Jit Chuang, PBM  |  |
-| Vice Chairperson   |  Mr Koh Chin Heng Vincent, PBM<br>Mr Peh Eng Hup<br> Mr Michael Lim |  |
-| Treasurer   | Mr Tony Hon |  |
+| Vice Chairperson   |  Mr Koh Chin Heng, Vincent, PBM<br>Mr Lim Ah Poh, Michael<br> Mr Hon Chee Peng, Tony |  |
+| Treasurer   | Mr Peh Eng Hup |  |
 | Assistant Treasurer| Mdm Tan Seow Chow |  |
 | Secretary| Mr Chua Yew Gee Roland|  |
-| Assistant Secretary| Mr Tan Chee Chow |  |
+| Assistant Secretary| Miss Ng Yan Ting, Cheryl |  |
 | Sports Secretary| Mr Ong Khoon Ann|  |
-| Assistant Sports Secretary| Mr Wu Ming Ming||
-| Public Relations Secretary| Mr Toh Gim Wah Eric |  |
-| Assistant Public Relations Secretary| Mr Kok Shaw Terk |  |
-| Social Media Secretary| Mr Tommy Gui||
+| Assistant Sports Secretary| Mr Kok Shaw Terk||
+| Public Relations Secretary| Mr Ho Fa Xiang, Fabian |  |
+| Assistant Public Relations Secretary| Miss Marly Marican |  |
+| Social Media Secretary| Mr Tommy Gui <br> Mr Lui En Yao, Enya||
 | Member Secretary| Mr Fabian Ho||
-|Event Planning Secretary| Mr Tan Shao Koon||
-|Youth Leaders| Miss Cheryl Ng <br> Miss Tan Zhu Kou||
-|Auditor| Mdm Ang Chor Hiok|  |
-| Members| Mr Wong Chee Kiong<br> Miss Roxanne Choy <br> Mr Michael Cheng<br>Mr Albert Ng<br>Mr Ng Seng Tho |  |
-|School Liasion Officer| Mr Philip Wan (HOD Student Management) <br>Mr Stanley Tan (HOD CCE)
+|Event Planning Secretary| Ms Lim Yee Pei, Justina <br> Miss Ngya Jia Lin <br> Mr Tan Shao Koon||
+|Youth Leaders| Miss Daphne Mun Wei D/O Dalip Singh<br> Mr Tan Chee Chow||
+|Auditor| Mr Ng Seng Tho|  |
+
+|School Liasion Officer| Mr Philip Wan (HOD Student Management) <br>
 
 You may also wish to access our Alumni Association [Facebook Page](https://www.facebook.com/profile.php?id=100064587646774) and [Instagram](https://www.instagram.com/jss_alumni/) for more information:
 
