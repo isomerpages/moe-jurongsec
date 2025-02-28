@@ -43,20 +43,20 @@ Mr Ong Poh Hin
 | -------- | -------- | -------- |
 | Chairperson    | Mr Ang Jit Chuang, PBM  |  |
 | Vice Chairperson   |  Mr Koh Chin Heng, Vincent, PBM<br>Mr Lim Ah Poh, Michael<br> Mr Hon Chee Peng, Tony |  |
-| Treasurer   | Mr Peh Eng Hup |  |
-| Assistant Treasurer| Mdm Tan Seow Chow |  |
-| Secretary| Mr Chua Yew Gee Roland|  |
+| Secretary| Mr Chua Yew Gee, Roland|  |
 | Assistant Secretary| Miss Ng Yan Ting, Cheryl |  |
+| Treasurer   | Mr Peh Eng Hup |  |
+| Assistant Treasurer| Mdm Tan Seow Choo |  |
 | Sports Secretary| Mr Ong Khoon Ann|  |
 | Assistant Sports Secretary| Mr Kok Shaw Terk||
 | Public Relations Secretary| Mr Ho Fa Xiang, Fabian |  |
 | Assistant Public Relations Secretary| Miss Marly Marican |  |
-| Social Media Secretary| Mr Tommy Gui <br> Mr Lui En Yao, Enya||
-| Member Secretary| Mr Fabian Ho||
+| Social Media Secretary| Mr Tommy Gui <br> Miss Lui En Yao, Enya||
+| Member Secretary| Mr Toh Gim Wah <br> Mr Albert Ng||
 |Event Planning Secretary| Ms Lim Yee Pei, Justina <br> Miss Ngya Jia Lin <br> Mr Tan Shao Koon||
-|Youth Leaders| Miss Daphne Mun Wei D/O Dalip Singh<br> Mr Tan Chee Chow||
+|Youth Secretary| Miss Daphne Mun Wei D/O Dalip Singh|  |
+| Assistant Youth Secretary| Mr Kok Shaw ||
 |Auditor| Mr Ng Seng Tho|  |
-
 |School Liasion Officer| Mr Philip Wan (HOD Student Management) <br>
 
 You may also wish to access our Alumni Association [Facebook Page](https://www.facebook.com/profile.php?id=100064587646774) and [Instagram](https://www.instagram.com/jss_alumni/) for more information:
