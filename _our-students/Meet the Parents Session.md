@@ -17,10 +17,10 @@ variant: tiptap
 <p><strong>Secondary 3-5</strong>
 <br>The Upper Secondary Meet-the-Parents session was held on 28 February 2025.
 <br>Below are the slides used during the session:</p>
-<p><a href="/files/2025_Sec_3_5_MTP__Main_Slides_Final.pdf" rel="noopener nofollow" target="_blank">Upper Sec Meet-The-Parent Session Main Slides </a>
+<p><a href="/files/2025_Sec_3_5_MTP__Main_Slides_Final.pdf" rel="noopener nofollow" target="_blank">Upper Sec Meet-The-Parent Session Main Slides</a>
 </p>
 <p></p>
-<p><a href="/files/2025_Sec3_MTP_Interaction_with_Form_Teacher_Session.pdf" rel="noopener nofollow" target="_blank">Sec 3 Interaction with Form Teacher Session </a>
+<p><a href="/files/2025_Sec3_MTP_Interaction_with_Form_Teacher_Session.pdf" rel="noopener nofollow" target="_blank">Sec 3 Interaction with Form Teacher Session</a>
 </p>
 <p></p>
 <p><a href="/files/2025_Sec45_MTP_Interaction_with_Form_Teachers_Session.pdf" rel="noopener nofollow" target="_blank">Sec 4-5 Interaction with Form Teachers Session</a>
