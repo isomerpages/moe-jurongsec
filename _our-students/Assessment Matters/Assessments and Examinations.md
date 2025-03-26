@@ -35,7 +35,7 @@ You can download the schedules from the links below:
 
 [Sec 1 WA 2 2025](/files/Sec_1_WA_2_2025__1_.pdf)<br>
 [Sec 2 WA 2 2025](/files/Sec_2_WA_2_2025.pdf)<br>
-[Sec 3 WA 2 2025](/files/Sec_3_WA_2_2025.pdf)<br>
+[Sec 3 WA 2 2025](/files/Sec_3_WA_2_2025__1_.pdf)<br>
 [Sec 4 &amp; 5 WA 2 2025](/files/Sec_4_5_WA_2_2025.pdf)
 
 
