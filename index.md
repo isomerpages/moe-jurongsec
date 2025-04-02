@@ -36,13 +36,12 @@ sections:
       title: JSS OPEN HOUSE 2024
   - infopic:
       title: JSS Direct School Admission Info Session
-      subtitle: Info Session 2024
+      subtitle: Info Session 2025
       id: infopic
-      description: Thank you for joining us! Click on this link to access information
-        shared!
-      button: DSA Sharing Session Slides
-      url: https://drive.google.com/drive/folders/1w5tY_Bf2ly5GaHXt6_u-7hWwxZgNl8ik?usp=sharing
-      image: /images/DSA_Info_Session_Programme_2024_final.jpg
+      description: Do join us and hear from the DSA students personally!
+      button: Click to register
+      url: https://docs.google.com/forms/d/1uhqLxFulh4t1WtBXowSC90n_hFBPrJgUJbMpbafeeBE/edit
+      image: /images/DSA_Info_session_2025_poster_MOTD.jpg
       alt: Image alt text
   - infopic:
       title: JSS 60th Anniversary Celebrations
