@@ -260,8 +260,8 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE, Mr Nur Qarnain
-<br>SH/PE, Ms Ong Wei Chen</p>
+<p>HOD/PE (Covering), Ms Ong Wei Chen
+<br>SH/PE (Covering), Ms Wang Cui Feng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jurong_ss@moe.edu.sg
@@ -274,7 +274,7 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE &amp; CCA, Mr Nur Qarnain
+<p>HOD/PE (Covering), Ms Ong Wei Chen
 <br>Explorers Club, Mr Vincent Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,7 +287,7 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/CCE, Mr Stanley Tan
+<p>HOD/CCE (Covering), Mr Nur Izhar Bin Sa'at
 <br>VIA Coordinator, Ms Clarice Teoh</p>
 </td>
 <td rowspan="1" colspan="1">
