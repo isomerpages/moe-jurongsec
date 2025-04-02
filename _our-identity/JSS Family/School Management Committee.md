@@ -231,7 +231,7 @@ variant: tiptap
 <p>HOD Physical Education &amp; Co-Curricular Activities (Covering)
 <br>
 </p>
-<p>SH Physical Education &amp; Co-Curricular Activities</p>
+<p>SH Physical Education &amp; Co-Curricular Activities (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Wei Chen</p>
@@ -246,7 +246,7 @@ variant: tiptap
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management (Covering)</p>
+<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Philip Wan Wei Meng</p>
