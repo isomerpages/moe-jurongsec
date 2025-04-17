@@ -21,7 +21,7 @@ will be held on 9 May, Friday. During the interactive Subject Option Panel
 Discussion, we will address queries you or your child/ ward may have during
 this session. We strongly encourage parents and students to review the&nbsp;
 information found in the following presentation slides before attending
-the session. You may share your questions at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jsss2mtp</a>.</p>
+the session. You may share your questions via this <a href="https://go.gov.sg/jsss2mtp" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p><a href="/files/Literature_in_English__2025_.pdf" rel="noopener nofollow" target="_blank">Literature in English</a>
 </p>
 <p><a href="/files/Mathematics__2025_.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
