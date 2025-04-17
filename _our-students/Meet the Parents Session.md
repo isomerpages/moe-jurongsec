@@ -14,6 +14,29 @@ variant: tiptap
 <p><a href="/files/2025_S1_MTP_FT_Time_Slides.pdf" rel="noopener nofollow" target="_blank">2025 S1 MTP FT Time Slides</a>
 </p>
 <p></p>
+<p><strong>Secondary 2</strong>
+</p>
+<p>2025 Secondary 2 Meet-The-Parent and Subject Option Exercise Panel Discussion
+will be held on 9 May, Friday. During the interactive Subject Option Panel
+Discussion, we will address queries you or your child/ ward may have during
+this session. We strongly encourage parents and students to review the&nbsp;
+information found in the following presentation slides before attending
+the session. You may share your questions at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jsss2mtp</a>.</p>
+<p><a href="/files/Literature_in_English__2025_.pdf" rel="noopener nofollow" target="_blank">Literature in English</a>
+</p>
+<p><a href="/files/Mathematics__2025_.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
+</p>
+<p><a href="/files/Literature_in_Chinese_G3.pdf" rel="noopener nofollow" target="_blank">Literature in Chinese (G3)</a>
+</p>
+<p><a href="/files/Humanities.pdf" rel="noopener nofollow" target="_blank">Humanities</a>
+</p>
+<p><a href="/files/Applied_Studies.pdf" rel="noopener nofollow" target="_blank">Applied Studies</a>
+</p>
+<p><a href="/files/Science_G3.pdf" rel="noopener nofollow" target="_blank">Science (G3)</a>
+</p>
+<p><a href="/files/Science_G2___G1.pdf" rel="noopener nofollow" target="_blank">Science (G2, G1)</a>
+</p>
+<p></p>
 <p><strong>Secondary 3-5</strong>
 <br>The Upper Secondary Meet-the-Parents session was held on 28 February 2025.
 <br>Below are the slides shared during the session:</p>
