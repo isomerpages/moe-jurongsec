@@ -8,6 +8,7 @@ variant: markdown
 <p>Under Construction</p>
 <div hidden="">
 
+![DSA Infor Session 2025](/images/DSA_Info_session_2025_poster_MOTD.jpg)
 ![](/images/DSA_Tea_Session_Slide.png)
 
 Register via this [link](https://docs.google.com/forms/d/13cZB4QMJTk8LZnalShgSjGw5JsJHtrUL_WhdfN7yPPQ/edit) if you are keen to attend JSS DSA Info Session on 18 May, Saturday.  
