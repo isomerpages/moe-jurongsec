@@ -5,6 +5,8 @@ description: ""
 third_nav_title: DSA Admission & Application
 variant: markdown
 ---
+<p>Under Construction</p>
+<div hidden="">
 ## **Admission Criteria**
 
 All applicants must be eligible for Secondary One admission the following year. Shortlisted applicants for the individual programmes will be informed of the following: 
@@ -20,13 +22,13 @@ For clarifications regarding our DSA programmes, please do not hesitate to email
 
 #### Sports
 
-Mr Nur Qarnain, HOD/PE & CCA
+Mr Nur Qarnain, HOD/PE &amp; CCA
 
-Miss Ong Wei Chen, SH/PE & CCA
+Miss Ong Wei Chen, SH/PE &amp; CCA
 
 #### STEM	
 
-Mr Nur Qarnain, HOD/PE & CCA
+Mr Nur Qarnain, HOD/PE &amp; CCA
 
 Mr Vincent Ng, Explorers Club IC
 
@@ -34,4 +36,4 @@ Mr Vincent Ng, Explorers Club IC
 
 Mr Stanley Tan, HOD/CCE
 
-Ms Clarice Teoh, VIA Coordinator
+Ms Clarice Teoh, VIA Coordinator</div>

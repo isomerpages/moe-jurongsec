@@ -3,8 +3,11 @@ title: DSA Application Process
 permalink: /our-experiences/dsa-admission-and-application/dsa-application-process/
 description: ""
 third_nav_title: DSA Admission & Application
-variant: tiptap
+variant: markdown
 ---
+<p>Under Construction</p>
+<div hidden="">
+
 <p><strong>Application &amp; Selection Process</strong>
 </p>
 <p>All applicants must be eligible for Secondary One admission in 2025.</p>
@@ -307,4 +310,4 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 </tr>
 </tbody>
 </table>
-<p>Updated 2 April 2025</p>
+<p>Updated 2 April 2025</p></div>
