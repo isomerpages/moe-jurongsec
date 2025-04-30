@@ -235,9 +235,8 @@ their PSLE results</p>
 </tbody>
 </table>
 <p>For clarifications regarding our DSA programmes, please do not hesitate
-to <a href="jurong_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">email</a> our
-school, specifying the respective Key Personnel that you would like to
-get in touch with:</p>
+to email our school (jurong_ss@moe.edu.sg), specifying the respective Key
+Personnel that you would like to get in touch with:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
