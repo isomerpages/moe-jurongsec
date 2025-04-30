@@ -5,7 +5,6 @@ description: ""
 third_nav_title: DSA Admission & Application
 variant: markdown
 ---
-
 ## **Admission Criteria**
 
 All applicants must be eligible for Secondary One admission the following year. Shortlisted applicants for the individual programmes will be informed of the following: 
@@ -33,6 +32,6 @@ Mr Vincent Ng, Explorers Club IC
 
 #### Service Leadership 	
 
-Mr Nur Izhar bin Sa'at, HOD/CCE (Covering)
+Mr Nur Izhar Bin Sa'at, HOD/CCE (Covering)
 
 Ms Clarice Teoh, VIA Coordinator
