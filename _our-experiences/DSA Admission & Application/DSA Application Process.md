@@ -260,8 +260,8 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE (Covering), Ms Ong Wei Chen
-<br>SH/PE (Covering), Ms Wang Cui Feng</p>
+<p>HOD/PE &amp; CCA (Covering), Ms Ong Wei Chen
+<br>SH/PE &amp; CCA (Covering), Ms Wang Cuifeng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jurong_ss@moe.edu.sg
@@ -275,7 +275,7 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/PE (Covering), Ms Ong Wei Chen
-<br>Explorers Club, Mr Vincent Ng</p>
+<br>Explorers Club Teacher-in-Charge, Mr Vincent Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
