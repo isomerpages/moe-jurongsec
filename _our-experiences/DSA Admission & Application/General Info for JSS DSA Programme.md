@@ -14,6 +14,3 @@ The selection criteria and process  for the talent areas will be updated from ea
 For more information on DSA-Sec, please refer to the MOE website at [http://moe.gov.sg/dsa-sec](http://moe.gov.sg/dsa-sec)*
 
 <center> Updated 30 April 2025 </center>
-
-
-
