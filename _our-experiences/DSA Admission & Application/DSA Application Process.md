@@ -235,7 +235,7 @@ their PSLE results</p>
 </tbody>
 </table>
 <p>For clarifications regarding our DSA programmes, please do not hesitate
-to contact our Key Personnel in charge of the respective programmes.</p>
+to email our school (jurong_ss@moe.edu.sg), specifying the respective Key Personnel that you would like to get in touch with: </p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -264,8 +264,8 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 <br>SH/PE &amp; CCA (Covering), Ms Wang Cuifeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jurong_ss@moe.edu.sg
-<br>6265 5980</p>
+<p>
+<br></p>
 </td>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE (Covering), Ms Ong Wei Chen
+<p>HOD/PE &amp; CCA (Covering), Ms Ong Wei Chen
 <br>Explorers Club Teacher-in-Charge, Mr Vincent Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,4 +307,4 @@ to contact our Key Personnel in charge of the respective programmes.</p>
 </tr>
 </tbody>
 </table>
-<p>Updated 2 April 2025</p>
+<p>Updated 30 April 2025</p>
