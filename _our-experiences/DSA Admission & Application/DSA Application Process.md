@@ -3,9 +3,9 @@ title: DSA Application Process
 permalink: /our-experiences/dsa-admission-and-application/dsa-application-process/
 description: ""
 third_nav_title: DSA Admission & Application
-variant: markdown
+variant: tiptap
 ---
-# Application &amp; Selection Process
+<h1>Application &amp; Selection Process</h1>
 <p></p>
 <p>All applicants must be eligible for Secondary One admission in 2026.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
@@ -179,10 +179,10 @@ for applicants NOT studying in MOE mainstream schools.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Notification of outcome by school </strong> -
-<br>Applicants will be notified of the outcomes by **4 September 2025**. The school’s
-decision is final. The school reserves the right not to release the reasons
-for non-selection of applicants.</p>
+<p><strong>Notification of outcome by school </strong>-
+<br>Applicants will be notified of the outcomes by **4 September 2025**. The
+school’s decision is final. The school reserves the right not to release
+the reasons for non-selection of applicants.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -235,7 +235,9 @@ their PSLE results</p>
 </tbody>
 </table>
 <p>For clarifications regarding our DSA programmes, please do not hesitate
-to email our school (jurong_ss@moe.edu.sg), specifying the respective Key Personnel that you would like to get in touch with: </p>
+to <a href="jurong_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">email</a> our
+school, specifying the respective Key Personnel that you would like to
+get in touch with:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -265,7 +267,8 @@ to email our school (jurong_ss@moe.edu.sg), specifying the respective Key Person
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br></p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
