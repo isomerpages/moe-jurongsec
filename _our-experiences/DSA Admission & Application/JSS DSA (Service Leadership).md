@@ -9,7 +9,7 @@ third_nav_title: DSA Admission & Application
 </p>
 <p>All students in the Service Leadership Programme will acquire the knowledge,
 skills and values to become empathetic leaders, adaptive thinkers, and
-concerned citizens , who lead their peers to identify societal needs and
+concerned citizens, who lead their peers to identify societal needs and
 design impactful community projects to serve the community. Students will
 be given opportunities to initiate, lead and execute projects through various
 Values-in-Action (VIA) platforms in the school. Some of these platforms
@@ -46,6 +46,7 @@ to learn from those serving the community and receive volunteer mentorship
 as they lead self-initiated projects to raise the awareness of and participation
 in community projects among their peers. In 2024, our students were recognised
 with a Merit award for their project advocating for Lions Befrienders.</p>
+<p></p>
 <p></p>
 <hr>
 <p></p>
