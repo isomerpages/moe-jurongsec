@@ -5,7 +5,7 @@ description: ""
 third_nav_title: DSA Admission & Application
 variant: markdown
 ---
-## **Admission Criteria**
+## **Eligibility Criteria**
 
 All applicants must be eligible for Secondary One admission the following year. Shortlisted applicants for the individual programmes will be informed of the following: 
 
