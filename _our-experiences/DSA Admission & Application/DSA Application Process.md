@@ -54,7 +54,7 @@ School for all talent areas:
 <br>• Basketball (Boys &amp; Girls)
 <br>• Cross Country (Boys &amp; Girls)
 <br>• Volleyball (Girls only)
-<br>• Science
+<br>• STEM
 <br>•Service Leadership
 <br>
 <br>Please note that meeting all the criteria does not guarantee the student
