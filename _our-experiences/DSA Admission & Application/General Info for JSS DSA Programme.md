@@ -5,7 +5,7 @@ description: ""
 third_nav_title: DSA Admission & Application
 variant: markdown
 ---
-![DSA Infor Session 2025](/images/DSA_Info_session_2025_poster_MOTD.jpg)
+![DSA_Info_Session 2025](/images/DSA_Info_session_2025_poster_MOTD_JSS_updated_7_May.jpg)
 
 
 Register via this [link](https://docs.google.com/forms/d/e/1FAIpQLSeyQQhVxVcg6vgT8ftaMzBVE_14D6AMqkI9VHZp_2DX9mkFmg/viewform) if you are keen to attend JSS DSA Info Session on 24 May, Saturday.  
