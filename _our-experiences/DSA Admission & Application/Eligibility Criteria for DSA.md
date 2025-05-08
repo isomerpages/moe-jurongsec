@@ -13,7 +13,7 @@ All applicants must be eligible for Secondary One admission the following year. 
 
 | |  |  |
 | -------- | -------- | -------- |
-|**Sports**| **Eligibility Criteria**<br>History and achievemnts in the sport<br>Evidence of passion/ talent/ interest<br>Performance during selection trials <br><br>**Selection Process**<br>Interview and Trails<br>Badminton(Boys only)<br>Basketball (Boys and Girls)<br>Cross Country (Boys and Girls)<br>Volleyball (Girls only)|    |
+|**Sports**| **Eligibility Criteria**<br>History and achievemnts in the sport<br>Evidence of passion/ talent/ interest<br>Performance during selection trials <br><br>**Selection Process**<br>Interview and Trials<br>Badminton(Boys only)<br>Basketball (Boys and Girls)<br>Cross Country (Boys and Girls)<br>Volleyball (Girls only)|    |
 ||||
 |**STEM**|**Eligibility Criteria**<br>Participation in STEM-related activities in and/or beyond primary school<br>Evidence of passion and interest in STEM<br>Basic proficiency in relevant programming languages, problem-solving abilities, and adaptability to new technologies<br><br>**Selection Process**<br>Interview and Simulation Sessions ||
 ||||
