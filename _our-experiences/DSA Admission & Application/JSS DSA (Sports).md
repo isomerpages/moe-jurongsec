@@ -1,7 +1,7 @@
 ---
 title: JSS DSA (Sports)
 permalink: /jss-dsa-sports/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: DSA Admission & Application
 ---
@@ -39,6 +39,9 @@ the games.</p>
 <p>Supports outstanding student athletes to pursue their passion and maximise
 their potential.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC7ON9fdt57ZhRmwp4smL0qsS8uYFl33IrJxrz-7HMy77M8G53jT-vQwHd-cIYtQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+	
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQr0cyVDq4PN3jqUrsP3CeWk5gYJiqFUzeQp2_2dkY27lLSQgZa47Jv8w9H2mJeOQ/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+	
+
 </div>
 <p></p>
