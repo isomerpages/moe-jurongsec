@@ -50,7 +50,4 @@ with a Merit award for their project advocating for Lions Befrienders.</p>
 <p></p>
 <hr>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQv55I8K2FQrIeN0WGX_AtqgQFqETkh130gy6qefW9eWOxEia_pZ4uRvMs7MnNGBw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p>&nbsp;</p>
