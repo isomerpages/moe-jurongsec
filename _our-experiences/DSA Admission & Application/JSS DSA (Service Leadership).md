@@ -47,7 +47,7 @@ as they lead self-initiated projects to raise the awareness of and participation
 in community projects among their peers. In 2024, our students were recognised
 with a Merit award for their project advocating for Lions Befrienders.</p>
 
-<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTruF34V8vMi9hGlpGEsFXXU_MjRDXl4we4RaJ7MGhkssDSbcF-GoTHRURWapUEA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTruF34V8vMi9hGlpGEsFXXU_MjRDXl4we4RaJ7MGhkssDSbcF-GoTHRURWapUEA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 <p></p>
 <p></p>
 <hr>
