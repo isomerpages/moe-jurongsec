@@ -41,4 +41,6 @@ tinkering in our Imaginarium, which is equipped with 3D and laser printers.</p>
 opportunities to further inspire and engage students. This may include
 guest lectures by industry experts, field trips to research institutions
 or technology companies, and participation in STEM competitions.</p>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQuGDZkWR26oHz-4VpLqWLXHcSEDVs_j4A4lMqwQah-emsmIoGjxKkRXiT8MUVS-w/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <p></p>
