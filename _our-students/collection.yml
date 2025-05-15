@@ -2,13 +2,13 @@ collections:
   our-students:
     output: true
     order:
-      - Cohort Outdoor Adventure Learning Camps.md
       - Textbook Lists.md
       - Student Handbook.md
       - School Hours/.keep
       - School Hours/Curriculum Hours.md
       - School Hours/CCA Schedule.md
       - Meet the Parents Session.md
+      - Cohort Outdoor Adventure Learning Camps.md
       - Admission/.keep
       - Admission/Financial Assistance Scheme.md
       - Admission/School Fees.md
