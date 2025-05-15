@@ -36,7 +36,10 @@ the session. You may share your questions via this <a href="https://go.gov.sg/js
 </p>
 <p><a href="/files/Science_G2___G1.pdf" rel="noopener nofollow" target="_blank">Science (G2, G1)</a>
 </p>
-<p></p>
+<p><a href="/files/SL___YH_ADDRESS_2025_S2_MTP_and_SOE_PANEL_DISCUSSION.pdf" rel="noopener nofollow" target="_blank">Year Head Address and SOE Panel Discussion 2025</a>
+</p>
+<p><a href="/files/POST_SEC_PATHWAYS_2025_S2_MTP_and_SOE_PANEL_DISCUSSION.pdf" rel="noopener nofollow" target="_blank">Post Secondary Pathways</a>
+</p>
 <p></p>
 <p><strong>Secondary 3-5</strong>
 <br>The Upper Secondary Meet-the-Parents session was held on 28 February 2025.
