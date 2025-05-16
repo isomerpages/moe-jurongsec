@@ -26,22 +26,13 @@ sections:
       title: Announcements
       button: View More
   - infopic:
-      subtitle: Our JSS Stories In Person!
-      id: infopic
-      image: /images/webbanner.jpg
-      alt: Image alt text
-      description: Principal's sharing will start at 10am.
-      url: https://forms.moe.edu.sg/forms/o1WDPg
-      button: Register here
-      title: JSS OPEN HOUSE 2024
-  - infopic:
       title: JSS Direct School Admission Info Session
       subtitle: Info Session 2025
       id: infopic
       description: Do join us and hear from the DSA students personally!
       button: Click to register
       url: https://docs.google.com/forms/d/1uhqLxFulh4t1WtBXowSC90n_hFBPrJgUJbMpbafeeBE/edit
-      image: /images/DSA_Info_session_2025_poster_MOTD.jpg
+      image: /images/DSA_Poster_new_2025.jpg
       alt: Image alt text
   - infopic:
       title: JSS 60th Anniversary Celebrations
