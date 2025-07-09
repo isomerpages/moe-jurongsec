@@ -33,11 +33,11 @@ Secondary 4 and 5 students will be sitting for their Graduation Examinations in 
 
 You can download the schedules from the links below:  
 
-[Sec 1 WA 2 2025](/files/Sec_1_WA_2_2025__1_.pdf)<br>
-[Sec 2 WA 2 2025](/files/Sec_2_WA_2_2025.pdf)<br>
-[Sec 3 WA 2 2025](/files/Sec_3_WA_2_2025__1_.pdf)<br>
-[Sec 4 &amp; 5 WA 2 2025](/files/Sec_4_5_WA_2_2025.pdf)
+[2025 Sec 1 WA3 Schedule](/files/2025_WA3_PN_Sec_1_0807_1700hrs.pdf)
 
+[2025 Sec 2 WA3 Schedule](/files/2025_WA3_PN_Sec_2_0807_1700hrs.pdf)
+
+[2025 Sec 3 WA3 Schedule](/files/2025_WA3_PN_Sec_3_0807_1700hrs.pdf)
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
