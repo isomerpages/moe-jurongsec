@@ -228,7 +228,7 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; Co-Curricular Activities (Covering)
+<p>HOD Physical Education &amp; Co-Curricular Activities
 <br>
 </p>
 <p>SH Physical Education &amp; Co-Curricular Activities (Covering)</p>
