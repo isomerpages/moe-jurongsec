@@ -12,7 +12,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Chairman   | Mr Quek Hong Peng  |  |
 | Vice Chairman   | Mr Chua Seng Hiap  |  |
-  Treasurer   | Mr Jerel hong Kim Seng |  |
+  Treasurer   | Mr Jerel Chong Kim Seng |  |
 | Member| Mr Ang Jit Chuang |  |
 | Member| Mr Michael Lim Ah Poh|  |
 | Member| Mr Tony Hong Chee Peng |  |
