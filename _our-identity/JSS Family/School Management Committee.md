@@ -76,7 +76,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD English Language</p>
 <p></p>
-<p>SH English Language/Literature (Covering)</p>
+<p>SH English Language/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi Ying Shynn</p>
