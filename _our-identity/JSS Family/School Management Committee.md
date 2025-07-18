@@ -96,7 +96,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Ching Ing
 <br>
-<br>Mdm Zoey Oh Sze Wee</p>
+<br>
+</p>
+<p>Mdm Zoey Oh Sze Wee</p>
 </td>
 </tr>
 <tr>
@@ -109,6 +111,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zheng Jieyun</p>
+<p></p>
 <p>Mdm Wu Dan Amy</p>
 </td>
 </tr>
@@ -117,9 +120,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>HOD Science</p>
 <p>SH Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Shuwen</p>
 <p>Mr Traven Loh Wei Chuen</p>
 </td>
 </tr>
@@ -153,7 +158,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Education Technology</p>
 <p></p>
-<p></p>
 <p>Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,7 +167,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ooi Wei Yong</p>
-<p></p>
 <p></p>
 <p>Mr Sim Guo Chen</p>
 </td>
@@ -207,9 +210,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Aaron Tang Wei Lun
-<br>Ms Hannah Wen Cuiyan
-<br>Ms Norliyana Bte Matin
-<br>Ms Chua Syin Thian</p>
+<br>
+</p>
+<p></p>
+<p>Ms Hannah Wen Cuiyan
+<br>
+</p>
+<p></p>
+<p>Ms Norliyana Bte Matin
+<br>
+</p>
+<p>Ms Chua Syin Thian</p>
 </td>
 </tr>
 <tr>
