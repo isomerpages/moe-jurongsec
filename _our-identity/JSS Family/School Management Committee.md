@@ -150,7 +150,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wu Zonglun
-<br>
 <br>Mdm Lee Hui Cheng</p>
 </td>
 </tr>
@@ -158,19 +157,23 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Education Technology</p>
 <p></p>
-<p></p>
-<p>Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Education Technology</p>
 <p></p>
-<p></p>
-<p>SH Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ooi Wei Yong</p>
-<p></p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Sim Guo Chen</p>
 </td>
 </tr>
