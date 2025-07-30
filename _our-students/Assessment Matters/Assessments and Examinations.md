@@ -41,12 +41,11 @@ You can download the schedules from the links below:
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
-[2025 Secondary 4 &amp; 5 (O) Graduation Exam Schedule ](/files/GE_2025_29_July_2025.pdf)
+[2025 Sec 4 &amp; 5 (O) Graduation Exam Schedule ](/files/GE_2025_29_July_2025.pdf)
 
 [2025 Sec 4 (NA) Graduation Exam Schedule](/files/2025_Sec_4_5_GE___NA_Level.pdf)
 
 [2025 Sec 4 (NT) Graduation Exam Schedule](/files/2025_Sec_4_5_GE___NT_Level.pdf)
-
 
 
 ### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
