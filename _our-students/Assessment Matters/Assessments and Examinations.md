@@ -49,13 +49,13 @@ You can download the schedules from the links below:
 [2025 Sec 4 (NT) Graduation Exam Schedule](/files/2025_Sec_4_5_GE___NT_Level.pdf)
 
 
-### Sec 1 Exam Timetable and Topics for End-of-Year Examinations
+### Sec 1 Exam Timetable for End-of-Year Examinations
 [Sec 1 EOY Exam Schedule 2025 ](/files/EOY_2025_2_Sep_Sec_1_new.pdf)
   
-### Sec 2 Exam Timetable and Topics for End-of-Year Examinations
+### Sec 2 Exam Timetable for End-of-Year Examinations
 [Sec 2 EOY Exam Schedule 2025](/files/EOY_2025_1_Sep_Sec_2.pdf)
 
-### Sec 3 Exam Timetable and Topics for End-of-Year Examinations
+### Sec 3 Exam Timetable for End-of-Year Examinations
 [Sec 3 EOY Exam Schedule 2025](/files/EOY_2025_2_Sep_Sec_3_new.pdf)
 
 
