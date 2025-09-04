@@ -5,7 +5,8 @@ description: ""
 third_nav_title: JSS Family
 variant: markdown
 ---
-![](/images/sac%202023.JPG)
+
+![SAC 2025](/images/WhatsApp_Image_2025_09_04_at_11_55_40_AM.jpg)
 
 
 |  |  | |
