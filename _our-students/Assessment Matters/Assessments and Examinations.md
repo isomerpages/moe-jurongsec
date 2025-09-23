@@ -51,13 +51,19 @@ You can download the schedules from the links below:
 
 ### Sec 1 Exam Timetable for End-of-Year Examinations
 [Sec 1 EOY Exam Schedule 2025 ](/files/EOY_2025_2_Sep_Sec_1_new.pdf)
+
+[2025 EOY Exam Topics and Formats (Sec 1)](/files/2025_S1_EOY_Topics_and_Format_List__1_.pdf)
   
 ### Sec 2 Exam Timetable for End-of-Year Examinations
 [Sec 2 EOY Exam Schedule 2025](/files/EOY_2025_4_Sep_Sec_2__1_.pdf)
 
+[2025 EOY Exam Topics and Formats (Sec 2)](/files/2025_S2_EOY_Topics_and_Format_List__1_.pdf)
+
 
 ### Sec 3 Exam Timetable for End-of-Year Examinations
 [Sec 3 EOY Exam Schedule 2025](/files/EOY_2025_2_Sep_Sec_3_new.pdf)
+
+[2025 EOY Exam Topics and Formats (Sec 3)](/files/2025_S3_EOY_Topics_and_Format_List_1.pdf)
 
 
 <center> Updated 9 Sep 2025 </center>
