@@ -65,5 +65,7 @@ You can download the schedules from the links below:
 
 [2025 EOY Exam Topics and Formats (Sec 3)](/files/2025_S3_EOY_Topics_and_Format_List_1.pdf)
 
+### End-of-Year Examinations Seating Plan
 
+[2025 EOY Examination Seating Plan (25 Sept)](/files/25_Sep_2025_Seating_Plan.pdf)
 <center> Updated 9 Sep 2025 </center>
