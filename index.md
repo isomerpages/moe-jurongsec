@@ -26,13 +26,14 @@ sections:
       title: Announcements
       button: View More
   - infopic:
-      title: JSS Direct School Admission Info Session
-      subtitle: Info Session 2025
+      title: JSS Open House 2025
+      subtitle: JSS Open House 2025
       id: infopic
-      description: Do join us and hear from the DSA students personally!
+      description: Do join us and hear from our JSS students their personal success
+        stories in person!
       button: Click to register
-      url: https://docs.google.com/forms/d/1uhqLxFulh4t1WtBXowSC90n_hFBPrJgUJbMpbafeeBE/edit
-      image: /images/DSA_Poster_new_2025.jpg
+      url: https://form.gov.sg/68a2ac214402f16cea7c2e4e
+      image: /images/OPEN_HOUSE_POSTCARD_FRONT_AND_EBANNER_2025.jpg
       alt: Image alt text
   - infopic:
       title: JSS 60th Anniversary Celebrations
