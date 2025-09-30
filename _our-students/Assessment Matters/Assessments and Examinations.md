@@ -68,4 +68,7 @@ You can download the schedules from the links below:
 ### End-of-Year Examinations Seating Plan
 
 [2025 EOY Examination Seating Plan (25 Sept)](/files/25_Sep_2025_Seating_Plan.pdf)
-<center> Updated 9 Sep 2025 </center>
+
+[2025 EOY Examination Seating Plan (01 Oct)](/files/01_Oct_2025_Seating_Plan.pdf)
+
+<center> Updated 30 Sep 2025 </center>
