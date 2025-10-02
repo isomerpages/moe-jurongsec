@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs and Societies/.keep
-      - Clubs and Societies/Environment Club.md
       - Clubs and Societies/Library Club.md
       - Clubs and Societies/Media and Visual Arts Club.md
       - Clubs and Societies/Science Explorers Club.md
@@ -23,7 +22,6 @@ collections:
       - Sports/Basketball.md
       - Sports/Cross Country.md
       - Sports/Dragon Boat.md
-      - Sports/Floorball.md
       - Sports/Sports and Recreational Club.md
       - Sports/Volleyball.md
       - Sports/.keep
