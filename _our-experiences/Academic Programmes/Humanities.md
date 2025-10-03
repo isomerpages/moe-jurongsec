@@ -21,7 +21,7 @@ variant: markdown
 |      | Mr Wong Ho Jann, Joel    | [wong\_ho\_jann\_joel@moe.edu.sg](mailto:wong_ho_jann_joel@moe.edu.sg)     |
 |     | Mdm Linda Ng     | [ng\_siew\_ching@moe.edu.sg](mailto:ng_siew_ching@moe.edu.sg)    |
 |     | Mr Tan Yong Zhi     | [tan_yong_zhi@moe.edu.sg](tan_yong_zhi@moe.edu.sg)   |
-|     |Mr Mark Lee|[yue\_hern\_mark@moe.edu.sg](mailto:yue_hern_mark@moe.edu.sg)  |
+
 
 
  <br>
@@ -34,31 +34,24 @@ The Humanities Department is committed to engage students through the Spirit of 
 
 Students undergoing the JSS Humanities learning experience will:
 
-*   Understand content and concepts in a relatable and an accessible manner
-*   Be encouraged to be curious, courageous and confident in approaching societal issues and presenting points of view in a convincing manner
-*   Participate in performance tasks that enable them with opportunities for learning the discipline in an authentic setting within the community
+* Understand content and concepts in a relatable and an accessible manner
+* Be encouraged to be curious, courageous and confident in approaching societal issues and presenting points of view in a convincing manner
+* Participate in performance tasks that enable them with opportunities for learning the discipline in an authentic setting within the community
+
 
 **Highlights of inquiry-based learning in Humanities**&nbsp;
 
-- **Geographical Investigation (GI)**
+**Learning Beyond the Classroom**
 
-The GI fieldwork experience provided students with the opportunity to go beyond the classroom and engage in hands-on, outdoor learning by actively gathering data at various investigation field sites such as Jurong Lake Gardens, Ponggol Northshore Estate, Chinatown, and Taman Jurong Park. This approach allowed students to apply their fieldwork skills in real-world settings and address questions that are meaningful to them. The diverse field sites offer students exposure to a variety of environments, fostering a deeper understanding of the world around them and enhancing their analytical and problem-solving abilities.
+Our students extended their learning beyond textbooks through hands-on investigations across subjects. In the Geographical Investigation (GI), they gathered data at sites such as Jurong Lake Gardens, Chinatown, and Taman Jurong Park to apply fieldwork skills in real-world settings. The Historical Investigation (HI) allowed them to analyse sources and perspectives to draw evidence-based conclusions, while the Social Studies Issues Investigation (SSI) engaged them in exploring current issues and diverse viewpoints. These experiences deepened their knowledge and nurtured critical thinking, inquiry skills, and active citizenship.
 
-- **Competitions and Enrichment**
+**Competitions and Enrichment Opportunities**
 
-Participation in enrichment activities and competitions offers students a rewarding avenue to experience the joy of learning while pushing their boundaries. These opportunities challenge students to stretch their abilities, encouraging them to maximize their learning potential.
+Enrichment activities and competitions provide students with meaningful opportunities to extend their learning and stretch their potential. Our Geography students participate in the annual MOE–NUS Geography Challenge, exploring issues like sustainability and climate change. POA students take part in the National Financial Literacy Challenge, applying accounting knowledge to real-world contexts, while History students join the History Challenge to sharpen their inquiry and analytical skills. Such experiences inspire students to grow beyond the classroom and nurture a spirit of excellence.
+ 
+**Our Special Programmes**
+Investigation and Project Based Curriculum/ Curriculum Dependent/ All levels
+Humanities Competition/ Competition dependent/ Selected Students
 
-- **MOE-NUS Geography Challenge**
 
-Geography students have the chance to compete in the annual NUS Geography Challenge. This competition allows participants to explore topics such as sustainability and climate change through a geographical lens.
-
-
-
-## Our Special Programmes
-<br>
-
-| Programme | Discipline | Levels |
-| -------- | -------- | -------- |
-| Humanities/ Star Overseas Immersion    | Humanities   | S3     |
-
-<center> Updated 20 Sep 2024 </center>
+<center> Updated 3 Oct 2025 </center>
