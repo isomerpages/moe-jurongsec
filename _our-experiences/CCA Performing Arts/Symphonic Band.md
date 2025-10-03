@@ -8,35 +8,11 @@ variant: markdown
 ## Symphonic Band
 ![Band 2024](/images/symphonic_band_2.jpg)
 
-Jurong Symphonic Band (JSB) has persistently produced beautiful music, even amidst the Covid-19 pandemic. In preparation for the annual SYF, the band meticulously adhered to strict safety protocols. The event also marked the debut performance of the Secondary Two pupils, who demonstrated exceptional musical proficiency. Despite facing numerous obstacles, JSB members remained unified, and their solidarity and mutual support have fostered strong bonds of loyalty and camaraderie within the band.
+The Jurong Symphonic Band aims to develop students with cultural awareness and appreciation through music education. The students are exposed to repertoires of music, gaining insights into the music they play and cultivating their appreciation for different music genres. Our graduating cohort continues with the tradition of planning for their very own concert - Symphonium V, where they showcase their passion for music to their families and friends.
 
+In April 2025, the band went for Singapore Youth Festival Arts Presentation and was awarded the Certificate of Distinction, which is an achievement for all the students.
 
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|&nbsp;![](/images/JSJ1_Symphonic%20Band_1.jpg) | ![](/images/JSJ2_Symphonic%20Band_2.jpg) |
+The band is committed to continue to highlight students' musical talents and creativity through various school programmes and performances, providing them with platforms to celebrate their achievement together as a family.
 
-<center>JSB Main Band Practice</center> 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQo_-5-Tw6IC-SMJ2iFbxk6S8-WZnffW_hbHjBvKk1AjFz8NgFHPofEAqnMhYM6nFOINGPIAPL4AWtB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|&nbsp;![](/images/JSJ3.png)<center>JSB Teachers’ Day Performance (via Zoom)</center>| ![](/images/JSJ4.jpg)<center>JSB Community Performance with Taman Jurong CCC</center> |
-
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|![](/images/JSJ5.png) |![](/images/JSJ6.jpg) | 
-
-<center>Singapore Youth Festival - Arts Appreciation</center> 
-
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|&nbsp;![](/images/JSJ7.jpg) | ![](/images/JSJ8.jpg) | 
-
-<center>National Day Parade Performance</center>
-
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|&nbsp;![](/images/JSJ9.jpg)<center>Farewell gathering for our graduating band members</center> | ![](/images/JSJ10.jpg)<center>JSS Learning Festival - Jurong Symphonic Band collaborates with Chinese Orchestra</center> |
-
-|&nbsp;&nbsp; |&nbsp; 
-|---|
-|&nbsp;![](/images/JSJ11.jpg)<center>Singapore International Band Festival \- International School Exchange</center> |
