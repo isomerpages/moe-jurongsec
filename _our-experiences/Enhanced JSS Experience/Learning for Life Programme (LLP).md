@@ -8,26 +8,30 @@ variant: markdown
 ![LLP 2024](/images/learning_for_life_programme_2.jpg)
 
 ### Learning for Life programme
-The Learning for Life programme will provide students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self expression and strengthen their people skills. This will be an integral aspect and a distinctive signature approach of Character and Citizenship Education (CCE). The intent is to instill in our students a sense of rootedness and responsibility for their community and fellow Singaporeans. Areas explored in LLP may include, among others, outdoor adventure learning, sports, student leadership development, uniformed groups, performing and visual arts.
+The Learning for Life programme provides students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their people skills. 
 
-### Premise
-Our LLP vision is guided by our belief that sports, when presented and organised meaningfully, will yield three benefits, i.e. to positively impact the physical, psychological and social well-being of a teenager. Through participation in sports, our students not only build up their physical fitness but acquire strong character and desired values.
+### Framework
+We shape students' values and help them build Loyalty, Industry, Sincerity and Love through our distinctive "Sporty at Heart, Sporting in Mind" programme, which provides experiential learning opportunities that develop character, instil rootedness and responsibility for their community and fellow Singaporeans.
 
-### Our Framework
-JSS’ Sporty at Heart, Sporting in Mind programme adopts a 3-tiered approach of (1) Know, (2) Do and (3) Excel, which is applied across different levels of participation (from mass participation to participation by the talented or passionate). It emphasises value acquisition and transference of such values into the way we live and work.
+Students are supported in their pursuit of excellence in their studies, CCA and interests by applying our three-tiered framework of 1) Know, 2) Do, 3) Excel, across different levels of participation, from mass participation to participation by the talented or passionate, emphasising value acquisition and transference into how we live and work.
 
-<img src="/images/JSS%20Framework%20-%20LLP.png" style="width:70%">
+![LLP Framework](/images/LLP_framework.png)
 
-### Value and Impact
-Through active participation in sports at the three levels (know, do and excel) and through competitive and non-competitive platforms, our LLP seeks to support the building of core values, as articulated in the desired outcomes.
+This integrated approach ensures that our LLP serves as an integral aspect and distinctive signature approach of Character and Citizenship Education, where sports participation builds not only physical fitness but also strong character and desired values that align with our school's vision of developing Champions of Mind and Leaders with Heart.
 
-### Mission
-A community where all staff and students embrace sports as part of their lifestyle and collectively build a culture where sports serve a dual purpose of promoting healthy lifestyle and inculcating values.
+### Student Outcomes 
+Through our Learning for Life programme, we develop Adaptive Thinkers who can navigate challenges through sports experiences, Confident Persons who express themselves positively through physical activities, Persevering Learners who embrace the Know-Do-Excel progression, and Concerned Citizens who demonstrate rootedness and responsibility for their community through sporting values and healthy lifestyle choices.
 
-### Desired Outcomes
+Areas explored in LLP may include, among others, outdoor adventure learning, sports, student leadership development, uniformed groups, performing and visual arts.
 
-| School Values | Olympic Values | Desired Outcomes |
-|---|---|---|
-| Industry | Excellence<br>Tenacity<br>Courage<br>Confidence | A JSS student:<br>- exhibits the ability to withstand and overcome challenges and obstacles<br>- has the tenacity to strive and excel in all endeavours<br><br>Proficiency:<br>- (Baseline) able to learn a variety of games and games concepts<br>- (Talented) able to demonstrate basic game skills and Fundamentals of a Sportsman |
-| Love | Friendship<br>Care for self and others<br>Empathy<br>Teamwork | A JSS student<br>- demonstrates sportsmanship<br>- acts according to one’s moral compass<br>- is intrinsically motivated in all his/her involvements and commitments<br><br>Proficiency<br>- (Baseline) able to learn a variety of games and games concepts focussing more in depth on team.<br>- (Talented) able to demonstrate Team Dynamics and Development of Sportsmanship |
-| Sincerity | Respect<br> Class and Grace<br> Dignity<br> Harmony | A JSS student<br>- acknowledges others’ values and beliefs (respecting others’ judgement and is understanding of others’ behaviour)<br><br>Proficiency<br>- (Baseline) able to discern right from wrong and one’s behaviour is determined by their personal morals<br>- (Talented) able to be an Aspiring/Inspiring Sports Leader and Mentor for Self, School and Society d 20 Sep 2024 
+### Events
+Outdoor Adventure Learning Camps <br>
+Bouldering<br>
+Inline Skating <br>
+Sports Camp <br>
+Annual Cross Country <br>
+Games Carnival <br>
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmqjuLmsZOY2sXk9M9vHKgl6n93f0BN4ZN284jTqat7zV-vLAGFB_CW1Jcn1Y7BqDgG-F3DjlXyjGz/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+
