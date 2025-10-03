@@ -10,45 +10,33 @@ variant: markdown
 
 <br>
 
-The Badminton team's JSS spirit remained unscathed by the challenges of Covid-19. Despite the hurdles, we managed to foster a greater sense of unity, persistence, and determination among the players. We have been closely monitoring each player's progress, both online and offline, to ensure that they receive the necessary support. 
+**Hard Work Beats Talent**
 
-Our team in the "B" division exhibited exceptional courage, resilience, and proficiency by securing a spot in the top 6 of the NSG West Zone Badminton Championship, held in March 2021. The players' rigorous training has also instilled a sense of discipline and optimism in them.
+At JSS, the Badminton (Boys) team stands strong with relentless determination and an unstoppable spirit, always ready to face any challenge head-on. United by our passion for badminton, we train with intensity, encouraging one another to reach new heights. Our teamwork shines in every match as we celebrate each hard-fought point together. Beyond the games, our bond grows stronger, turning teammates into brothers. For us, this journey is about far more than winning — it is about personal growth, friendship, and rising as one.
 
+Beyond training, the CCA conducts monthly bonding sessions to instill values such as teamwork and discipline, strengthening unity within the team. Additionally, members organized pizza parties for graduating seniors as a meaningful gesture of appreciation for their guidance and contributions.
 
-<br>
+The team firmly believes in the quote, “Hard work beats talent,” and continues to train diligently even during the holidays. With perseverance and dedication, we believe the team will continue to grow and excel to its fullest potential.
 
-|   |   |
-|---|---|
-| ![](/images/JS1_B%20division%20West%20zone%20boys%202nd%20runner%20up%20group.jpeg)  |![](/images/JS2_Congratulation%20on%20clinching%202022%20West%20Zone%20B%20Division%20boys%202nd%20runner%20up.jpeg)|
+**Friendly Games **
+West Spring Sec (July 2025)<br>
+Edgefield Sec (June 2025)<br>
+Kranji Sec (May 2025)<br>
+Clementi Town Sec (March 2025)<br>
+End Year Inter-Cluster Cup (Nov 2024)<br>
+(4 Schools, Monfort Sec, Canberra Sec, and West Spring Sec)<br>
+Holy Innocent High School (May 2024)<br>
+West Spring Sec (March 2024)
 
+Achievements: 
+2025 B Division West Zone Top 8<br>
+2025 C Division League 2 <br>
+2024 B Division West Zone Top 8 <br>
+2024 C Division League 2 <br>
+2023 B Division West Zone 4th<br>
+2023 C Division West Zone Top 8
 
-|   |   |
-|---|---|
-| ![](/images/JS3_going%20for%20the%20big%20smash.jpeg) | ![](/images/JS4_Going%20for%20the%20shuttle%202.jpeg)  |
-
-
-
-|   |   |
-|---|---|
-| ![](/images/JS5_Going%20for%20the%20shuttle.jpeg) | ![](/images/JS6_Going%20for%20the%20smash.jpeg)  |
-
-
-|   |   |
-|---|---|
-| ![](/images/JS7_keeping%20the%20smile%20no%20matter%20how%20tough%20training%20is.jpeg)  | ![](/images/JS8_reaching%20for%20the%20shuttle.jpeg) |
-
-|   |   |
-|---|---|
-| ![](/images/JS9_Serving%201.jpeg) | ![](/images/JS10_stride%20in%20important%202.jpeg) |
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDGJHUIhOq06uFV5Dil5vLZJUY5Jwg56acOwKikKaotvH3SPw0t1o_DjpkkHLR1WuekTSLpZ1LoSGW/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 
 
-|   |   |
-|---|---|
-| ![](/images/JS11_Stride%20is%20important.jpeg) |  |
-
-
-
-
-
-![](/images/JS12_Training%20hard.jpeg)
