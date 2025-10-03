@@ -114,15 +114,10 @@ and enhance their design thinking beyond the school level. These competitions
 offer rich and authentic learning opportunities as students gain hands-on
 experience. Examples include:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p><strong>Climate Crisis Challenge</strong>: Tackling problems related to
-themes such as food insecurity, heat stress, or biodiversity loss.</p>
-</li>
-<li>
-<p><strong>NUS National Geo Challenge</strong>: Focusing on sustainability
-and climate change.</p>
-* **Singapore Youth STEM Fair**: Ideating and prototyping STEM solutions to solving real world problems
-<p></p>
+* Climate Crisis Challenge: Tackling problems related to themes such as food insecurity, heat stress, or biodiversity loss.<br>
+* NUS National Geo Challenge: Focusing on sustainability and climate change.  <br>
+* Singapore Youth STEM Fair: Ideating and prototyping STEM solutions to solving real world problems
+
 	
 	
-<center> Updated 3 Oct 2025 </center></li></ul>
+<center> Updated 3 Oct 2025 </center></ul>
