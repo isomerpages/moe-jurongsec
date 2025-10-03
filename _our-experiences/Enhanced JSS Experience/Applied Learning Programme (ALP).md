@@ -85,13 +85,11 @@ into how technology can be used to solve problems related to urban living.</p>
 <p>These workshops provide students with greater exposure and training in
 design thinking and STEM-related fields. Examples include:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>STEAM Week Workshops focusing on Chibitronics.</p>
-</li>
-<li>
-<p>Climate and sustainability talks conducted by the Earth Observatory of
-Singapore.</p>
-</li>
+
+* STEAM Week Workshops focusing on emerging STEM tools (e.g. Chibitronics).
+* Climate and sustainability talks conducted by the Earth Observatory of Singapore.
+* Exploring sustainable food options (e.g. edible insects)
+
 </ul>
 <p><strong>Local &amp; Overseas Learning Journeys</strong>
 </p>
@@ -101,11 +99,11 @@ insights, broaden their worldview, and deepen their knowledge. Examples
 include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Visit to BuildTech Asia 2024, featuring innovations in built sustainability
+<p>Visit to BuildTech Asia 2024 &amp; 2025, featuring innovations in built sustainability
 and green living ideas for smart living and environmental sustainability.</p>
 </li>
 <li>
-<p>Overseas immersion trip to Tokyo, Japan, in 2024 for hands-on STEM and
+<p>Overseas immersion trip to Tokyo, Japan (in 2024) and Shanghai (in 2025) for hands-on STEM and
 applied learning experiences in a culturally rich environment.</p>
 </li>
 </ul>
@@ -115,13 +113,11 @@ applied learning experiences in a culturally rich environment.</p>
 and enhance their design thinking beyond the school level. These competitions
 offer rich and authentic learning opportunities as students gain hands-on
 experience. Examples include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Climate Crisis Challenge</strong>: Tackling problems related to
-themes such as food insecurity, heat stress, or biodiversity loss.</p>
-</li>
-<li>
-<p><strong>NUS National Geo Challenge</strong>: Focusing on sustainability
-and climate change.</p>
-<p></p>
-<center> Updated 20 Sep 2024 </center></li></ul>
+
+* **Climate Crisis Challenge**: Tackling problems related to themes such as food insecurity, heat stress, or biodiversity loss.<br>
+* **NUS National Geo Challenge**: Focusing on sustainability and climate change.  <br>
+* **Singapore Youth STEM Fair**: Ideating and prototyping STEM solutions to solving real world problems
+
+	
+	
+<center> Updated 3 Oct 2025 </center>
