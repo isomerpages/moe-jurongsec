@@ -5,30 +5,12 @@ description: ""
 third_nav_title: CCA Clubs and Societies
 variant: markdown
 ---
-## Science Explorers Club
+## Explorers Club
 ![SCI EXP 2024](/images/science_explorers_club_2.jpg)
 
-The Explorer’s Club seeks to promote creativity and all-around life skills like self-assurance, communication, and leadership. The Explorers are given the chance to learn new scientific and research techniques that aren’t typically covered in traditional science curriculum. The club also enhances its members’ knowledge of IOT (Internet of Things) and AI, and it will progressively change its emphasis from science research to robotics. The Explorers participated in a number of robotics competitions as well, including the First Lego League and the National Robotics Challenge each year.
+Embark on a journey of discovery and innovation with the Explorers Club—where curiosity leads to endless possibilities!
 
+Structure and Highlight of CCA:
+The Explorers Club at Jurong Secondary School offers students hands-on learning in two exciting units: Technology and Mechatronics. In the Technology unit, members explore drone programming and develop mini buggies using micro:bits, enhancing their coding and engineering skills. The Mechatronics unit engages students in robotics through the LEGO Spike and VEX IQ platforms, promoting creativity, problem-solving, and teamwork. The club actively participates in major national competitions each year, including the Singapore Amazing Flying Machine Competition (SAFMC), National VEX IQ Challenge, and National Robotics Challenge (NRC). Through these experiences, Explorers Club members gain valuable STEM knowledge and build confidence to innovate and excel.
 
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|&nbsp;![](/images/JSMVAC2.jpg) | ![](/images/JSMVAC3.jpg)|
-
-
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|![](/images/JSMVAC4.jpg)| ![](/images/JSMVAC5.jpg) |
-
-
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|&nbsp; ![](/images/JSMVAC6.jpg) | ![](/images/JSMVAC7.jpg) |
-
-
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|&nbsp;![](/images/JSMVAC8.jpg) | ![](/images/JSMVAC9.jpg) |
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c3k8ftydMM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRu0OS_yM-gJKjEbkaRP4yhEoPcwbu6t-OW-oJKnlRC1vIY9NvQYePmUmJ779kIrKeKW4fJjR03Wzt/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
