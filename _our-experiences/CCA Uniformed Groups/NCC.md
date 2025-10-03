@@ -8,8 +8,19 @@ variant: markdown
 ## NCC
 ![NCC 2024](/images/national_cadet_corps_2.jpg)
 
-The National Cadet Corps (Land) unit plays a critical role in shaping our cadets into confident and capable leaders. NCC HQ unit, along with our school's dedicated Teacher Officers, orchestrate military-style training programs that challenge our cadets to develop their cognitive and leadership abilities, as well as their teamwork skills.
+At Jurong Secondary School, our National Cadet Corps (Land) (NCC) unit is committed to nurturing confident, capable, and compassionate leaders of tomorrow. Guided by the NCC Headquarters and supported by our dedicated Teacher Officers, we provide cadets with a robust and enriching experience that goes beyond conventional co-curricular activities.
 
-These skill-based training programs provide our cadets with the opportunity to hone their strengths and acquire new competencies. The training builds character and fosters a sense of camaraderie among our cadets. It prepares them to face challenges with resilience, strength of heart and mind, and to lead with purpose and determination.
+Our training programme adopts the Cadet Strong Framework to develop every cadet into a self-motivated leader with a resilient mind, a fit body, and a committed heart. This holistic approach nurtures students who are ready to serve their school, community, and nation with pride.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y6dRST7j0B0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+Our cadets undergo a structured and progressive programme that builds their skills and character across four key developmental areas:
+
+* Leadership Development – Cultivating values, teamwork, and the confidence to lead others. Cadets learn to problem-solve, communicate effectively, and take responsibility as they progress into leadership roles.<br>
+* Soldier Fundamentals – Developing discipline and resilience through foot drills, field craft, weapon handling and basic survival skills.<br>
+* National Education – Deepening cadets’ understanding of Singapore’s heritage, defence, and civic responsibilities through Total Defence badge attainment, affirmation ceremonies and community service (VIA).<br>
+* Fitness and Adventure – Building physical fitness, mental toughness, and camaraderie through fitness training, adventure activities, competitions and Sport Championship and selected overseas programmes.
+
+Through progressive responsibilities, mentorship from Teacher Officers, and peer leadership opportunities, our cadets grow into confident role models who embody the values of loyalty, resilience, and service.
+
+By the end of their NCC journey, our cadets leave not only with badges and ranks, but also with the courage, strength of character, and heart to lead and serve their school, community, and nation.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiv4KMXxKVyL1HTa5Uy2g1K3BJGBooOI2s9Uk2xUhPwhd_Aqa41P6-DJwJBOBGxrgeRXFa-CBDHfaI/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
