@@ -10,9 +10,13 @@ variant: markdown
 
 <br>
 
-The Volleyball team demonstrates unwavering determination to maintain their excellence through rigorous year-round training. In addition to their regular training, the team participates in a volleyball camp during the March break to foster stronger bonds among the players.
+At Jurong Secondary, the Volleyball team embodies the spirit of discipline, resilience, and passion. Through rigorous year-round training, our players learn far more than just the game—they grow as individuals who carry these lessons into every part of their lives.
+The demands of training nurture Adaptive Learners who embrace challenges, adjust to different styles of play, and stay motivated even in the face of setbacks. As they refine their strategies and respond quickly to unpredictable matches, players analyse situations and find creative solutions both on the court and in the classroom.
 
-Furthermore, extensive training sessions at the end of the year, as well as international excursions, provide valuable opportunities for our players to compete at various levels. These activities enable our players to gain exposure to different styles of play and heighten their level of competitiveness.
+Beyond physical skills, every serve and spike builds the courage to step up. Whether leading drills or facing tough opponents, our players grow into Confident Persons, ready to share their voices and take on new opportunities. 
+
+The Jurong Secondary Volleyball team proves that success is not only measured by wins, but by the character and resilience developed along the way. The discipline forged in CCA strengthens every aspect of our students’ learning journey, preparing them to thrive wherever life takes them.
+
 
 |&nbsp;&nbsp; |&nbsp;&nbsp; |  
 |---|---|  
