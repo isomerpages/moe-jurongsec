@@ -113,11 +113,11 @@ applied learning experiences in a culturally rich environment.</p>
 and enhance their design thinking beyond the school level. These competitions
 offer rich and authentic learning opportunities as students gain hands-on
 experience. Examples include:</p>
-<ul data-tight="true" class="tight">
-* Climate Crisis Challenge: Tackling problems related to themes such as food insecurity, heat stress, or biodiversity loss.<br>
-* NUS National Geo Challenge: Focusing on sustainability and climate change.  <br>
-* Singapore Youth STEM Fair: Ideating and prototyping STEM solutions to solving real world problems
+
+* **Climate Crisis Challenge**: Tackling problems related to themes such as food insecurity, heat stress, or biodiversity loss.<br>
+* **NUS National Geo Challenge**: Focusing on sustainability and climate change.  <br>
+* **Singapore Youth STEM Fair**: Ideating and prototyping STEM solutions to solving real world problems
 
 	
 	
-<center> Updated 3 Oct 2025 </center></ul>
+<center> Updated 3 Oct 2025 </center>
