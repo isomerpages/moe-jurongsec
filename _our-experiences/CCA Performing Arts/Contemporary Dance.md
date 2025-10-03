@@ -8,14 +8,15 @@ variant: markdown
 ## Contemporary Dance
 ![Dance 2024](/images/contemporary_dance_2.jpg)
 
-i-DANCE.ity is a dance CCA that aims to cultivate the artistic talents of its participants through various dance styles. Our four-year program not only focuses on developing their dance skills but also on nurturing well-rounded individuals who are active members of their communities. Despite the challenges posed by Covid-19, our dancers were able to participate in SYF 2021 and attend training sessions with proper safety measures in place. The event served as a unifying experience for the dance crew and further strengthened their bond.
+Our Modern Dance CCA provides students with an exciting platform to explore contemporary movement and artistic expression. Through dynamic training sessions, dancers develop technical skills, creativity, and confidence whilst learning various modern dance styles and choreographic techniques. Our dedicated members work collaboratively to create compelling performances that showcase their passion and artistry.
 
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-| ![](/images/JS2_Dance_1.jpg)<center>Dancers in formation</center> | &nbsp;![](/images/JS3_Dance_2.jpg)<center>CCA Leader giving debrief after training sessions</center> |
+The CCA emphasizes both individual growth and teamwork, fostering discipline, perseverance, and mutual support amongst dancers. Students have opportunities to perform at school events and external competitions, building stage presence and performance experience.
 
-|&nbsp;&nbsp; |&nbsp;&nbsp; |  
-|---|---|  
-|&nbsp;![](/images/JS4_Dance_3.jpg) <center>Dancers preparing for performances</center> | ![](/images/JS5_Dance_4.jpg)<center>Dancers stretching and warming up</center> |
+We are proud of our dancers' commitment and talent, which was recognized with a Distinction award at the 2025 Singapore Youth Festival Arts Presentation. This achievement reflects the hard work, dedication, and artistic excellence that defines our Modern Dance community.
 
-<center> Updated 26 Mar 2023 </center>
+Join us to discover the joy of movement, express your creativity, and be part of a vibrant artistic family that celebrates the beauty of contemporary dance.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPiWctG5_aObBdV22tGhvelKGkugCSZ17wRl2UF3G5Y4ncmlHftAv7INNatIEJrlQ1Df1JA9xKvQP3/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+
+<center> Updated 3 Oct 2025 </center>
