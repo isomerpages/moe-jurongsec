@@ -6,14 +6,13 @@ third_nav_title: Academic Programmes
 variant: markdown
 ---
 ## Applied Studies
-<br>
+
 
 
 
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD Applied Studies   | Mrs Juliana Ng     | [goh_wee_peng@moe.edu.sg](goh_wee_peng@moe.edu.sg)    |
-| SH ICT  | Mr Lam Chee Leong  | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)  
 |  (Asst Year Head Sec 2) | Ms Norliyana Bte Matin     | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
 | Computer Application Teachers   | Mr Philip Wan |[wan_wei_meng@moe.edu.sg](Wan_wei_meng@moe.edu.sg)  |
 |   | Mr Lam Chee Leong  | [lam_chee_leong@moe.edu.sg](lam_chee_leong@moe.edu.sg)   |
