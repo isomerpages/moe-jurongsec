@@ -6,7 +6,7 @@ third_nav_title: CCA Performing Arts
 variant: markdown
 ---
 ## English Drama Club
-![EDC 2024](/images/english_drama_club_2.jpg)
+
 
 The English Drama Club (EDC) strives to cultivate the acting talents and self-awareness of our students. Each year, our students engage in a rigorous process of designing and scriptwriting as they prepare for the year’s biggest drama competition, the Singapore Youth Festival Arts Presentation. This year, their original production titled ‘Average’ garnered the Distinction award at the Singapore Youth Festival Arts Presentation (Drama) 2025, showcasing their exceptional creativity and skills.
 
