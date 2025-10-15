@@ -6,9 +6,8 @@ third_nav_title: Enhanced JSS Experience
 variant: markdown
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ALP 2024" src="/images/applied_learning_programme_2.jpg">
-</div>
+
+
 <h3>Design for Smart and Sustainable Urban Living</h3>
 <p>Through our ALP (Applied Learning Programme) titled <em>Design for Smart and Sustainable Urban Living</em>,
 we commit to <strong><em>Nurturing Tomorrow’s Creators of Smart Solutions</em></strong>,
@@ -120,4 +119,4 @@ experience. Examples include:</p>
 
 	
 	
-<center> Updated 3 Oct 2025 </center>
+<center> Updated 15 Oct 2025 </center>
