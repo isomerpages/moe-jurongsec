@@ -6,9 +6,6 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Sports and Recreational Club
-<br>
-
-![SRC 2024](/images/sports_and_recreational_club_2.jpg)
 
 The Sports and Recreational Club provides JSS students with opportunities to engage in a diverse range of sports and leisure activities. In the past, our activities have included cycling, kayaking, and rock climbing, among others.
 
