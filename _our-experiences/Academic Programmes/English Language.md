@@ -74,7 +74,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT</p>
+<p>English Language Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lam Chee Leong</p>
@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language Teachers</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Bibi Nur Shakirrah</p>
