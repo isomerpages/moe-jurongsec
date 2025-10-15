@@ -6,7 +6,7 @@ third_nav_title: CCA Performing Arts
 variant: markdown
 ---
 ## Contemporary Dance
-![Dance 2024](/images/contemporary_dance_2.jpg)
+
 
 Our Modern Dance CCA provides students with an exciting platform to explore contemporary movement and artistic expression. Through dynamic training sessions, dancers develop technical skills, creativity, and confidence whilst learning various modern dance styles and choreographic techniques. Our dedicated members work collaboratively to create compelling performances that showcase their passion and artistry.
 
