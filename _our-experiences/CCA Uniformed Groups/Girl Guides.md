@@ -6,7 +6,7 @@ third_nav_title: CCA Uniformed Groups
 variant: markdown
 ---
 ## Girl Guides
-![GG 2024](/images/girl_guides_2.jpg)
+
 
 
 Our Girl Guides engage in activities designed to cultivate their confidence and self-assurance when confronting novel and unpredictable situations and challenges. Through hands-on experiences, they acquire valuable skills that enable them to lead and participate in community service projects that make a positive impact in the community.
