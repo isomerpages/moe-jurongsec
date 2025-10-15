@@ -8,7 +8,7 @@ variant: markdown
 ## Applied Studies
 <br>
 
-![AS 2024](/images/applied_studies_2.jpg)
+
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -67,4 +67,4 @@ Upper Secondary
 
 School-wide STEAM week programme
 
-<center> Updated 20 Sep 2024 </center>
+<center> Updated 15 Oct 2025 </center>
