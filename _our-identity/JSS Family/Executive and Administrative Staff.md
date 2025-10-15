@@ -6,7 +6,7 @@ third_nav_title: JSS Family
 variant: markdown
 ---
 ### General Office
-![EAS 2024](/images/executive_and_administrative_staff_2.jpg)
+
 
 
 |  |  |
