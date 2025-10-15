@@ -6,7 +6,7 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Cross - Country 
-![CC 2024](/images/cross_country_2.jpg)
+
 
 
 The JSS Cross Country Team endeavors to develop mental fortitude, self-discipline, and perseverance in each runner through their training program. By training together, they learn to be accountable and support one another as a cohesive unit. 
