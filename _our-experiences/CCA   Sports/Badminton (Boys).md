@@ -6,7 +6,7 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Badminton (Boys)
-![Bad 2024](/images/badminton_2.jpg)
+
 
 <br>
 
@@ -37,6 +37,3 @@ Achievements:
 2023 C Division West Zone Top 8
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDGJHUIhOq06uFV5Dil5vLZJUY5Jwg56acOwKikKaotvH3SPw0t1o_DjpkkHLR1WuekTSLpZ1LoSGW/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-
-
