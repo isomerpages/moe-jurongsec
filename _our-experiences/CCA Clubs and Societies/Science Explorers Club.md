@@ -6,7 +6,7 @@ third_nav_title: CCA Clubs and Societies
 variant: markdown
 ---
 ## Explorers Club
-![SCI EXP 2024](/images/science_explorers_club_2.jpg)
+
 
 Embark on a journey of discovery and innovation with the Explorers Club—where curiosity leads to endless possibilities!
 

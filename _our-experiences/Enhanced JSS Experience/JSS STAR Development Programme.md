@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Enhanced JSS Experience
 variant: markdown
 ---
-![Talent Development 2024](/images/talent_development_2.jpg)
 
-<img src="/images/STAR%20programme.png" style="width:30%">
 		 
 ### The Programme’s Philosophy:
 Guided by our school’s vision of grooming our students to be Champions of Mind and Leaders with Heart, the JSS Skills, Talent and Research (STAR) Development Programme is committed to provide our students the opportunity to stretch their intellectual capacity and talents in areas beyond the core curriculum and to hone their leadership skills.
@@ -108,4 +106,4 @@ Vietnamese cooking class during overseas trip
 ![Visit to ArtScience musuem to learn about mental health](/images/visit_to_ArtScience_musuem_to_learn_about_mental_health_2.jpg)
 Visit to ArtScience musuem to learn about mental health
 
-<center> Updated 20 Sep 2024 </center>
+<center> Updated 15 Oct 2025 </center>

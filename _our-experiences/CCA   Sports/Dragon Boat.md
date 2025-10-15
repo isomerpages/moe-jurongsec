@@ -6,7 +6,7 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Dragon Boat
-![DB 2024](/images/dragon_boat_2.jpg)
+
 
 
 Dragonboat racing is an exhilarating sport that demands exceptional teamwork, physical prowess, and strict discipline. Our students not only enhance their physical abilities but also learn the value of sportsmanship, perseverance, humility, and teamwork. 

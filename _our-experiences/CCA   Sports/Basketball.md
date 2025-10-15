@@ -6,11 +6,11 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Basketball
-![BB 2024](/images/basketball_boys_2.jpg)
 
-<br>
 
-![BB Girls 2024](/images/basketball_girls_2.jpg)
+
+
+
 
 Our JSS Basketball Team is dedicated to instilling a robust ethos of hard work and unwavering resilience within our members, through rigorous physical and technical training regimens. Our players cultivate a profound sense of teamwork, emphasising mutual support both during games and in their daily interactions. Eager to contribute to our school’s rich sporting legacy, the team recently showcased their prowess in a commendable display during the National School Games.
 

@@ -6,9 +6,9 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Volleyball 
-![VB 2024](/images/volleyball_2.jpg)
 
-<br>
+
+
 
 At Jurong Secondary, the Volleyball team embodies the spirit of discipline, resilience, and passion. Through rigorous year-round training, our players learn far more than just the game—they grow as individuals who carry these lessons into every part of their lives.
 The demands of training nurture Adaptive Learners who embrace challenges, adjust to different styles of play, and stay motivated even in the face of setbacks. As they refine their strategies and respond quickly to unpredictable matches, players analyse situations and find creative solutions both on the court and in the classroom.

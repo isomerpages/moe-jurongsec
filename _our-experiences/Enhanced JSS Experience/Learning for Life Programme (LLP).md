@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Enhanced JSS Experience
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP 2024" src="/images/learning_for_life_programme_2.jpg">
-</div>
 <h3>Learning for Life programme</h3>
 <p>The Learning for Life programme provides students with real-life experiential
 learning to develop their character and values, cultivate positive attitudes,

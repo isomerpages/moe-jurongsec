@@ -6,7 +6,7 @@ third_nav_title: CCA Uniformed Groups
 variant: markdown
 ---
 ## NPCC 
-![NPCC 2024](/images/national_police_cadet_corps_2.jpg)
+
 
 The National Police Cadet Corps (NPCC) aims to shape students into responsible, civic-minded, resilient, and resourceful members of society. Through rigorous training and engaging activities, cadets develop a strong sense of civic duty, perseverance, and accountability—qualities essential for becoming effective community leaders.
 

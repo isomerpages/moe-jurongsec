@@ -6,7 +6,6 @@ third_nav_title: CCA Uniformed Groups
 variant: markdown
 ---
 ## Scouts 
-![Scouts 2024](/images/scouts_2.jpg)
 
 The Jurong Screaming Eagle Scout Group nurtures Scouts into responsible and community-minded individuals through experiential learning guided by the Scout Method. Our Scouts develop core outdoor skills such as pioneering, campcraft, cooking, and orienteering, while also growing in teamwork, leadership, and resilience through troop camps, service initiatives, and national-level events.
 
