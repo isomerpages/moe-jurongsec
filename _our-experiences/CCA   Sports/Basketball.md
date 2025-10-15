@@ -6,7 +6,7 @@ third_nav_title: CCA   Sports
 variant: markdown
 ---
 ## Basketball
-![BB 2024](/images/basketball_boys_2.jpg)
+
 
 <br>
 
