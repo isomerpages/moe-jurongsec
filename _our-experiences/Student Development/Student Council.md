@@ -7,7 +7,7 @@ variant: markdown
 ---
 ## Student Council
 
-![SC 2024](/images/student_council_2.jpg)
+
 
 The Student Council aims to nurture Student Leaders who Lead with Heart and are rooted in strong core values and school values of Loyalty, Industry, Sincerity and Love, dedicated to serving the school and community. The Student Council focuses on value-centric empathetic leadership, developed through experiential learning and mentorship. Student Councillors go through a series of milestone developmental programmes and workshops in order to be equipped with the tools to lead and serve. The Councillors’ personal and interpersonal competencies are also developed as they lead other student leaders and the student population in various events that are occasionally initiated by Student Councillors.
 
