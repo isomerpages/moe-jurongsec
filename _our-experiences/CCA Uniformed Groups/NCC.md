@@ -6,7 +6,7 @@ third_nav_title: CCA Uniformed Groups
 variant: markdown
 ---
 ## NCC
-![NCC 2024](/images/national_cadet_corps_2.jpg)
+
 
 At Jurong Secondary School, our National Cadet Corps (Land) (NCC) unit is committed to nurturing confident, capable, and compassionate leaders of tomorrow. Guided by the NCC Headquarters and supported by our dedicated Teacher Officers, we provide cadets with a robust and enriching experience that goes beyond conventional co-curricular activities.
 
