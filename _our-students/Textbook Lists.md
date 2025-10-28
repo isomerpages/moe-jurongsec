@@ -8,18 +8,18 @@ You can download the respective book-list by clicking on the link below:
   
 
 **Secondary 1** <br>
-[JSS Sec 1 Booklist](/files/Jurong_Secondary_Sec_1.pdf)
+[Jurong_Secondary_2026_Sec 1 Book List](/files/Jurong_Secondary_2026___Sec_1.pdf)
   
 **Secondary 2** <br>
-[JSS Sec 2 Booklist](/files/Jurong_Secondary_Sec_2.pdf)
+[Jurong_Secondary_2026_Sec 2 Book List](/files/Jurong_Secondary_2026___Sec_2.pdf)
 
 **Secondary 3** <br>
-[JSS Sec 3 Booklist](/files/Jurong_Secondary_Sec_3.pdf)
+[Jurong_Secondary_2026_Sec 3 Book List](/files/Jurong_Secondary_2026___Sec_3.pdf)
   
 **Secondary 4** <br>
-[JSS Sec 4 Booklist](/files/Jurong_Secondary_Sec_4.pdf)
+[Jurong_Secondary_2026_Sec 4 Book List](/files/Jurong_Secondary_2026___Sec_4.pdf)
   
 **Secondary 5** <br>
-[JSS Sec 5 Booklist](/files/Jurong_Secondary_Sec_5.pdf)
+[Jurong_Secondary_2026_Sec 5_Book List](/files/Jurong_Secondary_2026___Sec_5.pdf)
 
 <center> Updated 28th October 2024 </center>
