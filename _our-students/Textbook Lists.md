@@ -14,7 +14,7 @@ You can download the respective book-list by clicking on the link below:
 [2026 Sec 2 Book List](/files/Jurong_Secondary_2026___Sec_2.pdf)
 
 **Secondary 3** <br>
-[2026 Sec 3 Book List](/files/Jurong_Secondary_2026___Sec_3.pdf)
+[2026 Sec 3 Book List](/files/Jurong_Secondary_2026___Sec_3R.pdf)
   
 **Secondary 4** <br>
 [2026 Sec 4 Book List](/files/Jurong_Secondary_2026___Sec_4.pdf)
