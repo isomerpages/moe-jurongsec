@@ -43,8 +43,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Julia Ler</p>
-<p>Ms Grace Lee
-<br>Mr Lu Yeow Chor</p>
+<p>Ms Grace Lee</p>
+<p>Mr Lu Yeow Chor</p>
 </td>
 </tr>
 <tr>
@@ -103,9 +103,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Ching Ing
 <br>
-<br>
-</p>
-<p>Mdm Zoey Oh Sze Wee</p>
+<br>Mdm Zoey Oh Sze Wee</p>
 </td>
 </tr>
 <tr>
