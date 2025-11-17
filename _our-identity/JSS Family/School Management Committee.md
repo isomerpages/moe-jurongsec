@@ -6,8 +6,14 @@ third_nav_title: JSS Family
 variant: tiptap
 ---
 <h3>School Leaders</h3>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Leaders 2024" src="/images/school_leaders_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="SLs 2025" src="/images/MEITU_20251030_123906715.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
