@@ -6,8 +6,14 @@ third_nav_title: JSS Family
 variant: tiptap
 ---
 <h3>School Leaders</h3>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="School Leaders 2024" src="/images/school_leaders_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="SLs 2025" src="/images/MEITU_20251030_123906715.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -36,7 +42,8 @@ variant: tiptap
 <p>Vice-Principals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julia Ler
+<p>Mdm Julia Ler</p>
+<p>Ms Grace Lee
 <br>Mr Lu Yeow Chor</p>
 </td>
 </tr>
@@ -76,7 +83,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD English Language</p>
 <p></p>
-<p>SH English Language/Literature</p>
+<p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi Ying Shynn</p>
@@ -103,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics &amp; Sciences</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics (Covering)</p>
@@ -117,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
