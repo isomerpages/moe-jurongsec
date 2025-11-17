@@ -42,7 +42,8 @@ variant: tiptap
 <p>Vice-Principals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julia Ler
+<p>Mdm Julia Ler</p>
+<p>Ms Grace Lee
 <br>Mr Lu Yeow Chor</p>
 </td>
 </tr>
@@ -82,7 +83,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD English Language</p>
 <p></p>
-<p>SH English Language/Literature</p>
+<p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi Ying Shynn</p>
@@ -109,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics &amp; Sciences</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics (Covering)</p>
@@ -123,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
