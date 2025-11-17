@@ -103,9 +103,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ng Ching Ing
 <br>
-<br>
-</p>
-<p>Mdm Zoey Oh Sze Wee</p>
+<br>Mdm Zoey Oh Sze Wee</p>
 </td>
 </tr>
 <tr>
