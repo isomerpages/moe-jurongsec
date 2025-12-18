@@ -71,7 +71,7 @@ You can download the schedules from the links below:
 
 [2025 EOY Examination Seating Plan (01 Oct)](/files/01_Oct_2025_Seating_Plan.pdf)
 
-### National Exam Result Release Administrative Matters
+### National Examination Results Release Administrative Matters
 
 [1. 2025 N Level Results Release Briefing Slides ](/files/1__2025_O_Level_Results_Release_Briefing_Slides__Student_Version_.pdf)
 
