@@ -1,15 +1,15 @@
 ---
-title: Secondary One Registration 2025
+title: Secondary One Registration 2026
 permalink: /our-students/sec-1-registration/
 variant: tiptap
 description: ""
 ---
-<h5><strong>A Warm Welcome to our 2025 Secondary 1 Students and Parents/Guardian!</strong></h5>
+<h5><strong>A Warm Welcome to our 2026 Secondary 1 Students and Parents/Guardian!</strong></h5>
 <p>Congratulations on your successful posting to Jurong Secondary School
 and we warmly welcome you to the JSS family. The secondary school years
 will be an exciting time of learning and development and we look forward
-to walking this journey with you. Please download the Secondary 1 Parent
-Information Kit <strong><a href="/files/2025_Sec_1_Parent_Information_Kit__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+to walking this journey with you.</p>
+<p>Please download the Secondary 1 Parent Information Kit <strong><a href="/files/2026_S1_Parent_Information_Kit_18_Jan_updated.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
 The kit contains useful information about the Secondary 1 Orientation Programme,
 Financial Matters and our CCAs offerings.</p>
 <p>Please take note of the following deadlines in the table below:</p>
@@ -47,16 +47,17 @@ Financial Matters and our CCAs offerings.</p>
 <td rowspan="1" colspan="1">
 <p>We are pleased to inform you that Secondary 1 Registration will be conducted
 online. You do not need to report to school.</p>
+<p>&nbsp;</p>
 <p>How to register for Secondary 1 online:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the <strong>Parents Gateway</strong> mobile
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Download the <strong>Parents Gateway</strong> mobile
 application from the Apple App Store or from Google Play.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Login to Parents Gateway from 8.30am
-onwards on 19 December 2024.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There will be a notification about
-Secondary 1 Registration. Within the notification, there is a link to an
-online form.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To complete the Secondary 1 Registration
-process, please fill in the online form by <strong>24 December 2024, 5.00pm</strong>.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Login to Parents Gateway from <strong>8.30am</strong> onwards
+on <strong>22 December 2025</strong>.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; There will be a notification about Secondary
+1 Registration. Within the notification, there is a link to an online form.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To complete the Secondary 1 Registration
+process, please fill in the online form by <strong>22 December 2025, 5.00pm</strong>.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -70,11 +71,12 @@ process, please fill in the online form by <strong>24 December 2024, 5.00pm</str
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As part of the 2025 Secondary 1 Orientation programme, all students will
-receive one Orientation T-shirt.&nbsp;</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When you register for Secondary
-1 online, you will be asked to choose your child’s T-shirt size.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here is the T-shirt size table:</p>
+<p>As part of the 2026 Secondary 1 Orientation programme, all students will
+receive one Orientation T-shirt on the first day of Sec 1 Orientation Programme.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No payment is required.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When you register for Secondary 1 online,
+you will be asked to select your child’s T-shirt size</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here is the T-shirt size table:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -240,9 +242,8 @@ receive one Orientation T-shirt.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do note that no payment is required.
-The orientation T-shirt will be distributed to students on the first day
-of school.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -255,14 +256,15 @@ of school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who are eligible to offer MDL subjects will receive a notification
-and the MDL Offer Letter via Parents Gateway by 20 December 2024.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please use the Online Acceptance
-Form in the Parents Gateway</p>
+and the MDL Offer Letter via Parents Gateway by <strong>22 December 2025.</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please use the Online Acceptance Form
+in the Parents Gateway</p>
 <p>notification to indicate your child’s acceptance of the MDL offer.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please adhere to the deadline as
-stated in the offer letter.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For clarifications, please contact
-the General Office at 62655980</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please adhere to the deadline as stated
+in the offer letter.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For clarifications, please contact the
+General Office at 62655980</p>
 </td>
 </tr>
 <tr>
@@ -273,14 +275,16 @@ the General Office at 62655980</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who are eligible to offer HMT will receive a notification and
-the HMT Offer Letter via Parents Gateway by 20 December 2024.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please use the Online Acceptance
-Form in the Parents Gateway notification to indicate your child’s acceptance
+the HMT Offer Letter via Parents Gateway by <strong>22 December 2025.</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please use the Online Acceptance Form
+in the Parents Gateway notification to indicate your child’s acceptance
 of the HMT offer.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please adhere to the deadline as
-stated in the offer letter.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For clarifications, please contact
-the General Office at 62655980. &nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please adhere to the deadline as stated
+in the offer letter.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For clarifications, please contact the
+General Office at 62655980. &nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -291,12 +295,13 @@ the General Office at 62655980. &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who are eligible to take up a Third Language will receive a notification
-and the Third Language Offer Letter via Parents Gateway by 20 December
-2024.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please refer to the Offer Letter
-for further instructions on how to accept the offer.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For clarifications, please contact
-the General Office at 62655980.</p>
+and the Third Language Offer Letter via Parents Gateway by <strong>22 December 2025.</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please refer to the Offer Letter for
+further instructions on how to accept the offer.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For clarifications, please contact the
+General Office at 62655980.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -307,19 +312,23 @@ the General Office at 62655980.</p>
 <td rowspan="1" colspan="1">
 <p>If you are interested in the Art Elective Programme (AEP) or Music Elective
 Programme (MEP), please click on the following links to find out more:</p>
-<p>&nbsp;<strong>Art Elective Programme</strong>
+<p>&nbsp;</p>
+<p><strong>Art Elective Programme</strong>
 </p>
-<p><a href="https://moe.gov.sg/aep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/aep</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
 </p>
-<p>&nbsp;<strong>Music Elective Programme</strong>
+<p>&nbsp;</p>
+<p><strong>Music Elective Programme</strong>
 </p>
-<p><a href="https://moe.gov.sg/mep" rel="noopener nofollow" target="_blank">https://moe.gov.sg/mep</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/mep</a>
 </p>
-<p><a href="https://go.gov.sg/empmepyoutubepage" rel="noopener nofollow" target="_blank">https://go.gov.sg/empmepyoutubepage</a>&nbsp;</p>
-<p>&nbsp;Students will be briefed on the AEP and MEP on 2 January 2025, as
-part of the Sec 1 Orientation Programme. A detailed Parents Gateway notification
-will also be sent out on 2 January 2025. For clarifications, please contact
-the General Office at 62655980.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/empmepyoutubepage</a>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Students will be briefed on the AEP and MEP on <strong>5 January 2026</strong>,
+as part of the Sec 1 Orientation Programme. A detailed Parents Gateway
+notification will also be sent out on <strong>5 January 2026</strong>. For
+clarifications, please contact the General Office at 62655980.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -336,17 +345,18 @@ the General Office at 62655980.</p>
 on Parents Gateway, under the Services tab (Financial Assistance). Parents
 will need their Singpass to access this e-service. Alternatively, the hardcopy
 application form can be collected from the General Office.</p>
-<p></p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please submit the completed application
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please submit the completed application
 form and the required supporting documents to the General Office so that
 the school can process the application on the spot. The FAS letter can
 then be used to purchase the school uniform and textbooks on the same day.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who have already applied
-for FAS through their primary schools will need to collect the new FAS
-letter from the General Office. The FAS letter is required for the purchase
-of the school uniform and textbooks.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For clarifications, please contact
-Ms Pamela Wong at 62655980.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students who have already applied for
+FAS through their primary schools will need to collect the new FAS letter
+from the General Office. The FAS letter is required for the purchase of
+the school uniform and textbooks.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For clarifications, please contact Ms
+Pamela Wong at 62655980.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -359,15 +369,16 @@ Ms Pamela Wong at 62655980.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please click <strong><a href="/files/Secondary_1_Book_List.pdf" rel="noopener nofollow" target="_blank">here</a></strong> to
+<p>Please click <strong><a href="https://www.jurongsec.moe.edu.sg/files/Jurong_Secondary_2026___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
 download the Secondary 1 booklist.</p>
-<p></p>
-<p>Do note that the back gate (facing the HDB flats) will not be open. You
-will thus need to enter the school through the front gate (facing Jurong
-Lake Gardens). Seeking your understanding that parking may be limited.
-You may wish to park at the ActiveSG gym opposite the school instead.</p>
+<p>&nbsp;</p>
+<p>Do note that the back gate (Gate 5) will not be open. You will thus need
+to enter the school through the front gate (Gate 2). Seeking your understanding
+that parking may be limited. You may wish to park at the ActiveSG gym opposite
+the school instead.</p>
+<p>&nbsp;</p>
 <p>There are 2 ways to purchase the school textbooks.</p>
-<p></p>
+<p>&nbsp;</p>
 <p><strong>1. Walk-In Purchase</strong>
 </p>
 <p>For walk-in purchase, please note the bookshop opening hours.</p>
@@ -394,21 +405,10 @@ You may wish to park at the ActiveSG gym opposite the school instead.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 to 20 Dec</p>
+<p>22,23 and 26 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday &amp; Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 3.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23, 26 to 27 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday, Thursday &amp; Friday</p>
+<p>Monday, Tuesday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00am to 3.00pm</p>
@@ -416,20 +416,21 @@ You may wish to park at the ActiveSG gym opposite the school instead.</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong>2. Online Purchase</strong>
 </p>
-<p>Alternatively, the school textbooks can be purchased online at <a href="https://asenciobookshop.sg/" rel="noopener nofollow" target="_blank">https://asenciobookshop.sg/</a> and
+<p>Alternatively, the school textbooks can be purchased online at <strong><a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a></strong> and
 payment can be made by VISA, Mastercard, Debit Card or PayNow.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you order online and select
-home delivery, there will be a delivery charge of $11.99.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you order online and select
-self-collect from the school, there will be no extra charge. You will need
-to come down to Block B B01-01/2 on <strong>26, 27 or 30 December 2024 </strong>to
-collect the textbooks.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The website will
-prompt you to select a self-collect date and time.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please keep to
-the appointment date and time to minimize over-crowding.</p>
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you order online and select home delivery,
+there will be a delivery charge of $11.99.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you order online and select self-collect
+from the school (Blk B, Classroom B01-01/2), there will be no extra charge.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The website will prompt you
+to select a self-collect date and time.</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please keep to the appointment
+date and time to minimise over-crowding.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -441,24 +442,23 @@ the appointment date and time to minimize over-crowding.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The full school uniform, PE T-shirt and PE shorts can be purchased from
-19 December 2024 onwards.</p>
-<p>Please note that the color of the PE T-shirt depends on what house students
+<p>The full school uniform, PE T-shirt and PE shorts can be purchased from <strong>22 December 2025</strong> onwards.</p>
+<p>&nbsp;</p>
+<p>Please note that the colour of the PE T-shirt depends on what house students
 are placed in. Please make payment for the PE T-shirt first and the PE
 T-shirts will be distributed to students when they report to school.</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school uniform can be purchased
-online at&nbsp; <a href="https://finestuniform.com/collections/jurong-secondary-school" rel="noopener nofollow" target="_blank">https://finestuniform.com/collections/jurong-secondary-school</a> and
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school uniform can be purchased online
+at this link: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/jurong-secondary-school</a></strong> and
 payment can be by VISA, Mastercard or Debit Card.</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please note that
-there will be a delivery charge of $8</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The passcode for
-logging onto the website is JURONG22g</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please click <strong><a href="/files/Uniform_Ordering_Guide.pdf" rel="noopener nofollow" target="_blank">here</a></strong> for
-the Uniform Ordering Guide</p>
-<p></p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For walk-in purchase, please note
-that the uniform supplier will be at Block B, B01-04/5. Please take note
-of the opening hours for walk-in purchase:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please note that there will
+be a delivery charge of $8</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The passcode for logging onto
+the website is JURONG22g</p>
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For walk-in purchases, please proceed
+to Blk B, Classroom B01-04/5. Please take note of the opening hours for
+walk-in purchase:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -482,21 +482,10 @@ of the opening hours for walk-in purchase:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 to 20 Dec</p>
+<p>22,23 and 26 Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday &amp; Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9.00am to 3.00pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23, 26 to 27 Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Monday, Thursday &amp; Friday</p>
+<p>Monday, Tuesday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00am to 3.00pm</p>
@@ -504,6 +493,10 @@ of the opening hours for walk-in purchase:</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -518,13 +511,32 @@ of the opening hours for walk-in purchase:</p>
 <p><strong>School Transfer (Non-Medical)</strong>
 </p>
 <p>All requests for school transfers into Jurong Secondary School should
-be submitted online via this link <a href="https://go.gov.sg/sec1-transfer-in-appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/sec1-transfer-in-appeal</a>
+be submitted online via this link <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1-transfer-in-appeal</a></strong>
 </p>
-<p>All applications must be submitted by 12pm, 27 December 2024. Please note
-that only shortlisted applicants will be contacted.</p>
+<p>All applications must be submitted by <strong>12pm, 26 December 2025</strong>.
+Please note that only shortlisted applicants will be contacted.</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Updated on 19 Dec 2024</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Updated on 18 Dec 2025</p>

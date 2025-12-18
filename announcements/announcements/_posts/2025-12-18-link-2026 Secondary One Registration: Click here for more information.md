@@ -1,6 +1,6 @@
 ---
-title: "2025 Secondary One Registration: Click here for more information"
-date: 2024-12-16
+title: "2026 Secondary One Registration: Click here for more information"
+date: 2025-12-18
 layout: link
 description: ""
 image: ""
