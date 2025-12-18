@@ -9,7 +9,7 @@ description: ""
 and we warmly welcome you to the JSS family. The secondary school years
 will be an exciting time of learning and development and we look forward
 to walking this journey with you.</p>
-<p>Please download the Secondary 1 Parent Information Kit <strong><u>here</u></strong>.
+<p>Please download the Secondary 1 Parent Information Kit <strong><a href="/files/2026_S1_Parent_Information_Kit_18_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
 The kit contains useful information about the Secondary 1 Orientation Programme,
 Financial Matters and our CCAs offerings.</p>
 <p>Please take note of the following deadlines in the table below:</p>
