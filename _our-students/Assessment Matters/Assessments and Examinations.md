@@ -71,4 +71,20 @@ You can download the schedules from the links below:
 
 [2025 EOY Examination Seating Plan (01 Oct)](/files/01_Oct_2025_Seating_Plan.pdf)
 
+### National Exam Result Release Administrative Matters
+
+[1. 2025 N Level Results Release Briefing Slides ](/files/1__2025_O_Level_Results_Release_Briefing_Slides__Student_Version_.pdf)
+
+[2. ITE Admission and Course Information Brochure](/files/2__ITE_Admission_and_Course_Informatio_Brochure_Jan_2026.pdf)
+
+[3. Education Pathways ](/files/3__Pathways_nlevel.pdf)
+
+[4. What's Next after N Levels?](/files/4__WhatsNextN_Level_Final2025.pdf)
+
+[5. PFP Factsheets for Students](/files/5__PFP_Factsheet_for_Students.pdf)
+
+[6. DPP Factsheet for Students](/files/6__DPP_Factsheet_for_Students.pdf)
+
+[7. You've got this!](/files/7__You_ve_Got_This.pdf)
+
 <center> Updated 30 Sep 2025 </center>
