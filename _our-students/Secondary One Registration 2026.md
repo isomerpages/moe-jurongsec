@@ -511,7 +511,7 @@ walk-in purchase:</p>
 <p><strong>School Transfer (Non-Medical)</strong>
 </p>
 <p>All requests for school transfers into Jurong Secondary School should
-be submitted online via this link <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1-transfer-in-appeal</a></strong>
+be submitted online via this link <strong><a href="https://go.gov.sg/sec1-transfer-in-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec1-transfer-in-appeal</a></strong>
 </p>
 <p>All applications must be submitted by <strong>12pm, 26 December 2025</strong>.
 Please note that only shortlisted applicants will be contacted.</p>
