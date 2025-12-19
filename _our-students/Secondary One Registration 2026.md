@@ -315,14 +315,15 @@ Programme (MEP), please click on the following links to find out more:</p>
 <p>&nbsp;</p>
 <p><strong>Art Elective Programme</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
+<p><a href="https://moe.gov.sg/aep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/aep</a>
 </p>
 <p>&nbsp;</p>
 <p><strong>Music Elective Programme</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/mep</a>
+<p><a href="https://moe.gov.sg/mep" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/mep</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/empmepyoutubepage</a>&nbsp;</p>
+<p><a href="https://go.gov.sg/empmepyoutubepage" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/empmepyoutubepage&nbsp;</a>
+</p>
 <p>&nbsp;</p>
 <p>Students will be briefed on the AEP and MEP on <strong>5 January 2026</strong>,
 as part of the Sec 1 Orientation Programme. A detailed Parents Gateway
@@ -419,7 +420,7 @@ the school instead.</p>
 <p>&nbsp;</p>
 <p><strong>2. Online Purchase</strong>
 </p>
-<p>Alternatively, the school textbooks can be purchased online at <strong><a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a></strong> and
+<p>Alternatively, the school textbooks can be purchased online at <strong><a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a></strong> and
 payment can be made by VISA, Mastercard, Debit Card or PayNow.</p>
 <p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you order online and select home delivery,
@@ -449,7 +450,7 @@ are placed in. Please make payment for the PE T-shirt first and the PE
 T-shirts will be distributed to students when they report to school.</p>
 <p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school uniform can be purchased online
-at this link: <strong><a rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/jurong-secondary-school</a></strong> and
+at this link: <strong><a href="https://finestuniform.com/collections/jurong-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://finestuniform.com/collections/jurong-secondary-school</a></strong> and
 payment can be by VISA, Mastercard or Debit Card.</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please note that there will
 be a delivery charge of $8</p>
