@@ -35,15 +35,6 @@ sections:
       url: https://form.gov.sg/68a2ac214402f16cea7c2e4e
       image: /images/OPEN_HOUSE_POSTCARD_FRONT_AND_EBANNER_2025.jpg
       alt: Image alt text
-  - infopic:
-      title: JSS 60th Anniversary Celebrations
-      description: Jurong Secondary School, celebrated its 60th Anniversary in 2023!
-        We were heartened to invite our school community to celebrate this
-        momentous occasion with us.
-      image: /images/60th Anniversary Logo.jpeg
-      alt: Image alt text
-      button: Click here to find out more
-      url: /jss-60th-anniversary/JSS-60th-Anniversary-2023/
   - infobar:
       title: JSS Facebook
       url: <iframe
