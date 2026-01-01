@@ -19,7 +19,6 @@ courage to be an advocate for society.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Mission" src="/images/WhatsApp_Image_2024_12_26_at_2_29_55_PM.jpg">
 </div>
 <h3>Our Values</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Values.jpg">
 </div>
