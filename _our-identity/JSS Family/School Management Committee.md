@@ -58,14 +58,18 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Academic Learning Team</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -88,7 +92,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi Ying Shynn</p>
 <p></p>
+<p></p>
 <p>Mr Sim Rui Xiang Darius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -96,14 +104,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mother Tongue Languages
-<br>
-<br>SH Chinese Language</p>
+<p>SH Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Ching Ing
-<br>
-<br>Mdm Zoey Oh Sze Wee</p>
+<p>Mdm Zoey Oh Sze Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -112,12 +119,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics (Covering)</p>
-<p>SH Mathematics (Covering)</p>
+<p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zheng Jieyun</p>
 <p></p>
 <p>Mdm Wu Dan Amy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -126,11 +136,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
+<p></p>
 <p>SH Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Shuwen</p>
+<p></p>
 <p>Mr Traven Loh Wei Chuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -143,6 +158,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Juliana Ng</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -150,12 +168,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Humanities
-<br>
 <br>SH Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wu Zonglun
 <br>Mdm Lee Hui Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -168,8 +188,29 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ooi Wei Yong</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH</p>
+<p>Education Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yang Kuangji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -189,6 +230,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sim Guo Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -248,7 +292,7 @@ variant: tiptap
 <p>Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Character and Citizenship Education (Covering)</p>
+<p>HOD Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nur Izhar Bin Sa'at</p>
