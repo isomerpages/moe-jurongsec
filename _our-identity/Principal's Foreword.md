@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ms_Yeo_Photo_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ms_Yeo_Photo_.jpg">
 </div>
 <h3><strong>2026 – A Year of Purposeful Growth</strong></h3>
 <p>As we embark on 2026, I am reminded of the words of Maya Angelou: "We
