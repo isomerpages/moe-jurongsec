@@ -103,7 +103,7 @@ variant: tiptap
 <p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Rui Xiang Dairus</p>
+<p>Mr Sim Rui Xiang Darius</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
