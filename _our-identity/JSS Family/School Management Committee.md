@@ -86,14 +86,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD English Language</p>
-<p></p>
-<p>SH English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Shi Ying Shynn</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Mr Sim Rui Xiang Darius</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sim Rui Xiang Dairus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -119,11 +129,23 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics (Covering)</p>
-<p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zheng Jieyun</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Wu Dan Amy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,12 +158,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
-<p></p>
-<p>SH Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Shuwen</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Sciences</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Traven Loh Wei Chuen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,12 +199,24 @@ variant: tiptap
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities
-<br>SH Humanities</p>
+<p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wu Zonglun
-<br>Mdm Lee Hui Cheng</p>
+<p>Mr Wu Zonglun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Hui Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -202,20 +246,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yang Kuangji</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -261,29 +291,42 @@ variant: tiptap
 <p>Level Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec &amp; Sec 3)
-<br>
-</p>
-<p>Year Head (Lower Sec &amp; Sec 2)
-<br>
-</p>
-<p>Asst Year Head (Sec 1)
-<br>
-</p>
+<p>Year Head (Upper Sec &amp; Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Azra Shazeaa Binte Hairuddin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Sec &amp; Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hannah Wen Cuiyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Norliyana Bte Matin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Asst Year Head (Sec 4&amp;5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Aaron Tang Wei Lun
-<br>
-</p>
-<p></p>
-<p>Ms Hannah Wen Cuiyan
-<br>
-</p>
-<p></p>
-<p>Ms Norliyana Bte Matin
-<br>
-</p>
 <p>Ms Chua Syin Thian</p>
 </td>
 </tr>
@@ -303,16 +346,22 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; Co-Curricular Activities
-<br>
-</p>
-<p>SH Physical Education &amp; Co-Curricular Activities (Covering)</p>
+<p>HOD Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Wei Chen</p>
 <p></p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Physical Education &amp; Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Wang Cui Feng</p>
 </td>
 </tr>
@@ -340,13 +389,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wong Poh Ching, Cindy</p>
 </td>
 </tr>
 </tbody>
@@ -371,7 +420,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Tan Ching Kuan</p>
+<p>Ms Ng Ching Ing</p>
 </td>
 </tr>
 <tr>
