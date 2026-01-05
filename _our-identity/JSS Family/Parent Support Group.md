@@ -31,17 +31,18 @@ PSG also participated in school events such as CCA Display Day, Chinese New Year
 |  |Name of Parent |  |
 | -------- | -------- | -------- |
 | Advisor  | Mdm Yusnizan Bte Mohd Talib  |     |
-| Chairperson | Mdm Liaw Mui Chee  |     |
-| Co-Chairperson |  Mdm Diana Regehr |     |
-| Co-Chairperson | Mr Solomon Anthony  |     |
-| Secretary | Mdm Sheena Goh  |     |
-| Assistant Secretary | Mdm Ramani Saravanan  |     |
-| Assistant Secretary | Mdm Kathy Kong  |     |
+| Chairperson | Mdm Jennyfer Aw|     |
+| Co-Chairperson |  Mr Ben Chor|     |
+| Co-Chairperson | Mr Cheok Kai Weei |     |
+| Secretary | Mdm Irene Zheng  |     |
+| Treasury | Mdm Karen Ng  |     |
+| EXCO Member | Mdm Liaw Mui Chee  |     |
+| EXCO Member | Mdm Diana Regehr |     |
+| EXCO Member | Mdm Devaki Suppramaniam|     |
+| EXCO Member| Mdm Sheena Goh |     |
+| EXCO Member | Mdm Catherine Ooi  |     |
+| EXCO Member | Mdm Heather Pong |     |
+| EXCO Member | Mdm Pauline Low |     |
 | EXCO Member | Mr Kenneth Kee |     |
-| EXCO Member |Mdm Saraswathi  |     |
-| EXCO Member| Mdm Jade Du |     |
-| EXCO Member | Mdm Sherlin Tan  |     |
-| EXCO Member | Mdm Jennyfer Aw |     |
-| EXCO Member | Mdm Devaki Suppramaniam |     |
 
 <center> Updated 12 Jan 2024 </center>
