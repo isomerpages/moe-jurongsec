@@ -146,7 +146,7 @@ variant: tiptap
 <p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wu Dan Amy</p>
+<p>Mdm Amy Wu Dan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -394,7 +394,7 @@ variant: tiptap
 <p>SH Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Poh Ching, Cindy</p>
+<p>Mdm Cindy Wong Poh Ching</p>
 </td>
 </tr>
 </tbody>
