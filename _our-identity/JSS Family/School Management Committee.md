@@ -171,7 +171,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Sciences</p>
+<p>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Traven Loh Wei Chuen</p>
