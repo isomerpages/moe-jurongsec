@@ -39,8 +39,8 @@ variant: markdown
 |  |  |
 |---|---|
 | Technical Support Officer | Ms Roziana Bte Abd Rahim
-| Technical Support Officer | Ms  |Faizureen Ashiqkeen Bte Abd Wahab |
-| Operations Support Officer | |Mdm Mismah Bte Miskam
+| Technical Support Officer | Ms Faizureen Ashiqkeen Bte Abd Wahab |
+| Operations Support Officer |Mdm Mismah Bte Miskam
 | Operations Support Officer | Ms Asnah Binte Samad |
 | | |
 
