@@ -18,7 +18,7 @@ variant: markdown
 | Management Support Officer | Mdm Martini Bte Mohamad |
 | Corporate Support Officer | Mdm Samnah Bte Astoray |
 | Corporate Support Officer | Ms Jenny Toh |
-| Operations Support Officer | Mdm Mismah Bte Miskam |
+| Operations Support Officer | Ms Julaiha Bte Martini  |
 | Operations Support Officer | Mdm Lim Chiew Guat Yvonne |
 | Library Assistant | Ms Mariyah|
 | Senior SEN Officer  | Mr Lee Hao Yong |
@@ -38,10 +38,10 @@ variant: markdown
 
 |  |  |
 |---|---|
-| Technical Support Officer | Ms Faizureen Ashiqkeen Bte Abd Wahab |
-| Technical Support Officer | Ms Roziana Bte Abd Rahim |
-| Operations Support Officer | Ms Asnah Bte Samad |
-| Operations Support Officer | Ms Julaiha Bte Martini |
+| Technical Support Officer | Ms Roziana Bte Abd Rahim
+| Technical Support Officer | Ms  |Faizureen Ashiqkeen Bte Abd Wahab |
+| Operations Support Officer | |Mdm Mismah Bte Miskam
+| Operations Support Officer | Ms Asnah Binte Samad |
 | | |
 
 ### Applied Learning Workshops
