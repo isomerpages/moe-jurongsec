@@ -241,8 +241,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH</p>
-<p>Education Technology</p>
+<p>SH Education Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yang Kuangji</p>
@@ -378,7 +377,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Management</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Student Management</p>
