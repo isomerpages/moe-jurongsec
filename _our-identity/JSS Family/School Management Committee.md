@@ -394,7 +394,7 @@ variant: tiptap
 <p>SH Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cindy Wong Poh Ching</p>
+<p>Mrs Cindy Tan</p>
 </td>
 </tr>
 </tbody>
