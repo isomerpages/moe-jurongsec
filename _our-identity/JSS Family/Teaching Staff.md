@@ -7,4 +7,4 @@ variant: markdown
 ---
 ![](/images/staff_2.jpg)!
 
-<center> Updated 23 Sep 2024 </center>
+<center> Updated 05 Jan 2026 </center>
