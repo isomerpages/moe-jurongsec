@@ -45,4 +45,4 @@ PSG also participated in school events such as CCA Display Day, Chinese New Year
 | EXCO Member | Mdm Pauline Low |     |
 | EXCO Member | Mr Kenneth Kee |     |
 
-<center> Updated 12 Jan 2024 </center>
+<center> Updated 6 Jan 2026 </center>
