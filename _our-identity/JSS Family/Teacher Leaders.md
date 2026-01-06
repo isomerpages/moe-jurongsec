@@ -12,12 +12,8 @@ third_nav_title: JSS Family
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lead Teachers</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<h3>Lead Teachers</h3>
 </td>
 </tr>
 <tr>
@@ -53,12 +49,9 @@ third_nav_title: JSS Family
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Senior Teachers</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="2">
+<h3>Senior Teachers</h3>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
