@@ -5,6 +5,6 @@ description: ""
 third_nav_title: JSS Family
 variant: markdown
 ---
-![JSS Staff 2024](/images/staff_1.jpg)
+![](/images/staff_2.jpg)!
 
-<center> Updated 23 Sep 2024 </center>
+<center> Updated 05 Jan 2026 </center>
