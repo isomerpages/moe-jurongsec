@@ -81,9 +81,9 @@ The 2025 O-Level results will be released soon. Your support to your teen during
 
 For resources on social and emotional support as well as education and career guidance, please refer to the attached Information Sheet for Parents and links listed below: 
 
-1. Booking Form for ECG Counselling Appointments at the ECG Centre @ MOE  https://go.gov.sg/moe-ecg-centre
-2. Education and Career Guidance (ECG) Parent Resource http://go.gov.sg/olevel-ecgparentresources
-3. Social and emotional learning: Resources for Parents http://go.gov.sg/olevel-selparentresources
+1. [Booking Form ](https://go.gov.sg/moe-ecg-centre)for ECG Counselling Appointments at the ECG Centre @ MOE 
+2. [Education and Career Guidance Parent Portal ](http://go.gov.sg/olevel-ecgparentresources)
+3. [Social and Emotional Learning Resource Portal for Parents](http://go.gov.sg/olevel-selparentresources)
 4. [GCE 'O' Level Examination Results Release Parent Info Sheet](/files/Parent_Info_Sheet__O_Level_Results_Release_.pdf)
 
 **GCE 'N' Level 2025 Examination Results Release**
