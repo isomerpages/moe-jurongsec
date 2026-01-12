@@ -7,13 +7,18 @@ variant: tiptap
 <h4>Meet-the-Parents Session</h4>
 <hr>
 <p><strong>Secondary 1</strong> 
-<br>The Secondary 1 Meet-the-Parents session was held on 11 January 2025.
-<br>Below are the slides shared during the session:</p>
-<p><a href="/files/2025_S1_MTP_Hall_Slides.pdf" rel="noopener nofollow" target="_blank">2025 S1 MTP Hall Slides</a>
+<br>The Secondary 1 Meet-the-Parents session was held on 9 January 2026. Below
+are the slides shared during the session:</p>
+<p><a href="/files/P_and_AYH_address.pdf" rel="noopener nofollow" target="_blank">Principal and Assistant Year Head Address Slides </a>
 </p>
-<p><a href="/files/2025_S1_MTP_FT_Time_Slides.pdf" rel="noopener nofollow" target="_blank">2025 S1 MTP FT Time Slides</a>
+<p><a href="/files/2026_Sharing_by_Parent_Support_Group__PSG__and_Student_Management_Committee_compressed.pdf" rel="noopener nofollow" target="_blank">Sharing by Parent Support Group Chairperson and HOD Student Management</a>
 </p>
-<p></p>
+<p><a href="/files/2026_Sharing_on_NDLP.pdf" rel="noopener nofollow" target="_blank">Sharing on National Digital Literacy Programme</a>
+</p>
+<p><a href="/files/2026_Sharing_on_Overview_of_CCA.pdf" rel="noopener nofollow" target="_blank">Sharing by HOD PE/CCA </a>
+</p>
+<p><a href="/files/2026_Form_Teacher_Time.pdf" rel="noopener nofollow" target="_blank">Sharing by Form Teachers</a>
+</p>
 <p><strong>Secondary 2</strong>
 </p>
 <p>2025 Secondary 2 Meet-The-Parent and Subject Option Exercise Panel Discussion
