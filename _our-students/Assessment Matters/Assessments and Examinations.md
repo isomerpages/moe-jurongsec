@@ -73,6 +73,21 @@ You can download the schedules from the links below:
 
 ### National Examination Results Release Administrative Matters
 
+**GCE 'O' Level 2025 Examination Results Release** 
+
+ Dear Parents/Guardians, 
+ 
+The 2025 O-Level results will be released soon. Your support to your teen during this milestone is important.
+
+For resources on social and emotional support as well as education and career guidance, please refer to the attached Information Sheet for Parents and links listed below: 
+
+1. Booking Form for ECG Counselling Appointments at the ECG Centre @ MOE  https://go.gov.sg/moe-ecg-centre
+2. Education and Career Guidance (ECG) Parent Resource http://go.gov.sg/olevel-ecgparentresources
+3. Social and emotional learning: Resources for Parents http://go.gov.sg/olevel-selparentresources
+4. [GCE 'O' Level Examination Results Release Parent Info Sheet](/files/Parent_Info_Sheet__O_Level_Results_Release_.pdf)
+
+**GCE 'N' Level 2025 Examination Results Release**
+
 [1. 2025 N Level Results Release Briefing Slides ](/files/1__2025_O_Level_Results_Release_Briefing_Slides__Student_Version_.pdf)
 
 [2. ITE Admission and Course Information Brochure](/files/2__ITE_Admission_and_Course_Informatio_Brochure_Jan_2026.pdf)
