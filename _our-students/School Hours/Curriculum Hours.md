@@ -13,4 +13,4 @@ Please click on the links below to view the class time-tables for Odd weeks.&nbs
 [2026 Sem 1 Odd Week Class Timetable](/files/2026_SEM_1_ODD_Class.pdf)<br>
 [2026 Sem 1 Even Week Class Timetable](/files/2026_SEM_1_EVEN_Class.pdf)
 
-<center> Updated 17 Jan 2026 </center>
+<center> Updated 13 Jan 2026 </center>
