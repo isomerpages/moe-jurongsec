@@ -86,6 +86,14 @@ For resources on social and emotional support as well as education and career gu
 3. [Social and Emotional Learning Resource Portal for Parents](http://go.gov.sg/olevel-selparentresources)
 4. [GCE 'O' Level Examination Results Release Parent Info Sheet](/files/Parent_Info_Sheet__O_Level_Results_Release_.pdf)
 
+Administrative Matters: 
+
+[2025 'O' Level Exam Results Release Briefing Slides (14 Jan 26)](/files/2025_O_Level_Results_Release_Briefing_Slides_for_14_Jan__For_Students_.pdf)
+
+[2026 Joint Admission Exercise Information Sheet ](/files/2026_JAE_Information_Sheet.pdf)
+
+[2025 SEL ECG Resources for Students ](/files/2025_SEL___ECG_Resources_for_Students.pdf)
+
 **GCE 'N' Level 2025 Examination Results Release**
 
 [1. 2025 N Level Results Release Briefing Slides ](/files/1__2025_O_Level_Results_Release_Briefing_Slides__Student_Version_.pdf)
