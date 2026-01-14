@@ -5,7 +5,6 @@ description: ""
 third_nav_title: School Hours
 variant: markdown
 ---
-
 [Click here to download the CCA 2025 Training Schedule](/files/2026_CCA_Training_Schedule.pdf)
 
 
