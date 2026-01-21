@@ -795,8 +795,8 @@ by 15/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/Annex_B___Opt_Out_Form_for_eTeens_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-&nbsp;The completed form is to be submitted by 15/02/2026.</p>
+of the year and is also downloadable <a href="/files/Annex_B1.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp;The completed form is to be
+submitted by 15/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at &nbsp;<a href="mailto:jurong_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jurong_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
