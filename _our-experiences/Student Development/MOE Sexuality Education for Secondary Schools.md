@@ -42,10 +42,10 @@ and
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.
 <br>
-<br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<br>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.
 <br>
-<br><strong>OVERVIEW OF JURONG SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<br><strong>OVERVIEW OF JURONG SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 </li>
 <li>
@@ -85,7 +85,7 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.
 <br>
-<br><strong>At Jurong Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<br><strong>At Jurong Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 </li>
 </ol>
@@ -161,7 +161,7 @@ and supportive relationships, both online and offline</p>
 interest in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -216,12 +216,12 @@ when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
+<p><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <h3><strong>SECONDARY 2</strong></h3>
 <table style="minWidth: 125px">
@@ -290,7 +290,7 @@ as a male or female</p>
 <p>·&nbsp;understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -344,7 +344,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 </tbody>
