@@ -37,7 +37,7 @@ You can download the schedules from the links below:
 
 [2026 Weighted Assessment 1 (Sec 2)](/files/WA1___Sec_2.pdf)
 
-[2026 Weighted Assessment 1 (Sec 3)](/files/WA1___Sec_3.pdf)
+[2026 Weighted Assessment 1 (Sec 3)](/files/WA1___Sec_3__2_.pdf)
 
 [2026 Weighted Assessment 1 (Sec 4&amp;5)](/files/WA1___Sec_4___5.pdf)
 
