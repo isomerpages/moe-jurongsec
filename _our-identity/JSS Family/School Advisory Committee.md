@@ -15,9 +15,9 @@ variant: markdown
   Treasurer   | Mr Jerel Chong Kim Seng |  |
 | Member| Mr Ang Jit Chuang |  |
 | Member| Mr Michael Lim Ah Poh|  |
-| Member| Mr Tony Hong Chee Peng |  |
+| Member| Mr Tony Hon Chee Peng |  |
 | Member| Ms Charlyn Lim Chwee Fang | |
-| Member| Ms Andeline Chong Siew Kien       | |
+| Member| Ms Andeline Wong Siew Kien       | |
 | Member| Mr Neo Kah Kiat |  |
 | Member| Mr Kenny Tan Heng Mong |  |
 | Hon. Secretary| Ms Yeo Siok Ee |  |
