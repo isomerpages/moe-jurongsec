@@ -9,13 +9,13 @@ variant: tiptap
 <p><strong>Secondary 1</strong> 
 <br>The Secondary 1 Meet-the-Parents session was held on 9 January 2026. Below
 are the slides shared during the session:</p>
-<p><a href="/files/P_and_AYH_address.pdf" rel="noopener nofollow" target="_blank">Principal and Assistant Year Head Address Slides </a>
+<p><a href="/files/P_and_AYH_address.pdf" rel="noopener nofollow" target="_blank">Principal and Assistant Year Head Address Slides</a>
 </p>
 <p><a href="/files/2026_Sharing_by_Parent_Support_Group__PSG__and_Student_Management_Committee_compressed.pdf" rel="noopener nofollow" target="_blank">Sharing by Parent Support Group Chairperson and HOD Student Management</a>
 </p>
 <p><a href="/files/2026_Sharing_on_NDLP.pdf" rel="noopener nofollow" target="_blank">Sharing on National Digital Literacy Programme</a>
 </p>
-<p><a href="/files/2026_Sharing_on_Overview_of_CCA.pdf" rel="noopener nofollow" target="_blank">Sharing by HOD PE/CCA </a>
+<p><a href="/files/2026_Sharing_on_Overview_of_CCA.pdf" rel="noopener nofollow" target="_blank">Sharing by HOD PE/CCA</a>
 </p>
 <p><a href="/files/2026_Form_Teacher_Time.pdf" rel="noopener nofollow" target="_blank">Sharing by Form Teachers</a>
 </p>
@@ -49,22 +49,17 @@ the session. You may share your questions via this <a href="https://go.gov.sg/js
 </p>
 <p><a href="/files/S2_MTP___2026_Subject_Combinations_D_to_G__at_least_5G3_.pdf" rel="noopener nofollow" target="_blank">2026 Subject Combinations D to G (at least 5 G3 subjects) - updated</a>
 </p>
-<p><strong>Secondary 3-5</strong>
-<br>The Upper Secondary Meet-the-Parents session was held on 28 February 2025.
-<br>Below are the slides shared during the session:</p>
-<p><a href="/files/2025_Sec_3_5_MTP__Main_Slides_Final.pdf" rel="noopener nofollow" target="_blank">2025 S3-5 MTP Main Slides</a>
+<p><strong>Secondary 3</strong>
 </p>
-<p><a href="/files/2025_Sec3_MTP_Interaction_with_Form_Teacher_Session.pdf" rel="noopener nofollow" target="_blank">Sec 3 MTP Form Teachers Session</a>
+<p>The Secondary 3 Meet-the-Parents session was held on 20 February 2026.</p>
+<p>Below are the slide decks shared during the session:</p>
+<p><a href="/files/2026_S3_MTP_Main_Slides.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 MTP (main slides)</a>
 </p>
-<p><a href="/files/2025_Sec45_MTP_Interaction_with_Form_Teachers_Session.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 &amp; 5 MTP Form Teachers Session</a>
+<p><a href="/files/2026_S3_MTP_Interaction_with_Form_Teachers___Class_Mentor.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 MTP (FT slides)</a>
 </p>
-<p><a href="/files/2024_Sec_3_5_MTP_ECG__Exp__Final.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3-5 MTP ECG (Exp)</a>
+<p><a href="/files/2026_Sec3_MTP_ECG_For_students_taking_G1G2_suite_of_subjects.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 MTP (ECG for students taking G1G2 suite of subjects)</a>
 </p>
-<p><a href="/files/2024_Sec_3_5_MTP_ECG__NA__Final.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3-5 MTP ECG NA</a>
+<p><a href="/files/2026_Sec_3_MTP_ECG_For_students_taking_at_least_4G3_subjects.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 MTP (ECG for students taking at least 4G3 subjects)</a>
 </p>
-<p><a href="/files/2024_Sec_3_5_MTP_ECG__NT__Final.pdf" rel="noopener nofollow" target="_blank">2025 Sec3-4 MTP ECG (NT)</a>
-<a href="/files/2025_Sec3_MTP_Interaction_with_Form_Teacher_Session.pdf" rel="noopener nofollow" target="_blank">2025</a>
-</p>
-<p></p>
-<p>Updated 28 Feb 2025</p>
+<p>Updated 23 Feb 2026</p>
 <p></p>
