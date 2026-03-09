@@ -61,5 +61,23 @@ the session. You may share your questions via this <a href="https://go.gov.sg/js
 </p>
 <p><a href="/files/2026_Sec_3_MTP_ECG_For_students_taking_at_least_4G3_subjects.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 MTP (ECG for students taking at least 4G3 subjects)</a>
 </p>
+<p><strong>Secondary 4/5</strong>
+</p>
+<p>The Secondary 4/5 Meet-the-Parents session was held on 27 February 2026.</p>
+<p>Below are the slide decks shared during the session:</p>
+<p><a href="/files/Academic_Audit_WS_Sec_45_MTP_NA.pdf" rel="noopener nofollow" target="_blank">Academic_Audit_WS_Sec_45_MTP_NA</a>
+</p>
+<p><a href="/files/Academic_Audit_WS_Sec_45_MTP_Exp.pdf" rel="noopener nofollow" target="_blank">Academic_Audit_WS_Sec_45_MTP_Exp</a>
+</p>
+<p><a href="/files/2026_Sec45_MTP_ECG__4NANT_.pdf" rel="noopener nofollow" target="_blank">2026_Sec45_MTP_ECG__4NANT</a>
+</p>
+<p><a href="/files/2026_Sec45_MTP_ECG__4E5N_.pdf" rel="noopener nofollow" target="_blank">2026_Sec45_MTP_ECG__4E5N</a>
+</p>
+<p><a href="/files/2026_S45_MTP_Main_Session.pdf" rel="noopener nofollow" target="_blank">2026_S45_MTP_Main_Session</a>
+</p>
+<p><a href="/files/Academic_Audit_WS_Sec_45_MTP_NT.pdf" rel="noopener nofollow" target="_blank">Academic_Audit_WS_Sec_45_MTP_NT</a>
+</p>
+<p><a href="/files/2026_S45_MTP_Interaction_with_Form_Teachers.pdf" rel="noopener nofollow" target="_blank">2026_S45_MTP_Interaction_with_Form_Teachers</a>
+</p>
 <p>Updated 23 Feb 2026</p>
 <p></p>
