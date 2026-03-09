@@ -8,9 +8,7 @@ variant: markdown
 | -------- | 
 | [ICT Portal for Parents](https://sites.google.com/moe.edu.sg/jss-parents-portal) | 
 | [Meet the Parents Session](https://www.jurongsec.moe.edu.sg/our-students/meet-the-parents-session/)
-# **Secondary 4/5**
-The Secondary 4/5 Meet-the-Parents session was held on 27 February 2026.
-Below are the slide decks shared during the session:|[Academic_Audit_WS-Sec_45_MTP_NA](/files/Academic_Audit_WS_Sec_45_MTP_NA.pdf)[Academic_Audit_WS_Sec_45_MTP_Exp](/files/Academic_Audit_WS_Sec_45_MTP_Exp.pdf)[2026_Sec45_MTP_ECG_4NANT](/files/2026_Sec45_MTP_ECG__4NANT_.pdf)[2026_Sec45_MTP_ECG_4E5N](/files/2026_Sec45_MTP_ECG__4E5N_.pdf)[2026_S45_MTP_Main_Session](/files/2026_S45_MTP_Main_Session.pdf)[Academic_Audit_WS_Sec_45_MTP_NT](/files/Academic_Audit_WS_Sec_45_MTP_NT.pdf)[2026_S45_MTP_Interaction_with_Form_Teachers](/files/2026_S45_MTP_Interaction_with_Form_Teachers.pdf)
+|
 
 | [Parent Gateway](https://pg.moe.edu.sg/) |
 | [Parent Support Group](https://www.jurongsec.moe.edu.sg/our-identity/jss-family/parent-support-group/) |
