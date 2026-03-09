@@ -8,6 +8,7 @@ variant: markdown
 | -------- | 
 | [ICT Portal for Parents](https://sites.google.com/moe.edu.sg/jss-parents-portal) | 
 | [Meet the Parents Session](https://www.jurongsec.moe.edu.sg/our-students/meet-the-parents-session/)
+**Secondary 4/5**
 The Secondary 4/5 Meet-the-Parents session was held on 27 February 2026.
 Below are the slide decks shared during the session:|
 
