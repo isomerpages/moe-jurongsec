@@ -40,34 +40,19 @@ You can download the schedules from the links below:
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
 
-[2025 Sec 4 &amp; 5 (O) Graduation Exam Schedule (updated 19 Aug)](/files/Copy_of_GE_2025_19_Aug_2025.pdf)
-
-[2025 Sec 4 (NA) Graduation Exam Schedule](/files/2025_Sec_4_5_GE___NA_Level.pdf)
-
-[2025 Sec 4 (NT) Graduation Exam Schedule](/files/2025_Sec_4_5_GE___NT_Level.pdf)
-
 
 ### Sec 1 Exam Timetable for End-of-Year Examinations
-[Sec 1 EOY Exam Schedule 2025 ](/files/EOY_2025_2_Sep_Sec_1_new.pdf)
 
-[2025 EOY Exam Topics and Formats (Sec 1)](/files/2025_S1_EOY_Topics_and_Format_List__1_.pdf)
   
 ### Sec 2 Exam Timetable for End-of-Year Examinations
-[Sec 2 EOY Exam Schedule 2025](/files/EOY_2025_4_Sep_Sec_2__1_.pdf)
 
-[2025 EOY Exam Topics and Formats (Sec 2)](/files/2025_S2_EOY_Topics_and_Format_List__1_.pdf)
 
 
 ### Sec 3 Exam Timetable for End-of-Year Examinations
-[Sec 3 EOY Exam Schedule 2025](/files/EOY_2025_2_Sep_Sec_3_new.pdf)
 
-[2025 EOY Exam Topics and Formats (Sec 3)](/files/2025_S3_EOY_Topics_and_Format_List_1.pdf)
 
 ### End-of-Year Examinations Seating Plan
 
-[2025 EOY Examination Seating Plan (25 Sept)](/files/25_Sep_2025_Seating_Plan.pdf)
-
-[2025 EOY Examination Seating Plan (01 Oct)](/files/01_Oct_2025_Seating_Plan.pdf)
 
 ### National Examination Results Release Administrative Matters
 
