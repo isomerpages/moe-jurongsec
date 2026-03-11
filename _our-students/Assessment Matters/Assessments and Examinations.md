@@ -32,14 +32,10 @@ Secondary 4 and 5 students will be sitting for their Graduation Examinations in 
 ### Schedule of Weighted Assessment
 
 You can download the schedules from the links below:  
-
-[2026 Weighted Assessment 1 (Sec 1)](/files/WA1_Sec_1__1_.pdf)
-
-[2026 Weighted Assessment 1 (Sec 2)](/files/WA1___Sec_2.pdf)
-
-[2026 Weighted Assessment 1 (Sec 3)](/files/WA1___Sec_3__2_.pdf)
-
-[2026 Weighted Assessment 1 (Sec 4&amp;5)](/files/WA1___Sec_4___5.pdf)
+[2026 JSS WA 2 (Sec 1)](/files/1__2026_WA2_Sec_1_Final.pdf)
+[2026 JSS WA 2 (Sec 2)](/files/1__2026_WA2_Sec_2_Final.pdf)
+[2026 JSS WA2 (Sec 3)](/files/1__2026_WA2_Sec_3_Final.pdf)
+[2026 JSS WA2 (Sec 4/5)](/files/1__2026_WA2_Sec_45_and_GE_Final.pdf)
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 
