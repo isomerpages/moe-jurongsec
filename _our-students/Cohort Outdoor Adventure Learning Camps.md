@@ -12,10 +12,12 @@ Learning Camp.&nbsp; These contexts engage students’ senses to connect
 with place, presenting them with opportunities for problem-solving and
 decision-making to develop their spirit of adventure and resilience, both
 individually and in groups.</p>
-<p>Please refer to the Sec 1 parents briefing slides: <a href="/files/Sec_1_Camp_2025__Parents__Briefing_final_updated.pdf" rel="noopener nofollow" target="_blank">Sec 1 Camp 2025 (Parents Briefing)</a>
+<p>Please refer to the Sec 1 parents briefing slides:</p>
+<p><a href="/files/2026_Sec_1_Camp__Briefing__Parents_.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Camp Briefing (Parents)</a>
 </p>
-<p>Please refer to the Sec 3 parents' briefing slides <a href="/files/MOE_OBS_2026_Parents_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Sec 3 MOE OBS Course (Parents' Briefing).</a>
+<p><a href="/files/Sec_1_Camp_Packing_List_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Camp Packing List</a>
 </p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sec 3 Camp Canoeing" src="/images/WhatsApp_Image_2025_05_15_at_11_38_57_AM__2_.jpg">
