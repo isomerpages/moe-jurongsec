@@ -15,7 +15,7 @@ individually and in groups.</p>
 <p>Please refer to the Sec 1 parents briefing slides:</p>
 <p><a href="/files/2026_Sec_1_Camp__Briefing__Parents_.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Camp Briefing (Parents)</a>
 </p>
-<p><a href="/files/Sec_1_Camp_Packing_List_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Camp Packing List </a>
+<p><a href="/files/Sec_1_Camp_Packing_List_2026.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Camp Packing List</a>
 </p>
 <p></p>
 <p></p>
