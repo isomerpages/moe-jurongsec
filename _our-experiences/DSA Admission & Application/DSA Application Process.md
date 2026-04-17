@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <h1>Application &amp; Selection Process</h1>
 <p></p>
-<p>All applicants must be eligible for Secondary One admission in 2026.</p>
+<p>All applicants must be eligible for Secondary One admission in 2027.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2025 (11
-am) to 3 Jun 2025 (3 pm). For more details, please refer to MOE website
+The application is free-of-charge and will be open from 6 May 2026 (11
+am) to 2 Jun 2026 (3 pm). For more details, please refer to MOE website
 –&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -28,7 +28,7 @@ am) to 3 Jun 2025 (3 pm). For more details, please refer to MOE website
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May (11 am) to 3 Jun 2025 (3 pm)</p>
+<p>6 May (11 am) to 2 Jun 2026 (3 pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Online application at DSA-Sec portal</p>
@@ -36,7 +36,7 @@ am) to 3 Jun 2025 (3 pm). For more details, please refer to MOE website
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>From 30 Jun 2025 onwards</p>
+<p>From 29 Jun 2026 onwards</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted candidates will be notified to attend interviews/ trials</p>
@@ -44,7 +44,7 @@ am) to 3 Jun 2025 (3 pm). For more details, please refer to MOE website
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun to 4 Sept 2025</p>
+<p>29 Jun to 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In-person* interviews and trials will be conducted in Jurong Secondary
@@ -63,7 +63,7 @@ will be shortlisted/ given an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 4 Sept 2025</p>
+<p>By 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Release of Selection Outcome</p>
@@ -71,7 +71,7 @@ will be shortlisted/ given an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct to 31 Oct 2025</p>
+<p>19 Oct to 23 Oct 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary School: School Preference Submission</p>
@@ -79,7 +79,7 @@ will be shortlisted/ given an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late Nov 2025</p>
+<p>Late Nov 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary School: Results Release Stage by MOE</p>
@@ -180,7 +180,7 @@ for applicants NOT studying in MOE mainstream schools.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Notification of outcome by school </strong>-
-<br>Applicants will be notified of the outcomes by **4 September 2025**. The
+<br>Applicants will be notified of the outcomes by **28 August 2026**. The
 school’s decision is final. The school reserves the right not to release
 the reasons for non-selection of applicants.</p>
 </td>
@@ -193,7 +193,7 @@ the reasons for non-selection of applicants.</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School Preference Submission (27 October 2025 to 31 October 2025)</strong>&nbsp;–
+<p><strong>School Preference Submission (19 October 2026 to 23 October 2026)</strong>&nbsp;–
 <br>All applicants with a Confirmed Offer (CO), or who are on the Waiting
 List (WL) of a school, will be issued a School Preference Form via email.
 The form will include instructions on how to submit your child’s preferences.</p>
@@ -261,8 +261,8 @@ Personnel that you would like to get in touch with:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE &amp; CCA (Covering), Ms Ong Wei Chen
-<br>SH/PE &amp; CCA (Covering), Ms Wang Cuifeng</p>
+<p>HOD/PE &amp; CCA, Ms Ong Wei Chen
+<br>SH/PE &amp; CCA, Ms Wang Cuifeng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -276,7 +276,7 @@ Personnel that you would like to get in touch with:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE &amp; CCA (Covering), Ms Ong Wei Chen
+<p>HOD/PE &amp; CCA, Ms Ong Wei Chen
 <br>Explorers Club Teacher-in-Charge, Mr Vincent Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,7 +289,7 @@ Personnel that you would like to get in touch with:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/CCE (Covering), Mr Nur Izhar Bin Sa'at
+<p>HOD/CCE, Mr Nur Izhar Bin Sa'at
 <br>VIA Coordinator, Ms Clarice Teoh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -309,4 +309,4 @@ Personnel that you would like to get in touch with:</p>
 </tr>
 </tbody>
 </table>
-<p>Updated 30 April 2025</p>
+<p>Updated 17 April 2026</p>
