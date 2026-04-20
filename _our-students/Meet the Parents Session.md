@@ -13,7 +13,7 @@ are the slides shared during the session:</p>
 </p>
 <p><a href="/files/2026_Sharing_by_Parent_Support_Group__PSG__and_Student_Management_Committee_compressed.pdf" rel="noopener nofollow" target="_blank">Sharing by Parent Support Group Chairperson and HOD Student Management</a>
 </p>
-<p><a href="/files/2026_Sharing_on_NDLP.pdf" rel="noopener nofollow" target="_blank">Sharing on National Digital Literacy Programme</a>
+<p><a href="/files/2026_S1_sharing_on_NDLP.pdf" rel="noopener nofollow" target="_blank">Sharing on National Digital Literacy Programme</a>
 </p>
 <p><a href="/files/2026_Sharing_on_Overview_of_CCA.pdf" rel="noopener nofollow" target="_blank">Sharing by HOD PE/CCA</a>
 </p>
