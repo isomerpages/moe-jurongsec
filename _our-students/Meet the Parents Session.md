@@ -43,7 +43,7 @@ as well as our Subject Combination offerings for Secondary 3, 2027 :</p>
 </p>
 <p><a href="/files/H__Literature_in_Chinese.pdf" rel="noopener nofollow" target="_blank">(H) Literature in Chinese</a>
 </p>
-<p><a href="/files/I__Applied_Studies.pdf" rel="noopener nofollow" target="_blank">(I) Applied Studies </a>
+<p><a href="/files/I__Applied_Studies.pdf" rel="noopener nofollow" target="_blank">(I) Applied Studies</a>
 </p>
 <p></p>
 <p><strong>Secondary 3</strong>
