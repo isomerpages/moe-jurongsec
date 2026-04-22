@@ -21,6 +21,17 @@ are the slides shared during the session:</p>
 </p>
 <p><strong>Secondary 2</strong>
 </p>
+<p>The Secondary 2 Meet-the-Parents and Subject Options Exercise Panel Discussion
+will take place on 8 May (Friday) at 5.15pm.</p>
+<p>Please note that there will not be any Subject Talks that day. Instead,
+parents are encouraged to pre-read the following Subject Information slides
+as well as our Subject Combination offerings for Secondary 3, 2027 :</p>
+<p></p>
+<p><a href="/files/A__2027_Sec_3_Subjects_Offered_and_Subject_Combinations.pdf" rel="noopener nofollow" target="_blank">(A) 2027 Sec 3 Subjects Offered and Subject Combinations </a>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>Secondary 3</strong>
 </p>
