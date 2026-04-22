@@ -21,6 +21,30 @@ are the slides shared during the session:</p>
 </p>
 <p><strong>Secondary 2</strong>
 </p>
+<p>The Secondary 2 Meet-the-Parents and Subject Options Exercise Panel Discussion
+will take place on 8 May (Friday) at 5.15pm.</p>
+<p>Please note that there will not be any Subject Talks that day. Instead,
+parents are encouraged to pre-read the following Subject Information slides
+as well as our Subject Combination offerings for Secondary 3, 2027 :</p>
+<p></p>
+<p><a href="/files/A__2027_Sec_3_Subjects_Offered_and_Subject_Combinations.pdf" rel="noopener nofollow" target="_blank">(A) 2027 Sec 3 Subjects Offered and Subject Combinations</a>
+</p>
+<p><a href="/files/B__S2_MTP___2027_Subject_Combinations_A_to_C__4_G3_or_less_.pdf" rel="noopener nofollow" target="_blank">(B) 2027 Subject Combinations A to C (4G3 or less)</a>
+</p>
+<p><a href="/files/C__S2_MTP___2027_Subject_Combinations_D_to_G__at_least_5G3_.pdf" rel="noopener nofollow" target="_blank">(C) 2027 Subject Combinations D to G (at least 5G3)</a>
+</p>
+<p><a href="/files/D__Mathematics.pdf" rel="noopener nofollow" target="_blank">(D) Mathematics</a>
+</p>
+<p><a href="/files/E__Science.pdf" rel="noopener nofollow" target="_blank">(E) Science</a>
+</p>
+<p><a href="/files/F__Humanities.pdf" rel="noopener nofollow" target="_blank">(F) Humanities</a>
+</p>
+<p><a href="/files/G__Literature_in_English.pdf" rel="noopener nofollow" target="_blank">(G) Literature in English</a>
+</p>
+<p><a href="/files/H__Literature_in_Chinese.pdf" rel="noopener nofollow" target="_blank">(H) Literature in Chinese</a>
+</p>
+<p><a href="/files/I__Applied_Studies.pdf" rel="noopener nofollow" target="_blank">(I) Applied Studies</a>
+</p>
 <p></p>
 <p><strong>Secondary 3</strong>
 </p>
@@ -52,5 +76,4 @@ are the slides shared during the session:</p>
 </p>
 <p><a href="/files/2026_S45_MTP_Interaction_with_Form_Teachers.pdf" rel="noopener nofollow" target="_blank">2026_S45_MTP_Interaction_with_Form_Teachers</a>
 </p>
-<p>Updated 23 Feb 2026</p>
-<p></p>
+<p>Updated 22 April 2026</p>
