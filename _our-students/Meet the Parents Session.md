@@ -37,13 +37,15 @@ as well as our Subject Combination offerings for Secondary 3, 2027 :</p>
 </p>
 <p><a href="/files/E__Science.pdf" rel="noopener nofollow" target="_blank">(E) Science</a>
 </p>
-<p><a href="/files/F__Humanities.pdf" rel="noopener nofollow" target="_blank">(F) Humanities</a>
+<p><a href="/files/F__Humanities_v2.pdf" rel="noopener nofollow" target="_blank">(F) Humanities </a>
 </p>
 <p><a href="/files/G__Literature_in_English.pdf" rel="noopener nofollow" target="_blank">(G) Literature in English</a>
 </p>
 <p><a href="/files/H__Literature_in_Chinese.pdf" rel="noopener nofollow" target="_blank">(H) Literature in Chinese</a>
 </p>
 <p><a href="/files/I__Applied_Studies.pdf" rel="noopener nofollow" target="_blank">(I) Applied Studies</a>
+</p>
+<p><a href="/files/J__ALP_2027_STEM_Elective.pdf" rel="noopener nofollow" target="_blank">(J) ALP STEM Elective</a>
 </p>
 <p></p>
 <p><strong>Secondary 3</strong>
