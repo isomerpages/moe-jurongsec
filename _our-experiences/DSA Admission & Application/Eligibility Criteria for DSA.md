@@ -30,21 +30,21 @@ For clarifications regarding our DSA programmes, please do not hesitate to email
 
 #### Sports
 
-Ms Ong Wei Chen, HOD/PE &amp; CCA (Covering)
+Ms Ong Wei Chen, HOD/PE &amp; CCA 
 
-Mdm Wang Cuifeng, SH/PE &amp; CCA (Covering)
+Mdm Wang Cuifeng, SH/PE &amp; CCA
 
 #### STEM	
 
-Ms Ong Wei Chen, HOD/PE &amp; CCA (Covering)
+Ms Ong Wei Chen, HOD/PE &amp; CCA 
 
 Mr Vincent Ng, Explorers Club IC
 
 #### Service Leadership 	
 
-Mr Nur Izhar Bin Sa'at, HOD/CCE (Covering)
+Mr Nur Izhar Bin Sa'at, HOD/CCE 
 
-Ms Clarice Teoh, VIA Coordinator
+Ms Clarice Teoh , VIA Coordinator
 <br>
 <br>
 <br>
