@@ -29,15 +29,15 @@ as well as our Subject Combination offerings for Secondary 3, 2027 :</p>
 <p></p>
 <p><a href="/files/A__2027_Sec_3_Subjects_Offered_and_Subject_Combinations.pdf" rel="noopener nofollow" target="_blank">(A) 2027 Sec 3 Subjects Offered and Subject Combinations</a>
 </p>
-<p><a href="/files/B__S2_MTP___2027_Subject_Combinations_A_to_C__4_G3_or_less_.pdf" rel="noopener nofollow" target="_blank">(B) 2027 Subject Combinations A to C (4G3 or less)</a>
+<p><a href="/files/MTP/B__S2_MTP___2027_Subject_Combinations_A_to_C__4_G3_or_less_.pdf" rel="noopener nofollow" target="_blank">(B) 2027 Sec 3 Subject Combinations A to C</a>
 </p>
-<p><a href="/files/C__S2_MTP___2027_Subject_Combinations_D_to_G__at_least_5G3_.pdf" rel="noopener nofollow" target="_blank">(C) 2027 Subject Combinations D to G (at least 5G3)</a>
+<p><a href="/files/MTP/C__S2_MTP___2027_Subject_Combinations_D_to_G__at_least_5G3_.pdf" rel="noopener nofollow" target="_blank">(C) 2027 Sec 3 Subject Combination D to G</a>
 </p>
 <p><a href="/files/D__Mathematics.pdf" rel="noopener nofollow" target="_blank">(D) Mathematics</a>
 </p>
 <p><a href="/files/E__Science.pdf" rel="noopener nofollow" target="_blank">(E) Science</a>
 </p>
-<p><a href="/files/F__Humanities_v2.pdf" rel="noopener nofollow" target="_blank">(F) Humanities </a>
+<p><a href="/files/F__Humanities_v2.pdf" rel="noopener nofollow" target="_blank">(F) Humanities</a>
 </p>
 <p><a href="/files/G__Literature_in_English.pdf" rel="noopener nofollow" target="_blank">(G) Literature in English</a>
 </p>
@@ -78,4 +78,5 @@ as well as our Subject Combination offerings for Secondary 3, 2027 :</p>
 </p>
 <p><a href="/files/2026_S45_MTP_Interaction_with_Form_Teachers.pdf" rel="noopener nofollow" target="_blank">2026_S45_MTP_Interaction_with_Form_Teachers</a>
 </p>
-<p>Updated 22 April 2026</p>
+<p>Updated 22 April 2026<a href="https://www.jurongsec.moe.edu.sg/our-students/meet-the-parents-session/" rel="noopener nofollow" target="_blank">Meet the Parents Session</a>
+</p>
