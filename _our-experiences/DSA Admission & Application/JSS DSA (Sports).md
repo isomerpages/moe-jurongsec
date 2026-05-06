@@ -16,7 +16,8 @@ We also firmly believe that competitive sports offer rich opportunities for stud
 
 <p><strong>JSS SPORTS EXCELLENCE PROGRAMME</strong>
 </p>
-          Supported by a team of dedicated and qualified coaches, teachers, and JSS School Advisory Committee, the key features of our Sport Excellence Programme are:
+
+Supported by a team of dedicated and qualified coaches, teachers, and JSS School Advisory Committee, the key features of our Sport Excellence Programme are:
 
 <p><strong>i. SPORTS SCIENCE WORKSHOPS</strong>
 </p>
