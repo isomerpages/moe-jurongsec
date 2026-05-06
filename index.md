@@ -26,14 +26,14 @@ sections:
       title: Announcements
       button: View More
   - infopic:
-      title: JSS Open House 2025
-      subtitle: JSS Open House 2025
+      title: JSS DSA Info Session 2026
+      subtitle: JSS DSA Info Session 2026
       id: infopic
       description: Do join us and hear from our JSS students their personal success
         stories in person!
       button: Click to register
-      url: https://form.gov.sg/68a2ac214402f16cea7c2e4e
-      image: /images/OPEN_HOUSE_POSTCARD_FRONT_AND_EBANNER_2025.jpg
+      url: https://forms.gle/2FW74pyLdYMKy8SAA
+      image: /images/DIRECT_jpg__1_.jpg
       alt: Image alt text
   - infobar:
       title: JSS Facebook
