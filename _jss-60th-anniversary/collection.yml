@@ -1,0 +1,10 @@
+collections:
+  jss-60th-anniversary:
+    output: true
+    order:
+      - JSS 60th Anniversary 2023.md
+      - Chinese New Year Celebrations.md
+      - Past vs Present Games.md
+      - Speech & Prize giving Day.md
+      - Sports Carnival.md
+      - 60th Anniversary Dinner.md

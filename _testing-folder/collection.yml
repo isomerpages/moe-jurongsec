@@ -1,0 +1,5 @@
+collections:
+  testing-folder:
+    output: true
+    order:
+      - Testing.md

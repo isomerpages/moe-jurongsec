@@ -1,0 +1,96 @@
+---
+title: Assessments and Examinations
+permalink: /our-students/assessment-matters/assessments-and-examinations/
+description: ""
+third_nav_title: Assessment Matters
+variant: markdown
+---
+The academic performance of a student is assessed regularly to gauge his/her progress in learning as well as to provide timely feedback and for his/her academic achievement.
+
+The school assessment includes the following:
+
+a) Weighted Assessments (W.A) <br>
+E.g. Alternative assessments, Class quizzes, Project work, Practical tests and daily assignments
+
+b) Semestral Assessment (S.A) <br>
+E.g. End-year Examinations and Graduation Examinations
+
+c) The table below shows the distribution of weighting of assessments for each subject.
+
+| | Term 1 | Term 2 |Term 3  | Term 4 |  | 
+|---|---|---|---|---|---|
+| | W.A | W.A |  W.A | S.A |
+| Sec 1 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
+| Sec 2 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
+| Sec 3 | 10% | 15% | 15% | End-Year Exam<br>(60%) |
+|Sec 4 &amp; 5|15%|15%|Grad Exam<br>(70%)|
+| | | | | | 
+
+Note:&nbsp;<br>
+Secondary 4 and 5 students will be sitting for their Graduation Examinations in Term 3. &nbsp;&nbsp;
+
+### Schedule of Weighted Assessment
+
+You can download the schedules from the links below:  
+[2026 JSS WA 2 (Sec 1)](/files/1__2026_WA2_Sec_1_Final.pdf)
+[2026 JSS WA 2 (Sec 2)](/files/1__2026_WA2_Sec_2_Final.pdf)
+[2026 JSS WA2 (Sec 3)](/files/1__2026_WA2_Sec_3_Final.pdf)
+[2026 JSS WA2 (Sec 4/5)](/files/1__2026_WA2_Sec_45_and_GE_Final.pdf)
+
+### Sec 4 &amp; 5 Timetable for Graduation Examination
+
+
+
+### Sec 1 Exam Timetable for End-of-Year Examinations
+
+  
+### Sec 2 Exam Timetable for End-of-Year Examinations
+
+
+
+### Sec 3 Exam Timetable for End-of-Year Examinations
+
+
+### End-of-Year Examinations Seating Plan
+
+
+### National Examination Results Release Administrative Matters
+
+**GCE 'O' Level 2025 Examination Results Release** 
+
+ Dear Parents/Guardians, 
+ 
+The 2025 O-Level results will be released soon. Your support to your teen during this milestone is important.
+
+For resources on social and emotional support as well as education and career guidance, please refer to the attached Information Sheet for Parents and links listed below: 
+
+1. [Booking Form ](https://go.gov.sg/moe-ecg-centre)for ECG Counselling Appointments at the ECG Centre @ MOE 
+2. [Education and Career Guidance Parent Portal ](http://go.gov.sg/olevel-ecgparentresources)
+3. [Social and Emotional Learning Resource Portal for Parents](http://go.gov.sg/olevel-selparentresources)
+4. [GCE 'O' Level Examination Results Release Parent Info Sheet](/files/Parent_Info_Sheet__O_Level_Results_Release_.pdf)
+
+Administrative Matters: 
+
+[2025 'O' Level Exam Results Release Briefing Slides (14 Jan 26)](/files/2025_O_Level_Results_Release_Briefing_Slides_for_14_Jan__For_Students_.pdf)
+
+[2026 Joint Admission Exercise Information Sheet ](/files/2026_JAE_Information_Sheet.pdf)
+
+[2025 SEL ECG Resources for Students ](/files/2025_SEL___ECG_Resources_for_Students.pdf)
+
+**GCE 'N' Level 2025 Examination Results Release**
+
+[1. 2025 N Level Results Release Briefing Slides ](/files/1__2025_O_Level_Results_Release_Briefing_Slides__Student_Version_.pdf)
+
+[2. ITE Admission and Course Information Brochure](/files/2__ITE_Admission_and_Course_Informatio_Brochure_Jan_2026.pdf)
+
+[3. Education Pathways ](/files/3__Pathways_nlevel.pdf)
+
+[4. What's Next after N Levels?](/files/4__WhatsNextN_Level_Final2025.pdf)
+
+[5. PFP Factsheets for Students](/files/5__PFP_Factsheet_for_Students.pdf)
+
+[6. DPP Factsheet for Students](/files/6__DPP_Factsheet_for_Students.pdf)
+
+[7. You've got this!](/files/7__You_ve_Got_This.pdf)
+
+<center> Updated 30 Sep 2025 </center>
