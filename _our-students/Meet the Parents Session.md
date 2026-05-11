@@ -47,6 +47,8 @@ as well as our Subject Combination offerings for Secondary 3, 2027 :</p>
 </p>
 <p><a href="/files/J__ALP_2027_STEM_Elective.pdf" rel="noopener nofollow" target="_blank">(J) ALP STEM Elective</a>
 </p>
+<p>(K) <a href="/files/MTP/Sec_2_MTP_Pulse_Studio_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 MTP Pulse Studio Slides</a>
+</p>
 <p></p>
 <p><strong>Secondary 3</strong>
 </p>
