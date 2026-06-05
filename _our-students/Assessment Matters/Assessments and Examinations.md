@@ -38,8 +38,11 @@ You can download the schedules from the links below:
 [2026 JSS WA2 (Sec 4/5)](/files/1__2026_WA2_Sec_45_and_GE_Final.pdf)
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
+[GE O-Level 2026](/files/GE_O_Level_2026_Final__1_.pdf)
 
+[GE NA-Level 2026](/files/GE_NA_Level_2026_Final.pdf)
 
+[GE NT-Level 2026](/files/GE_NT_Level_2026_Final.pdf)
 
 ### Sec 1 Exam Timetable for End-of-Year Examinations
 
