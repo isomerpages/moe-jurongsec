@@ -10,6 +10,7 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
+| HOD Science    | Ms Ng Shuwen   | [ng_shuwen@moe.edu.sg](mailto:loh_wei_chuen@moe.edu.sg)   |
 | SH Science    | Mr Traven Loh   | [loh\_wei\_chuen@moe.edu.sg](mailto:loh_wei_chuen@moe.edu.sg)   |
 | School Staff Developer     | Mr Eric Tan   | [eric\_tan\_ching\_kuan@moe.edu.sg](mailto:eric_tan_ching_kuan@moe.edu.sg)    |
 | Year Head (Upper Sec)  | Mr Aaron Tang Wei Lun   | [tang\_wei\_lun\_aaron@moe.edu.sg](mailto:tang_wei_lun_aaron@moe.edu.sg)     |
