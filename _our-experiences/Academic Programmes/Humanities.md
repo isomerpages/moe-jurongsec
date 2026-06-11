@@ -21,7 +21,7 @@ variant: markdown
 |     | Mr Neo Guo Wei Tony    | [neo\_guo\_wei@moe.edu.sg](mailto:neo_guo_wei@moe.edu.sg)    |
 |     | Mdm Linda Ng     | [ng\_siew\_ching@moe.edu.sg](mailto:ng_siew_ching@moe.edu.sg)    |
 |     | Mr Tan Yong Zhi     | [tan_yong_zhi@moe.edu.sg](tan_yong_zhi@moe.edu.sg)   |
-| &nbsp; &nbsp; | Ms Chiang Ruei Huei&nbsp; &nbsp; | \chiang_ruei_huei@moe.edu.sg|
+| &nbsp; &nbsp; | Ms Chiang Ruei Huei&nbsp; &nbsp; | chiang_ruei_huei@moe.edu.sg|
 
 
 
