@@ -19,7 +19,9 @@ variant: markdown
 |    | Mr Md Riduwan Ahmad    | [muhammed\_riduwan\_ahmad@moe.edu.sg](mailto:muhammed_riduwan_ahmad@moe.edu.sg)    |
 |    | Mr Eugene Wong    | [wong\_jia\_wei\_eugene@moe.edu.sg](mailto:wong_jia_wei@moe.edu.sg)   |
 |    | Mr Goh Kaijie    | [goh_kai_jie@moe.edu](mailto:goh_kai_jie@moe.edu.sg)   |
-| &nbsp;  | Ms Jolene Yip Liling &nbsp;  | jolene_yip_liling@moe.edu.sg 
+| &nbsp;  | Ms Jolene Yip Liling  | jolene_yip_liling@moe.edu.sg 
+
+
 ### Our Learning Approach
 
 
