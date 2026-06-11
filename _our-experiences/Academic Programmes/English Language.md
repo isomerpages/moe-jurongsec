@@ -188,7 +188,7 @@ variant: tiptap
 <p>Ms Liau Enhui Valencia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>'<a href="mailto:liau_enhui_valencia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liau_enhui_valencia@moe.edu.sg</a>
+<p><a href="mailto:liau_enhui_valencia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liau_enhui_valencia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
