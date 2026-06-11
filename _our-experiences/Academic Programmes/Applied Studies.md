@@ -14,7 +14,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | HOD Applied Studies   | Mrs Juliana Ng     | [goh_wee_peng@moe.edu.sg](goh_wee_peng@moe.edu.sg)    |
 |  Asst Year Head Sec 2) | Ms Norliyana Bte Matin     | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
-|  ST CCE | Ms Shuryani    | [shuryani_abdul_wahab@moe.edu.sg
+|  ST CCE | Ms Shuryani    | shuryani_abdul_wahab@moe.edu.sg
 | Computer Application Teachers   | Mr Philip Wan |[wan_wei_meng@moe.edu.sg](Wan_wei_meng@moe.edu.sg)  |
 | Design &amp; Technology Teachers    | Mr Sim Chow Meng     |sim_chow_meng@moe.edu.sg    |
 |   | Mr Ng Choon Hui Vincent     | [ng_choon_hui@moe.edu.sg](ng_choon_hui@moe.edu.sg)    |
