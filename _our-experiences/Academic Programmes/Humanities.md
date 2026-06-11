@@ -13,12 +13,12 @@ variant: markdown
 | HOD Humanities  | Mr Wu Zonglun    | [wu_zonglun@moe.edu.sg](wu_zonglun@moe.edu.sg)   |
 |SH Humanities|Mdm Lee Hui Cheng|[lee\_hui\_cheng@moe.edu.sg](mailto:lee_hui_cheng@moe.edu.sg)  |
 |SH Assessment|Mr Sim Guo Chen|[sim\_guo\_chen@moe.edu.sg](mailto:sim_guo_chen@moe.edu.sg)  |
-|      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi\_karupaiya@moe.edu.sg](mailto:vijayaletchumi_karupaiya@moe.edu.sg)     |
+|LT History|Mr Ezal Bin Sani|[ezal_sani@moe.edu.sg](mailto:lee_hui_cheng@moe.edu.sg)  |
+|Humanities Teachers      | Ms Vijayaletchumi d/o K.    | [vijayaletchumi\_karupaiya@moe.edu.sg](mailto:vijayaletchumi_karupaiya@moe.edu.sg)     |
 |      | Mr Don Marcus K.    | [kannangara\_don\_marcus@moe.edu.sg](mailto:kannangara_don_marcus@moe.edu.sg)   |
 |     | Ms Sarah Lee   | [lee_cheong_kee@moe.edu.sg](mailto:lee_cheong_kee@moe.edu.sg)   |
 |      | Ms Catherine Teh   | [teh\_me\_me\_catherine@moe.edu.sg](mailto:teh_me_me_catherine@moe.edu.sg)   |
 |     | Mr Neo Guo Wei Tony    | [neo\_guo\_wei@moe.edu.sg](mailto:neo_guo_wei@moe.edu.sg)    |
-|      | Mr Wong Ho Jann, Joel    | [wong\_ho\_jann\_joel@moe.edu.sg](mailto:wong_ho_jann_joel@moe.edu.sg)     |
 |     | Mdm Linda Ng     | [ng\_siew\_ching@moe.edu.sg](mailto:ng_siew_ching@moe.edu.sg)    |
 |     | Mr Tan Yong Zhi     | [tan_yong_zhi@moe.edu.sg](tan_yong_zhi@moe.edu.sg)   |
 
