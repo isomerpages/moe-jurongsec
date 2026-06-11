@@ -11,7 +11,8 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-| HOD Education Technology    | Mr Ooi Wei Yong     | [ooi\_wei\_yong@moe.edu.sg](mailto:ooi_wei_yong@moe.edu.sg)     |
+| HOD Education Technology    | Mr Ooi Wei Yong     | [ooi\_wei\_yong@moe.edu.sg](mailto:ooi_wei_yong@moe.edu.sg) 
+| SH ICT    | Mr Yang Kuangji     | [yang_kuangji@moe.edu.sg](mailto:ooi_wei_yong@moe.edu.sg) 
 
 
 **TECHNICAL SUPPORT TEAM **
