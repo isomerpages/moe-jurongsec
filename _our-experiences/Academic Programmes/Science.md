@@ -10,19 +10,19 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
+| HOD Science    | Ms Ng Shuwen   | [ng_shuwen@moe.edu.sg](mailto:ng_shuwen@moe.edu.sg)   |
 | SH Science    | Mr Traven Loh   | [loh\_wei\_chuen@moe.edu.sg](mailto:loh_wei_chuen@moe.edu.sg)   |
-| School Staff Developer     | Mr Eric Tan   | [eric\_tan\_ching\_kuan@moe.edu.sg](mailto:eric_tan_ching_kuan@moe.edu.sg)    |
-| Year Head (Upper Sec)  | Mr Aaron Tang Wei Lun   | [tang\_wei\_lun\_aaron@moe.edu.sg](mailto:tang_wei_lun_aaron@moe.edu.sg)     |
 | HOD Character &amp; Citizenship Education (Covering)  | Mr  Nur Izhar Bin Sa'at   | [nur\_izhar\_saat@moe.edu.sg](mailto:nur_izhar_saat@moe.edu.sg)    |
-| Senior Teacher – Chemistry     | Ms Julianah Johar-Astapura    | [julianah\_johar@moe.edu.sg](mailto:julianah_johar@moe.edu.sg)   |
-| Science Teachers    | Mr Ng Teck Koon    | [ng\_teck\_koon@moe.edu.sg](mailto:ng_teck_koon@moe.edu.sg)    |
+| Senior Teacher – Chemistry     | Ms Julianah Johar-Astapura    | [julianah\_johar@moe.edu.sg](mailto:julianah_johar@moe.edu.sg)
+| Science Teachers    | Mr Yang Kuangji    | [yang_kuangji@moe.edu.sg](mailto:yang_kuangji@moe.edu.sg) | Science Teachers    | Mr Ng Teck Koon    | [ng\_teck\_koon@moe.edu.sg](mailto:ng_teck_koon@moe.edu.sg) 
 |     | Ms Teoh M H Clarice   | [teoh\_mooi\_hoon@moe.edu.sg](mailto:teoh_mooi_hoon@moe.edu.sg)     |
 |    | Mr Md Riduwan Ahmad    | [muhammed\_riduwan\_ahmad@moe.edu.sg](mailto:muhammed_riduwan_ahmad@moe.edu.sg)    |
 |    | Mr Eugene Wong    | [wong\_jia\_wei\_eugene@moe.edu.sg](mailto:wong_jia_wei@moe.edu.sg)   |
-|      | Mr Koo Chee Kiong    | [koo\_chee\_kiong@moe.edu.sg](mailto:koo_chee_kiong@moe.edu.sg)    |
-|     | Mr Kenny Hong Anliang     | [hong\_anliang@moe.edu.sg](mailto:hong_anliang@moe.edu.sg)     |
-|     | Ms Nicole Lek   | [lek\_hui\_xin\_nicole@moe.edu.sg](mailto:lek_hui_xin_nicole@moe.edu.sg)   |
-|     | Ms Juliana Binte Mohd Ramli    | [juliana\_mohd\_ramli\_a@moe.edu.sg](mailto:juliana_mohd_ramli_a@moe.edu.sg)   |
+|    | Mr Goh Kaijie    | [goh_kai_jie@moe.edu](mailto:goh_kai_jie@moe.edu.sg)   |
+|    | Ms Jolene Yip Liling    | [jolene_yip_liling@moe.edu.sg](mailto:jolene_yip_liling@moe.edu.sg)   |
+|    | Ms Chua Xin Rong    | [chua_xin_rong_a@moe.edu.sg]
+          
+
 
 ### Our Learning Approach
 

@@ -9,8 +9,8 @@ variant: markdown
 
 Please click on the links below to view the class time-tables for Odd weeks.&nbsp;The PDF files contain the time-tables of all the classes for Semester 1 2026.  
 
-[List of Abbreviation in Timetable 2025](/files/List_of_Abbreviation_in_Timetable_2025.pdf)<br>
-[2026 Sem 1 Odd Week Class Timetable](/files/2026_SEM_1_ODD_Class.pdf)<br>
-[2026 Sem 1 Even Week Class Timetable](/files/2026_SEM_1_EVEN_Class.pdf)
+[2026 Sem 2 ODD Week Class Timetable](/files/2026_SEM_2_ODD_Week_CLASS_v1.pdf)
+
+[2026 Sem 2 EVEN Week Class Timetable](/files/2026_SEM_2_EVEN_Week_CLASS.pdf)
 
 <center> Updated 13 Jan 2026 </center>

@@ -10,8 +10,8 @@ variant: markdown
 
 | |  |  |
 | -------- | -------- | -------- |
-| HOD Mother Tongue Languages   | Ms Ng Ching Ing     | [ng\_ching\_ing@moe.edu.sg](mailto:ng_ching_ing@moe.edu.sg)  |
-| SH Chinese Language    | Mdm Zoey Oh Sze Wee    | [oh\_sze\_wee@moe.edu.sg](mailto:oh_sze_wee@moe.edu.sg)    |
+| HOD Mother Tongue Languages (Covering)   | Mdm Zoey Oh Sze Wee     | [oh\_sze\_wee@moe.edu.sg](mailto:oh\_sze\_wee@moe.edu.sg)  |
+| School Staff Developer    |   Ms Ng Ching Ing  | [ng\_ching\_ing@moe.edu.sg](mailto:ng\_ching\_ing@moe.edu.sg)    |
 | ST Malay Language    | Ms Siti Daliah     | [siti\_daliah\_amat@moe.edu.sg](mailto:siti_daliah_amat@moe.edu.sg)    |
 | Chinese Language   | Mdm Soo Lee Fong     | [soo\_lee\_fong@moe.edu.sg](mailto:soo_lee_fong@moe.edu.sg)    |
 |     | Mdm Lee Wai Yee   | [lee\_wai\_yee@moe.edu.sg](mailto:lee_wai_yee@moe.edu.sg)    |
@@ -22,11 +22,11 @@ variant: markdown
 |     | Ms Lim Kaihui    | [lim\_kaihui@moe.edu.sg](mailto:lim_kaihui@moe.edu.sg)    |
 |      |Ms Lim Wan Xin    | [lim\_wan\_xin\_a@schools.gov.sg](mailto:lim_wan_xin_a@schools.gov.sg)   |
 | Malay Language    | Ms Siti Hawa Zaini    | [siti\_hawa\_zaini@moe.edu.sg](mailto:siti_hawa_zaini@moe.edu.sg)   |
-|     | Ms Nur Zukhairiah   | [nur\_zukhairiah\_hamdan@moe.edu.sg](mailto:nur_zukhairiah_hamdan@moe.edu.sg)    |
 |     | Ms Bazilah Baderi    | [bazilah\_baderi@moe.edu.sg](mailto:bazilah_baderi@moe.edu.sg)    |
 |     | Ms Nur Zawani    | [nur\_zawani\_mion@moe.edu.sg](mailto:nur_zawani_mion@moe.edu.sg)    |
 | Tamil Language  | Mdm Loganathan Dhanalakshimi    | loganathan_dhanalakshmi@moe.edu.sg  |
 |     | Mrs Krishnamurthy Sudha ilavarasan     | [krishnamurthy\_sudha\_ilavarasan@moe.edu.sg](mailto:krishnamurthy_sudha_ilavarasan@moe.edu.sg)   |
+| &nbsp; &nbsp; | Mdm Natarajan Umarani &nbsp; &nbsp; | natarajan_umarani@moe.edu.sg 
 
 <br>
 

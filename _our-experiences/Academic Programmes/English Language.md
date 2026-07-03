@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH English/ English Literature (Covering)</p>
+<p>SH English/ English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sim Rui Xiang Darius</p>
@@ -74,19 +74,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language Teachers</p>
+<p>Year Head (Upper Sec &amp; Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lam Chee Leong</p>
+<p>Ms Azra Shazeaa Binte Hairuddin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lam_chee_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_chee_leong@moe.edu.sg</a>
+<p><a href="mailto:azra_shazeaa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azra_shazeaa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>English Language Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Bibi Nur Shakirrah</p>
@@ -137,18 +137,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mardiana Roslan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mardiana_roslan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mardiana_roslan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Emily Low Qian Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,34 +149,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Yue Hern Mark</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yue_hern_mark_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_hern_mark_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Kalai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Kalaivanni_somasundram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kalaivanni_somasundram@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Maria Chung Su-Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Maria_chung-Su-Yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Maria_chung-Su-Yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -221,10 +185,34 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Latimer Jayanthi Josephine</p>
+<p>Ms Liau Enhui Valencia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="latimer_jayanthi_josephine@moe.edu.sg" rel="noopener nofollow" target="_blank">latimer_jayanthi_josephine@moe.edu.sg</a>
+<p><a href="mailto:liau_enhui_valencia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liau_enhui_valencia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Li Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_li_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Matthias Wan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wan_zi_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wan_zi_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -257,18 +245,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maria Chung Su-Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Maria_chung-Su-Yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Maria_chung-Su-Yin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Hannah Wen Cuiyan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -286,31 +262,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="bibi_nur_shakirrah@moe.edu.sg" rel="noopener nofollow" target="_blank">bibi_nur_shakirrah@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Latimer Jayanthi Josephine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="latimer_jayanthi_josephine@moe.edu.sg" rel="noopener nofollow" target="_blank">latimer_jayanthi_josephine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -422,6 +373,6 @@ and performative domains.</p>
 </ul>
 <p>Updated 20 Sep 2024</p>
 <div class="iframe-wrapper">
-<iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRhmoECGVeoi_5kDpbCsCPwyy8ttHCoy0tzbjLSFWXQbqOEVhoAdGHONk17krevrNASBTS_mEDl_6_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRhmoECGVeoi_5kDpbCsCPwyy8ttHCoy0tzbjLSFWXQbqOEVhoAdGHONk17krevrNASBTS_mEDl_6_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
