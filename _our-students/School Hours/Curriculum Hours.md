@@ -7,7 +7,7 @@ variant: markdown
 ---
 # Class Timetables
 
-Please click on the links below to view the class time-tables for Odd weeks.&nbsp;The PDF files contain the time-tables of all the classes for Semester 1 2026.  
+Please click on the links below to view the class time-tables for Odd weeks.&nbsp;The PDF files contain the time-tables of all the classes for Semester 2 2026.  
 
 [2026 Sem 2 ODD Week Class Timetable](/files/2026_SEM_2_ODD_Week_CLASS_v1.pdf)
 
