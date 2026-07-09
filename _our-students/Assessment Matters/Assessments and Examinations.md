@@ -32,10 +32,12 @@ Secondary 4 and 5 students will be sitting for their Graduation Examinations in 
 ### Schedule of Weighted Assessment
 
 You can download the schedules from the links below:  
-[2026 JSS WA 2 (Sec 1)](/files/1__2026_WA2_Sec_1_Final.pdf)
-[2026 JSS WA 2 (Sec 2)](/files/1__2026_WA2_Sec_2_Final.pdf)
-[2026 JSS WA2 (Sec 3)](/files/1__2026_WA2_Sec_3_Final.pdf)
-[2026 JSS WA2 (Sec 4/5)](/files/1__2026_WA2_Sec_45_and_GE_Final.pdf)
+[2026 WA3 Schedule (Secondary ONE)](/files/2006_WA3_Schedule_Sec_One.pdf)
+
+[2026 WA3 Schedule Secondary TWO](/files/2006_WA3_Schedule_Sec_Two.pdf)
+
+[2026 WA 3 Schedule (Secondary THREE)](/files/2006_WA3_Schedule_Sec_Three.pdf)
+
 
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 [GE O Level 2026 ](/files/GE_O_Level_2026_Final.pdf)
