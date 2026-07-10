@@ -42,9 +42,9 @@ You can download the schedules from the links below:
 ### Sec 4 &amp; 5 Timetable for Graduation Examination
 [GE O Level 2026 ](/files/GE_O_Level_2026_Final.pdf)
 
-[GE NA-Level 2026](/files/GE_NA_Level_2026_Final.pdf)
+[2026 Graduation Exam Schedule (NA)](/files/GE_NA_Level_2026_10072026.pdf)
 
-[GE NT-Level 2026](/files/GE_NT_Level_2026_Final.pdf)
+[2026 Graduation Exam Schedule (NT)](/files/GE_NT_Level_2026_10072026.pdf)
 
 ### Sec 1 Exam Timetable for End-of-Year Examinations
 
