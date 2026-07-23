@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Education Technology</p>
+<p>Head of Department Education Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ooi Wei Yong</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH ICT</p>
+<p>Subject Head ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yang Kuangji</p>
