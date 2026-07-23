@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
+<p>Head of Department Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zheng Jieyun</p>
@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Education Technology</p>
+<p>Head of Department Education Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ooi Wei Yong</p>
@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher / Educational Support</p>
+<p>Lead Teacher Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Kah Ping</p>
@@ -102,7 +102,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chua-Tan Siew Hong</p>
+<p>Mrs Chuah-Tan Siew Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_siew_hong_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_hong_b@schools.gov.sg</a>
@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Covering Subject Head Applied Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lau Kai Ting</p>
@@ -186,10 +186,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Ya</p>
+<p>Mr Andy Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ya_soon_kwang_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ya_soon_kwang_raymond@moe.edu.sg</a>
+<p><a href="mailto:ya_soon_kwang_raymond@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chin_hock@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -201,7 +201,7 @@ variant: tiptap
 <p>Mr Liew Kok Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Liew_kok_keong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
