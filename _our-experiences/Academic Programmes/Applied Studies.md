@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Applied Studies</p>
+<p>Head of Department Applied Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Juliana Ng</p>
@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST CCE</p>
+<p>Senior Teacher CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shuryani</p>
@@ -169,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Covering Subject Head Applied Learning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lau Kai Ting</p>
