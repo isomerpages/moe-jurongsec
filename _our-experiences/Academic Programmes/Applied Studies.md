@@ -169,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Covering Subject Head Applied Learning</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lau Kai Ting</p>
