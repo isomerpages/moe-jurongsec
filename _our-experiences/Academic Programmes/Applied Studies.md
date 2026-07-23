@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher CCE</p>
+<p>Senior Teacher Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shuryani</p>
