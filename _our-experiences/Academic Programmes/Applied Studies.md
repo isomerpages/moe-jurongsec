@@ -13,7 +13,7 @@ variant: markdown
 |  |  |  |
 | -------- | -------- | -------- |
 | HOD Applied Studies   | Mrs Juliana Ng     | [goh_wee_peng@moe.edu.sg](goh_wee_peng@moe.edu.sg)    |
-|  Asst Year Head Sec 2) | Ms Norliyana Bte Matin     | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
+|  Asst Year Head Sec 2 | Ms Norliyana Bte Matin     | [norliyana\_matin@moe.edu.sg](mailto:norliyana_matin@moe.edu.sg)     |
 |  ST CCE | Ms Shuryani    | shuryani_abdul_wahab@moe.edu.sg
 | Computer Application Teachers   | Mr Philip Wan |[wan_wei_meng@moe.edu.sg](Wan_wei_meng@moe.edu.sg)  |
 | Design &amp; Technology Teachers    | Mr Sim Chow Meng     |sim_chow_meng@moe.edu.sg    |
@@ -27,7 +27,7 @@ variant: markdown
 |    | Ms Lau Kai Ting  | [lau_kai_ting@moe.edu.sg](lau_kai_ting@moe.edu.sg)  |
 | Art Teachers  | Ms Yong Tai Si  |[yong_tai_si@moe.edu.sg](syazwan_ibrahim_a@moe.edu.sg)  |
 |    | Ms Wong Qian Hui  | [wong_qian_hui_a@moe.edu.sg](mailto:mardiana_roslan@moe.edu.sg)   |
-| Workshop Instructors | Mr Zulkifle B Md Yassin   | [zulkifie_mohd_yassin@moe.edu.sg](zulkifie_mohd_yassin@moe.edu.sg)    |
+| Workshop Instructor | Mr Zulkifle B Md Yassin   | [zulkifie_mohd_yassin@moe.edu.sg](zulkifie_mohd_yassin@moe.edu.sg)    |
 
 <br>
 
