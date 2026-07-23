@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wu Zonglun</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Humanities</p>
+<p>Subject Head Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Hui Cheng</p>
@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Assessment</p>
+<p>Subject Head Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sim Guo Chen</p>
@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT History</p>
+<p>Lead Teacher History</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ezal Bin Sani</p>
