@@ -80,7 +80,8 @@ variant: tiptap
 <p>Mr Sim Chow Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_chow_meng@moe.edu.sg</p>
+<p><a href="mailto:sim_chow_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_chow_meng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +152,7 @@ variant: tiptap
 <p>Ms Nurhuda&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurhuda_pardi@moe.edu.sg &nbsp;</p>
+<p><a href="mailto:nurhuda_pardi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhuda_pardi@moe.edu.sg</a> &nbsp;</p>
 </td>
 </tr>
 <tr>
