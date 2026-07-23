@@ -164,7 +164,8 @@ variant: tiptap
 <p>Ms Chiang Ruei Huei&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chiang_ruei_huei@moe.edu.sg</p>
+<p><a href="mailto:chiang_ruei_huei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiang_ruei_huei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
