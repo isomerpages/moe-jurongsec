@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH English/ English Literature</p>
+<p>Subject Head English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sim Rui Xiang Darius</p>

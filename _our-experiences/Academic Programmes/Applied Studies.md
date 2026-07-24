@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head Sec 2</p>
+<p>Asst Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Norliyana Bte Matin</p>
@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher CCE</p>
+<p>Senior Teacher Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shuryani</p>
@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Computer Application Teachers</p>
+<p>Computer Application Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Philip Wan</p>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Element of Business Skills Teachers</p>
+<p>Element of Business Skills Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Caroline Wooi</p>
@@ -169,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Covering Subject Head Applied Learning</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lau Kai Ting</p>

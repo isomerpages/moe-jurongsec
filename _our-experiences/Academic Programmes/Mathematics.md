@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Covering Subject Head Applied Learning</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Lau Kai Ting</p>
@@ -201,7 +201,8 @@ variant: tiptap
 <p>Mr Liew Kok Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liew_kok_keong@moe.edu.sg</p>
+<p><a href="mailto:Liew_kok_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Liew_kok_keong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
