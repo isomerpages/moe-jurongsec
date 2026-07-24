@@ -5,4 +5,5 @@ description: ""
 third_nav_title: JSS Family
 variant: tiptap
 ---
-<p>Pending Update</p>
+<p><strong>Pending Update</strong>
+</p>
