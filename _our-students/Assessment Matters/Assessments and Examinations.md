@@ -47,14 +47,14 @@ You can download the schedules from the links below:
 [2026 Graduation Exam Schedule (NT)](/files/GE_NT_Level_2026_10072026.pdf)
 
 ### Sec 1 Exam Timetable for End-of-Year Examinations
-
+[Sec 1 EOY Exam Schedule](/files/Sec_1_EOY_Combined.pdf)
   
 ### Sec 2 Exam Timetable for End-of-Year Examinations
 
-
+[Sec 2 EOY Exam Schedule](/files/Sec_2_EOY_Combined.pdf)
 
 ### Sec 3 Exam Timetable for End-of-Year Examinations
-
+[Sec 3 EOY Exam Schedule](/files/Sec_3_EOY_Combined.pdf)
 
 ### End-of-Year Examinations Seating Plan
 
